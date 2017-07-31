@@ -14,8 +14,6 @@
       <mask>*.mod</mask>
       <mask>*.modul</mask>
       <mask>*.module</mask>
-      <mask>*.css</mask>
-      <mask>*.cs</mask>
       <mask>*.c</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
@@ -27,6 +25,8 @@
       <mask>*.v</mask>
       <mask>*.vu</mask>
       <mask>*.vue</mask>
+      <mask>*.cs</mask>
+      <mask>*.css</mask>
     </recentFileMasks>
   </component>
 </application>
