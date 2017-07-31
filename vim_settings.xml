@@ -3,11 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/bernieportal/app/Time/WorkweekRepository.php" timestamp="1501516043098">
-        <mark key="[" line="109" column="45" />
-        <mark key="]" line="109" column="45" />
-        <mark key="." line="109" column="45" />
-      </file>
       <file name="/fragment.js" timestamp="1497373471660">
         <mark key="[" line="0" column="0" />
       </file>
@@ -29,7 +24,7 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/js/bernie-portal.js" timestamp="1501186843138">
         <mark key="[" line="480" column="35" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Http/routes.php" timestamp="1501254982291">
+      <file name="$USER_HOME$/bernieportal/app/Http/routes.php" timestamp="1501527824236">
         <mark key="'" line="60" column="80" />
         <mark key="[" line="302" column="30" />
       </file>
@@ -86,6 +81,9 @@
       <file name="$USER_HOME$/bernieportal/legacy/BenefitAttachModule.php" timestamp="1500652047978">
         <mark key="[" line="5441" column="26" />
       </file>
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/benefit-provider/edi/settings.vue" timestamp="1501527990437">
+        <mark key="[" line="79" column="42" />
+      </file>
       <file name="$USER_HOME$/bernieportal/legacy/ClienteleModule.php" timestamp="1497635912389">
         <mark key="[" line="2" column="17" />
       </file>
@@ -139,7 +137,7 @@
       <file name="$USER_HOME$/bernieportal/resources/views/layout/nav/user.blade.php" timestamp="1494275620716">
         <mark key="[" line="62" column="74" />
       </file>
-      <file name="/PHP Console" timestamp="1501516080939">
+      <file name="/PHP Console" timestamp="1501527742618">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/gamepad_api_demo/main.js" timestamp="1501271900020">
