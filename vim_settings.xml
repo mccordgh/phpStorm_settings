@@ -246,11 +246,11 @@
         <mark key="]" line="21" column="22" />
         <mark key="." line="21" column="22" />
       </file>
-      <file name="$USER_HOME$/BerniePortalWiki/bernie-portal-wiki.css" timestamp="1501612960413">
-        <mark key="'" line="223" column="0" />
-        <mark key="[" line="142" column="0" />
-        <mark key="]" line="142" column="0" />
-        <mark key="." line="142" column="0" />
+      <file name="$USER_HOME$/BerniePortalWiki/bernie-portal-wiki.css" timestamp="1501625005377">
+        <mark key="'" line="332" column="1" />
+        <mark key="[" line="153" column="14" />
+        <mark key="]" line="153" column="14" />
+        <mark key="." line="153" column="14" />
       </file>
       <file name="$USER_HOME$/bernieportal/legacy/UserManagementModule.php" timestamp="1494343921488">
         <mark key="[" line="505" column="30" />
@@ -258,24 +258,11 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/benefit-eoi/pending-buttons.vue" timestamp="1498596940985">
         <mark key="[" line="2" column="10" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/js/bp-input-mask.js" timestamp="1501175944860">
-        <mark key="[" line="9" column="6" />
-        <mark key="]" line="9" column="6" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="9" column="6" />
-      </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/create-job/hiring.vue" timestamp="1493221091097">
         <mark key="[" line="11" column="23" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/js/input-mask.js" timestamp="1501175941722">
-        <mark key="[" line="2" column="47" />
-        <mark key="]" line="32" column="7" />
-        <mark key="." line="32" column="7" />
-        <mark key="^" line="32" column="7" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="133" column="23" filename="$USER_HOME$/bernieportal/public/sites/all/modules/cms_misc/cms_misc.module" />
       <jump line="2892" column="60" filename="$USER_HOME$/bernieportal/legacy/EmployeePortalModule.php" />
       <jump line="36" column="33" filename="$USER_HOME$/bernieportal/resources/assets/components/billing/billing-table.vue" />
       <jump line="30" column="33" filename="$USER_HOME$/bernieportal/resources/assets/components/billing/billing-table.vue" />
@@ -375,34 +362,45 @@
       <jump line="33" column="16" filename="$USER_HOME$/BerniePortalWiki/bernie-portal-wiki.css" />
       <jump line="38" column="0" filename="$USER_HOME$/BerniePortalWiki/bernie-portal-wiki.css" />
       <jump line="212" column="0" filename="$USER_HOME$/BerniePortalWiki/bernie-portal-wiki.css" />
+      <jump line="316" column="1" filename="$USER_HOME$/BerniePortalWiki/bernie-portal-wiki.css" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ci8qLnRvcENvbnRhaW5lck92ZXJsYXkgeyovCiAgICAvKnotaW5kZXg6IDE7Ki8KICAgIC8qaGVpZ2h0OiAxMDAlOyovCiAgICAvKndpZHRoOiAxMDAlOyovCiAgICAvKnBvc2l0aW9uOiByZWxhdGl2ZTsqLwogICAgLyp0b3A6IDA7Ki8KICAgIC8qbGVmdDogMDsqLwogICAgLyotd2Via2l0LWZpbHRlcjogb3BhY2l0eSg0MiUpOyAhKiBTYWZhcmkgKiEqLwogICAgLypmaWx0ZXI6IG9wYWNpdHkoNDIlKTsqLwogICAgLypiYWNrZ3JvdW5kOiAjMzYzNjM2OyovCi8qfSovCg==</text>
+      <register name="&quot;" type="4">
+        <text>relative</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>important</text>
+        <text>relative</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxCcEJlbmVmaXRQcm92aWRlckFjY291bnRcPg==</text>
+        <text encoding="base64">XDxzZWFyY2hEZXRhaWxzXD4=</text>
       </register>
       <register name="0" type="4">
         <text>color .5s ease-in;</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Ci8qLnRvcENvbnRhaW5lck92ZXJsYXkgeyovCiAgICAvKnotaW5kZXg6IDE7Ki8KICAgIC8qaGVpZ2h0OiAxMDAlOyovCiAgICAvKndpZHRoOiAxMDAlOyovCiAgICAvKnBvc2l0aW9uOiByZWxhdGl2ZTsqLwogICAgLyp0b3A6IDA7Ki8KICAgIC8qbGVmdDogMDsqLwogICAgLyotd2Via2l0LWZpbHRlcjogb3BhY2l0eSg0MiUpOyAhKiBTYWZhcmkgKiEqLwogICAgLypmaWx0ZXI6IG9wYWNpdHkoNDIlKTsqLwogICAgLypiYWNrZ3JvdW5kOiAjMzYzNjM2OyovCi8qfSovCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">CmlucHV0I3NyY2hwbHVnaWQ6YWZ0ZXIgewogICAgY29udGVudDogJ0JBQkFPQk9PT09FWSc7Cn0=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbG9yOiAjMDE5ZWM1ICE7Cg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="4">
+        <text>#srchplugid:focus .search-input--label {
+    display: none;
+}</text>
+      </register>
       <register name="4" type="4">
-        <text encoding="base64">ICAgIGJvcmRlci1ib3R0b20tY29sb3I6ICMwMDAwMDEgIWltcG9ydGFudDsKICAgIGJvcmRlci1ib3R0b20tc3R5bGU6IHNvbGlkOwogICAgYm9yZGVyLWJvdHRvbS13aWR0aDogMXB0OwogICAgYm9yZGVyLWxlZnQtY29sb3I6ICMwMDAwMDE7CiAgICBib3JkZXItbGVmdC1zdHlsZTogc29saWQ7CiAgICBib3JkZXItbGVmdC13aWR0aDogMXB0OwogICAgYm9yZGVyLXJpZ2h0LWNvbG9yOiAjMDAwMDAxOwogICAgYm9yZGVyLXJpZ2h0LXN0eWxlOiBzb2xpZDsKICAgIGJvcmRlci1yaWdodC13aWR0aDogMXB0OwogICAgYm9yZGVyLXRvcC1jb2xvcjogIzAwMDAwMTsKICAgIGJvcmRlci10b3Atc3R5bGU6IHNvbGlkOwogICAgYm9yZGVyLXRvcC13aWR0aDogMXB0Ow==</text>
+        <text>div.bp--searchbar-wrapper span.search-input--label {
+    display: inline;
+    position: absolute;
+    left: 332px;
+    font-size: 16px;
+    top: 44px;
+    color: #808080;
+    z-index: 98;
+}</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -410,34 +408,32 @@
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>#sndiv .searchTopic a {
+    color: #019ec5;
+}</text>
       </register>
       <register name="8" type="4">
-        <text>#contentTdId table p:nth-child(odd) {
-    background-color: #e6e6e6; !important
-min-width: 150px;
-    text-align: center;
-    width: 15%;
+        <text>.zw-searchbutton {
+    
 }</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHdpZHRoOiAxNSU7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>113</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxCcEJlbmVmaXRQcm92aWRlckFjY291bnRcPg==</last-search>
+      <last-search encoding="base64">XDxzZWFyY2hEZXRhaWxzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxCcEJlbmVmaXRQcm92aWRlckFjY291bnRcPg==</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDxzZWFyY2hEZXRhaWxzXD4=</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxvblRlcm1pbmF0ZUNsaWNrXD4=</entry>
         <entry encoding="base64">XDxzaG93RGF0ZVBpY2tlclw+</entry>
         <entry encoding="base64">XDxCcEJlbmVmaXRCaWxsaW5nQ3VycmVudFw+</entry>
         <entry encoding="base64">XDxlbGVjdGlvblw+</entry>
@@ -457,6 +453,7 @@ min-width: 150px;
         <entry encoding="base64">XDxzZXRDb25maWdQbGFuTW9kYWxUaXRsZVw+</entry>
         <entry encoding="base64">XDxncm91cEJ5XD4=</entry>
         <entry encoding="base64">XDxCcEJlbmVmaXRQcm92aWRlckFjY291bnRcPg==</entry>
+        <entry encoding="base64">XDxzZWFyY2hEZXRhaWxzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>5986</entry>
