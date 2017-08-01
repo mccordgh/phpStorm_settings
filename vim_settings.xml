@@ -151,6 +151,11 @@
       <file name="/PHP Console" timestamp="1501535658059">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/gamepad_api_demo/main.js" timestamp="1501607748561">
+        <mark key="[" line="3" column="24" />
+        <mark key="]" line="3" column="24" />
+        <mark key="." line="3" column="24" />
+      </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/time/subgroups/index.vue" timestamp="1493133715565">
         <mark key="[" line="14" column="19" />
       </file>
@@ -374,13 +379,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>SESSION_</text>
+        <text>, keys = [];</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>SESSION_</text>
+        <text>, keys = [];</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxCcEJlbmVmaXRQcm92aWRlckFjY291bnRcPg==</text>
