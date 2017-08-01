@@ -246,11 +246,11 @@
         <mark key="]" line="21" column="22" />
         <mark key="." line="21" column="22" />
       </file>
-      <file name="$USER_HOME$/BerniePortalWiki/bernie-portal-wiki.css" timestamp="1501611117218">
-        <mark key="'" line="230" column="0" />
-        <mark key="[" line="185" column="19" />
-        <mark key="]" line="185" column="19" />
-        <mark key="." line="185" column="19" />
+      <file name="$USER_HOME$/BerniePortalWiki/bernie-portal-wiki.css" timestamp="1501612459199">
+        <mark key="'" line="235" column="0" />
+        <mark key="[" line="160" column="24" />
+        <mark key="]" line="160" column="24" />
+        <mark key="." line="160" column="24" />
       </file>
       <file name="$USER_HOME$/bernieportal/legacy/UserManagementModule.php" timestamp="1494343921488">
         <mark key="[" line="505" column="30" />
@@ -378,13 +378,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text />
+        <text>important</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text />
+        <text>important</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxCcEJlbmVmaXRQcm92aWRlckFjY291bnRcPg==</text>
@@ -395,13 +395,19 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgIGJvcmRlci1ib3R0b20tY29sb3I6ICMwMDAwMDEgIWltcG9ydGFudDsKICAgIGJvcmRlci1ib3R0b20tc3R5bGU6IHNvbGlkOwogICAgYm9yZGVyLWJvdHRvbS13aWR0aDogMXB0OwogICAgYm9yZGVyLWxlZnQtY29sb3I6ICMwMDAwMDE7CiAgICBib3JkZXItbGVmdC1zdHlsZTogc29saWQ7CiAgICBib3JkZXItbGVmdC13aWR0aDogMXB0OwogICAgYm9yZGVyLXJpZ2h0LWNvbG9yOiAjMDAwMDAxOwogICAgYm9yZGVyLXJpZ2h0LXN0eWxlOiBzb2xpZDsKICAgIGJvcmRlci1yaWdodC13aWR0aDogMXB0OwogICAgYm9yZGVyLXRvcC1jb2xvcjogIzAwMDAwMTsKICAgIGJvcmRlci10b3Atc3R5bGU6IHNvbGlkOwogICAgYm9yZGVyLXRvcC13aWR0aDogMXB0Ow==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="4">
         <text>#contentTdId table p:nth-child(odd) {
     background-color: #e6e6e6; !important
 min-width: 150px;
@@ -409,20 +415,14 @@ min-width: 150px;
     width: 15%;
 }</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIHdpZHRoOiAxNSU7Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIHRleHQtYWxpZ246IGNlbnRlcjsK</text>
       </register>
-      <register name="7" type="2">
+      <register name="9" type="2">
         <text encoding="base64">bWluLXdpZHRoOiAxNTBweDsK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">I2NvbnRlbnRUZElkIHRhYmxlIHA6bnRoLWNoaWxkKG9kZCkgewogICAgYmFja2dyb3VuZC1jb2xvcjogI2U2ZTZlNjsgIWltcG9ydGFudAptaW4td2lkdGg6IDE1MHB4OwogICAgdGV4dC1hbGlnbjogY2VudGVyOwogICAgd2lkdGg6IDE1JTsKfQo=</text>
       </register>
       <register name=":" type="4">
         <text>113</text>
