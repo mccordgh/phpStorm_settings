@@ -151,10 +151,10 @@
       <file name="/PHP Console" timestamp="1501535658059">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/gamepad_api_demo/main.js" timestamp="1501633548625">
-        <mark key="[" line="3" column="18" />
-        <mark key="]" line="13" column="2" />
-        <mark key="." line="13" column="2" />
+      <file name="$USER_HOME$/workspace/gamepad_api_demo/main.js" timestamp="1501636125650">
+        <mark key="[" line="115" column="0" />
+        <mark key="]" line="115" column="0" />
+        <mark key="." line="115" column="0" />
         <mark key="^" line="13" column="2" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/time/subgroups/index.vue" timestamp="1493133715565">
@@ -169,7 +169,6 @@
       <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/ProfilePhotoController.php" timestamp="1499369572506">
         <mark key="[" line="29" column="8" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/EmployersController.php" timestamp="1501533551513" />
       <file name="/Dummy.txt" timestamp="1501534869774">
         <mark key="[" line="0" column="0" />
       </file>
@@ -367,7 +366,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, keys = [];</text>
+        <text encoding="base64">CiAgLy8gR2FtZXBhZCBkaXNjb25uZWN0ZWQ=</text>
       </register>
       <register name="d" type="4">
         <text />
@@ -382,17 +381,20 @@
         <text>color .5s ease-in;</text>
       </register>
       <register name="1" type="4">
+        <text encoding="base64">CiAgLy8gR2FtZXBhZCBkaXNjb25uZWN0ZWQ=</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">CmlucHV0I3NyY2hwbHVnaWQ6YWZ0ZXIgewogICAgY29udGVudDogJ0JBQkFPQk9PT09FWSc7Cn0=</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>#srchplugid:focus .search-input--label {
     display: none;
 }</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>div.bp--searchbar-wrapper span.search-input--label {
     display: inline;
     position: absolute;
@@ -403,24 +405,21 @@
     z-index: 98;
 }</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="4">
         <text>#sndiv .searchTopic a {
     color: #019ec5;
 }</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>.zw-searchbutton {
     
 }</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>113</text>
