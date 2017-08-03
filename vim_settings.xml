@@ -266,11 +266,11 @@
         <mark key="]" line="21" column="22" />
         <mark key="." line="21" column="22" />
       </file>
-      <file name="$USER_HOME$/BerniePortalWiki/bernie-portal-wiki.css" timestamp="1501786449715">
-        <mark key="[" line="404" column="20" />
-        <mark key="]" line="416" column="0" />
-        <mark key="." line="416" column="0" />
-        <mark key="^" line="416" column="0" />
+      <file name="$USER_HOME$/BerniePortalWiki/bernie-portal-wiki.css" timestamp="1501787315186">
+        <mark key="[" line="214" column="43" />
+        <mark key="]" line="214" column="44" />
+        <mark key="." line="214" column="44" />
+        <mark key="^" line="417" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/legacy/UserManagementModule.php" timestamp="1494343921488">
         <mark key="[" line="505" column="30" />
@@ -386,13 +386,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>!important</text>
+        <text>{</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>!important</text>
+        <text>{</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZWFyY2hEZXRhaWxzXD4=</text>
