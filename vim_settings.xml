@@ -263,11 +263,12 @@
         <mark key="]" line="21" column="22" />
         <mark key="." line="21" column="22" />
       </file>
-      <file name="$USER_HOME$/BerniePortalWiki/bernie-portal-wiki.css" timestamp="1501702467289">
-        <mark key="'" line="328" column="1" />
-        <mark key="[" line="169" column="0" />
-        <mark key="]" line="169" column="0" />
-        <mark key="." line="169" column="0" />
+      <file name="$USER_HOME$/BerniePortalWiki/bernie-portal-wiki.css" timestamp="1501768117356">
+        <mark key="'" line="333" column="1" />
+        <mark key="[" line="18" column="3" />
+        <mark key="]" line="18" column="3" />
+        <mark key="." line="18" column="3" />
+        <mark key="^" line="183" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/legacy/UserManagementModule.php" timestamp="1494343921488">
         <mark key="[" line="505" column="30" />
@@ -383,13 +384,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">aXRlbS5yZW5ld2FsX2luZm9ybWF0aW9uLmRhdGFbMF0ub3Blbl9lbnJvbGxtZW50X3N0YXR1cyA=</text>
+        <text encoding="base64">RGlyZWN0IHRhZyBzdHlsaW5ncyA=</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aXRlbS5yZW5ld2FsX2luZm9ybWF0aW9uLmRhdGFbMF0ub3Blbl9lbnJvbGxtZW50X3N0YXR1cyA=</text>
+        <text encoding="base64">RGlyZWN0IHRhZyBzdHlsaW5ncyA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZWFyY2hEZXRhaWxzXD4=</text>
