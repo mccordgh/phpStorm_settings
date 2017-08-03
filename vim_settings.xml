@@ -29,11 +29,11 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/billing/billing-sidebar.vue" timestamp="1492807638032">
         <mark key="[" line="6" column="83" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/benefit-provider/edi/file.vue" timestamp="1501775754104">
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/benefit-provider/edi/file.vue" timestamp="1501776399406">
         <mark key="[" line="623" column="12" />
-        <mark key="]" line="623" column="12" />
-        <mark key="." line="623" column="12" />
-        <mark key="^" line="366" column="7" />
+        <mark key="]" line="619" column="0" />
+        <mark key="." line="619" column="0" />
+        <mark key="^" line="619" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/test-sortable.vue" timestamp="1494452587108">
         <mark key="[" line="0" column="26" />
