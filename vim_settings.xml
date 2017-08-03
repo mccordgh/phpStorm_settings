@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/BerniePortalWiki/bernie-portal-wiki-BACKUP.css" timestamp="1501779998677" />
       <file name="$USER_HOME$/bernieportal/app/Time/WorkweekRepository.php" timestamp="1501698290162">
         <mark key="[" line="211" column="66" />
         <mark key="]" line="211" column="66" />
@@ -45,6 +46,7 @@
         <mark key="'" line="60" column="80" />
         <mark key="[" line="302" column="30" />
       </file>
+      <file name="$USER_HOME$/BerniePortalWiki/topContainerBackup.html" timestamp="1501777965868" />
       <file name="$USER_HOME$/bernieportal/app/Data/Gateways/Plans/DatabaseRateGateway.php" timestamp="1500561299485">
         <mark key="[" line="54" column="20" />
       </file>
@@ -224,6 +226,9 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/time/employers/summary.vue" timestamp="1496776499392">
         <mark key="[" line="1" column="32" />
       </file>
+      <file name="$USER_HOME$/BerniePortalWiki/FooterBackup.html" timestamp="1501777358935">
+        <mark key="[" line="0" column="27" />
+      </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/components/candidate-header.vue" timestamp="1493220732358">
         <mark key="[" line="41" column="54" />
       </file>
@@ -261,11 +266,11 @@
         <mark key="]" line="21" column="22" />
         <mark key="." line="21" column="22" />
       </file>
-      <file name="$USER_HOME$/BerniePortalWiki/bernie-portal-wiki.css" timestamp="1501772354039">
-        <mark key="[" line="238" column="1" />
-        <mark key="]" line="18" column="3" />
-        <mark key="." line="18" column="3" />
-        <mark key="^" line="182" column="0" />
+      <file name="$USER_HOME$/BerniePortalWiki/bernie-portal-wiki.css" timestamp="1501780909685">
+        <mark key="[" line="349" column="1" />
+        <mark key="]" line="349" column="0" />
+        <mark key="." line="349" column="0" />
+        <mark key="^" line="349" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/legacy/UserManagementModule.php" timestamp="1494343921488">
         <mark key="[" line="505" column="30" />
@@ -380,14 +385,14 @@
       <jump line="316" column="1" filename="$USER_HOME$/BerniePortalWiki/bernie-portal-wiki.css" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>currentEnrollmentStatus</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>currentEnrollmentStatus</text>
+        <text>float: right;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZWFyY2hEZXRhaWxzXD4=</text>
@@ -396,33 +401,59 @@
         <text>color .5s ease-in;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codGhpcy5maWxlRGF0YSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAuY2hlY2tib3gtLWRpc2FibGVkOjpiZWZvcmU6aG92ZXIgewogICAgY3Vyc29yOiBwb2ludGVyOwogIH0=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="4">
-        <text>/*form input#srchplugid:focus + span.bp-wikinewicon::before {*/
-    /*display: none;*/
+      <register name="3" type="4">
+        <text>/*.topRightDiv li {*/
+    /*display: inline-block;*/
+    /*float: right;*/
+    /*padding: 20px;*/
+    /*text-transform: uppercase;*/
+/*}*/
+
+/*.topRightDiv a {*/
+    /*-moz-transition: all .2s ease-in;*/
+    /*-o-transition: all .2s ease-in;*/
+    /*-webkit-transition: all .2s ease-in;*/
+    /*border-bottom: 1px solid rgba(255, 255, 255, 0);*/
+    /*border-top: 1px solid rgba(255, 255, 255, 0);*/
+    /*color: #ffffff;*/
+    /*font-weight: bold;*/
+    /*padding: 15px 0;*/
+    /*text-decoration: none;*/
+/*}*/
+
+/*.topRightDiv li a.topLink:hover {*/
+    /*border-color: #019ec5;*/
+    /*color: #019ec5;*/
+    /*padding: 5px 0;*/
+/*}*/
+
+/*.topRightDiv ul {*/
+    /*list-style: none;*/
+    /*padding-right: 75px;*/
 /*}*/</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgLy8gR2FtZXBhZCBkaXNjb25uZWN0ZWQ=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CmlucHV0I3NyY2hwbHVnaWQ6YWZ0ZXIgewogICAgY29udGVudDogJ0JBQkFPQk9PT09FWSc7Cn0=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codGhpcy5maWxlRGF0YSk7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>232</text>
