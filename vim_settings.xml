@@ -266,11 +266,9 @@
         <mark key="]" line="21" column="22" />
         <mark key="." line="21" column="22" />
       </file>
-      <file name="$USER_HOME$/BerniePortalWiki/bernie-portal-wiki.css" timestamp="1501787315186">
-        <mark key="[" line="214" column="43" />
-        <mark key="]" line="214" column="44" />
-        <mark key="." line="214" column="44" />
-        <mark key="^" line="417" column="0" />
+      <file name="$USER_HOME$/BerniePortalWiki/bernie-portal-wiki.css" timestamp="1501791511013">
+        <mark key="]" line="300" column="1" />
+        <mark key="^" line="45" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/legacy/UserManagementModule.php" timestamp="1494343921488">
         <mark key="[" line="505" column="30" />
@@ -386,13 +384,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>{</text>
+        <text />
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>{</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZWFyY2hEZXRhaWxzXD4=</text>
@@ -400,60 +398,38 @@
       <register name="0" type="4">
         <text>color .5s ease-in;</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="1" type="4">
+        <text>.zwBCspan {
+    color: #f7f7f7;
+}</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Lyp9Ki8K</text>
       </register>
-      <register name="4" type="4">
-        <text>/*.topRightDiv li {*/
-    /*display: inline-block;*/
-    /*float: right;*/
-    /*padding: 20px;*/
-    /*text-transform: uppercase;*/
-/*}*/
-
-/*.topRightDiv a {*/
-    /*-moz-transition: all .2s ease-in;*/
-    /*-o-transition: all .2s ease-in;*/
-    /*-webkit-transition: all .2s ease-in;*/
-    /*border-bottom: 1px solid rgba(255, 255, 255, 0);*/
-    /*border-top: 1px solid rgba(255, 255, 255, 0);*/
-    /*color: #ffffff;*/
-    /*font-weight: bold;*/
-    /*padding: 15px 0;*/
-    /*text-decoration: none;*/
-/*}*/
-
-/*.topRightDiv li a.topLink:hover {*/
-    /*border-color: #019ec5;*/
-    /*color: #019ec5;*/
-    /*padding: 5px 0;*/
-/*}*/
-
-/*.topRightDiv ul {*/
-    /*list-style: none;*/
-    /*padding-right: 75px;*/
-/*}*/</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIC8qZmxvYXQ6IGxlZnQgIWltcG9ydGFudDsqLwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Lyp0YWJsZSNwYXJlbnQgdGQjY29udGVudFRkSWQgZGl2I3NuZGl2IGRpdi5zZWFyY2hsaXN0IGRpdi5oZWFkZXIgc3BhbiB7Ki8K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">dAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codGhpcy5maWxlRGF0YSk7Cg==</text>
+      <register name="8" type="4">
+        <text>able#parent td#contentTdId div#sndiv div.searchlist div.header {
+    background-color: pink !important;
+}</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>td#contentTdId div#sndiv div.searchlist {
+    padding-bottom: 30px;
+}</text>
       </register>
       <register name=":" type="4">
         <text>232</text>
