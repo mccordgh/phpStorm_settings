@@ -30,11 +30,11 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/billing/billing-sidebar.vue" timestamp="1492807638032">
         <mark key="[" line="6" column="83" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/benefit-provider/edi/file.vue" timestamp="1501707195384">
-        <mark key="[" line="27" column="12" />
-        <mark key="]" line="27" column="12" />
-        <mark key="." line="27" column="12" />
-        <mark key="^" line="351" column="69" />
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/benefit-provider/edi/file.vue" timestamp="1501764840893">
+        <mark key="[" line="365" column="16" />
+        <mark key="]" line="366" column="7" />
+        <mark key="." line="366" column="7" />
+        <mark key="^" line="366" column="7" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/test-sortable.vue" timestamp="1494452587108">
         <mark key="[" line="0" column="26" />
@@ -160,7 +160,7 @@
       <file name="$USER_HOME$/bernieportal/resources/views/layout/nav/user.blade.php" timestamp="1494275620716">
         <mark key="[" line="62" column="74" />
       </file>
-      <file name="/PHP Console" timestamp="1501708915146">
+      <file name="/PHP Console" timestamp="1501764843810">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/gamepad_api_demo/main.js" timestamp="1501711191821">
@@ -383,13 +383,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>303030</text>
+        <text encoding="base64">aXRlbS5yZW5ld2FsX2luZm9ybWF0aW9uLmRhdGFbMF0ub3Blbl9lbnJvbGxtZW50X3N0YXR1cyA=</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>303030</text>
+        <text encoding="base64">aXRlbS5yZW5ld2FsX2luZm9ybWF0aW9uLmRhdGFbMF0ub3Blbl9lbnJvbGxtZW50X3N0YXR1cyA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZWFyY2hEZXRhaWxzXD4=</text>
@@ -398,43 +398,33 @@
         <text>color .5s ease-in;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codGhpcy5maWxlRGF0YSk7Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>/*form input#srchplugid:focus + span.bp-wikinewicon::before {*/
-    /*display: none;*/
-/*}*/</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">CiAgLy8gR2FtZXBhZCBkaXNjb25uZWN0ZWQ=</text>
+        <text encoding="base64">ICAuY2hlY2tib3gtLWRpc2FibGVkOjpiZWZvcmU6aG92ZXIgewogICAgY3Vyc29yOiBwb2ludGVyOwogIH0=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CmlucHV0I3NyY2hwbHVnaWQ6YWZ0ZXIgewogICAgY29udGVudDogJ0JBQkFPQk9PT09FWSc7Cn0=</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="4">
-        <text>#srchplugid:focus .search-input--label {
-    display: none;
-}</text>
+        <text>/*form input#srchplugid:focus + span.bp-wikinewicon::before {*/
+    /*display: none;*/
+/*}*/</text>
       </register>
       <register name="8" type="4">
-        <text>div.bp--searchbar-wrapper span.search-input--label {
-    display: inline;
-    position: absolute;
-    left: 332px;
-    font-size: 16px;
-    top: 44px;
-    color: #808080;
-    z-index: 98;
-}</text>
+        <text encoding="base64">CiAgLy8gR2FtZXBhZCBkaXNjb25uZWN0ZWQ=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">CmlucHV0I3NyY2hwbHVnaWQ6YWZ0ZXIgewogICAgY29udGVudDogJ0JBQkFPQk9PT09FWSc7Cn0=</text>
       </register>
       <register name=":" type="4">
         <text>232</text>
