@@ -264,11 +264,11 @@
         <mark key="]" line="21" column="22" />
         <mark key="." line="21" column="22" />
       </file>
-      <file name="$USER_HOME$/BerniePortalWiki/bernie-portal-wiki.css" timestamp="1501871345246">
-        <mark key="[" line="88" column="19" />
-        <mark key="]" line="91" column="13" />
-        <mark key="^" line="91" column="13" />
-        <mark key="." line="91" column="13" />
+      <file name="$USER_HOME$/BerniePortalWiki/bernie-portal-wiki.css" timestamp="1501873574275">
+        <mark key="[" line="204" column="18" />
+        <mark key="]" line="206" column="17" />
+        <mark key="." line="206" column="17" />
+        <mark key="^" line="206" column="17" />
       </file>
       <file name="$USER_HOME$/bernieportal/legacy/UserManagementModule.php" timestamp="1494343921488">
         <mark key="[" line="505" column="30" />
@@ -383,14 +383,16 @@
       <jump line="316" column="1" filename="$USER_HOME$/BerniePortalWiki/bernie-portal-wiki.css" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGJvcmRlci1yYWRpdXM6IDNweDsK</text>
+      <register name="&quot;" type="4">
+        <text>form:focus {
+    background-color: pink;
+}</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>label</text>
+        <text>: 900px</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZWFyY2hEZXRhaWxzXD4=</text>
@@ -398,34 +400,37 @@
       <register name="0" type="4">
         <text>color .5s ease-in;</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGJvcmRlci1yYWRpdXM6IDNweDsK</text>
+      <register name="1" type="4">
+        <text>form:focus {
+    background-color: pink;
+}</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGJvcmRlci1jb2xvcjogIzAxOWVjNTsK</text>
+      <register name="2" type="4">
+        <text encoding="base64">CnNwYW4uYnAtd2lraW5ld2ljb246OmJlZm9yZXsKICAgIGRpc3BsYXk6bm9uZQp9</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGJvcmRlci1yYWRpdXM6IDNweDsK</text>
+      <register name="3" type="4">
+        <text>border: 5px solid #019ec5 !important;
+    box-shadow: 0 0 2px #808080;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJvcmRlci1yYWRpdXM6IDNweDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJvcmRlci1jb2xvcjogIzAxOWVjNTsK</text>
       </register>
-      <register name="6" type="4">
-        <text>/*div#sndiv div.header span {*/
-    /*padding-left: 32%;*/
-/*}*/</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGJvcmRlci1yYWRpdXM6IDNweDsK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIG1heC13aWR0aAo=</text>
+      <register name="9" type="4">
+        <text>/*div#sndiv div.header span {*/
+    /*padding-left: 32%;*/
+/*}*/</text>
       </register>
       <register name=":" type="4">
         <text>232</text>
