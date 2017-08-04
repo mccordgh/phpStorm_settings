@@ -3,7 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/BerniePortalWiki/bernie-portal-wiki-BACKUP.css" timestamp="1501779998677" />
       <file name="$USER_HOME$/bernieportal/app/Time/WorkweekRepository.php" timestamp="1501698290162">
         <mark key="[" line="211" column="66" />
         <mark key="]" line="211" column="66" />
@@ -46,7 +45,6 @@
         <mark key="'" line="60" column="80" />
         <mark key="[" line="302" column="30" />
       </file>
-      <file name="$USER_HOME$/BerniePortalWiki/topContainerBackup.html" timestamp="1501777965868" />
       <file name="$USER_HOME$/bernieportal/app/Data/Gateways/Plans/DatabaseRateGateway.php" timestamp="1500561299485">
         <mark key="[" line="54" column="20" />
       </file>
@@ -266,11 +264,11 @@
         <mark key="]" line="21" column="22" />
         <mark key="." line="21" column="22" />
       </file>
-      <file name="$USER_HOME$/BerniePortalWiki/bernie-portal-wiki.css" timestamp="1501864870295">
-        <mark key="[" line="57" column="26" />
-        <mark key="]" line="57" column="26" />
-        <mark key="." line="57" column="26" />
-        <mark key="^" line="210" column="19" />
+      <file name="$USER_HOME$/BerniePortalWiki/bernie-portal-wiki.css" timestamp="1501871345246">
+        <mark key="[" line="88" column="19" />
+        <mark key="]" line="91" column="13" />
+        <mark key="^" line="91" column="13" />
+        <mark key="." line="91" column="13" />
       </file>
       <file name="$USER_HOME$/bernieportal/legacy/UserManagementModule.php" timestamp="1494343921488">
         <mark key="[" line="505" column="30" />
@@ -385,8 +383,8 @@
       <jump line="316" column="1" filename="$USER_HOME$/BerniePortalWiki/bernie-portal-wiki.css" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>label</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGJvcmRlci1yYWRpdXM6IDNweDsK</text>
       </register>
       <register name="d" type="4">
         <text />
@@ -401,35 +399,33 @@
         <text>color .5s ease-in;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJvcmRlci1yYWRpdXM6IDNweDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJvcmRlci1jb2xvcjogIzAxOWVjNTsK</text>
       </register>
-      <register name="3" type="4">
-        <text>/*div#sndiv div.header span {*/
-    /*padding-left: 32%;*/
-/*}*/</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGJvcmRlci1yYWRpdXM6IDNweDsK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">fQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIG1heC13aWR0aAo=</text>
-      </register>
-      <register name="7" type="4">
-        <text>.zwBCspan {
-    color: #f7f7f7;
-}</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="4">
+        <text>/*div#sndiv div.header span {*/
+    /*padding-left: 32%;*/
+/*}*/</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">fQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">Lyp9Ki8K</text>
+        <text encoding="base64">ICAgIG1heC13aWR0aAo=</text>
       </register>
       <register name=":" type="4">
         <text>232</text>
