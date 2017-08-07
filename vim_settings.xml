@@ -38,9 +38,9 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/js/bernie-portal.js" timestamp="1501186843138">
         <mark key="[" line="480" column="35" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Http/routes.php" timestamp="1501696310809">
+      <file name="$USER_HOME$/bernieportal/app/Http/routes.php" timestamp="1502128824367">
         <mark key="'" line="60" column="80" />
-        <mark key="[" line="302" column="30" />
+        <mark key="[" line="284" column="48" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Data/Gateways/Plans/DatabaseRateGateway.php" timestamp="1500561299485">
         <mark key="[" line="54" column="20" />
@@ -94,6 +94,7 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/benefit-provider/edi/settings.vue" timestamp="1501639834887">
         <mark key="[" line="79" column="42" />
       </file>
+      <file name="$USER_HOME$/bernieportal/app/Carriers/Billing/BillingRepository.php" timestamp="1502128974312" />
       <file name="$USER_HOME$/bernieportal/legacy/ClienteleModule.php" timestamp="1497635912389">
         <mark key="[" line="2" column="17" />
       </file>
@@ -156,7 +157,7 @@
       <file name="$USER_HOME$/bernieportal/resources/views/layout/nav/user.blade.php" timestamp="1494275620716">
         <mark key="[" line="62" column="74" />
       </file>
-      <file name="/PHP Console" timestamp="1502116592197">
+      <file name="/PHP Console" timestamp="1502129419889">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/gamepad_api_demo/main.js" timestamp="1501711191821">
@@ -165,6 +166,12 @@
         <mark key="." line="115" column="0" />
         <mark key="^" line="13" column="2" />
       </file>
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/billing/benefit-billing-past.vue" timestamp="1502128844638">
+        <mark key="[" line="132" column="56" />
+        <mark key="]" line="54" column="23" />
+        <mark key="." line="54" column="23" />
+      </file>
+      <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/Bills/BillsController.php" timestamp="1502128955230" />
       <file name="$USER_HOME$/bernieportal/resources/assets/components/time/subgroups/index.vue" timestamp="1493133715565">
         <mark key="[" line="14" column="19" />
       </file>
@@ -208,7 +215,7 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/benefit-provider/client-bills.vue" timestamp="1492621611950">
         <mark key="[" line="20" column="24" />
       </file>
-      <file name="/fragment.php" timestamp="1501696894940">
+      <file name="/fragment.php" timestamp="1502128948775">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="14" />
         <mark key="." line="0" column="0" />
@@ -382,15 +389,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>div#sndiv div.header:first-child {
-    padding-right: 10px;
-}</text>
+        <text>href</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>n:</text>
+        <text>href</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZWFyY2hEZXRhaWxzXD4=</text>
