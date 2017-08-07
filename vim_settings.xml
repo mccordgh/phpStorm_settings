@@ -262,11 +262,11 @@
         <mark key="]" line="21" column="22" />
         <mark key="." line="21" column="22" />
       </file>
-      <file name="$USER_HOME$/BerniePortalWiki/bernie-portal-wiki.css" timestamp="1502122808277">
-        <mark key="[" line="184" column="30" />
-        <mark key="]" line="186" column="0" />
-        <mark key="." line="186" column="0" />
+      <file name="$USER_HOME$/BerniePortalWiki/bernie-portal-wiki.css" timestamp="1502124204929">
+        <mark key="[" line="381" column="0" />
+        <mark key="]" line="381" column="0" />
         <mark key="^" line="186" column="0" />
+        <mark key="." line="381" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/legacy/UserManagementModule.php" timestamp="1494343921488">
         <mark key="[" line="505" column="30" />
@@ -382,13 +382,15 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>:hover</text>
+        <text>div#sndiv div.header:first-child {
+    padding-right: 10px;
+}</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>:hover</text>
+        <text>n:</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZWFyY2hEZXRhaWxzXD4=</text>
@@ -397,9 +399,17 @@
         <text>color .5s ease-in;</text>
       </register>
       <register name="1" type="4">
+        <text>div#sndiv div.header:first-child {
+    padding-right: 10px;
+}</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGZsb2F0OiByaWdodDsK</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">bHRlckJ5QWdlbmN5KGVtcGxveWVycykgewogICAgICAgIGlmICh0aGlzLnNlbGVjdGVkQWdlbmN5ID09PSAnc2hvd19fYWxsJykgcmV0dXJuIGVtcGxveWVyczsKCiAgICAgICAgY29uc3QgZmlsdGVyS2V5ID0gdGhpcy5zZWxlY3RlZEFnZW5jeTsKICAgICAgICBsZXQgZmlsdGVyZWRFbXBsb3llcnMgPSB0aGlzLmFsbEVtcGxveWVyczsKCiAgICAgICAgZmlsdGVyZWRFbXBsb3llcnMgPSBmaWx0ZXJlZEVtcGxveWVycy5maWx0ZXIoZW1wbG95ZXIgPT4KICAgICAgICAgIE9iamVjdC5rZXlzKGVtcGxveWVyKS5zb21lKChrZXkpID0+IHsKICAgICAgICAgICAgY29uc29sZS5sb2cgKGVtcGxveWVyW2tleV0pOwogICAgICAgICAgICByZXR1cm4gJyc7Ly8oU3RyaW5nKGVtcGxveWVyW2tleV0pLnRvTG93ZXJDYXNlKCkuaW5kZXhPZihmaWx0ZXJLZXkpID4gLTEpOwogICAgICAgICAgfSkpOwoKLy8gICAgICAgIHJldHVybiBmaWx0ZXJlZEVtcGxveWVyczsKLy8gICAgICAgIGNvbnN0IGZpbHRlckVtcGxveWVycyA9IFtbXV07Ci8vICAgICAgICBsZXQgcGFyZW50Q291bnQgPSAwOwovLyAgICAgICAgbGV0IGNoaWxkQ291bnQgPSAwOwovLwovLyAgICAgICAgZm9yIChsZXQgaSA9IDA7IGkgPCBlbXBsb3llcnMubGVuZ3RoOyBpICs9IDEpIHsKLy8gICAgICAgICAgaWYgKGZpbHRlckVtcGxveWVyc1twYXJlbnRDb3VudF0ubGVuZ3RoID09PSA0KSB7Ci8vICAgICAgICAgICAgZmlsdGVyRW1wbG95ZXJzLnB1c2goW10pOwovLyAgICAgICAgICAgIHBhcmVudENvdW50ICs9IDE7Ci8vICAgICAgICAgIH0KLy8gICAgICAgICAgZm9yIChsZXQgaiA9IDA7IGogPCBlbXBsb3llcnNbaV0ubGVuZ3RoOyBqICs9IDEpIHsKLy8gICAgICAgICAgICBpZiAoZW1wbG95ZXJzW2ldW2pdLmFnZW5jeSA9PT0gdGhpcy5zZWxlY3RlZEFnZW5jeSkgewovLyAgICAgICAgICAgICAgY29uc29sZS5sb2coZmlsdGVy</text>
       </register>
-      <register name="2" type="4">
+      <register name="4" type="4">
         <text>Employers[parentCount].length);
 //              if (filterEmployers[parentCount].length === 0) filterEmployers[parentCount].push([]);
 ////              if (filterEmployers[parentCount][childCount].length === 4) {
@@ -415,32 +425,25 @@
 //        return filterEmployers;
       },</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text encoding="base64">Ly8gICAgICAgIE9iamVjdC5rZXlzKGVtcGxveWVyKS5zb21lKChrZXkpID0+IHsKLy8gICAgICAgICAgY29uc3QgbmFtZUZpbHRlciA9IChTdHJpbmcoZW1wbG95ZXJba2V5XSkudG9Mb3dlckNhc2UoKS5pbmRleE9mKGZpbHRlcktleSkgPiAtMSk7Ci8vICAgICAgICAgIGNvbnN0IGFnZW5jeUZpbHRlciA9IChlbXBsb3llcltrZXldID09PSB0aGlzLnNlbGVjdGVkQWdlbmN5KTsKLy8gICAgICAgICAgY29uc29sZS5sb2coeyBuYW1lRmlsdGVyLCBhZ2VuY3lGaWx0ZXIgfSkKLy8gICAgICAgICAgcmV0dXJuIChuYW1lRmlsdGVyIHx8IGFnZW5jeUZpbHRlcik7Ci8vICAgICAgICB9KSk7</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text encoding="base64">T2JqZWN0LmtleXMoZW1wbG95ZXIpLnNvbWUoa2V5ID0+CiAgICAgICAgICAgICAgU3RyaW5nKGVtcGxveWVyW2tleV0pID09PSA7</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>//          console.log({
 //            employer: employers[i].agency,
 //            selected: this.selectedAgency,
 //          });</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>form:focus {
     background-color: pink;
 }</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text encoding="base64">CnNwYW4uYnAtd2lraW5ld2ljb246OmJlZm9yZXsKICAgIGRpc3BsYXk6bm9uZQp9</text>
-      </register>
-      <register name="8" type="4">
-        <text>border: 5px solid #019ec5 !important;
-    box-shadow: 0 0 2px #808080;</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGJvcmRlci1yYWRpdXM6IDNweDsK</text>
       </register>
       <register name=":" type="4">
         <text>232</text>
