@@ -48,6 +48,7 @@
       <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/BenefitProvider/EmployersController.php" timestamp="1501534972247">
         <mark key="[" line="30" column="91" />
       </file>
+      <file name="$USER_HOME$/bernieportal/resources/views/layout/main.blade.php" timestamp="1502139762896" />
       <file name="$USER_HOME$/bernieportal/resources/assets/components/attach-broker-forms-table.vue" timestamp="1493071930271">
         <mark key="[" line="26" column="22" />
       </file>
@@ -69,6 +70,11 @@
         <mark key="[" line="26" column="32" />
         <mark key="]" line="6" column="4" />
         <mark key="." line="6" column="4" />
+      </file>
+      <file name="$USER_HOME$/bernieportal/app/User.php" timestamp="1502141247956">
+        <mark key="[" line="170" column="89" />
+        <mark key="]" line="170" column="89" />
+        <mark key="." line="170" column="89" />
       </file>
       <file name="$USER_HOME$/workspace/gamepad_api_demo/index.html" timestamp="1501271743681">
         <mark key="[" line="3" column="0" />
@@ -101,7 +107,7 @@
       <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/Time/TimesheetsController.php" timestamp="1499966604253">
         <mark key="[" line="55" column="38" />
       </file>
-      <file name="$USER_HOME$/bernieportal/legacy/BhReportsModule.php" timestamp="1502136369633">
+      <file name="$USER_HOME$/bernieportal/legacy/BhReportsModule.php" timestamp="1502138500148">
         <mark key="[" line="470" column="27" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Http/Requests/User/ShowUserRequest.php" timestamp="1496853931288">
@@ -160,7 +166,7 @@
       <file name="$USER_HOME$/bernieportal/resources/views/layout/nav/user.blade.php" timestamp="1494275620716">
         <mark key="[" line="62" column="74" />
       </file>
-      <file name="/PHP Console" timestamp="1502136399737">
+      <file name="/PHP Console" timestamp="1502141051837">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/gamepad_api_demo/main.js" timestamp="1501711191821">
@@ -188,7 +194,7 @@
       <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/ProfilePhotoController.php" timestamp="1499369572506">
         <mark key="[" line="29" column="8" />
       </file>
-      <file name="/Dummy.txt" timestamp="1502136125713">
+      <file name="/Dummy.txt" timestamp="1502139781085">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Views/Composers/Sidebar/Sidebar.php" timestamp="1495661096600">
@@ -219,7 +225,7 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/benefit-provider/client-bills.vue" timestamp="1492621611950">
         <mark key="[" line="20" column="24" />
       </file>
-      <file name="/fragment.php" timestamp="1502135316052">
+      <file name="/fragment.php" timestamp="1502140846072">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="14" />
         <mark key="." line="0" column="0" />
@@ -245,8 +251,8 @@
       <file name="$USER_HOME$/bernieportal/app/Api/Transformers/BenefitProvider/EmployerTransformer.php" timestamp="1501534288275">
         <mark key="[" line="17" column="52" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/views/layout/masquerade-notice.blade.php" timestamp="1502130020366">
-        <mark key="[" line="10" column="12" />
+      <file name="$USER_HOME$/bernieportal/resources/views/layout/masquerade-notice.blade.php" timestamp="1502139682624">
+        <mark key="[" line="1" column="30" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/views/dashboards/sidebar/onboarding.blade.php" timestamp="1499974681229">
         <mark key="[" line="4" column="39" />
@@ -291,6 +297,7 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/create-job/hiring.vue" timestamp="1493221091097">
         <mark key="[" line="11" column="23" />
       </file>
+      <file name="$USER_HOME$/bernieportal/public/sites/all/modules/masquerade/masquerade.module" timestamp="1502139395048" />
     </filemarks>
     <jumps>
       <jump line="36" column="33" filename="$USER_HOME$/bernieportal/resources/assets/components/billing/billing-table.vue" />
@@ -396,13 +403,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>href</text>
+        <text encoding="base64">ICYmICEgJHRoaXMtPmlzQWN0aW5nQXNFbXBsb3llZSgp</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>href</text>
+        <text encoding="base64">ICYmICEgJHRoaXMtPmlzQWN0aW5nQXNFbXBsb3llZSgp</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZWFyY2hEZXRhaWxzXD4=</text>
@@ -410,18 +417,27 @@
       <register name="0" type="4">
         <text>color .5s ease-in;</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIHJldHVybiBmYWxzZTsK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiB0cnVlOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlaWYgKCR0aGlzLT5pc0FjdGluZ0FzRW1wbG95ZWUoKSkgewo=</text>
+      </register>
+      <register name="4" type="4">
         <text>div#sndiv div.header:first-child {
     padding-right: 10px;
 }</text>
       </register>
-      <register name="2" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIGZsb2F0OiByaWdodDsK</text>
       </register>
-      <register name="3" type="4">
+      <register name="6" type="4">
         <text encoding="base64">bHRlckJ5QWdlbmN5KGVtcGxveWVycykgewogICAgICAgIGlmICh0aGlzLnNlbGVjdGVkQWdlbmN5ID09PSAnc2hvd19fYWxsJykgcmV0dXJuIGVtcGxveWVyczsKCiAgICAgICAgY29uc3QgZmlsdGVyS2V5ID0gdGhpcy5zZWxlY3RlZEFnZW5jeTsKICAgICAgICBsZXQgZmlsdGVyZWRFbXBsb3llcnMgPSB0aGlzLmFsbEVtcGxveWVyczsKCiAgICAgICAgZmlsdGVyZWRFbXBsb3llcnMgPSBmaWx0ZXJlZEVtcGxveWVycy5maWx0ZXIoZW1wbG95ZXIgPT4KICAgICAgICAgIE9iamVjdC5rZXlzKGVtcGxveWVyKS5zb21lKChrZXkpID0+IHsKICAgICAgICAgICAgY29uc29sZS5sb2cgKGVtcGxveWVyW2tleV0pOwogICAgICAgICAgICByZXR1cm4gJyc7Ly8oU3RyaW5nKGVtcGxveWVyW2tleV0pLnRvTG93ZXJDYXNlKCkuaW5kZXhPZihmaWx0ZXJLZXkpID4gLTEpOwogICAgICAgICAgfSkpOwoKLy8gICAgICAgIHJldHVybiBmaWx0ZXJlZEVtcGxveWVyczsKLy8gICAgICAgIGNvbnN0IGZpbHRlckVtcGxveWVycyA9IFtbXV07Ci8vICAgICAgICBsZXQgcGFyZW50Q291bnQgPSAwOwovLyAgICAgICAgbGV0IGNoaWxkQ291bnQgPSAwOwovLwovLyAgICAgICAgZm9yIChsZXQgaSA9IDA7IGkgPCBlbXBsb3llcnMubGVuZ3RoOyBpICs9IDEpIHsKLy8gICAgICAgICAgaWYgKGZpbHRlckVtcGxveWVyc1twYXJlbnRDb3VudF0ubGVuZ3RoID09PSA0KSB7Ci8vICAgICAgICAgICAgZmlsdGVyRW1wbG95ZXJzLnB1c2goW10pOwovLyAgICAgICAgICAgIHBhcmVudENvdW50ICs9IDE7Ci8vICAgICAgICAgIH0KLy8gICAgICAgICAgZm9yIChsZXQgaiA9IDA7IGogPCBlbXBsb3llcnNbaV0ubGVuZ3RoOyBqICs9IDEpIHsKLy8gICAgICAgICAgICBpZiAoZW1wbG95ZXJzW2ldW2pdLmFnZW5jeSA9PT0gdGhpcy5zZWxlY3RlZEFnZW5jeSkgewovLyAgICAgICAgICAgICAgY29uc29sZS5sb2coZmlsdGVy</text>
       </register>
-      <register name="4" type="4">
+      <register name="7" type="4">
         <text>Employers[parentCount].length);
 //              if (filterEmployers[parentCount].length === 0) filterEmployers[parentCount].push([]);
 ////              if (filterEmployers[parentCount][childCount].length === 4) {
@@ -437,28 +453,14 @@
 //        return filterEmployers;
       },</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text encoding="base64">Ly8gICAgICAgIE9iamVjdC5rZXlzKGVtcGxveWVyKS5zb21lKChrZXkpID0+IHsKLy8gICAgICAgICAgY29uc3QgbmFtZUZpbHRlciA9IChTdHJpbmcoZW1wbG95ZXJba2V5XSkudG9Mb3dlckNhc2UoKS5pbmRleE9mKGZpbHRlcktleSkgPiAtMSk7Ci8vICAgICAgICAgIGNvbnN0IGFnZW5jeUZpbHRlciA9IChlbXBsb3llcltrZXldID09PSB0aGlzLnNlbGVjdGVkQWdlbmN5KTsKLy8gICAgICAgICAgY29uc29sZS5sb2coeyBuYW1lRmlsdGVyLCBhZ2VuY3lGaWx0ZXIgfSkKLy8gICAgICAgICAgcmV0dXJuIChuYW1lRmlsdGVyIHx8IGFnZW5jeUZpbHRlcik7Ci8vICAgICAgICB9KSk7</text>
       </register>
-      <register name="6" type="4">
+      <register name="9" type="4">
         <text encoding="base64">T2JqZWN0LmtleXMoZW1wbG95ZXIpLnNvbWUoa2V5ID0+CiAgICAgICAgICAgICAgU3RyaW5nKGVtcGxveWVyW2tleV0pID09PSA7</text>
       </register>
-      <register name="7" type="4">
-        <text>//          console.log({
-//            employer: employers[i].agency,
-//            selected: this.selectedAgency,
-//          });</text>
-      </register>
-      <register name="8" type="4">
-        <text>form:focus {
-    background-color: pink;
-}</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">CnNwYW4uYnAtd2lraW5ld2ljb246OmJlZm9yZXsKICAgIGRpc3BsYXk6bm9uZQp9</text>
-      </register>
       <register name=":" type="4">
-        <text>232</text>
+        <text>1182</text>
       </register>
     </registers>
     <search>
@@ -492,7 +494,6 @@
         <entry encoding="base64">XDxzZWFyY2hEZXRhaWxzXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>5986</entry>
         <entry>226</entry>
         <entry>372</entry>
         <entry>48</entry>
@@ -512,6 +513,7 @@
         <entry>112</entry>
         <entry>113</entry>
         <entry>232</entry>
+        <entry>1182</entry>
       </history-cmd>
       <history-expr />
       <history-input />
