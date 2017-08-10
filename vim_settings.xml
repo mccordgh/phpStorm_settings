@@ -121,10 +121,7 @@
       <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/Time/PeriodsController.php" timestamp="1502307418679">
         <mark key="[" line="56" column="67" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Time/WorkweekRepository.php" timestamp="1502394194886">
-        <mark key="]" line="241" column="23" />
-        <mark key="." line="241" column="0" />
-      </file>
+      <file name="$USER_HOME$/bernieportal/app/Time/WorkweekRepository.php" timestamp="1502394194886" />
       <file name="/fragment.js" timestamp="1497373471660">
         <mark key="[" line="0" column="0" />
       </file>
