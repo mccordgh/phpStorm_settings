@@ -131,10 +131,10 @@
         <mark key="[" line="13" column="61" />
       </file>
       <file name="$USER_HOME$/bernieportal/legacy/PayrollModule.php" timestamp="1502459512193" />
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/job-candidates-listing.vue" timestamp="1502464622955">
-        <mark key="[" line="231" column="26" />
-        <mark key="]" line="231" column="26" />
-        <mark key="." line="231" column="26" />
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/job-candidates-listing.vue" timestamp="1502465211697">
+        <mark key="[" line="227" column="12" />
+        <mark key="]" line="227" column="12" />
+        <mark key="." line="227" column="12" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Carriers/Billing/SummaryBill.php" timestamp="1497900688518">
         <mark key="[" line="76" column="5" />
@@ -215,7 +215,7 @@
       <file name="$USER_HOME$/bernieportal/resources/views/layout/nav/user.blade.php" timestamp="1494275620716">
         <mark key="[" line="62" column="74" />
       </file>
-      <file name="/PHP Console" timestamp="1502464355710">
+      <file name="/PHP Console" timestamp="1502464847452">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/time/subgroups/index.vue" timestamp="1493133715565">
@@ -379,7 +379,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'JOBS: ', candidate.allJobs</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ05BTUU6ICcsIGNhbmRpZGF0ZS5uYW1lKTsKICAgICAgICAgICAgY2FuZGlkYXRlLmFsbEpvYnMubWFwKChqb2IpID0+IHsKICAgICAgICAgICAgICBjb25zb2xlLmxvZygnc3RhdHVzOiAnLCBqb2Iuc3RhdHVzKTsKICAgICAgICAgICAgICByZXR1cm4gam9iOwogICAgICAgICAgICB9KTs=</text>
       </register>
       <register name="d" type="4">
         <text />
@@ -394,31 +394,31 @@
         <text>color .5s ease-in;</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">CgoK</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ05BTUU6ICcsIGNhbmRpZGF0ZS5uYW1lKTsKICAgICAgICAgICAgY2FuZGlkYXRlLmFsbEpvYnMubWFwKChqb2IpID0+IHsKICAgICAgICAgICAgICBjb25zb2xlLmxvZygnc3RhdHVzOiAnLCBqb2Iuc3RhdHVzKTsKICAgICAgICAgICAgICByZXR1cm4gam9iOwogICAgICAgICAgICB9KTs=</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">Ci8qZGl2LmZvb3Rlci1saW5rcyBzcGFuLmZvb3Rlci1saW5rIHsqLwogICAgLyotbW96LXRyYW5zaXRpb246IHBhZGRpbmcgLjJzIGVhc2UtaW47Ki8KICAgIC8qLW8tdHJhbnNpdGlvbjogcGFkZGluZyAuMnMgZWFzZS1pbjsqLwogICAgLyotd2Via2l0LXRyYW5zaXRpb246IHBhZGRpbmcgLjJzIGVhc2UtaW47Ki8KICAgIC8qcGFkZGluZy1sZWZ0OiAwOyovCi8qfSov</text>
+        <text encoding="base64">CgoK</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">PHVsPjwvdWw+CjwvYm9keT4KPC9odG1sPg==</text>
+        <text encoding="base64">Ci8qZGl2LmZvb3Rlci1saW5rcyBzcGFuLmZvb3Rlci1saW5rIHsqLwogICAgLyotbW96LXRyYW5zaXRpb246IHBhZGRpbmcgLjJzIGVhc2UtaW47Ki8KICAgIC8qLW8tdHJhbnNpdGlvbjogcGFkZGluZyAuMnMgZWFzZS1pbjsqLwogICAgLyotd2Via2l0LXRyYW5zaXRpb246IHBhZGRpbmcgLjJzIGVhc2UtaW47Ki8KICAgIC8qcGFkZGluZy1sZWZ0OiAwOyovCi8qfSov</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">IHByb3BzOiB7CiAgICAgIHBhbmVsOiB7CiAgICAgICAgdHlwZTogQm9vbGVhbiwKICAgICAgICBkZWZhdWx0OiB0cnVlLAogICAgICB9LAogICAgfSw=</text>
+        <text encoding="base64">PHVsPjwvdWw+CjwvYm9keT4KPC9odG1sPg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">IHByb3BzOiB7CiAgICAgIHBhbmVsOiB7CiAgICAgICAgdHlwZTogQm9vbGVhbiwKICAgICAgICBkZWZhdWx0OiB0cnVlLAogICAgICB9LAogICAgfSw=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICA8L2Rpdj4K</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIHJldHVybiA=</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">Ly8gICAgICAgIHJldHVybiAkYXBwcm92ZXItPnRpbWVBcHByb3ZlZXMtPmZsYXRNYXAoZnVuY3Rpb24gKFVzZXIgJGFwcHJvdmVlKSB7Ci8vICAgICAgICAgICAgcmV0dXJuICR0aGlzLT53b3Jrd2Vla0ZvckVtcGxveWVlKCRhcHByb3ZlZS0+dG9FbXBsb3llZSgpKTsKLy8gICAgICAgIH0pOw==</text>
+        <text encoding="base64">CiAgICAgICAgICAgIHJldHVybiA=</text>
       </register>
       <register name=":" type="4">
         <text>248</text>
