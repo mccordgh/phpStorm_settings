@@ -10,6 +10,9 @@
         <mark key="." line="2" column="19" />
         <mark key="^" line="2" column="19" />
       </file>
+      <file name="$USER_HOME$/bernieportal/resources/views/dashboards/employer/current-enrollment.blade.php" timestamp="1502478648006">
+        <mark key="[" line="0" column="1" />
+      </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/billing/billing-sidebar.vue" timestamp="1492807638032">
         <mark key="[" line="6" column="83" />
       </file>
@@ -39,10 +42,16 @@
       <file name="$USER_HOME$/bernieportal/legacy/ClienteleModule.php" timestamp="1497635912389">
         <mark key="[" line="2" column="17" />
       </file>
+      <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/Time/TimesheetsController.php" timestamp="1502307303235">
+        <mark key="[" line="60" column="83" />
+      </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/time/employees/summary.vue" timestamp="1502383785377">
         <mark key="[" line="5" column="18" />
         <mark key="]" line="5" column="18" />
         <mark key="." line="5" column="18" />
+      </file>
+      <file name="$USER_HOME$/bernieportal/resources/views/dashboards/sidebar/employer-employee-items.blade.php" timestamp="1502480216885">
+        <mark key="[" line="3" column="43" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/thread/candidate-message-modal.vue" timestamp="1493229628959">
         <mark key="[" line="55" column="58" />
@@ -95,6 +104,9 @@
         <mark key="^" line="1" column="27" />
         <mark key="." line="14" column="4" />
       </file>
+      <file name="$USER_HOME$/bernieportal/resources/views/components/dashboard-tabs-template.blade.php" timestamp="1502478886901">
+        <mark key="[" line="1" column="17" />
+      </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/components/candidate-header.vue" timestamp="1493220732358">
         <mark key="[" line="41" column="54" />
       </file>
@@ -131,11 +143,7 @@
         <mark key="[" line="13" column="61" />
       </file>
       <file name="$USER_HOME$/bernieportal/legacy/PayrollModule.php" timestamp="1502459512193" />
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/job-candidates-listing.vue" timestamp="1502473407302">
-        <mark key="[" line="233" column="1" />
-        <mark key="]" line="233" column="1" />
-        <mark key="." line="233" column="1" />
-      </file>
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/job-candidates-listing.vue" timestamp="1502473407302" />
       <file name="$USER_HOME$/bernieportal/app/Carriers/Billing/SummaryBill.php" timestamp="1497900688518">
         <mark key="[" line="76" column="5" />
       </file>
@@ -144,6 +152,9 @@
         <mark key="]" line="365" column="0" />
         <mark key="." line="365" column="0" />
         <mark key="^" line="365" column="0" />
+      </file>
+      <file name="$USER_HOME$/bernieportal/legacy/ClientPortalModule.php" timestamp="1502481028296">
+        <mark key="[" line="2453" column="80" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Data/Gateways/Plans/DatabaseRateGateway.php" timestamp="1500561299485">
         <mark key="[" line="54" column="20" />
@@ -192,6 +203,12 @@
       <file name="$USER_HOME$/bernieportal/app/Data/Gateways/Benefits/BenefitGateway.php" timestamp="1500584485332">
         <mark key="[" line="4" column="28" />
       </file>
+      <file name="$USER_HOME$/bernieportal/app/Views/Composers/Sidebar/ItemOrderComposer.php" timestamp="1502481009909">
+        <mark key="[" line="98" column="122" />
+        <mark key="]" line="98" column="60" />
+        <mark key="." line="98" column="60" />
+        <mark key="^" line="98" column="60" />
+      </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/sidebar/item.vue" timestamp="1492628890409">
         <mark key="[" line="52" column="2" />
       </file>
@@ -215,7 +232,7 @@
       <file name="$USER_HOME$/bernieportal/resources/views/layout/nav/user.blade.php" timestamp="1494275620716">
         <mark key="[" line="62" column="74" />
       </file>
-      <file name="/PHP Console" timestamp="1502473129932">
+      <file name="/PHP Console" timestamp="1502480789867">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/time/subgroups/index.vue" timestamp="1493133715565">
@@ -227,7 +244,7 @@
       <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/ProfilePhotoController.php" timestamp="1499369572506">
         <mark key="[" line="29" column="8" />
       </file>
-      <file name="/Dummy.txt" timestamp="1502459457885">
+      <file name="/Dummy.txt" timestamp="1502480629281">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/popover.vue" timestamp="1492636708489">
@@ -256,6 +273,7 @@
         <mark key="]" line="13458" column="125" />
         <mark key="." line="13458" column="125" />
       </file>
+      <file name="$USER_HOME$/bernieportal/public/sites/all/modules/client_portal/client_portal.module" timestamp="1502479032556" />
       <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/components/hiring-team.vue" timestamp="1493220766505">
         <mark key="[" line="77" column="56" />
       </file>
@@ -379,13 +397,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgIGZvciAobGV0IGkgPSAwOyBpIDwgdGhpcy5jYW5kaWRhdGVzLmxlbmd0aDsgaSArPSAxKSB7CiAgICAgICAgICBpZiAodGhpcy5jYW5kaWRhdGVzW2ldLmFwcGxpY2F0aW9uQ291bnQgPiAxKSB7CiAgICAgICAgICAgIAogICAgICAgICAgfQogICAgICAgIH0=</text>
+        <text>lled</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>andidate</text>
+        <text>lled</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZWFyY2hEZXRhaWxzXD4=</text>
@@ -421,7 +439,7 @@
         <text encoding="base64">ICAgICAgICBsZXQgY29uc2lkZXJhdGlvbkNvdW50ID0gMDsK</text>
       </register>
       <register name=":" type="4">
-        <text>248</text>
+        <text>2452</text>
       </register>
     </registers>
     <search>
@@ -455,14 +473,12 @@
         <entry encoding="base64">XDxzZWFyY2hEZXRhaWxzXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>6162</entry>
         <entry>606</entry>
         <entry>573</entry>
         <entry>615</entry>
         <entry>78</entry>
         <entry>145</entry>
         <entry>80</entry>
-        <entry>109</entry>
         <entry>59</entry>
         <entry>149</entry>
         <entry>73</entry>
@@ -475,6 +491,8 @@
         <entry>244</entry>
         <entry>vsp</entry>
         <entry>248</entry>
+        <entry>109</entry>
+        <entry>2452</entry>
       </history-cmd>
       <history-expr />
       <history-input />
