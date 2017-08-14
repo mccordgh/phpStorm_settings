@@ -21,7 +21,9 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/js/bernie-portal.js" timestamp="1501186843138">
         <mark key="[" line="480" column="35" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Ats/Candidate.php" timestamp="1502729622566" />
+      <file name="$USER_HOME$/bernieportal/app/Ats/Candidate.php" timestamp="1502737804653">
+        <mark key="[" line="32" column="86" />
+      </file>
       <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/Edi/SchedulersController.php" timestamp="1494362868134">
         <mark key="[" line="32" column="44" />
       </file>
@@ -145,10 +147,11 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/thread/candidate-job-message-modal.vue" timestamp="1493229583139">
         <mark key="[" line="13" column="61" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/job-candidates-listing.vue" timestamp="1502735251380">
-        <mark key="[" line="237" column="58" />
-        <mark key="]" line="240" column="0" />
-        <mark key="." line="240" column="0" />
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/job-candidates-listing.vue" timestamp="1502737753631">
+        <mark key="[" line="235" column="12" />
+        <mark key="]" line="235" column="56" />
+        <mark key="^" line="235" column="11" />
+        <mark key="." line="235" column="56" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Carriers/Billing/SummaryBill.php" timestamp="1497900688518">
         <mark key="[" line="76" column="5" />
@@ -234,7 +237,7 @@
       <file name="$USER_HOME$/bernieportal/resources/views/layout/nav/user.blade.php" timestamp="1494275620716">
         <mark key="[" line="62" column="74" />
       </file>
-      <file name="/PHP Console" timestamp="1502735217658">
+      <file name="/PHP Console" timestamp="1502737815739">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/time/subgroups/index.vue" timestamp="1493133715565">
@@ -397,14 +400,14 @@
       <jump line="127" column="22" filename="$USER_HOME$/bernieportal/resources/assets/components/benefit-provider/client-list.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZWFyY2hEZXRhaWxzXD4=</text>
