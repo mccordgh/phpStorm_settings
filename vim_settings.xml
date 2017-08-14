@@ -147,11 +147,11 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/thread/candidate-job-message-modal.vue" timestamp="1493229583139">
         <mark key="[" line="13" column="61" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/job-candidates-listing.vue" timestamp="1502737753631">
-        <mark key="[" line="235" column="12" />
-        <mark key="]" line="235" column="56" />
-        <mark key="^" line="235" column="11" />
-        <mark key="." line="235" column="56" />
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/job-candidates-listing.vue" timestamp="1502741002380">
+        <mark key="[" line="241" column="10" />
+        <mark key="]" line="241" column="37" />
+        <mark key="^" line="241" column="37" />
+        <mark key="." line="241" column="37" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Carriers/Billing/SummaryBill.php" timestamp="1497900688518">
         <mark key="[" line="76" column="5" />
@@ -237,7 +237,7 @@
       <file name="$USER_HOME$/bernieportal/resources/views/layout/nav/user.blade.php" timestamp="1494275620716">
         <mark key="[" line="62" column="74" />
       </file>
-      <file name="/PHP Console" timestamp="1502737815739">
+      <file name="/PHP Console" timestamp="1502740725280">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/time/subgroups/index.vue" timestamp="1493133715565">
@@ -287,11 +287,10 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/aca/subgroups/list-1095.vue" timestamp="1493071790826">
         <mark key="[" line="32" column="28" />
       </file>
-      <file name="$USER_HOME$/BerniePortalWiki/bernie-portal-wiki.css" timestamp="1502720384907">
-        <mark key="[" line="414" column="0" />
-        <mark key="]" line="425" column="18" />
-        <mark key="^" line="539" column="20" />
-        <mark key="." line="425" column="18" />
+      <file name="$USER_HOME$/BerniePortalWiki/bernie-portal-wiki.css" timestamp="1502739376139">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/benefit-eoi/pending-buttons.vue" timestamp="1498596940985">
         <mark key="[" line="2" column="10" />
@@ -400,14 +399,14 @@
       <jump line="127" column="22" filename="$USER_HOME$/bernieportal/resources/assets/components/benefit-provider/client-list.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>inherit</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZWFyY2hEZXRhaWxzXD4=</text>
@@ -416,31 +415,39 @@
         <text>color .5s ease-in;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="2" type="4">
-        <text encoding="base64">IGNvbnNvbGUubG9nKGNhbmRpZGF0ZSk7CiAgICAgICAgICBjb25zb2xlLmxvZyhPYmplY3QuYXNzaWduKGNhbmRpZGF0ZSwgeyBzdGF0dXM6ICdNdWx0aXBsZScgfSkpOwogICAgICAgICAgY29uc29sZS5sb2coY2FuZGlkYXRlKTs=</text>
-      </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgICAgIGZvciAobGV0IGkgPSAwOyBpIDwgdGhpcy5jYW5kaWRhdGVzLmxlbmd0aDsgaSArPSAxKSB7CiAgICAgICAgICBpZiAodGhpcy5jYW5kaWRhdGVzW2ldLmFwcGxpY2F0aW9uQ291bnQgPiAxKSB7CiAgICAgICAgICAgIAogICAgICAgICAgfQogICAgICAgIH0=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="4">
+        <text>@media all and (max-height: 1000px) {
+    table#navigationtable {
+        position: static;
+    }
+}
+
+table#navigationtable {
+    position: fixed;
+}</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">IGNvbnNvbGUubG9nKGNhbmRpZGF0ZSk7CiAgICAgICAgICBjb25zb2xlLmxvZyhPYmplY3QuYXNzaWduKGNhbmRpZGF0ZSwgeyBzdGF0dXM6ICdNdWx0aXBsZScgfSkpOwogICAgICAgICAgY29uc29sZS5sb2coY2FuZGlkYXRlKTs=</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgICAgIGZvciAobGV0IGkgPSAwOyBpIDwgdGhpcy5jYW5kaWRhdGVzLmxlbmd0aDsgaSArPSAxKSB7CiAgICAgICAgICBpZiAodGhpcy5jYW5kaWRhdGVzW2ldLmFwcGxpY2F0aW9uQ291bnQgPiAxKSB7CiAgICAgICAgICAgIAogICAgICAgICAgfQogICAgICAgIH0=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgZ2V0Q29uc2lkZXJhdGlvbkNvdW50KGNhbmRpZGF0ZSkgewo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgZCAK</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgIGNvbnN0IGpvYnNVbmRlckNvbnNpZGVyYXRpb24gPSBjYW5kaWRhdGUuYWxsSm9icy5maWx0ZXIoam9iID0+IGpvYi5zdGF0dXMgPT09ICdVbmRlciBDb25zaWRlcmF0aW9uJyk7CgogICAgICAgIHJldHVybiBqb2JzVW5kZXJDb25zaWRlcmF0aW9uLmxlbmd0aCA+IDE7CiAgICAgIH0s</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">Y2FuZGlkYXRlcy5tYXAoKGNhbmRpZGF0ZSkgPT4gewogICAgICAgICAgY29uc29sZS5sb2c=</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgIGNhbmRpZGF0ZS5hbGxKb2JzLm1hcCgoam9iKSA9PiB7CgogICAgICAgfSk7</text>
       </register>
       <register name=":" type="4">
         <text>2452</text>
