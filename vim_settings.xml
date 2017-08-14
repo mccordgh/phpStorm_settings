@@ -30,11 +30,10 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/billing/billing-sidebar.vue" timestamp="1492807638032">
         <mark key="[" line="6" column="83" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/benefit-provider/edi/file.vue" timestamp="1502206930300">
-        <mark key="[" line="364" column="93" />
-        <mark key="]" line="365" column="0" />
-        <mark key="." line="365" column="0" />
-        <mark key="^" line="365" column="0" />
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/benefit-provider/edi/file.vue" timestamp="1502726314784">
+        <mark key="[" line="155" column="51" />
+        <mark key="]" line="155" column="51" />
+        <mark key="." line="155" column="51" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/test-sortable.vue" timestamp="1494452587108">
         <mark key="[" line="0" column="26" />
@@ -63,12 +62,7 @@
       <file name="$USER_HOME$/bernieportal/app/Views/Composers/Sidebar/TimeComposer.php" timestamp="1496787657266">
         <mark key="[" line="41" column="11" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/User.php" timestamp="1502721638919">
-        <mark key="[" line="172" column="47" />
-        <mark key="]" line="173" column="27" />
-        <mark key="." line="173" column="27" />
-        <mark key="^" line="173" column="27" />
-      </file>
+      <file name="$USER_HOME$/bernieportal/app/User.php" timestamp="1502721638919" />
       <file name="$USER_HOME$/workspace/gamepad_api_demo/index.html" timestamp="1501271743681">
         <mark key="[" line="3" column="0" />
       </file>
@@ -171,7 +165,7 @@
       <file name="$USER_HOME$/bernieportal/resources/views/layout/nav/user.blade.php" timestamp="1494275620716">
         <mark key="[" line="62" column="74" />
       </file>
-      <file name="/PHP Console" timestamp="1502480789867">
+      <file name="/PHP Console" timestamp="1502726302047">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/date-input.vue" timestamp="1497290311015">
@@ -394,13 +388,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>eatureAdmin</text>
+        <text>benefit</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>eatureAdmin</text>
+        <text>benefit</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZWFyY2hEZXRhaWxzXD4=</text>
