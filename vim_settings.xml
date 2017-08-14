@@ -15,6 +15,9 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/thread/candidate-job-message-modal.vue" timestamp="1493229583139">
         <mark key="[" line="13" column="61" />
       </file>
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/job-candidates-listing.vue" timestamp="1502729651319">
+        <mark key="[" line="225" column="33" />
+      </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/time/summary.vue" timestamp="1502383981311">
         <mark key="[" line="10" column="27" />
         <mark key="]" line="2" column="19" />
@@ -30,11 +33,6 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/billing/billing-sidebar.vue" timestamp="1492807638032">
         <mark key="[" line="6" column="83" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/benefit-provider/edi/file.vue" timestamp="1502726314784">
-        <mark key="[" line="155" column="51" />
-        <mark key="]" line="155" column="51" />
-        <mark key="." line="155" column="51" />
-      </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/test-sortable.vue" timestamp="1494452587108">
         <mark key="[" line="0" column="26" />
       </file>
@@ -44,6 +42,7 @@
       <file name="$USER_HOME$/bernieportal/legacy/ClientPortalModule.php" timestamp="1502481028296">
         <mark key="[" line="2453" column="80" />
       </file>
+      <file name="$USER_HOME$/bernieportal/app/Ats/Candidate.php" timestamp="1502729622566" />
       <file name="$USER_HOME$/bernieportal/app/Data/Gateways/Plans/DatabaseRateGateway.php" timestamp="1500561299485">
         <mark key="[" line="54" column="20" />
       </file>
@@ -91,6 +90,9 @@
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/benefit-provider/edi/settings.vue" timestamp="1501639834887">
         <mark key="[" line="79" column="42" />
+      </file>
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/job/job-candidates-list.vue" timestamp="1502727847016">
+        <mark key="[" line="188" column="88" />
       </file>
       <file name="$USER_HOME$/bernieportal/legacy/ClienteleModule.php" timestamp="1497635912389">
         <mark key="[" line="2" column="17" />
@@ -165,7 +167,7 @@
       <file name="$USER_HOME$/bernieportal/resources/views/layout/nav/user.blade.php" timestamp="1494275620716">
         <mark key="[" line="62" column="74" />
       </file>
-      <file name="/PHP Console" timestamp="1502726302047">
+      <file name="/PHP Console" timestamp="1502729424304">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/date-input.vue" timestamp="1497290311015">
@@ -183,7 +185,7 @@
       <file name="$USER_HOME$/bernieportal/app/Views/Composers/Sidebar/Sidebar.php" timestamp="1495661096600">
         <mark key="[" line="46" column="10" />
       </file>
-      <file name="/Dummy.txt" timestamp="1502721496554">
+      <file name="/Dummy.txt" timestamp="1502729842191">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/candidate/individual-application.vue" timestamp="1493136831791">
@@ -212,6 +214,7 @@
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
+      <file name="$USER_HOME$/bernieportal/app/Ats/Application.php" timestamp="1502729910233" />
       <file name="$USER_HOME$/workspace/gamepad_api_demo/main.css" timestamp="1501271749114">
         <mark key="[" line="5" column="10" />
       </file>
@@ -388,13 +391,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>benefit</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>benefit</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZWFyY2hEZXRhaWxzXD4=</text>
