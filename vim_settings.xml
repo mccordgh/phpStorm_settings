@@ -63,6 +63,12 @@
       <file name="$USER_HOME$/bernieportal/app/Views/Composers/Sidebar/TimeComposer.php" timestamp="1496787657266">
         <mark key="[" line="41" column="11" />
       </file>
+      <file name="$USER_HOME$/bernieportal/app/User.php" timestamp="1502721638919">
+        <mark key="[" line="172" column="47" />
+        <mark key="]" line="173" column="27" />
+        <mark key="." line="173" column="27" />
+        <mark key="^" line="173" column="27" />
+      </file>
       <file name="$USER_HOME$/workspace/gamepad_api_demo/index.html" timestamp="1501271743681">
         <mark key="[" line="3" column="0" />
       </file>
@@ -183,7 +189,7 @@
       <file name="$USER_HOME$/bernieportal/app/Views/Composers/Sidebar/Sidebar.php" timestamp="1495661096600">
         <mark key="[" line="46" column="10" />
       </file>
-      <file name="/Dummy.txt" timestamp="1502480629281">
+      <file name="/Dummy.txt" timestamp="1502721496554">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/candidate/individual-application.vue" timestamp="1493136831791">
@@ -388,13 +394,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>lled</text>
+        <text>eatureAdmin</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>lled</text>
+        <text>eatureAdmin</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZWFyY2hEZXRhaWxzXD4=</text>
