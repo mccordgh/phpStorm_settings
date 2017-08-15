@@ -90,10 +90,10 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/candidate/job-applications-list.vue" timestamp="1493315731584">
         <mark key="[" line="46" column="67" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/benefit-provider/edi/settings.vue" timestamp="1502833181524">
-        <mark key="[" line="134" column="36" />
-        <mark key="]" line="134" column="36" />
-        <mark key="." line="134" column="36" />
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/benefit-provider/edi/settings.vue" timestamp="1502836970493">
+        <mark key="[" line="135" column="32" />
+        <mark key="]" line="135" column="32" />
+        <mark key="." line="135" column="32" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/job/job-candidates-list.vue" timestamp="1502727847016">
         <mark key="[" line="188" column="88" />
@@ -177,7 +177,7 @@
       <file name="$USER_HOME$/bernieportal/resources/views/layout/nav/user.blade.php" timestamp="1494275620716">
         <mark key="[" line="62" column="74" />
       </file>
-      <file name="/PHP Console" timestamp="1502833689110">
+      <file name="/PHP Console" timestamp="1502837095891">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Ats/Repositories/JobCandidateRepository.php" timestamp="1502732569985">
@@ -389,14 +389,14 @@
       <jump line="127" column="22" filename="$USER_HOME$/bernieportal/resources/assets/components/benefit-provider/client-list.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>232323</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">b25zdCA=</text>
+        <text>232323</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZWFyY2hEZXRhaWxzXD4=</text>
