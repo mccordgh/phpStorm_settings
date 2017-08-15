@@ -174,7 +174,7 @@
       <file name="$USER_HOME$/bernieportal/resources/views/layout/nav/user.blade.php" timestamp="1494275620716">
         <mark key="[" line="62" column="74" />
       </file>
-      <file name="/PHP Console" timestamp="1502825067806">
+      <file name="/PHP Console" timestamp="1502828358298">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Ats/Repositories/JobCandidateRepository.php" timestamp="1502732569985">
@@ -259,10 +259,11 @@
         <mark key="]" line="13458" column="125" />
         <mark key="." line="13458" column="125" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/markdown/billing/guardian-rules.markdown" timestamp="1502825762600">
-        <mark key="[" line="0" column="1" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
+      <file name="$USER_HOME$/bernieportal/resources/markdown/billing/guardian-rules.markdown" timestamp="1502828887928">
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="^" line="52" column="0" />
+        <mark key="." line="52" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/action.vue" timestamp="1492635708560">
         <mark key="[" line="15" column="22" />
