@@ -34,10 +34,11 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/js/bernie-portal.js" timestamp="1501186843138">
         <mark key="[" line="480" column="35" />
       </file>
-      <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/main.js" timestamp="1502757139303">
-        <mark key="[" line="0" column="8" />
-        <mark key="]" line="0" column="8" />
-        <mark key="." line="0" column="8" />
+      <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/main.js" timestamp="1502834926098">
+        <mark key="[" line="3" column="20" />
+        <mark key="]" line="0" column="24" />
+        <mark key="." line="0" column="24" />
+        <mark key="^" line="0" column="24" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Ats/Candidate.php" timestamp="1502737804653">
         <mark key="[" line="32" column="86" />
@@ -120,11 +121,11 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/thread/candidate-message-modal.vue" timestamp="1493229628959">
         <mark key="[" line="55" column="58" />
       </file>
-      <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/launcher.js" timestamp="1502756839977">
-        <mark key="[" line="3" column="36" />
-        <mark key="]" line="10" column="4" />
-        <mark key="." line="10" column="4" />
+      <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/launcher.js" timestamp="1502834994582">
+        <mark key="[" line="0" column="22" />
+        <mark key="]" line="0" column="0" />
         <mark key="^" line="2" column="4" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Api/Transformers/Time/TimesheetTransformer.php" timestamp="1499884159706">
         <mark key="[" line="32" column="27" />
@@ -208,12 +209,6 @@
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/js/current-user-id.js" timestamp="1499278658594">
         <mark key="[" line="2" column="63" />
-      </file>
-      <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/game.js" timestamp="1502756416936">
-        <mark key="[" line="97" column="2" />
-        <mark key="]" line="97" column="2" />
-        <mark key="^" line="28" column="6" />
-        <mark key="." line="97" column="2" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/popover.vue" timestamp="1492636708489">
         <mark key="[" line="13" column="26" />
@@ -394,14 +389,14 @@
       <jump line="127" column="22" filename="$USER_HOME$/bernieportal/resources/assets/components/benefit-provider/client-list.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>selected</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>selected</text>
+        <text encoding="base64">b25zdCA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZWFyY2hEZXRhaWxzXD4=</text>
@@ -413,28 +408,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">ICAgICAgIDxkaXYgY2xhc3M9ImZvcm0tY29udHJvbCI+CiAgICAgICAgICA8ZGl2IGNsYXNzPSJmb3JtLWl0ZW0iIGlkPSJmaWxlLXBhY2thZ2luZy13cmFwcGVyIj4KICAgICAgICAgICAgPGxhYmVsIGZvcj0iY2hvb3NlLWZpbGUtcGFja2FnaW5nIj5QdWxsaW5nIE1ldGhvZDo8L2xhYmVsPgogICAgICAgICAgICA8ZGl2IGNsYXNzPSJzZWxlY3QtY29udHJvbCI+CiAgICAgICAgICAgICAgPHNlbGVjdCBuYW1lPSJjaG9vc2UtZmlsZS1wYWNrYWdpbmciIGNsYXNzPSJmb3JtLXNlbGVjdCIgaWQ9ImNob29zZS1maWxlLXBhY2thZ2luZyIgdi1tb2RlbD0ic2NoZWR1bGVyRGF0YS5zZXJ2ZXIuZmlsZVNlbmRpbmdNZXRob2QiPgogICAgICAgICAgICAgICAgPG9wdGlvbiB2YWx1ZT0iY29tYm9fZmlsZSI+Q29tYm8gRmlsZTwvb3B0aW9uPgogICAgICAgICAgICAgICAgPG9wdGlvbiB2YWx1ZT0ic2VwYXJhdGVfZmlsZXMiPlNlcGVyYXRlIEZpbGVzPC9vcHRpb24+CiAgICAgICAgICAgICAgPC9zZWxlY3Q+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgPC9kaXY+CiAgICAgICAgPC9kaXY+CiAgICAgIDwvZGl2Pg==</text>
+        <text encoding="base64">ICAgIGxvb3AoKTsKCiAgfQ==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkb2N1bWVudC5jbGVhcigpOwo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgR2FtZTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gaW1wb3J0ICcnOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">fSk7Cg==</text>
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgTGF1bmNoZXI7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGVmaW5lKFsnQ2xhc3MnLCdHYW1lJ10sIGZ1bmN0aW9uKENsYXNzLEdhbWUpewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>2452</text>
