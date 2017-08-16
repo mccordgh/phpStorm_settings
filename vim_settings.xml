@@ -55,10 +55,10 @@
         <mark key="]" line="5" column="18" />
         <mark key="." line="5" column="18" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Carriers/Billing/GuardianRules.php" timestamp="1502911095599">
-        <mark key="[" line="241" column="29" />
-        <mark key="]" line="241" column="29" />
-        <mark key="." line="241" column="29" />
+      <file name="$USER_HOME$/bernieportal/app/Carriers/Billing/GuardianRules.php" timestamp="1502913463861">
+        <mark key="[" line="194" column="73" />
+        <mark key="]" line="194" column="73" />
+        <mark key="." line="194" column="73" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/views/dashboards/sidebar/employer-employee-items.blade.php" timestamp="1502480216885">
         <mark key="[" line="3" column="43" />
@@ -412,13 +412,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>allstate</text>
+        <text>uardian-logo.jpg'/Users/matthewmccord/bernieportal/public/sites/all/themes/bernard/images/billing-pdf/</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>allstate</text>
+        <text>uardian-logo.jpg'/Users/matthewmccord/bernieportal/public/sites/all/themes/bernard/images/billing-pdf/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZWFyY2hEZXRhaWxzXD4=</text>
