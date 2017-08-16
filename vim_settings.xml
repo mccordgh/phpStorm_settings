@@ -299,10 +299,10 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/aca/subgroups/list-1095.vue" timestamp="1493071790826">
         <mark key="[" line="32" column="28" />
       </file>
-      <file name="$USER_HOME$/BerniePortalWiki/bernie-portal-wiki.css" timestamp="1502892608646">
-        <mark key="[" line="207" column="11" />
-        <mark key="]" line="207" column="11" />
-        <mark key="." line="207" column="11" />
+      <file name="$USER_HOME$/BerniePortalWiki/bernie-portal-wiki.css" timestamp="1502918583463">
+        <mark key="[" line="36" column="28" />
+        <mark key="]" line="36" column="28" />
+        <mark key="." line="36" column="28" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/benefit-eoi/pending-buttons.vue" timestamp="1498596940985">
         <mark key="[" line="2" column="10" />
@@ -412,13 +412,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>uardian-logo.jpg'/Users/matthewmccord/bernieportal/public/sites/all/themes/bernard/images/billing-pdf/</text>
+        <text>sans-</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>uardian-logo.jpg'/Users/matthewmccord/bernieportal/public/sites/all/themes/bernard/images/billing-pdf/</text>
+        <text>sans-</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZWFyY2hEZXRhaWxzXD4=</text>
