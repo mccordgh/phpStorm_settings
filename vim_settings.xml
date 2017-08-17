@@ -179,10 +179,10 @@
       <file name="$USER_HOME$/bernieportal/resources/views/layout/nav/user.blade.php" timestamp="1494275620716">
         <mark key="[" line="62" column="74" />
       </file>
-      <file name="/PHP Console" timestamp="1502999754355">
+      <file name="/PHP Console" timestamp="1503000879080">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/billing/benefit-billing-past.vue" timestamp="1502999379702">
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/billing/benefit-billing-past.vue" timestamp="1503000612488">
         <mark key="[" line="78" column="0" />
         <mark key="]" line="78" column="6" />
         <mark key="^" line="20" column="3" />
@@ -218,10 +218,11 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/js/current-user-id.js" timestamp="1499278658594">
         <mark key="[" line="2" column="63" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/billing/benefit-billing-current.vue" timestamp="1502997452859">
-        <mark key="]" line="128" column="15" />
-        <mark key="." line="128" column="15" />
-        <mark key="^" line="128" column="15" />
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/billing/benefit-billing-current.vue" timestamp="1503001017252">
+        <mark key="[" line="168" column="0" />
+        <mark key="]" line="168" column="6" />
+        <mark key="." line="168" column="6" />
+        <mark key="^" line="144" column="26" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/popover.vue" timestamp="1492636708489">
         <mark key="[" line="13" column="26" />
