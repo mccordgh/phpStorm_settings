@@ -64,7 +64,7 @@
       <file name="$USER_HOME$/bernieportal/app/Views/Composers/Sidebar/TimeComposer.php" timestamp="1496787657266">
         <mark key="[" line="41" column="11" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/status-message.vue" timestamp="1502988700573" />
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/status-message.vue" timestamp="1502995066240" />
       <file name="$USER_HOME$/workspace/gamepad_api_demo/index.html" timestamp="1501271743681">
         <mark key="[" line="3" column="0" />
       </file>
@@ -121,6 +121,7 @@
       <file name="$USER_HOME$/bernieportal/legacy/BhReportsModule.php" timestamp="1502138500148">
         <mark key="[" line="470" column="27" />
       </file>
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/benefit-provider/current-enrollment.vue" timestamp="1502995100486" />
       <file name="$USER_HOME$/bernieportal/resources/views/dashboards/sidebar/employer-employee-items.blade.php" timestamp="1502480216885">
         <mark key="[" line="3" column="43" />
       </file>
@@ -200,7 +201,7 @@
       <file name="$USER_HOME$/bernieportal/app/Views/Composers/Sidebar/Sidebar.php" timestamp="1495661096600">
         <mark key="[" line="46" column="10" />
       </file>
-      <file name="/Dummy.txt" timestamp="1502987076695">
+      <file name="/Dummy.txt" timestamp="1502995092138">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/candidate/individual-application.vue" timestamp="1493136831791">
@@ -211,6 +212,9 @@
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/js/current-user-id.js" timestamp="1499278658594">
         <mark key="[" line="2" column="63" />
+      </file>
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/billing/benefit-billing-current.vue" timestamp="1502995203940">
+        <mark key="[" line="191" column="35" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/popover.vue" timestamp="1492636708489">
         <mark key="[" line="13" column="26" />
@@ -439,7 +443,7 @@
         <text encoding="base64">IGQgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
-        <text>2449</text>
+        <text>vsp</text>
       </register>
     </registers>
     <search>
@@ -485,7 +489,6 @@
         <entry>31</entry>
         <entry>57</entry>
         <entry>244</entry>
-        <entry>vsp</entry>
         <entry>248</entry>
         <entry>2452</entry>
         <entry>791</entry>
@@ -493,6 +496,7 @@
         <entry>109</entry>
         <entry>41</entry>
         <entry>2449</entry>
+        <entry>vsp</entry>
       </history-cmd>
       <history-expr />
       <history-input />
