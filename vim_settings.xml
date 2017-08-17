@@ -179,10 +179,14 @@
       <file name="$USER_HOME$/bernieportal/resources/views/layout/nav/user.blade.php" timestamp="1494275620716">
         <mark key="[" line="62" column="74" />
       </file>
-      <file name="/PHP Console" timestamp="1502988522186">
+      <file name="/PHP Console" timestamp="1502998354439">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/billing/benefit-billing-past.vue" timestamp="1502987634606" />
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/billing/benefit-billing-past.vue" timestamp="1502998111979">
+        <mark key="[" line="90" column="44" />
+        <mark key="]" line="90" column="44" />
+        <mark key="." line="90" column="44" />
+      </file>
       <file name="$USER_HOME$/bernieportal/app/Ats/Repositories/JobCandidateRepository.php" timestamp="1502732569985">
         <mark key="[" line="36" column="25" />
       </file>
@@ -213,8 +217,10 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/js/current-user-id.js" timestamp="1499278658594">
         <mark key="[" line="2" column="63" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/billing/benefit-billing-current.vue" timestamp="1502995203940">
-        <mark key="[" line="191" column="35" />
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/billing/benefit-billing-current.vue" timestamp="1502997452859">
+        <mark key="]" line="128" column="15" />
+        <mark key="." line="128" column="15" />
+        <mark key="^" line="128" column="15" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/popover.vue" timestamp="1492636708489">
         <mark key="[" line="13" column="26" />
@@ -401,13 +407,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>User</text>
+        <text />
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>User</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZWFyY2hEZXRhaWxzXD4=</text>
@@ -416,10 +422,10 @@
         <text>color .5s ease-in;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -427,20 +433,20 @@
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgPGJwLWxvYWRpbmctcG9wdXA+CiAgICAgIAogICAgPC9icC1sb2FkaW5nLXBvcHVwPg==</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgPGJwLWxvYWRpbmctcG9wdXA+CiAgICAgIAogICAgPC9icC1sb2FkaW5nLXBvcHVwPg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKCRkaXNwbGF5TmFtZSA9PSAnJykgewo=</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">Ly8gICAgICAgIGlmIChpc3NldCgkdGhpcy0+dXNlci0+dXNlcl90eXBlKSAmJiAkdGhpcy0+dXNlci0+dXNlcl90eXBlID09IFVzZXI6OkVNUExPWUVSKSB7Ci8vICAgICAgICAgICAgJGZpcnN0TmFtZSA9ICR0aGlzLT51c2VyLT5lbXBsb3llcl9uYW1lID8/ICRmaXJzdE5hbWU7Ci8vICAgICAgICB9</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">IGQgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKCRkaXNwbGF5TmFtZSA9PSAnJykgewo=</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
