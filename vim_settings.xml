@@ -15,7 +15,6 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/js/bernie-portal.js" timestamp="1501186843138">
         <mark key="[" line="480" column="35" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Carriers/Billing/BillingPdfRepository.php" timestamp="1502912220486" />
       <file name="$USER_HOME$/bernieportal/app/Ats/Candidate.php" timestamp="1502737804653">
         <mark key="[" line="32" column="86" />
       </file>
@@ -66,14 +65,12 @@
       <file name="$USER_HOME$/bernieportal/app/Api/Transformers/Time/TimesheetTransformer.php" timestamp="1499884159706">
         <mark key="[" line="32" column="27" />
       </file>
-      <file name="$USER_HOME$/bernieportal/legacy/EmployeeRegModule.php" timestamp="1502980389987" />
       <file name="$USER_HOME$/bernieportal/app/Api/Transformers/UserTransformer.php" timestamp="1495663599299">
         <mark key="[" line="16" column="24" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/thread/thread-modal.vue" timestamp="1493229662131">
         <mark key="[" line="80" column="58" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/views/billing/base-guardian-bill.blade.php" timestamp="1502911565060" />
       <file name="$USER_HOME$/bernieportal/resources/assets/components/loading-popup.vue" timestamp="1498514478199">
         <mark key="[" line="8" column="27" />
       </file>
@@ -99,7 +96,6 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/js/current-user-id.js" timestamp="1499278658594">
         <mark key="[" line="2" column="63" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/billing/benefit-billing-current.vue" timestamp="1502910628983" />
       <file name="/fragment.php" timestamp="1502981225112">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
@@ -157,7 +153,12 @@
         <mark key="." line="2" column="39" />
         <mark key="^" line="0" column="24" />
       </file>
-      <file name="$USER_HOME$/bernieportal/legacy/ClientPortalModule.php" timestamp="1502982073532" />
+      <file name="$USER_HOME$/bernieportal/legacy/ClientPortalModule.php" timestamp="1502983274592">
+        <mark key="[" line="2448" column="54" />
+        <mark key="]" line="2448" column="54" />
+        <mark key="." line="2448" column="54" />
+        <mark key="^" line="2448" column="53" />
+      </file>
       <file name="$USER_HOME$/bernieportal/app/Data/Gateways/Plans/DatabaseRateGateway.php" timestamp="1500561299485">
         <mark key="[" line="54" column="20" />
       </file>
@@ -170,7 +171,6 @@
       <file name="$USER_HOME$/bernieportal/resources/views/dashboards/sidebar/benefits.blade.php" timestamp="1499974671996">
         <mark key="[" line="5" column="31" />
       </file>
-      <file name="$USER_HOME$/bernieportal/legacy/ClienteleUserModule.php" timestamp="1502980680739" />
       <file name="$USER_HOME$/workspace/gamepad_api_demo/index.html" timestamp="1501271743681">
         <mark key="[" line="3" column="0" />
       </file>
@@ -192,8 +192,6 @@
       <file name="$USER_HOME$/bernieportal/public/sites/all/themes/bernard/template.php" timestamp="1502920203387">
         <mark key="[" line="256" column="36" />
       </file>
-      <file name="$USER_HOME$/bernieportal/legacy/EmployerProfile/EmployerProfile.php" timestamp="1502980472325" />
-      <file name="$USER_HOME$/bernieportal/app/Carriers/Billing/AllStateRules.php" timestamp="1502911071008" />
       <file name="$USER_HOME$/bernieportal/legacy/BhReportsModule.php" timestamp="1502138500148">
         <mark key="[" line="470" column="27" />
       </file>
@@ -238,7 +236,7 @@
       <file name="$USER_HOME$/bernieportal/resources/views/layout/nav/user.blade.php" timestamp="1494275620716">
         <mark key="[" line="62" column="74" />
       </file>
-      <file name="/PHP Console" timestamp="1502982104823">
+      <file name="/PHP Console" timestamp="1502983217174">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/time/subgroups/index.vue" timestamp="1493133715565">
@@ -285,7 +283,6 @@
         <mark key="]" line="13458" column="125" />
         <mark key="." line="13458" column="125" />
       </file>
-      <file name="$USER_HOME$/bernieportal/public/sites/all/modules/client_portal/client_portal.module" timestamp="1502979456377" />
       <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/components/hiring-team.vue" timestamp="1493220766505">
         <mark key="[" line="77" column="56" />
       </file>
@@ -412,14 +409,14 @@
       <jump line="127" column="22" filename="$USER_HOME$/bernieportal/resources/assets/components/benefit-provider/client-list.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IDogJGRpc3BsYXlOYW1l</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dGhpcy0+dXNlci0+</text>
+        <text encoding="base64">IDogJGRpc3BsYXlOYW1l</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZWFyY2hEZXRhaWxzXD4=</text>
@@ -455,7 +452,7 @@
         <text encoding="base64">ICAgIGxvb3AoKTsKCiAgfQ==</text>
       </register>
       <register name=":" type="4">
-        <text>41</text>
+        <text>2449</text>
       </register>
     </registers>
     <search>
@@ -489,7 +486,6 @@
         <entry encoding="base64">XDxzZWFyY2hEZXRhaWxzXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>78</entry>
         <entry>145</entry>
         <entry>80</entry>
         <entry>59</entry>
@@ -509,6 +505,7 @@
         <entry>48</entry>
         <entry>109</entry>
         <entry>41</entry>
+        <entry>2449</entry>
       </history-cmd>
       <history-expr />
       <history-input />
