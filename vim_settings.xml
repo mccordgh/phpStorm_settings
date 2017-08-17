@@ -102,7 +102,7 @@
         <mark key="[" line="2" column="63" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/billing/benefit-billing-current.vue" timestamp="1502910628983" />
-      <file name="/fragment.php" timestamp="1502920292110">
+      <file name="/fragment.php" timestamp="1502977093879">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
@@ -165,7 +165,7 @@
         <mark key="." line="2" column="39" />
         <mark key="^" line="0" column="24" />
       </file>
-      <file name="$USER_HOME$/bernieportal/legacy/ClientPortalModule.php" timestamp="1502921380521">
+      <file name="$USER_HOME$/bernieportal/legacy/ClientPortalModule.php" timestamp="1502976808687">
         <mark key="[" line="2450" column="59" />
         <mark key="]" line="2450" column="59" />
         <mark key="." line="2450" column="59" />
@@ -249,7 +249,7 @@
       <file name="$USER_HOME$/bernieportal/resources/views/layout/nav/user.blade.php" timestamp="1494275620716">
         <mark key="[" line="62" column="74" />
       </file>
-      <file name="/PHP Console" timestamp="1502920868992">
+      <file name="/PHP Console" timestamp="1502977087745">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/time/subgroups/index.vue" timestamp="1493133715565">
