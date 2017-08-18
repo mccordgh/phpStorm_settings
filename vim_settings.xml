@@ -25,8 +25,8 @@
       <file name="$USER_HOME$/bernieportal/app/Ats/Candidate.php" timestamp="1502737804653">
         <mark key="[" line="32" column="86" />
       </file>
-      <file name="$USER_HOME$/workspace/php/testProject/resources/views/home.blade.php" timestamp="1503086796064">
-        <mark key="[" line="5" column="52" />
+      <file name="$USER_HOME$/workspace/php/testProject/resources/views/home.blade.php" timestamp="1503089116577">
+        <mark key="[" line="5" column="31" />
         <mark key="]" line="5" column="38" />
         <mark key="." line="5" column="38" />
         <mark key="^" line="5" column="38" />
@@ -143,11 +143,11 @@
       <file name="$USER_HOME$/bernieportal/app/Http/Kernel.php" timestamp="1497988660759">
         <mark key="[" line="5" column="55" />
       </file>
-      <file name="$USER_HOME$/workspace/php/testProject/resources/views/layout.blade.php" timestamp="1503086434355">
-        <mark key="[" line="2" column="28" />
-        <mark key="]" line="2" column="27" />
+      <file name="$USER_HOME$/workspace/php/testProject/resources/views/layout.blade.php" timestamp="1503089086542">
+        <mark key="[" line="12" column="26" />
+        <mark key="]" line="2" column="15" />
         <mark key="^" line="2" column="27" />
-        <mark key="." line="2" column="27" />
+        <mark key="." line="2" column="15" />
       </file>
       <file name="$USER_HOME$/bernieportal/legacy/UserManagementModule.php" timestamp="1494343921488">
         <mark key="[" line="505" column="30" />
@@ -473,14 +473,14 @@
       <jump line="1" column="15" filename="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/states/game-state.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHt7ICRyZXF1ZXN0IH19Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">VGVzdCBTaXRlIEJSTyA+Pg==</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>, $request)</text>
+        <text encoding="base64">VGVzdCBTaXRlIEJSTyA+Pg==</text>
       </register>
       <register name="/" type="4">
         <text>tree</text>
