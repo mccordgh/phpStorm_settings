@@ -80,6 +80,7 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/thread/thread-modal.vue" timestamp="1493229662131">
         <mark key="[" line="80" column="58" />
       </file>
+      <file name="$USER_HOME$/bernieportal/resources/views/billing/base-guardian-bill.blade.php" timestamp="1503063549164" />
       <file name="$USER_HOME$/bernieportal/resources/assets/components/loading-popup.vue" timestamp="1498514478199">
         <mark key="[" line="8" column="27" />
       </file>
@@ -106,12 +107,6 @@
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/js/current-user-id.js" timestamp="1499278658594">
         <mark key="[" line="2" column="63" />
-      </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/billing/benefit-billing-current.vue" timestamp="1503001017252">
-        <mark key="[" line="168" column="0" />
-        <mark key="]" line="168" column="6" />
-        <mark key="." line="168" column="6" />
-        <mark key="^" line="144" column="26" />
       </file>
       <file name="$USER_HOME$/workspace/gamepad_api_demo/main.css" timestamp="1501271749114">
         <mark key="[" line="5" column="10" />
@@ -456,7 +451,7 @@
 }</text>
       </register>
       <register name=":" type="4">
-        <text>vsp</text>
+        <text>137</text>
       </register>
     </registers>
     <search>
@@ -490,7 +485,6 @@
         <entry>tree</entry>
       </history-search>
       <history-cmd>
-        <entry>145</entry>
         <entry>80</entry>
         <entry>59</entry>
         <entry>149</entry>
@@ -510,6 +504,7 @@
         <entry>41</entry>
         <entry>2449</entry>
         <entry>vsp</entry>
+        <entry>137</entry>
       </history-cmd>
       <history-expr />
       <history-input />
