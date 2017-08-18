@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/workspace/php/testProject/app/Http/Controllers/ContactController.php" timestamp="1503087041690">
+        <mark key="[" line="8" column="6" />
+      </file>
       <file name="$USER_HOME$/bernieportal/public/sites/all/modules/payroll/payroll.module" timestamp="1503066046637" />
       <file name="$USER_HOME$/bernieportal/resources/assets/components/billing/benefit-billing.vue" timestamp="1502984960309">
         <mark key="[" line="0" column="10" />
@@ -22,6 +25,12 @@
       <file name="$USER_HOME$/bernieportal/app/Ats/Candidate.php" timestamp="1502737804653">
         <mark key="[" line="32" column="86" />
       </file>
+      <file name="$USER_HOME$/workspace/php/testProject/resources/views/home.blade.php" timestamp="1503086796064">
+        <mark key="[" line="5" column="52" />
+        <mark key="]" line="5" column="38" />
+        <mark key="." line="5" column="38" />
+        <mark key="^" line="5" column="38" />
+      </file>
       <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/Edi/SchedulersController.php" timestamp="1494362868134">
         <mark key="[" line="32" column="44" />
       </file>
@@ -33,32 +42,11 @@
         <mark key="]" line="83" column="8" />
         <mark key="." line="83" column="8" />
       </file>
-      <file name="$USER_HOME$/workspace/php/testProject/routes/web.php" timestamp="1503082780446">
-        <mark key="[" line="15" column="45" />
-        <mark key="]" line="15" column="17" />
-        <mark key="." line="15" column="17" />
-        <mark key="^" line="15" column="48" />
-      </file>
-      <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/states/game-state.js" timestamp="1503059182978">
-        <mark key="'" line="3" column="15" />
-        <mark key="[" line="0" column="39" />
-        <mark key="]" line="0" column="14" />
-        <mark key="^" line="0" column="14" />
-        <mark key="." line="0" column="14" />
-      </file>
-      <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/worlds/world.js" timestamp="1503059516817">
-        <mark key="'" line="60" column="3" />
-        <mark key="[" line="41" column="13" />
-        <mark key="]" line="72" column="11" />
-        <mark key="^" line="45" column="7" />
-        <mark key="." line="72" column="11" />
-      </file>
-      <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/styles/main.css" timestamp="1503058301502">
-        <mark key="'" line="9" column="42" />
-        <mark key="[" line="16" column="5" />
-        <mark key="]" line="16" column="6" />
-        <mark key="." line="16" column="6" />
-        <mark key="^" line="16" column="6" />
+      <file name="$USER_HOME$/workspace/php/testProject/routes/web.php" timestamp="1503086573825">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="4" column="48" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Navigation/Items.php" timestamp="1498597315962">
         <mark key="[" line="83" column="5" />
@@ -155,6 +143,12 @@
       <file name="$USER_HOME$/bernieportal/app/Http/Kernel.php" timestamp="1497988660759">
         <mark key="[" line="5" column="55" />
       </file>
+      <file name="$USER_HOME$/workspace/php/testProject/resources/views/layout.blade.php" timestamp="1503086434355">
+        <mark key="[" line="2" column="28" />
+        <mark key="]" line="2" column="27" />
+        <mark key="^" line="2" column="27" />
+        <mark key="." line="2" column="27" />
+      </file>
       <file name="$USER_HOME$/bernieportal/legacy/UserManagementModule.php" timestamp="1494343921488">
         <mark key="[" line="505" column="30" />
       </file>
@@ -190,11 +184,15 @@
       </file>
       <file name="$USER_HOME$/workspace/Defend_The_Castle/js/app/classes/worlds/World.js" timestamp="1503059251805" />
       <file name="$USER_HOME$/bernieportal/public/sites/all/modules/employee_portal/employee_portal.module" timestamp="1503070671754" />
+      <file name="$USER_HOME$/bernieportal/app/Http/routes.php" timestamp="1503085942664" />
       <file name="$USER_HOME$/bernieportal/legacy/ClientPortalModule.php" timestamp="1502988755352">
         <mark key="[" line="2789" column="8" />
         <mark key="]" line="2783" column="36" />
         <mark key="^" line="2783" column="56" />
         <mark key="." line="2783" column="36" />
+      </file>
+      <file name="$USER_HOME$/workspace/php/testProject/app/Http/Controllers/AboutController.php" timestamp="1503087047066">
+        <mark key="[" line="8" column="6" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Data/Gateways/Plans/DatabaseRateGateway.php" timestamp="1500561299485">
         <mark key="[" line="54" column="20" />
@@ -217,6 +215,12 @@
       <file name="$USER_HOME$/workspace/gamepad_api_demo/index.html" timestamp="1501271743681">
         <mark key="[" line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/input/key-manager.js" timestamp="1503057103869">
+        <mark key="[" line="2" column="7" />
+        <mark key="]" line="2" column="8" />
+        <mark key="^" line="3" column="5" />
+        <mark key="." line="2" column="8" />
+      </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/time/summary-table.vue" timestamp="1496776949409">
         <mark key="[" line="39" column="46" />
       </file>
@@ -235,6 +239,12 @@
       <file name="$USER_HOME$/bernieportal/public/sites/all/themes/bernard/template.php" timestamp="1502920203387">
         <mark key="[" line="256" column="36" />
       </file>
+      <file name="$USER_HOME$/workspace/php/testProject/resources/views/about.blade.php" timestamp="1503087095375">
+        <mark key="[" line="5" column="40" />
+        <mark key="]" line="5" column="39" />
+        <mark key="^" line="5" column="39" />
+        <mark key="." line="5" column="39" />
+      </file>
       <file name="$USER_HOME$/bernieportal/legacy/BhReportsModule.php" timestamp="1502138500148">
         <mark key="[" line="470" column="27" />
       </file>
@@ -252,6 +262,16 @@
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/sortable.vue" timestamp="1494448912691">
         <mark key="[" line="2" column="58" />
+      </file>
+      <file name="$USER_HOME$/workspace/php/testProject/resources/views/contact.blade.php" timestamp="1503087089626">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/php/testProject/app/Http/Controllers/HomeController.php" timestamp="1503087037352">
+        <mark key="[" line="10" column="26" />
+        <mark key="]" line="10" column="26" />
+        <mark key="." line="10" column="26" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Data/Gateways/Benefits/BenefitGateway.php" timestamp="1500584485332">
         <mark key="[" line="4" column="28" />
@@ -293,13 +313,6 @@
       </file>
       <file name="/Dummy.txt" timestamp="1503066203745">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/game.js" timestamp="1503059452293">
-        <mark key="'" line="46" column="40" />
-        <mark key="[" line="2" column="35" />
-        <mark key="]" line="2" column="16" />
-        <mark key="^" line="2" column="16" />
-        <mark key="." line="2" column="16" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/popover.vue" timestamp="1492636708489">
         <mark key="[" line="13" column="26" />
@@ -460,14 +473,14 @@
       <jump line="1" column="15" filename="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/states/game-state.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>/create</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHt7ICRyZXF1ZXN0IH19Cg==</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>/create</text>
+        <text>, $request)</text>
       </register>
       <register name="/" type="4">
         <text>tree</text>
@@ -476,45 +489,41 @@
         <text>color .5s ease-in;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHt7ICRyZXF1ZXN0IH19Cg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">QHNlY3Rpb24oJ2NvbnRlbnQnKQogICAgPGgxPjwvaDE+Cg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>return 'SMELLO WORLD';
-});</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">Um91dGU6Omdyb3VwKFsnZG9tYWluJyA9PiAnc3ViYnkudGVzdFByb2plY3QuY29tJ10sIGZ1bmN0aW9uICgpIHsKICAgIFJvdXRlOjpnZXQoJy8nLCBmdW5jdGlvbiAoKSB7CiAgICAgICAgcmV0dXJuICdIZWxsbyBURVNUIFNVQkRPTUFJTic7CiAgICB9KTsKfSk7</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">IAo=</text>
+      <register name="5" type="4">
+        <text>/*
+|--------------------------------------------------------------------------
+| Web Routes
+|--------------------------------------------------------------------------
+|
+| Here is where you can register web routes for your application. These
+| routes are loaded by the RouteServiceProvider within a group which
+| contains the &quot;web&quot; middleware group. Now create something great!
+|
+*/</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">ICJzY3JpcHRzIjogewogICAgInBvc3QtaW5zdGFsbC1jbWQiOiBbCiAgICAgICJwaHAgYXJ0aXNhbiBjbGVhci1jb21waWxlZCIsCiAgICAgICJwaHAgYXJ0aXNhbiBvcHRpbWl6ZSIsCiAgICAgICJwaHAgYXJ0aXNhbiBicDpidWlsZC1jb25zdGFudHMiCiAgICBdLAogICAgInByZS11cGRhdGUtY21kIjogWwogICAgICAicGhwIGFydGlzYW4gY2xlYXItY29tcGlsZWQiCiAgICBdLAogICAgInBvc3QtdXBkYXRlLWNtZCI6IFsKICAgICAgInBocCBhcnRpc2FuIG9wdGltaXplIgogICAgXSwKICAgICJwb3N0LXJvb3QtcGFja2FnZS1pbnN0YWxsIjogWwogICAgICAicGhwIC1yIFwiY29weSgnLmVudi5leGFtcGxlJywgJy5lbnYnKTtcIiIKICAgIF0sCiAgICAicG9zdC1jcmVhdGUtcHJvamVjdC1jbWQiOiBbCiAgICAgICJwaHAgYXJ0aXNhbiBrZXk6Z2VuZXJhdGUiCiAgICBdCiAgfSw=</text>
+        <text encoding="base64">ClJvdXRlOjpnZXQoJy9yZWRpcmVjdCcsIGZ1bmN0aW9uKCkgewogICAgcmV0dXJuIHJlZGlyZWN0KCcvJyk7Cn0pOw==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>//  &quot;autoload&quot;: {
-//    &quot;classmap&quot;: [
-//      &quot;database&quot;
-//    ],
-//    &quot;psr-4&quot;: {
-//      &quot;BerniePortal\\&quot;: &quot;app/&quot;,
-//      &quot;Brandy\\&quot;: &quot;legacy/&quot;
-//    }
-//  },
-//  &quot;autoload-dev&quot;: {
-//    &quot;classmap&quot;: [
-//      &quot;tests/TestCase.php&quot;
-//    ]
-//  },</text>
-      </register>
-      <register name="9" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="4">
+        <text>return 'SMELLO WORLD';
+});</text>
       </register>
       <register name=":" type="4">
         <text>355</text>
