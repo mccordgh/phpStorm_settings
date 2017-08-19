@@ -24,11 +24,11 @@
       <file name="$USER_HOME$/bernieportal/app/Ats/Candidate.php" timestamp="1502737804653">
         <mark key="[" line="32" column="86" />
       </file>
-      <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/tiles/tile.js" timestamp="1503155303426">
-        <mark key="[" line="22" column="11" />
-        <mark key="]" line="22" column="11" />
-        <mark key="." line="22" column="11" />
-        <mark key="^" line="0" column="15" />
+      <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/tiles/tile.js" timestamp="1503163883081">
+        <mark key="[" line="26" column="22" />
+        <mark key="]" line="13" column="21" />
+        <mark key="." line="13" column="21" />
+        <mark key="^" line="13" column="21" />
       </file>
       <file name="$USER_HOME$/workspace/php/testProject/resources/views/home.blade.php" timestamp="1503089116577">
         <mark key="[" line="5" column="31" />
@@ -48,11 +48,11 @@
         <mark key="^" line="4" column="48" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/worlds/world.js" timestamp="1503154328567">
-        <mark key="[" line="12" column="31" />
-        <mark key="]" line="12" column="31" />
-        <mark key="." line="12" column="31" />
-        <mark key="^" line="2" column="13" />
+      <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/worlds/world.js" timestamp="1503163861982">
+        <mark key="[" line="55" column="46" />
+        <mark key="]" line="66" column="37" />
+        <mark key="." line="66" column="37" />
+        <mark key="^" line="66" column="37" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Navigation/Items.php" timestamp="1498597315962">
         <mark key="[" line="83" column="5" />
@@ -103,11 +103,11 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/date-input.vue" timestamp="1497290311015">
         <mark key="[" line="10" column="36" />
       </file>
-      <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/gfx/assets.js" timestamp="1503154800565">
-        <mark key="[" line="39" column="27" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
-        <mark key="^" line="1" column="20" />
+      <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/gfx/assets.js" timestamp="1503163401614">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="6" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Views/Composers/Sidebar/Sidebar.php" timestamp="1495661096600">
         <mark key="[" line="46" column="10" />
@@ -154,8 +154,8 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/create-job/hiring.vue" timestamp="1493221091097">
         <mark key="[" line="11" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/display/display.js" timestamp="1503153237553">
-        <mark key="[" line="0" column="38" />
+      <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/display/display.js" timestamp="1503163826571">
+        <mark key="[" line="36" column="86" />
         <mark key="]" line="0" column="15" />
         <mark key="." line="0" column="15" />
         <mark key="^" line="0" column="15" />
@@ -169,11 +169,11 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/aca/employees/employees-list.vue" timestamp="1498596747533">
         <mark key="[" line="46" column="10" />
       </file>
-      <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/tiles/tile-loader.js" timestamp="1503155115997">
+      <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/tiles/tile-loader.js" timestamp="1503164261058">
         <mark key="[" line="4" column="17" />
-        <mark key="]" line="6" column="28" />
-        <mark key="." line="6" column="28" />
-        <mark key="^" line="7" column="26" />
+        <mark key="]" line="5" column="28" />
+        <mark key="." line="5" column="28" />
+        <mark key="^" line="6" column="26" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/thread/candidate-job-message-modal.vue" timestamp="1493229583139">
         <mark key="[" line="13" column="61" />
@@ -324,7 +324,7 @@
         <mark key="." line="5" column="5" />
         <mark key="^" line="5" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1503153462833">
+      <file name="/Dummy.txt" timestamp="1503164287700">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/game.js" timestamp="1503154546799">
@@ -382,9 +382,8 @@
         <mark key="[" line="2" column="10" />
       </file>
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/tiles/path.js" timestamp="1503155158368">
-        <mark key="[" line="4" column="31" />
-        <mark key="]" line="5" column="10" />
-        <mark key="." line="5" column="10" />
+        <mark key="]" line="4" column="10" />
+        <mark key="." line="4" column="10" />
         <mark key="^" line="0" column="19" />
       </file>
     </filemarks>
@@ -491,14 +490,14 @@
       <jump line="1" column="15" filename="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/states/game-state.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>this</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMudGlsZU1hbmFnZXIpOwogICAgbGV0IHRtcFRpbGUgPSB0aGlzLnRpbGVNYW5hZ2VyLnRpbGVzW3RoaXMudGlsZXNbX3hdW195XV07Cg==</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>this</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>tree</text>
@@ -507,13 +506,13 @@
         <text>color .5s ease-in;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgR2FtZSB9IGZyb20gJy4vZ2FtZSc7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMudGlsZU1hbmFnZXIpOwogICAgbGV0IHRtcFRpbGUgPSB0aGlzLnRpbGVNYW5hZ2VyLnRpbGVzW3RoaXMudGlsZXNbX3hdW195XV07Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgR2FtZSB9IGZyb20gJy4vZ2FtZSc7Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -525,19 +524,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
         <text encoding="base64">aW1wb3J0IHsgTGF1bmNoZXJ9IGZyb20gJy4vY2xhc3Nlcy9sYXVuY2hlci5qcyc7Cg==</text>
-      </register>
-      <register name="8" type="4">
-        <text>const launcher = new Launcher(&quot;Lost!&quot;, 512, 482);
-launcher.start();</text>
-      </register>
-      <register name="9" type="4">
-        <text>export class Launcher {
-  constructor(title, width, height) {
-    this.title = title;
-    this.width = width;
-    this.height = height;
-  }</text>
       </register>
       <register name=":" type="4">
         <text>355</text>
