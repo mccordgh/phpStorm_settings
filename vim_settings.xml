@@ -25,10 +25,10 @@
         <mark key="[" line="32" column="86" />
       </file>
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/index.html" timestamp="1503171563285" />
-      <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/tiles/tile.js" timestamp="1503244787949">
-        <mark key="[" line="21" column="53" />
-        <mark key="]" line="21" column="53" />
-        <mark key="." line="21" column="53" />
+      <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/tiles/tile.js" timestamp="1503247347730">
+        <mark key="[" line="1" column="19" />
+        <mark key="]" line="1" column="19" />
+        <mark key="." line="1" column="19" />
         <mark key="^" line="0" column="15" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/Edi/SchedulersController.php" timestamp="1494362868134">
@@ -37,7 +37,7 @@
       <file name="$USER_HOME$/bernieportal/app/Views/Composers/Sidebar/TimeComposer.php" timestamp="1496787657266">
         <mark key="[" line="41" column="11" />
       </file>
-      <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/worlds/world.js" timestamp="1503244703527">
+      <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/worlds/world.js" timestamp="1503247715018">
         <mark key="[" line="70" column="54" />
         <mark key="]" line="75" column="20" />
         <mark key="." line="75" column="20" />
@@ -84,10 +84,10 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/loading-popup.vue" timestamp="1498514478199">
         <mark key="[" line="8" column="27" />
       </file>
-      <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/entities/creatures/creature.js" timestamp="1503245655059">
-        <mark key="[" line="77" column="60" />
-        <mark key="]" line="6" column="28" />
-        <mark key="." line="6" column="28" />
+      <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/entities/creatures/creature.js" timestamp="1503247808631">
+        <mark key="[" line="5" column="27" />
+        <mark key="]" line="5" column="27" />
+        <mark key="." line="5" column="27" />
         <mark key="^" line="1" column="18" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Ats/Repositories/JobCandidateRepository.php" timestamp="1502732569985">
@@ -96,10 +96,10 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/date-input.vue" timestamp="1497290311015">
         <mark key="[" line="10" column="36" />
       </file>
-      <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/gfx/assets.js" timestamp="1503246206830">
-        <mark key="[" line="34" column="34" />
-        <mark key="]" line="34" column="34" />
-        <mark key="." line="34" column="34" />
+      <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/gfx/assets.js" timestamp="1503247485835">
+        <mark key="[" line="44" column="57" />
+        <mark key="]" line="44" column="57" />
+        <mark key="." line="44" column="57" />
         <mark key="^" line="4" column="17" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Views/Composers/Sidebar/Sidebar.php" timestamp="1495661096600">
@@ -153,10 +153,7 @@
         <mark key="[" line="11" column="23" />
       </file>
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/display/display.js" timestamp="1503245345330">
-        <mark key="[" line="41" column="27" />
-        <mark key="]" line="41" column="27" />
         <mark key="^" line="40" column="21" />
-        <mark key="." line="41" column="27" />
       </file>
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/gfx/shapes/rectangle.js" timestamp="1503178299273">
         <mark key="[" line="8" column="15" />
@@ -307,7 +304,7 @@
       <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/ProfilePhotoController.php" timestamp="1499369572506">
         <mark key="[" line="29" column="8" />
       </file>
-      <file name="/Dummy.txt" timestamp="1503245649770">
+      <file name="/Dummy.txt" timestamp="1503247744875">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/Defend_The_Castle/js/app/classes/entities/creatures/monsters/Bat.js" timestamp="1503176608598">
@@ -334,10 +331,10 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/sass/_modal.scss" timestamp="1500415612390">
         <mark key="[" line="16" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/entities/creatures/player.js" timestamp="1503238129133">
-        <mark key="[" line="85" column="24" />
-        <mark key="]" line="85" column="24" />
-        <mark key="." line="85" column="24" />
+      <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/entities/creatures/player.js" timestamp="1503247542371">
+        <mark key="[" line="3" column="80" />
+        <mark key="]" line="15" column="24" />
+        <mark key="." line="15" column="24" />
         <mark key="^" line="0" column="15" />
       </file>
       <file name="$USER_HOME$/BerniePortalWiki/FooterBackup.html" timestamp="1502825749665">
@@ -480,13 +477,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>tiles</text>
+        <text>16</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>tiles</text>
+        <text>16</text>
       </register>
       <register name="/" type="4">
         <text>tree</text>
