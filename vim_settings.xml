@@ -42,10 +42,10 @@
       <file name="$USER_HOME$/bernieportal/app/Views/Composers/Sidebar/TimeComposer.php" timestamp="1496787657266">
         <mark key="[" line="41" column="11" />
       </file>
-      <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/worlds/world.js" timestamp="1503252657399">
-        <mark key="[" line="49" column="40" />
-        <mark key="]" line="49" column="39" />
-        <mark key="." line="49" column="39" />
+      <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/worlds/world.js" timestamp="1503254693240">
+        <mark key="[" line="46" column="45" />
+        <mark key="]" line="46" column="45" />
+        <mark key="." line="46" column="45" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Navigation/Items.php" timestamp="1498597315962">
         <mark key="[" line="83" column="5" />
@@ -481,13 +481,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text />
+        <text>// + (y * this.width)) + 4]);</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text />
+        <text>// + (y * this.width)) + 4]);</text>
       </register>
       <register name="/" type="4">
         <text>tree</text>
