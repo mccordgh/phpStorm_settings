@@ -3,11 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/worlds/maze-generator.js" timestamp="1503252617405">
-        <mark key="[" line="3" column="16" />
-        <mark key="]" line="3" column="17" />
-        <mark key="." line="3" column="17" />
-        <mark key="^" line="80" column="13" />
+      <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/worlds/maze-generator.js" timestamp="1503353443335">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/php/testProject/app/Http/Controllers/ContactController.php" timestamp="1503087041690">
         <mark key="[" line="8" column="6" />
@@ -42,10 +41,10 @@
       <file name="$USER_HOME$/bernieportal/app/Views/Composers/Sidebar/TimeComposer.php" timestamp="1496787657266">
         <mark key="[" line="41" column="11" />
       </file>
-      <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/worlds/world.js" timestamp="1503254693240">
-        <mark key="[" line="46" column="45" />
-        <mark key="]" line="46" column="45" />
-        <mark key="." line="46" column="45" />
+      <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/worlds/world.js" timestamp="1503352668979">
+        <mark key="[" line="41" column="27" />
+        <mark key="]" line="41" column="27" />
+        <mark key="." line="41" column="27" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Navigation/Items.php" timestamp="1498597315962">
         <mark key="[" line="83" column="5" />
@@ -342,8 +341,8 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/sass/_modal.scss" timestamp="1500415612390">
         <mark key="[" line="16" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/entities/creatures/player.js" timestamp="1503253406511">
-        <mark key="[" line="16" column="25" />
+      <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/entities/creatures/player.js" timestamp="1503352850993">
+        <mark key="[" line="13" column="21" />
         <mark key="]" line="120" column="27" />
         <mark key="." line="120" column="27" />
         <mark key="^" line="120" column="27" />
@@ -386,7 +385,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="127" column="34" filename="$USER_HOME$/bernieportal/app/Carriers/Billing/BillingRepository.php" />
       <jump line="128" column="45" filename="$USER_HOME$/bernieportal/app/Carriers/Billing/BillingRepository.php" />
       <jump line="129" column="17" filename="$USER_HOME$/bernieportal/app/Carriers/Billing/BillingRepository.php" />
       <jump line="131" column="80" filename="$USER_HOME$/bernieportal/app/Carriers/Billing/BillingRepository.php" />
@@ -486,16 +484,17 @@
       <jump line="58" column="44" filename="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/worlds/world.js" />
       <jump line="0" column="21" filename="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/gfx/game-camera.js" />
       <jump line="68" column="6" filename="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/worlds/maze-generator.js" />
+      <jump line="5" column="28" filename="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/worlds/maze-generator.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>$displayName</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>$displayName</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>tree</text>
@@ -507,28 +506,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHRoaXMuZmluYWxNYXplID0gW10K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICB9Cn0K</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAg</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAKICBpZiAocmFuZG9tTnVtIDwgMTkpIHJldHVybiAxOwogIGVsc2UgewogICAgcmV0dXJuIE1hdGguZmxvb3IoTWF0aC5yYW5kb20oKSAqIChtYXggLSBtaW4gKyAxKSkgKyBtaW47CiAgfQ==</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">aWYgKHJhbmRvbU51bSA8IDE5KSByZXR1cm4gMTsKICBlbHNlIHsKICAgIC8vIHNldCBtYXhpbXVtIGFuZCBtaW5pbXVtbiBudW1iZXIgZm9yIHdhbGwgaWRzICgyIGlzIHllbGxvdywgMyBpcyBibHVlKTsKICAgIHJldHVybiBNYXRoLmZsb29yKE1hdGgucmFuZG9tKCkgKiAobWF4IC0gbWluICsgMSkpICsgbWluOwogIH0=</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">CmNvbnN0</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>2788</text>
