@@ -201,11 +201,10 @@
         <mark key="^" line="0" column="19" />
         <mark key="." line="0" column="19" />
       </file>
-      <file name="$USER_HOME$/bernieportal/legacy/ClientPortalModule.php" timestamp="1503332090587">
-        <mark key="[" line="2799" column="36" />
-        <mark key="]" line="2801" column="40" />
-        <mark key="." line="2801" column="40" />
-        <mark key="^" line="2801" column="40" />
+      <file name="$USER_HOME$/bernieportal/legacy/ClientPortalModule.php" timestamp="1503334650060">
+        <mark key="[" line="2807" column="15" />
+        <mark key="]" line="2807" column="15" />
+        <mark key="." line="2807" column="15" />
       </file>
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/tiles/wall.js" timestamp="1503168456364">
         <mark key="[" line="5" column="39" />
@@ -299,7 +298,7 @@
       <file name="$USER_HOME$/bernieportal/resources/views/layout/nav/user.blade.php" timestamp="1494275620716">
         <mark key="[" line="62" column="74" />
       </file>
-      <file name="/PHP Console" timestamp="1503333980018">
+      <file name="/PHP Console" timestamp="1503334384388">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/worlds/maps/map.js" timestamp="1503149228566">
@@ -490,13 +489,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>User</text>
+        <text>$displayName</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>User</text>
+        <text>$displayName</text>
       </register>
       <register name="/" type="4">
         <text>tree</text>
