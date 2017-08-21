@@ -116,6 +116,11 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/js/current-user-id.js" timestamp="1499278658594">
         <mark key="[" line="2" column="63" />
       </file>
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/billing/benefit-billing-current.vue" timestamp="1503328826485">
+        <mark key="[" line="352" column="15" />
+        <mark key="]" line="352" column="15" />
+        <mark key="." line="352" column="15" />
+      </file>
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/tiles/tile-manager.js" timestamp="1503168347838">
         <mark key="[" line="4" column="41" />
         <mark key="]" line="8" column="0" />
@@ -291,7 +296,7 @@
       <file name="$USER_HOME$/bernieportal/resources/views/layout/nav/user.blade.php" timestamp="1494275620716">
         <mark key="[" line="62" column="74" />
       </file>
-      <file name="/PHP Console" timestamp="1503072797368">
+      <file name="/PHP Console" timestamp="1503328447023">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/worlds/maps/map.js" timestamp="1503149228566">
@@ -308,7 +313,7 @@
       <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/ProfilePhotoController.php" timestamp="1499369572506">
         <mark key="[" line="29" column="8" />
       </file>
-      <file name="/Dummy.txt" timestamp="1503250741991">
+      <file name="/Dummy.txt" timestamp="1503328659397">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/Defend_The_Castle/js/app/classes/entities/creatures/monsters/Bat.js" timestamp="1503176608598">
@@ -368,6 +373,7 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/aca/subgroups/list-1095.vue" timestamp="1493071790826">
         <mark key="[" line="32" column="28" />
       </file>
+      <file name="$USER_HOME$/bernieportal/legacy/EmployeePortalModule.php" timestamp="1503328318018" />
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/worlds/maps/map32x32Backup.js" timestamp="1503246147180">
         <mark key="[" line="0" column="13" />
         <mark key="]" line="0" column="13" />
@@ -481,13 +487,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>// + (y * this.width)) + 4]);</text>
+        <text>false</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>// + (y * this.width)) + 4]);</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>tree</text>
