@@ -4,9 +4,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
       <mask>*.xml</mask>
       <mask>*.java</mask>
       <mask>*.as</mask>
@@ -21,12 +18,22 @@
       <mask>*.ph</mask>
       <mask>*.p</mask>
       <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.v</mask>
       <mask>*.vu</mask>
       <mask>*.vue</mask>
       <mask>*.cs</mask>
       <mask>*.css</mask>
+      <mask>*blad.</mask>
+      <mask>*bla.</mask>
+      <mask>*bl.</mask>
+      <mask>*b.</mask>
+      <mask>*.</mask>
+      <mask>*.blad</mask>
+      <mask>*.blade</mask>
+      <mask>*.blade.</mask>
+      <mask>*.blade.p</mask>
+      <mask>*.blade.ph</mask>
+      <mask>*.blade.php</mask>
     </recentFileMasks>
   </component>
 </application>
