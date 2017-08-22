@@ -40,11 +40,22 @@
         <mark key="." line="1" column="19" />
         <mark key="^" line="0" column="15" />
       </file>
+      <file name="$USER_HOME$/workspace/php/testProject/resources/views/home.blade.php" timestamp="1503413978596">
+        <mark key="[" line="30" column="43" />
+        <mark key="]" line="35" column="40" />
+        <mark key="^" line="35" column="40" />
+        <mark key="." line="35" column="40" />
+      </file>
       <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/Edi/SchedulersController.php" timestamp="1494362868134">
         <mark key="[" line="32" column="44" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Views/Composers/Sidebar/TimeComposer.php" timestamp="1496787657266">
         <mark key="[" line="41" column="11" />
+      </file>
+      <file name="$USER_HOME$/workspace/php/testProject/routes/web.php" timestamp="1503412688570">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="3" column="19" />
+        <mark key="." line="3" column="19" />
       </file>
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/worlds/world.js" timestamp="1503357042142">
         <mark key="[" line="82" column="24" />
@@ -53,6 +64,12 @@
       </file>
       <file name="$USER_HOME$/bernieportal/app/Navigation/Items.php" timestamp="1498597315962">
         <mark key="[" line="83" column="5" />
+      </file>
+      <file name="$USER_HOME$/workspace/php/testProject/resources/views/greeting.blade.php" timestamp="1503411756029">
+        <mark key="[" line="6" column="33" />
+        <mark key="]" line="6" column="33" />
+        <mark key="." line="6" column="33" />
+        <mark key="^" line="6" column="6" />
       </file>
       <file name="$USER_HOME$/bernieportal/legacy/BenefitAttachModule.php" timestamp="1500652047978">
         <mark key="[" line="5441" column="26" />
@@ -113,6 +130,12 @@
       </file>
       <file name="$USER_HOME$/bernieportal/app/Views/Composers/Sidebar/Sidebar.php" timestamp="1495661096600">
         <mark key="[" line="46" column="10" />
+      </file>
+      <file name="$USER_HOME$/workspace/php/testProject/app/Http/Controllers/GreetingController.php" timestamp="1503412712860">
+        <mark key="[" line="6" column="29" />
+        <mark key="]" line="16" column="4" />
+        <mark key="^" line="16" column="4" />
+        <mark key="." line="16" column="4" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/candidate/individual-application.vue" timestamp="1493136831791">
         <mark key="[" line="70" column="120" />
@@ -203,8 +226,8 @@
         <mark key="]" line="2807" column="15" />
         <mark key="." line="2807" column="15" />
       </file>
-      <file name="$USER_HOME$/workspace/php/testProject/app/Http/Controllers/AboutController.php" timestamp="1503087047066">
-        <mark key="[" line="8" column="6" />
+      <file name="$USER_HOME$/workspace/php/testProject/app/Http/Controllers/AboutController.php" timestamp="1503412371066">
+        <mark key="[" line="8" column="50" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Data/Gateways/Plans/DatabaseRateGateway.php" timestamp="1500561299485">
         <mark key="[" line="54" column="20" />
@@ -217,6 +240,12 @@
       </file>
       <file name="$USER_HOME$/bernieportal/resources/views/dashboards/sidebar/benefits.blade.php" timestamp="1499974671996">
         <mark key="[" line="5" column="31" />
+      </file>
+      <file name="$USER_HOME$/workspace/php/testProject/resources/views/picture.blade.php" timestamp="1503413408571">
+        <mark key="[" line="6" column="27" />
+        <mark key="]" line="9" column="16" />
+        <mark key="." line="9" column="16" />
+        <mark key="^" line="9" column="16" />
       </file>
       <file name="$USER_HOME$/workspace/gamepad_api_demo/index.html" timestamp="1501271743681">
         <mark key="[" line="3" column="0" />
@@ -242,6 +271,12 @@
       <file name="$USER_HOME$/bernieportal/public/sites/all/themes/bernard/template.php" timestamp="1502920203387">
         <mark key="[" line="256" column="36" />
       </file>
+      <file name="$USER_HOME$/workspace/php/testProject/resources/views/about.blade.php" timestamp="1503412319213">
+        <mark key="[" line="7" column="37" />
+        <mark key="]" line="7" column="10" />
+        <mark key="." line="7" column="10" />
+        <mark key="^" line="7" column="10" />
+      </file>
       <file name="$USER_HOME$/bernieportal/legacy/BhReportsModule.php" timestamp="1502138500148">
         <mark key="[" line="470" column="27" />
       </file>
@@ -265,6 +300,17 @@
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/sortable.vue" timestamp="1494448912691">
         <mark key="[" line="2" column="58" />
+      </file>
+      <file name="$USER_HOME$/workspace/php/testProject/resources/views/contact.blade.php" timestamp="1503411045979">
+        <mark key="[" line="2" column="27" />
+        <mark key="]" line="2" column="27" />
+        <mark key="." line="2" column="27" />
+        <mark key="^" line="2" column="26" />
+      </file>
+      <file name="$USER_HOME$/workspace/php/testProject/app/Http/Controllers/PictureController.php" timestamp="1503414224541">
+        <mark key="[" line="14" column="56" />
+        <mark key="]" line="14" column="56" />
+        <mark key="." line="14" column="56" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Data/Gateways/Benefits/BenefitGateway.php" timestamp="1500584485332">
         <mark key="[" line="4" column="28" />
@@ -481,13 +527,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>false</text>
+        <text>'upload_path/filename.jpg'</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>'upload_path/filename.jpg'</text>
       </register>
       <register name="/" type="4">
         <text>tree</text>
@@ -496,34 +542,34 @@
         <text>color .5s ease-in;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICdwaWN0dXJlJyA9PiAkcGljdHVyZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHRpbGVNZW1vcnkgPSBbXTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0KICB9Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">JHBpY3R1cmUgPSAoCiAgICAgICAgICAkcmVxdWVzdC0+aGFzRmlsZSgncGljdHVyZScpICYmCiAgICAgICAgICAkcmVxdWVzdC0+ZmlsZSgncGljdHVyZScpLT5pc1ZhbGlkKCkKICAgICAgKQogICAgICAgICAgPyAkcGljdHVyZSA9ICRyZXF1ZXN0LT5maWxlKCdwaWN0dXJlJykKICAgICAgICAgIDogbnVsbDs=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">Zm9yIChsZXQgaSA9IDA7IGkgPCB0aGlzLnRpbGVzLmxlbmd0aDsgaSsrKSB7CiAgICB9CgogICAgcmV0dXJuIHRpbGVNZW1vcnk7</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IHRpbGVNZW1vcnkgPSBbXTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0KICB9Cg==</text>
       </register>
       <register name="8" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAKICBpZiAocmFuZG9tTnVtIDwgMTkpIHJldHVybiAxOwogIGVsc2UgewogICAgcmV0dXJuIE1hdGguZmxvb3IoTWF0aC5yYW5kb20oKSAqIChtYXggLSBtaW4gKyAxKSkgKyBtaW47CiAgfQ==</text>
-      </register>
       <register name=":" type="4">
-        <text>2788</text>
+        <text>vsp</text>
       </register>
     </registers>
     <search>
@@ -572,11 +618,11 @@
         <entry>109</entry>
         <entry>41</entry>
         <entry>2449</entry>
-        <entry>vsp</entry>
         <entry>137</entry>
         <entry>355</entry>
         <entry>2672</entry>
         <entry>2788</entry>
+        <entry>vsp</entry>
       </history-cmd>
       <history-expr />
       <history-input />
