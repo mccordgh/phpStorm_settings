@@ -116,6 +116,11 @@
       <file name="$USER_HOME$/bernieportal/app/Api/Transformers/Time/TimesheetTransformer.php" timestamp="1499884159706">
         <mark key="[" line="32" column="27" />
       </file>
+      <file name="$USER_HOME$/bernieportal/legacy/EmployeeRegModule.php" timestamp="1503523729272">
+        <mark key="[" line="6234" column="29" />
+        <mark key="]" line="6234" column="29" />
+        <mark key="." line="6234" column="29" />
+      </file>
       <file name="$USER_HOME$/bernieportal/app/Api/Transformers/UserTransformer.php" timestamp="1495663599299">
         <mark key="[" line="16" column="24" />
       </file>
@@ -142,6 +147,7 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/date-input.vue" timestamp="1497290311015">
         <mark key="[" line="10" column="36" />
       </file>
+      <file name="$USER_HOME$/bernieportal/public/sites/all/modules/employee_reg/employee_reg.module" timestamp="1503523154127" />
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/gfx/assets.js" timestamp="1503491328625">
         <mark key="[" line="5" column="14" />
         <mark key="]" line="5" column="14" />
@@ -177,7 +183,7 @@
         <mark key="." line="25" column="0" />
         <mark key="^" line="25" column="0" />
       </file>
-      <file name="/fragment.php" timestamp="1503437935666">
+      <file name="/fragment.php" timestamp="1503523715487">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
@@ -409,7 +415,7 @@
       <file name="$USER_HOME$/bernieportal/resources/views/layout/nav/user.blade.php" timestamp="1494275620716">
         <mark key="[" line="62" column="74" />
       </file>
-      <file name="/PHP Console" timestamp="1503521199768">
+      <file name="/PHP Console" timestamp="1503523855324">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/time/subgroups/index.vue" timestamp="1493133715565">
@@ -615,13 +621,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">JHRoaXMtPm9uYm9hcmRIaXJlLT5kb2N1bWVudHMtPmNvdW50KCkgPiAw</text>
+        <text>ROBBLE</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JHRoaXMtPm9uYm9hcmRIaXJlLT5kb2N1bWVudHMtPmNvdW50KCkgPiAw</text>
+        <text>ROBBLE</text>
       </register>
       <register name="/" type="4">
         <text>boogerstate</text>
@@ -657,7 +663,7 @@
         <text encoding="base64">Ly8gaWYgKGNvbG9yID09PSAnYmx1ZScpIHsKICAgICAgaWYgKGJsdWVUaWxlc0Rvd24pCiAgICAgICAgdGhpcy5zd2FwVGlsZXNCeUlEKDUsIDMpOwogICAgICBlbHNlCiAgICAgICAgdGhpcy5zd2FwVGlsZXNCeUlEKDMsIDUpOwoKICAgICAgYmx1ZVRpbGVzRG93biA9ICFibHVlVGlsZXNEb3duOwogICAgfQogICAgaWYgKHRoaXMuaGFuZGxlci5nZXRLZXlNYW5hZ2VyKCkuaykgewogICAgICBpZiAoZ3JlZW5UaWxlc0Rvd24pCiAgICAgICAgdGhpcy5zd2FwVGlsZXNCeUlEKDcsIDgpOwogICAgICBlbHNlCiAgICAgICAgdGhpcy5zd2FwVGlsZXNCeUlEKDgsIDcpOwoKICAgICA=</text>
       </register>
       <register name=":" type="4">
-        <text>121</text>
+        <text>88</text>
       </register>
     </registers>
     <search>
@@ -691,7 +697,6 @@
         <entry>boogerstate</entry>
       </history-search>
       <history-cmd>
-        <entry>232</entry>
         <entry>1182</entry>
         <entry>31</entry>
         <entry>57</entry>
@@ -711,6 +716,7 @@
         <entry>641</entry>
         <entry>238</entry>
         <entry>121</entry>
+        <entry>88</entry>
       </history-cmd>
       <history-expr />
       <history-input />
