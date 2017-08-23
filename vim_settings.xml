@@ -107,6 +107,9 @@
       <file name="$USER_HOME$/bernieportal/resources/views/dashboards/sidebar/employer-employee-items.blade.php" timestamp="1502480216885">
         <mark key="[" line="3" column="43" />
       </file>
+      <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/states/state.js" timestamp="1503516791795">
+        <mark key="[" line="1" column="24" />
+      </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/thread/candidate-message-modal.vue" timestamp="1493229628959">
         <mark key="[" line="55" column="58" />
       </file>
@@ -203,6 +206,9 @@
       <file name="$USER_HOME$/bernieportal/app/Http/Kernel.php" timestamp="1497988660759">
         <mark key="[" line="5" column="55" />
       </file>
+      <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/gfx/game-camera.js" timestamp="1503516675101">
+        <mark key="[" line="40" column="26" />
+      </file>
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/tiles/path-green.js" timestamp="1503451228820">
         <mark key="[" line="5" column="36" />
         <mark key="]" line="5" column="36" />
@@ -295,10 +301,11 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/time/summary-table.vue" timestamp="1496776949409">
         <mark key="[" line="39" column="46" />
       </file>
-      <file name="$USER_HOME$/bernieportal/legacy/BenefitConfigureModule.php" timestamp="1503428043515">
-        <mark key="[" line="1821" column="25" />
-        <mark key="]" line="1821" column="25" />
-        <mark key="." line="1821" column="25" />
+      <file name="$USER_HOME$/bernieportal/legacy/BenefitConfigureModule.php" timestamp="1503516672875">
+        <mark key="[" line="568" column="51" />
+        <mark key="]" line="569" column="7" />
+        <mark key="." line="569" column="7" />
+        <mark key="^" line="569" column="7" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/quaternary-nav-for-vue.vue" timestamp="1498594361234">
         <mark key="[" line="15" column="23" />
@@ -367,8 +374,8 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/sidebar/item.vue" timestamp="1492628890409">
         <mark key="[" line="52" column="2" />
       </file>
-      <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/utils/spatial-grid.js" timestamp="1503176261655">
-        <mark key="[" line="72" column="29" />
+      <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/utils/spatial-grid.js" timestamp="1503517553360">
+        <mark key="[" line="65" column="23" />
         <mark key="]" line="72" column="28" />
         <mark key="." line="72" column="28" />
         <mark key="^" line="72" column="28" />
@@ -402,7 +409,7 @@
       <file name="$USER_HOME$/bernieportal/resources/views/layout/nav/user.blade.php" timestamp="1494275620716">
         <mark key="[" line="62" column="74" />
       </file>
-      <file name="/PHP Console" timestamp="1503501879209">
+      <file name="/PHP Console" timestamp="1503514606206">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/time/subgroups/index.vue" timestamp="1493133715565">
