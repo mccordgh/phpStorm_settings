@@ -117,7 +117,7 @@
       <file name="$USER_HOME$/bernieportal/app/Api/Transformers/Time/TimesheetTransformer.php" timestamp="1499884159706">
         <mark key="[" line="32" column="27" />
       </file>
-      <file name="$USER_HOME$/bernieportal/legacy/EmployeeRegModule.php" timestamp="1503526617657">
+      <file name="$USER_HOME$/bernieportal/legacy/EmployeeRegModule.php" timestamp="1503591244921">
         <mark key="[" line="6218" column="33" />
         <mark key="]" line="6218" column="33" />
         <mark key="." line="6218" column="33" />
@@ -469,7 +469,7 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/sass/_modal.scss" timestamp="1500415612390">
         <mark key="[" line="16" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/entities/creatures/player.js" timestamp="1503583050840">
+      <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/entities/creatures/player.js" timestamp="1503586923319">
         <mark key="[" line="9" column="36" />
         <mark key="]" line="9" column="44" />
         <mark key="." line="9" column="44" />
@@ -520,12 +520,6 @@
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/aca/subgroups/list-1095.vue" timestamp="1493071790826">
         <mark key="[" line="32" column="28" />
-      </file>
-      <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/entities/entity-manager.js" timestamp="1503585888175">
-        <mark key="[" line="60" column="19" />
-        <mark key="]" line="60" column="19" />
-        <mark key="." line="60" column="19" />
-        <mark key="^" line="55" column="9" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/benefit-eoi/pending-buttons.vue" timestamp="1498596940985">
         <mark key="[" line="2" column="10" />
@@ -635,13 +629,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>e.x - e.handler.getGameCamera().getxOffset()</text>
+        <text>alertDistance</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>e.x - e.handler.getGameCamera().getxOffset()</text>
+        <text>alertDistance</text>
       </register>
       <register name="/" type="4">
         <text>boogerstate</text>
