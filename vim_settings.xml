@@ -3,10 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/worlds/maze-generator.js" timestamp="1503458084417">
-        <mark key="[" line="100" column="30" />
-        <mark key="]" line="82" column="2" />
-        <mark key="." line="82" column="2" />
+      <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/worlds/maze-generator.js" timestamp="1503545872368">
+        <mark key="[" line="5" column="19" />
+        <mark key="]" line="5" column="19" />
+        <mark key="." line="5" column="19" />
+        <mark key="^" line="95" column="29" />
       </file>
       <file name="$USER_HOME$/workspace/php/testProject/app/Http/Controllers/ContactController.php" timestamp="1503087041690">
         <mark key="[" line="8" column="6" />
@@ -67,11 +68,11 @@
         <mark key="]" line="5" column="27" />
         <mark key="." line="5" column="27" />
       </file>
-      <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/worlds/world.js" timestamp="1503543075114">
-        <mark key="[" line="34" column="46" />
-        <mark key="]" line="34" column="46" />
-        <mark key="." line="34" column="46" />
-        <mark key="^" line="34" column="47" />
+      <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/worlds/world.js" timestamp="1503583342333">
+        <mark key="[" line="32" column="38" />
+        <mark key="]" line="34" column="45" />
+        <mark key="." line="34" column="45" />
+        <mark key="^" line="0" column="6" />
       </file>
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/styles/main.css" timestamp="1503543033107">
         <mark key="[" line="15" column="12" />
@@ -130,11 +131,11 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/loading-popup.vue" timestamp="1498514478199">
         <mark key="[" line="8" column="27" />
       </file>
-      <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/entities/creatures/creature.js" timestamp="1503543102239">
-        <mark key="[" line="5" column="27" />
-        <mark key="]" line="5" column="27" />
-        <mark key="^" line="80" column="26" />
-        <mark key="." line="5" column="27" />
+      <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/entities/creatures/creature.js" timestamp="1503582256203">
+        <mark key="[" line="8" column="28" />
+        <mark key="]" line="51" column="83" />
+        <mark key="^" line="51" column="83" />
+        <mark key="." line="51" column="83" />
       </file>
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/tiles/switch-blue.js" timestamp="1503450645867">
         <mark key="[" line="5" column="36" />
@@ -148,10 +149,10 @@
         <mark key="[" line="10" column="36" />
       </file>
       <file name="$USER_HOME$/bernieportal/public/sites/all/modules/employee_reg/employee_reg.module" timestamp="1503526561665" />
-      <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/gfx/assets.js" timestamp="1503543503190">
-        <mark key="[" line="51" column="37" />
-        <mark key="]" line="5" column="14" />
-        <mark key="." line="5" column="14" />
+      <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/gfx/assets.js" timestamp="1503583178343">
+        <mark key="[" line="52" column="15" />
+        <mark key="]" line="52" column="15" />
+        <mark key="." line="52" column="15" />
         <mark key="^" line="47" column="39" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Views/Composers/Sidebar/Sidebar.php" timestamp="1495661096600">
@@ -260,7 +261,7 @@
         <mark key="." line="2" column="31" />
         <mark key="^" line="2" column="33" />
       </file>
-      <file name="$USER_HOME$/workspace/Defend_The_Castle/js/app/classes/worlds/World.js" timestamp="1503244710026">
+      <file name="$USER_HOME$/workspace/Defend_The_Castle/js/app/classes/worlds/World.js" timestamp="1503582848142">
         <mark key="[" line="74" column="55" />
         <mark key="]" line="74" column="33" />
         <mark key="^" line="74" column="33" />
@@ -433,7 +434,13 @@
       <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/ProfilePhotoController.php" timestamp="1499369572506">
         <mark key="[" line="29" column="8" />
       </file>
-      <file name="/Dummy.txt" timestamp="1503543071130">
+      <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/entities/creatures/monsters/ghost.js" timestamp="1503584016324">
+        <mark key="[" line="89" column="29" />
+        <mark key="]" line="89" column="29" />
+        <mark key="." line="89" column="29" />
+        <mark key="^" line="0" column="38" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1503584929262">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -462,11 +469,11 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/sass/_modal.scss" timestamp="1500415612390">
         <mark key="[" line="16" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/entities/creatures/player.js" timestamp="1503491114823">
-        <mark key="[" line="36" column="168" />
-        <mark key="]" line="36" column="168" />
-        <mark key="." line="36" column="168" />
-        <mark key="^" line="36" column="167" />
+      <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/entities/creatures/player.js" timestamp="1503583050840">
+        <mark key="[" line="9" column="36" />
+        <mark key="]" line="9" column="44" />
+        <mark key="." line="9" column="44" />
+        <mark key="^" line="9" column="44" />
       </file>
       <file name="$USER_HOME$/BerniePortalWiki/FooterBackup.html" timestamp="1502825749665">
         <mark key="[" line="20" column="47" />
@@ -514,10 +521,11 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/aca/subgroups/list-1095.vue" timestamp="1493071790826">
         <mark key="[" line="32" column="28" />
       </file>
-      <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/entities/entity-manager.js" timestamp="1503454300851">
-        <mark key="[" line="118" column="6" />
-        <mark key="]" line="118" column="6" />
-        <mark key="." line="118" column="6" />
+      <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/entities/entity-manager.js" timestamp="1503585888175">
+        <mark key="[" line="60" column="19" />
+        <mark key="]" line="60" column="19" />
+        <mark key="." line="60" column="19" />
+        <mark key="^" line="55" column="9" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/benefit-eoi/pending-buttons.vue" timestamp="1498596940985">
         <mark key="[" line="2" column="10" />
@@ -627,13 +635,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>48</text>
+        <text>e.x - e.handler.getGameCamera().getxOffset()</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>48</text>
+        <text>e.x - e.handler.getGameCamera().getxOffset()</text>
       </register>
       <register name="/" type="4">
         <text>boogerstate</text>
@@ -641,32 +649,36 @@
       <register name="0" type="4">
         <text>color .5s ease-in;</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGQK</text>
+        <text encoding="base64">ICAgIHRoaXMuYm91bmRzLnggPSB0ID0gMjQ7Cg==</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">Ly8gS2V5cyBzdGF0ZXMgKGZhbHNlOiBrZXkgaXMgcmVsZWFzZWQgLyB0cnVlOiBrZXkgaXMgcHJlc3NlZCkKdXAgPSByaWdodCA9IGRvd24gPSBsZWZ0ID0gZmFsc2U7CgovLyBLZXlkb3duIGxpc3RlbmVyCm9ua2V5ZG93biA9IChlKSA9PiB7CgogIC8vIFVwICh1cCAvIFcgLyBaKQogIGlmKGUua2V5Q29kZSA9PSAzOCB8fCBlLmtleUNvZGUgPT0gOTAgfHwgZS5rZXlDb2RlID09IDg3KXsKICAgIHVwID0gdHJ1ZTsKICB9CgogIC8vIFJpZ2h0IChyaWdodCAvIEQpCiAgaWYoZS5rZXlDb2RlID09IDM5IHx8IGUua2V5Q29kZSA9PSA2OCl7CiAgICByaWdodCA9IHRydWU7CiAgfQoKICAvLyBEb3duIChkb3duIC8gUykKICBpZihlLmtleUNvZGUgPT0gNDAgfHwgZS5rZXlDb2RlID09IDgzKXsKICAgIGRvd24gPSB0cnVlOwogIH0KCiAgLy8gTGVmdCAobGVmdCAvIEEgLyBRKQogIGlmKGUua2V5Q29kZSA9PSAzNyB8fCBlLmtleUNvZGUgPT0gNjUgfHxlLmtleUNvZGUgPT0gODEpewogICAgbGVmdCA9IHRydWU7CiAgfQp9CgovLyBLZXl1cCBsaXN0ZW5lcgpvbmtleXVwID0gKGUpID0+IHsKCiAgLy8gVXAKICBpZihlLmtleUNvZGUgPT0gMzggfHwgZS5rZXlDb2RlID09IDkwIHx8IGUua2V5Q29kZSA9PSA4Nyl7CiAgICB1cCA9IGZhbHNlOwogIH0KCiAgLy8gUmlnaHQKICBpZihlLmtleUNvZGUgPT0gMzkgfHwgZS5rZXlDb2RlID09IDY4KXsKICAgIHJpZ2h0ID0gZmFsc2U7CiAgfQoKICAvLyBEb3duCiAgaWYoZS5rZXlDb2RlID09IDQwIHx8IGUua2V5Q29kZSA9PSA4Myl7CiAgICBkb3duID0gZmFsc2U7CiAgfQoKICAvLyBMZWZ0CiAgaWYoZS5rZXlDb2RlID09IDM3IHx8IGUua2V5Q29kZSA9PSA2NSB8fCBlLmtleUNvZGUgPT0gODEpewogICAgbGVmdCA9IGZhbHNlOwogIH0KfQ==</text>
+        <text>22;
+    this.bounds.y = 15;
+    this.bounds.width = 21;
+    this.bounds.heigh</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>DEFAULT_SPEED = 90,
+  DEFAULT_HEALTH = 200,</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHRoaXMuaGVhbHRoID0gODA7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">ICAgIHRoaXMuZGFtYWdlID0gNTU7Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgLy8gfSBlbHNlIGlmICh0aGlzLnhNb3ZlIDwgMCkgewogICAgLy8gICB0ZW1wWCA9IHBhcnNlSW50KCh0aGlzLnggKyB0aGlzLnhNb3ZlICsgdGhpcy5ib3VuZHMueCkgLyBUSUxFX1dJRFRIKTsKICAgIC8vICAgYzEgPSB0aGlzLmNvbGxpc2lvbldpdGhUaWxlKHRlbXBYLCBwYXJzZUludCgodGhpcy55ICsgdGhpcy5ib3VuZHMueSkgLyBUSUxFX0hFSUdIVCkpOwogICAgLy8gICBjMiA9IHRoaXMuY29sbGlzaW9uV2l0aFRpbGUodGVtcFgsIHBhcnNlSW50KCh0aGlzLnkgKyB0aGlzLmJvdW5kcy55ICsgdGhpcy5ib3VuZHMuaGVpZ2h0KSAvIFRJTEVfSEVJR0hUKSk7CiAgICAvLyAgIGlmKCFjMSAmJiAhYzIpIHsKICAgIC8vICAgICB0aGlzLnggKz0gdGhpcy54TW92ZTsKICAgIC8vICAgfSBlbHNlIHsKICAgIC8vICAgICBjb25zb2xlLmxvZygneCBsZWZ0Jyk7CiAgICAvLyAgICAgdGhpcy54ID0gdGVtcFggKiBUSUxFX1dJRFRIICsgVElMRV9XSURUSCAtIHRoaXMuYm91bmRzLng7CiAgICAvLyAgIH0KICAgIC8vIH0=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHRoaXMudGFyZ2V0VHlwZSA9ICdjYXN0bGUnOwo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">dGhpcy5jb2xsaXNpb25XaXRoVGlsZSh0ZW1wWCwgcGFyc2VJbnQoKHRoaXMueSArIHRoaXMuYm91bmRzLnkpIC8gVElMRV9IRUlHSFQpKSAmJgogICAgICAgICF0aGlzLmNvbGxpc2lvbldpdGhUaWxlKHRlbXBYLCBwYXJzZUludCgodGhpcy55ICsgdGhpcy5ib3VuZHMueSArIHRoaXMuYm91bmRzLmhlaWdodCkgLyBUSUxFX0hFSUdIVCkpKQ==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHRoaXMuZGVhdGhDbGVhbnVwID0gdHJ1ZTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIHRoaXMuaGVhbHRoYmFyID0gbmV3IEhlYWx0aEJhcihfaGFuZGxlciwgdGhpcywgaGVhbHRoYmFyX3Byb3BlcnRpZXMpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>146</text>
