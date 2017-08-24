@@ -47,6 +47,7 @@
         <mark key="." line="1" column="19" />
         <mark key="^" line="0" column="15" />
       </file>
+      <file name="$USER_HOME$/bernieportal/public/sites/all/modules/clientele/clientele_user.module" timestamp="1503601284618" />
       <file name="$USER_HOME$/workspace/php/testProject/resources/views/home.blade.php" timestamp="1503423649983">
         <mark key="[" line="8" column="8" />
         <mark key="]" line="8" column="33" />
@@ -94,9 +95,11 @@
       <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/Time/TimesheetsController.php" timestamp="1502307303235">
         <mark key="[" line="60" column="83" />
       </file>
+      <file name="$USER_HOME$/bernieportal/resources/views/time/employee.blade.php" timestamp="1503605059899" />
       <file name="$USER_HOME$/workspace/php/testProject/app/Http/Controllers/mySampleResourceController.php" timestamp="1503082068737">
         <mark key="[" line="0" column="1" />
       </file>
+      <file name="$USER_HOME$/bernieportal/public/build/css/app-7d8f0d1d13.css" timestamp="1503613008159" />
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/tiles/wall-blue.js" timestamp="1503354559657">
         <mark key="[" line="3" column="17" />
       </file>
@@ -183,7 +186,7 @@
         <mark key="." line="25" column="0" />
         <mark key="^" line="25" column="0" />
       </file>
-      <file name="/fragment.php" timestamp="1503523715487">
+      <file name="/fragment.php" timestamp="1503601372242">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
@@ -227,6 +230,7 @@
         <mark key="^" line="27" column="12" />
         <mark key="." line="25" column="29" />
       </file>
+      <file name="$USER_HOME$/bernieportal/public/modules/user/user.module" timestamp="1503601269969" />
       <file name="$USER_HOME$/bernieportal/legacy/UserManagementModule.php" timestamp="1494343921488">
         <mark key="[" line="505" column="30" />
       </file>
@@ -248,6 +252,7 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/aca/employees/employees-list.vue" timestamp="1498596747533">
         <mark key="[" line="46" column="10" />
       </file>
+      <file name="$USER_HOME$/bernieportal/public/css/app.css" timestamp="1503611944284" />
       <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/thread/candidate-job-message-modal.vue" timestamp="1493229583139">
         <mark key="[" line="13" column="61" />
       </file>
@@ -266,6 +271,11 @@
         <mark key="^" line="74" column="33" />
         <mark key="." line="74" column="33" />
       </file>
+      <file name="$USER_HOME$/bernieportal/app/Http/routes.php" timestamp="1503602753015">
+        <mark key="[" line="3" column="33" />
+        <mark key="]" line="3" column="33" />
+        <mark key="." line="3" column="33" />
+      </file>
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/index.js" timestamp="1503251719079">
         <mark key="[" line="1" column="26" />
         <mark key="]" line="0" column="19" />
@@ -280,6 +290,13 @@
       <file name="$USER_HOME$/workspace/php/testProject/app/Http/Controllers/AboutController.php" timestamp="1503412371066">
         <mark key="[" line="8" column="50" />
       </file>
+      <file name="$USER_HOME$/bernieportal/resources/views/forgot-password.blade.php" timestamp="1503613255275">
+        <mark key="'" line="91" column="0" />
+        <mark key="[" line="88" column="30" />
+        <mark key="]" line="88" column="30" />
+        <mark key="." line="88" column="30" />
+        <mark key="^" line="88" column="29" />
+      </file>
       <file name="$USER_HOME$/bernieportal/app/Data/Gateways/Plans/DatabaseRateGateway.php" timestamp="1500561299485">
         <mark key="[" line="54" column="20" />
       </file>
@@ -292,6 +309,7 @@
       <file name="$USER_HOME$/bernieportal/resources/views/dashboards/sidebar/benefits.blade.php" timestamp="1499974671996">
         <mark key="[" line="5" column="31" />
       </file>
+      <file name="$USER_HOME$/bernieportal/legacy/ClienteleUserModule.php" timestamp="1503602557576" />
       <file name="$USER_HOME$/workspace/php/testProject/resources/views/picture.blade.php" timestamp="1503415336646">
         <mark key="[" line="8" column="15" />
         <mark key="]" line="10" column="16" />
@@ -421,7 +439,7 @@
       <file name="$USER_HOME$/bernieportal/resources/views/layout/nav/user.blade.php" timestamp="1494275620716">
         <mark key="[" line="62" column="74" />
       </file>
-      <file name="/PHP Console" timestamp="1503526903442">
+      <file name="/PHP Console" timestamp="1503613745997">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/time/subgroups/index.vue" timestamp="1493133715565">
@@ -439,7 +457,7 @@
         <mark key="." line="89" column="29" />
         <mark key="^" line="0" column="38" />
       </file>
-      <file name="/Dummy.txt" timestamp="1503584929262">
+      <file name="/Dummy.txt" timestamp="1503613003129">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -535,10 +553,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="131" column="80" filename="$USER_HOME$/bernieportal/app/Carriers/Billing/BillingRepository.php" />
-      <jump line="119" column="48" filename="$USER_HOME$/bernieportal/app/Carriers/Billing/BillingRepository.php" />
-      <jump line="141" column="76" filename="$USER_HOME$/bernieportal/app/Http/Controllers/Api/Bills/BillsController.php" />
-      <jump line="31" column="32" filename="$USER_HOME$/bernieportal/app/Http/Controllers/Api/Bills/BillsController.php" />
       <jump line="40" column="34" filename="$USER_HOME$/bernieportal/app/Http/Controllers/Api/Bills/BillsController.php" />
       <jump line="149" column="53" filename="$USER_HOME$/bernieportal/app/Http/Controllers/Api/Bills/BillsController.php" />
       <jump line="21" column="15" filename="$USER_HOME$/bernieportal/app/Http/Controllers/Api/Bills/BillsController.php" />
@@ -635,16 +649,20 @@
       <jump line="5" column="28" filename="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/worlds/maze-generator.js" />
       <jump line="940" column="27" filename="$USER_HOME$/bernieportal/legacy/BenefitAttachModule.php" />
       <jump line="0" column="0" filename="$USER_HOME$/bernieportal/legacy/BenefitAttachModule.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/bernieportal/resources/views/forgot-password.blade.php" />
+      <jump line="27" column="0" filename="$USER_HOME$/bernieportal/resources/views/forgot-password.blade.php" />
+      <jump line="9" column="8" filename="$USER_HOME$/bernieportal/resources/views/forgot-password.blade.php" />
+      <jump line="33" column="0" filename="$USER_HOME$/bernieportal/resources/views/forgot-password.blade.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>px</text>
+        <text>rem 2rem</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>px</text>
+        <text>rem 2rem</text>
       </register>
       <register name="/" type="4">
         <text>boogerstate</text>
@@ -652,39 +670,37 @@
       <register name="0" type="4">
         <text>color .5s ease-in;</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">Cgo=</text>
+      <register name="1" type="2">
+        <text encoding="base64">IAo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHRoaXMuYm91bmRzLnggPSB0ID0gMjQ7Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAge3stLTxib2R5Pi0tfX0KICAgICAgICB7ey0tPGRpdiBjbGFzcz0id3JhcHBlciI+LS19fQogICAgICAgICAgICB7ey0tPGRpdiBjbGFzcz0id3JhcHBlci0tbGVmdCI+PC9kaXY+LS19fQogICAgICAgICAgICB7ey0tPGRpdiBjbGFzcz0id3JhcHBlci0tcmlnaHQiPjwvZGl2Pi0tfX0KICAgICAgICB7ey0tPC9kaXY+LS19fQogICAge3stLTwvYm9keT4tLX19Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>22;
-    this.bounds.y = 15;
-    this.bounds.width = 21;
-    this.bounds.heigh</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>DEFAULT_SPEED = 90,
-  DEFAULT_HEALTH = 200,</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHRoaXMuaGVhbHRoID0gODA7Cg==</text>
+      <register name="5" type="4">
+        <text>margin-top: -250px;
+                position: fixed;
+                top: 50%;</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRoaXMuZGFtYWdlID0gNTU7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRoaXMudGFyZ2V0VHlwZSA9ICdjYXN0bGUnOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8bGFiZWwgZm9yPSJmb3JtLWJhc2ljLWlucHV0MiI+U29tZSBsYWJlbDwvbGFiZWw+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRoaXMuZGVhdGhDbGVhbnVwID0gdHJ1ZTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHRoaXMuaGVhbHRoYmFyID0gbmV3IEhlYWx0aEJhcihfaGFuZGxlciwgdGhpcywgaGVhbHRoYmFyX3Byb3BlcnRpZXMpOwo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9ImZvcm0tcm93Ij4KICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImZvcm0tY29udHJvbCI+CiAgICAgICAgICAgICAgICAgICAgPGxhYmVsIGZvcj0iZm9ybS1iYXNpYy1pbnB1dDMiPlNvbWUgbGFiZWw8L2xhYmVsPgogICAgICAgICAgICAgICAgICAgIDxpbnB1dCB0eXBlPSJ0ZXh0IiBpZD0iZm9ybS1iYXNpYy1pbnB1dDMiIG5hbWU9ImZvcm0tYmFzaWMtaW5wdXQzIj4KICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8L2Rpdj4=</text>
       </register>
       <register name=":" type="4">
-        <text>2460</text>
+        <text>179</text>
       </register>
     </registers>
     <search>
@@ -718,8 +734,6 @@
         <entry>boogerstate</entry>
       </history-search>
       <history-cmd>
-        <entry>57</entry>
-        <entry>244</entry>
         <entry>248</entry>
         <entry>2452</entry>
         <entry>791</entry>
@@ -738,6 +752,8 @@
         <entry>88</entry>
         <entry>146</entry>
         <entry>2460</entry>
+        <entry>901</entry>
+        <entry>179</entry>
       </history-cmd>
       <history-expr />
       <history-input />

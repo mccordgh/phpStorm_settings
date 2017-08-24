@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.css" />
     <recentFileMasks>
       <mask>*.xml</mask>
       <mask>*.java</mask>
@@ -22,7 +23,6 @@
       <mask>*.vu</mask>
       <mask>*.vue</mask>
       <mask>*.cs</mask>
-      <mask>*.css</mask>
       <mask>*blad.</mask>
       <mask>*bla.</mask>
       <mask>*bl.</mask>
@@ -34,6 +34,7 @@
       <mask>*.blade.p</mask>
       <mask>*.blade.ph</mask>
       <mask>*.blade.php</mask>
+      <mask>*.css</mask>
     </recentFileMasks>
   </component>
 </application>
