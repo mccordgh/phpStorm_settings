@@ -272,10 +272,10 @@
         <mark key="^" line="0" column="19" />
         <mark key="." line="0" column="19" />
       </file>
-      <file name="$USER_HOME$/bernieportal/legacy/ClientPortalModule.php" timestamp="1503334650060">
-        <mark key="[" line="2807" column="15" />
-        <mark key="]" line="2807" column="15" />
-        <mark key="." line="2807" column="15" />
+      <file name="$USER_HOME$/bernieportal/legacy/ClientPortalModule.php" timestamp="1503600445978">
+        <mark key="[" line="2463" column="85" />
+        <mark key="]" line="2463" column="86" />
+        <mark key="." line="2463" column="86" />
       </file>
       <file name="$USER_HOME$/workspace/php/testProject/app/Http/Controllers/AboutController.php" timestamp="1503412371066">
         <mark key="[" line="8" column="50" />
@@ -684,7 +684,7 @@
         <text encoding="base64">ICAgIHRoaXMuaGVhbHRoYmFyID0gbmV3IEhlYWx0aEJhcihfaGFuZGxlciwgdGhpcywgaGVhbHRoYmFyX3Byb3BlcnRpZXMpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>146</text>
+        <text>2460</text>
       </register>
     </registers>
     <search>
@@ -718,7 +718,6 @@
         <entry>boogerstate</entry>
       </history-search>
       <history-cmd>
-        <entry>31</entry>
         <entry>57</entry>
         <entry>244</entry>
         <entry>248</entry>
@@ -738,6 +737,7 @@
         <entry>121</entry>
         <entry>88</entry>
         <entry>146</entry>
+        <entry>2460</entry>
       </history-cmd>
       <history-expr />
       <history-input />
