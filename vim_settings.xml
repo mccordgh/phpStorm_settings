@@ -233,10 +233,10 @@
       <file name="$USER_HOME$/bernieportal/app/Carriers/Billing/SummaryBill.php" timestamp="1497900688518">
         <mark key="[" line="76" column="5" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Http/routes.php" timestamp="1503679744595">
-        <mark key="[" line="4" column="21" />
-        <mark key="]" line="4" column="21" />
-        <mark key="." line="4" column="21" />
+      <file name="$USER_HOME$/bernieportal/app/Http/routes.php" timestamp="1503680573112">
+        <mark key="[" line="14" column="3" />
+        <mark key="]" line="14" column="3" />
+        <mark key="." line="14" column="3" />
       </file>
       <file name="$USER_HOME$/bernieportal/legacy/ClientPortalModule.php" timestamp="1503600445978">
         <mark key="[" line="2463" column="85" />
@@ -564,13 +564,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>fail</text>
+        <text>START</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>fail</text>
+        <text>START</text>
       </register>
       <register name="/" type="4">
         <text>boogerstate</text>
