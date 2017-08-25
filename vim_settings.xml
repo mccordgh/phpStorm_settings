@@ -233,11 +233,10 @@
       <file name="$USER_HOME$/bernieportal/app/Carriers/Billing/SummaryBill.php" timestamp="1497900688518">
         <mark key="[" line="76" column="5" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Http/routes.php" timestamp="1503676921982">
-        <mark key="[" line="8" column="11" />
-        <mark key="]" line="5" column="19" />
-        <mark key="." line="5" column="19" />
-        <mark key="^" line="3" column="4" />
+      <file name="$USER_HOME$/bernieportal/app/Http/routes.php" timestamp="1503679744595">
+        <mark key="[" line="4" column="21" />
+        <mark key="]" line="4" column="21" />
+        <mark key="." line="4" column="21" />
       </file>
       <file name="$USER_HOME$/bernieportal/legacy/ClientPortalModule.php" timestamp="1503600445978">
         <mark key="[" line="2463" column="85" />
@@ -354,7 +353,7 @@
       <file name="$USER_HOME$/bernieportal/resources/views/layout/nav/user.blade.php" timestamp="1494275620716">
         <mark key="[" line="62" column="74" />
       </file>
-      <file name="/PHP Console" timestamp="1503676930175">
+      <file name="/PHP Console" timestamp="1503679731251">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/time/subgroups/index.vue" timestamp="1493133715565">
@@ -565,13 +564,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>font-</text>
+        <text>fail</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>font-</text>
+        <text>fail</text>
       </register>
       <register name="/" type="4">
         <text>boogerstate</text>
