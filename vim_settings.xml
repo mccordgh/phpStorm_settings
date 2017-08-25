@@ -35,11 +35,6 @@
       <file name="$USER_HOME$/bernieportal/app/Ats/Candidate.php" timestamp="1502737804653">
         <mark key="[" line="32" column="86" />
       </file>
-      <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/index.html" timestamp="1503623124578">
-        <mark key="[" line="10" column="7" />
-        <mark key="]" line="10" column="7" />
-        <mark key="." line="10" column="7" />
-      </file>
       <file name="$USER_HOME$/bernieportal/resources/views/authentication/forgot-password.blade.php" timestamp="1503690460092">
         <mark key="[" line="188" column="24" />
         <mark key="]" line="193" column="0" />
@@ -78,12 +73,6 @@
         <mark key="]" line="48" column="46" />
         <mark key="^" line="0" column="6" />
         <mark key="." line="48" column="46" />
-      </file>
-      <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/styles/main.css" timestamp="1503623753512">
-        <mark key="[" line="25" column="20" />
-        <mark key="]" line="25" column="17" />
-        <mark key="." line="25" column="17" />
-        <mark key="^" line="25" column="17" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Navigation/Items.php" timestamp="1498597315962">
         <mark key="[" line="83" column="5" />
@@ -392,25 +381,19 @@
       <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/ProfilePhotoController.php" timestamp="1499369572506">
         <mark key="[" line="29" column="8" />
       </file>
-      <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/entities/creatures/monsters/ghost.js" timestamp="1503628013428">
-        <mark key="[" line="62" column="0" />
+      <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/entities/creatures/monsters/ghost.js" timestamp="1503694228840">
+        <mark key="[" line="11" column="21" />
         <mark key="]" line="29" column="2" />
         <mark key="." line="29" column="2" />
         <mark key="^" line="29" column="2" />
       </file>
-      <file name="/Dummy.txt" timestamp="1503683321059">
+      <file name="/Dummy.txt" timestamp="1503695131808">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
       </file>
       <file name="$USER_HOME$/workspace/Defend_The_Castle/js/app/classes/entities/creatures/monsters/Bat.js" timestamp="1503176608598">
         <mark key="[" line="88" column="48" />
-      </file>
-      <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/game.js" timestamp="1503626959105">
-        <mark key="[" line="100" column="29" />
-        <mark key="]" line="101" column="6" />
-        <mark key="^" line="5" column="17" />
-        <mark key="." line="101" column="6" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/popover.vue" timestamp="1492636708489">
         <mark key="[" line="13" column="26" />
@@ -421,11 +404,11 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/sass/_modal.scss" timestamp="1500415612390">
         <mark key="[" line="16" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/entities/creatures/player.js" timestamp="1503626938063">
-        <mark key="[" line="70" column="25" />
-        <mark key="]" line="95" column="10" />
-        <mark key="." line="95" column="10" />
-        <mark key="^" line="100" column="30" />
+      <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/entities/creatures/player.js" timestamp="1503695347192">
+        <mark key="[" line="46" column="20" />
+        <mark key="]" line="17" column="25" />
+        <mark key="." line="17" column="25" />
+        <mark key="^" line="17" column="24" />
       </file>
       <file name="$USER_HOME$/BerniePortalWiki/FooterBackup.html" timestamp="1502825749665">
         <mark key="[" line="20" column="47" />
@@ -445,11 +428,10 @@
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/tiles/path-blue.js" timestamp="1503356614590">
         <mark key="[" line="3" column="17" />
       </file>
-      <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/handler.js" timestamp="1503626803825">
-        <mark key="[" line="4" column="40" />
-        <mark key="]" line="16" column="30" />
-        <mark key="." line="16" column="30" />
-        <mark key="^" line="1" column="21" />
+      <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/handler.js" timestamp="1503694918603">
+        <mark key="[" line="4" column="22" />
+        <mark key="]" line="4" column="22" />
+        <mark key="." line="4" column="22" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/views/dashboards/sidebar/onboarding.blade.php" timestamp="1499974681229">
         <mark key="[" line="4" column="39" />
@@ -478,10 +460,11 @@
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/entities/entity-manager.js" timestamp="1503616793043">
-        <mark key="[" line="40" column="28" />
-        <mark key="]" line="40" column="28" />
-        <mark key="." line="40" column="28" />
+      <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/entities/entity-manager.js" timestamp="1503695260095">
+        <mark key="[" line="41" column="22" />
+        <mark key="]" line="41" column="22" />
+        <mark key="." line="41" column="22" />
+        <mark key="^" line="32" column="14" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/benefit-eoi/pending-buttons.vue" timestamp="1498596940985">
         <mark key="[" line="2" column="10" />
@@ -591,13 +574,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>You don\'t have an email address on file. Please contact your site admin to reset your password</text>
+        <text>white</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>You don\'t have an email address on file. Please contact your site admin to reset your password</text>
+        <text>white</text>
       </register>
       <register name="/" type="4">
         <text>boogerstate</text>
