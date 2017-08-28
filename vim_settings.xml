@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/worlds/maze-generator.js" timestamp="1503852058502">
-        <mark key="[" line="94" column="33" />
-        <mark key="]" line="94" column="30" />
-        <mark key="." line="94" column="30" />
-        <mark key="^" line="102" column="37" />
+      <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/worlds/maze-generator.js" timestamp="1503936828029">
+        <mark key="[" line="92" column="63" />
+        <mark key="]" line="92" column="63" />
+        <mark key="." line="92" column="63" />
+        <mark key="^" line="92" column="63" />
       </file>
       <file name="$USER_HOME$/workspace/php/testProject/app/Http/Controllers/ContactController.php" timestamp="1503087041690">
         <mark key="[" line="8" column="6" />
@@ -151,7 +151,12 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/loading-popup.vue" timestamp="1498514478199">
         <mark key="[" line="8" column="27" />
       </file>
-      <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/entities/creatures/creature.js" timestamp="1503852044270" />
+      <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/entities/creatures/creature.js" timestamp="1503937045431">
+        <mark key="[" line="71" column="6" />
+        <mark key="]" line="70" column="7" />
+        <mark key="." line="70" column="7" />
+        <mark key="^" line="70" column="7" />
+      </file>
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/tiles/switch-blue.js" timestamp="1503450645867">
         <mark key="[" line="5" column="36" />
         <mark key="]" line="5" column="36" />
@@ -298,7 +303,7 @@
         <mark key="]" line="16" column="19" />
         <mark key="." line="16" column="19" />
       </file>
-      <file name="$USER_HOME$/workspace/Defend_The_Castle/js/app/classes/entities/creatures/Creature.js" timestamp="1503851566152" />
+      <file name="$USER_HOME$/workspace/Defend_The_Castle/js/app/classes/entities/creatures/Creature.js" timestamp="1503936910270" />
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/index.js" timestamp="1503251719079">
         <mark key="[" line="1" column="26" />
         <mark key="]" line="0" column="19" />
