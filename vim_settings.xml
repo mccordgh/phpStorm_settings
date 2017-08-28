@@ -583,10 +583,10 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/aca/subgroups/list-1095.vue" timestamp="1493071790826">
         <mark key="[" line="32" column="28" />
       </file>
-      <file name="$USER_HOME$/BerniePortalWiki/bernie-portal-wiki.css" timestamp="1503694197071">
-        <mark key="[" line="368" column="19" />
-        <mark key="]" line="368" column="19" />
-        <mark key="." line="368" column="19" />
+      <file name="$USER_HOME$/BerniePortalWiki/bernie-portal-wiki.css" timestamp="1503954908483">
+        <mark key="[" line="571" column="0" />
+        <mark key="]" line="571" column="0" />
+        <mark key="." line="571" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/menus/game-over.js" timestamp="1503622992940">
         <mark key="[" line="46" column="0" />
@@ -707,13 +707,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>true</text>
+        <text encoding="base64">CnVsLnp3UE5VTCArIHVsLnp3UE5VTCB7CiAgICBiYWNrZ3JvdW5kLWNvbG9yOiBwaW5rOwp9</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>selected</text>
       </register>
       <register name="/" type="4">
         <text>boogerstate</text>
@@ -722,32 +722,32 @@
         <text />
       </register>
       <register name="1" type="4">
+        <text encoding="base64">CnVsLnp3UE5VTCArIHVsLnp3UE5VTCB7CiAgICBiYWNrZ3JvdW5kLWNvbG9yOiBwaW5rOwp9</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">fQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHBhZGRpbmctbGVmdDogNTBweCAhaW1wb3J0YW50Owo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">LyovL0hFUkUqLwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ZGl2I3p3UGFnZU5hdmlnYXRpb25UcmVlIHVsIHVsLnp3UE5VTCB7Cg==</text>
+      </register>
+      <register name="8" type="4">
         <text>);
     _g.myDrawImage</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">IAo=</text>
-      </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgLy8gY29uc3QgeFN0YXJ0ID0gcGFyc2VJbnQoTWF0aC5tYXgoMCwgdGhpcy5oYW5kbGVyLmdldEdhbWVDYW1lcmEoKS5nZXR4T2Zmc2V0KCkgLyBUSUxFX1dJRFRIKSk7CiAgICAvLyBjb25zdCB4RW5kID0gcGFyc2VJbnQoTWF0aC5taW4odGhpcy53aWR0aCwgKHRoaXMuaGFuZGxlci5nZXRHYW1lQ2FtZXJhKCkuZ2V0eE9mZnNldCgpICsgdGhpcy5oYW5kbGVyLmdldFdpZHRoKCkpIC8gVElMRV9XSURUSCArIDEpKTsKICAgIC8vIGNvbnN0IHlTdGFydCA9IHBhcnNlSW50KE1hdGgubWF4KDAsIHRoaXMuaGFuZGxlci5nZXRHYW1lQ2FtZXJhKCkuZ2V0eU9mZnNldCgpIC8gVElMRV9IRUlHSFQpKTsKICAgIC8vIGNvbnN0IHlFbmQgPSBwYXJzZUludChNYXRoLm1pbih0aGlzLmhlaWdodCwgKHRoaXMuaGFuZGxlci5nZXRHYW1lQ2FtZXJhKCkuZ2V0eU9mZnNldCgpICsgdGhpcy5oYW5kbGVyLmdldEhlaWdodCgpKSAvIFRJTEVfSEVJR0hUICsgMSkpOwogICAgLy8KICAgIC8vCiAgICAvLyBmb3IgKGxldCB5ID0geVN0YXJ0OyB5IDwgeUVuZDsgeSsrKSB7CiAgICAvLyAgIGZvciAobGV0IHggPSB4U3RhcnQ7IHggPCB4RW5kOyB4KyspIHsKICAgIC8vICAgICBpZiAoIXRoaXMubGlnaHRNYXBbeF0pIHRoaXMubGlnaHRNYXBbeF0gPSBbXTsKICAgIC8vICAgICBjb25zdCB0YXJnZXRUaWxlID0gdGhpcy5oYW5kbGVyLmdldFdvcmxkKCkuZ2V0VGlsZSh4LCB5KTsKICAgIC8vCiAgICAvLyAgICAgaWYgKHRhcmdldFRpbGUpIHsKICAgIC8vICAgICAgIHRoaXMubGlnaHRNYXBbeF1beV0gPSB0YXJnZXRUaWxlLmxpZ2h0OwogICAgLy8gICAgIH0KICAgIC8vICAgfQogICAgLy8gfQoKICAgIC8vIGNvbnNvbGUubG9nKHRoaXMubGlnaHRNYXApOwogICAgLy8gdGhyb3cgbmV3IEVycm9yKCk7</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8aDE+Tk8gTVNHIEkgRFVOTk8gU09NRVRISU5HIFdST05HLjwvaDE+Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEBlbHNlCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">QGVsc2UKICAgICAgICAgICAgICAgICAgICA8aDE+Tk8gTVNHIEkgRFVOTk8gU09NRVRISU5HIFdST05HLjwvaDE+</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name=":" type="4">
         <text>808</text>
