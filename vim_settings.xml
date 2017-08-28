@@ -109,10 +109,10 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/thread/candidate-message-modal.vue" timestamp="1493229628959">
         <mark key="[" line="55" column="58" />
       </file>
-      <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/lighting/light-manager.js" timestamp="1503963033127">
-        <mark key="[" line="53" column="11" />
-        <mark key="]" line="53" column="11" />
-        <mark key="." line="53" column="11" />
+      <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/lighting/light-manager.js" timestamp="1503964108684">
+        <mark key="[" line="4" column="24" />
+        <mark key="]" line="4" column="25" />
+        <mark key="." line="4" column="25" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Api/Transformers/Time/TimesheetTransformer.php" timestamp="1499884159706">
         <mark key="[" line="32" column="27" />
@@ -379,11 +379,11 @@
         <mark key="." line="2" column="27" />
         <mark key="^" line="2" column="26" />
       </file>
-      <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/lighting/light-source.js" timestamp="1503963006153">
+      <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/lighting/light-source.js" timestamp="1503964119154">
         <mark key="'" line="23" column="56" />
-        <mark key="[" line="52" column="32" />
-        <mark key="]" line="52" column="32" />
-        <mark key="." line="52" column="32" />
+        <mark key="[" line="4" column="22" />
+        <mark key="]" line="4" column="22" />
+        <mark key="." line="4" column="22" />
         <mark key="^" line="51" column="19" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Data/Gateways/Benefits/BenefitGateway.php" timestamp="1500584485332">
@@ -627,13 +627,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>this.handler.getWorld().getTile(x, y).type</text>
+        <text>7</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>this.handler.getWorld().getTile(x, y).type</text>
+        <text>7</text>
       </register>
       <register name="/" type="4">
         <text>boogerstate</text>
