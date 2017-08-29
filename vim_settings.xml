@@ -134,6 +134,9 @@
         <mark key="." line="4" column="24" />
         <mark key="^" line="23" column="2" />
       </file>
+      <file name="$USER_HOME$/workspace/web_audio_api_tutorial/index.html" timestamp="1504046994834">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/bernieportal/app/Ats/Repositories/JobCandidateRepository.php" timestamp="1502732569985">
         <mark key="[" line="36" column="25" />
       </file>
@@ -300,6 +303,12 @@
         <mark key="^" line="8" column="2" />
       </file>
       <file name="$USER_HOME$/bernieportal/legacy/ClienteleUserModule.php" timestamp="1503602557576" />
+      <file name="$USER_HOME$/workspace/web_audio_api_tutorial/main.js" timestamp="1504047153986">
+        <mark key="[" line="16" column="24" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+        <mark key="^" line="16" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/php/testProject/resources/views/picture.blade.php" timestamp="1503415336646">
         <mark key="[" line="8" column="15" />
         <mark key="]" line="10" column="16" />
@@ -466,12 +475,6 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/sass/_modal.scss" timestamp="1500415612390">
         <mark key="[" line="16" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/entities/creatures/player.js" timestamp="1503949858109">
-        <mark key="[" line="80" column="26" />
-        <mark key="]" line="80" column="26" />
-        <mark key="." line="80" column="26" />
-        <mark key="^" line="76" column="19" />
-      </file>
       <file name="$USER_HOME$/BerniePortalWiki/FooterBackup.html" timestamp="1502825749665">
         <mark key="[" line="20" column="47" />
       </file>
@@ -507,11 +510,6 @@
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/aca/subgroups/list-1095.vue" timestamp="1493071790826">
         <mark key="[" line="32" column="28" />
-      </file>
-      <file name="$USER_HOME$/BerniePortalWiki/bernie-portal-wiki.css" timestamp="1503954908483">
-        <mark key="[" line="571" column="0" />
-        <mark key="]" line="571" column="0" />
-        <mark key="." line="571" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/entities/entity-manager.js" timestamp="1503850561189">
         <mark key="[" line="48" column="35" />
@@ -627,13 +625,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Agencies</text>
+        <text>eft</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>Agencies</text>
+        <text>eft</text>
       </register>
       <register name="/" type="4">
         <text>boogerstate</text>
