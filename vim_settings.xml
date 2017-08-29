@@ -134,8 +134,10 @@
         <mark key="." line="4" column="24" />
         <mark key="^" line="23" column="2" />
       </file>
-      <file name="$USER_HOME$/workspace/web_audio_api_tutorial/index.html" timestamp="1504046994834">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/workspace/web_audio_api_tutorial/index.html" timestamp="1504049436912">
+        <mark key="[" line="5" column="24" />
+        <mark key="]" line="1" column="15" />
+        <mark key="." line="1" column="15" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Ats/Repositories/JobCandidateRepository.php" timestamp="1502732569985">
         <mark key="[" line="36" column="25" />
@@ -303,11 +305,8 @@
         <mark key="^" line="8" column="2" />
       </file>
       <file name="$USER_HOME$/bernieportal/legacy/ClienteleUserModule.php" timestamp="1503602557576" />
-      <file name="$USER_HOME$/workspace/web_audio_api_tutorial/main.js" timestamp="1504047153986">
-        <mark key="[" line="16" column="24" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-        <mark key="^" line="16" column="0" />
+      <file name="$USER_HOME$/workspace/web_audio_api_tutorial/main.js" timestamp="1504049401333">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/php/testProject/resources/views/picture.blade.php" timestamp="1503415336646">
         <mark key="[" line="8" column="15" />
@@ -456,9 +455,6 @@
       </file>
       <file name="$USER_HOME$/workspace/Defend_The_Castle/js/app/classes/entities/creatures/monsters/Bat.js" timestamp="1503176608598">
         <mark key="[" line="88" column="48" />
-      </file>
-      <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/game.js" timestamp="1503956220830">
-        <mark key="^" line="5" column="17" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/popover.vue" timestamp="1492636708489">
         <mark key="[" line="13" column="26" />
@@ -624,14 +620,14 @@
       <jump line="23" column="56" filename="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/lighting/light-source.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>eft</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHBsYXllci5zcmMgPSBzb3VuZFVSTDsK</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>eft</text>
+        <text>main</text>
       </register>
       <register name="/" type="4">
         <text>boogerstate</text>
@@ -639,32 +635,32 @@
       <register name="0" type="4">
         <text />
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ewovLyAgICAgICAgICAgIGNvbnNvbGUubG9nKGVtcGxveWVyKTsKICAgICAgICAgICAgcmV0dXJuIA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHBsYXllci5zcmMgPSBzb3VuZFVSTDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICwK</text>
+        <text encoding="base64">Ly8gICAgICAgeCs9UE9XKDIsbm90ZS8xMikqUkFURTsK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgICAgICAvLyB4UG9zID0gKHNjcmVlbldpZHRoIC8gMikgLSAoX2cubWVhc3VyZVRleHQodGV4dCkud2lkdGggLyAyKTsKIA==</text>
+      <register name="3" type="2">
+        <text encoding="base64">Ly8gICAgIHJldHVybiBmdW5jdGlvbihub3RlKSB7Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CnVsLnp3UE5VTCArIHVsLnp3UE5VTCB7CiAgICBiYWNrZ3JvdW5kLWNvbG9yOiBwaW5rOwp9</text>
+      <register name="4" type="2">
+        <text encoding="base64">Ly8gICAgIHZhciB4PTA7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICB2YXIgT1NDPWZ1bmN0aW9uc3NkZGRkZm4pewo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="6" type="4">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Ly8gICB2YXIgUk5EPU1hdGgucmFuZG9tOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBhZGRpbmctbGVmdDogNTBweCAhaW1wb3J0YW50Owo=</text>
+        <text encoding="base64">Ly8gICB2YXIgU0lOPU1hdGguc2luOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LyovL0hFUkUqLwo=</text>
+        <text encoding="base64">Ly8gICB2YXIgUE9XPU1hdGgucG93Owo=</text>
       </register>
       <register name=":" type="4">
         <text>134</text>
