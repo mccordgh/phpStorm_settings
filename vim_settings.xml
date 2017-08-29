@@ -395,6 +395,12 @@
       <file name="$USER_HOME$/bernieportal/app/Views/Composers/Layout/Nav/BackLinkNavComposer.php" timestamp="1494879351196">
         <mark key="[" line="46" column="26" />
       </file>
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/benefit-provider/client-list.vue" timestamp="1504025629764">
+        <mark key="[" line="82" column="26" />
+        <mark key="]" line="82" column="26" />
+        <mark key="^" line="75" column="8" />
+        <mark key="." line="82" column="26" />
+      </file>
       <file name="$USER_HOME$/bernieportal/_ide_helper.php" timestamp="1495658208354">
         <mark key="[" line="9769" column="49" />
       </file>
@@ -416,7 +422,7 @@
       <file name="$USER_HOME$/bernieportal/resources/views/layout/nav/user.blade.php" timestamp="1494275620716">
         <mark key="[" line="62" column="74" />
       </file>
-      <file name="/PHP Console" timestamp="1504023182425">
+      <file name="/PHP Console" timestamp="1504025587980">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/views/authentication/employer-code-login.blade.php" timestamp="1503691209860">
@@ -627,13 +633,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>lightgrey</text>
+        <text>employer[key]</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>lightgrey</text>
+        <text>employer[key]</text>
       </register>
       <register name="/" type="4">
         <text>boogerstate</text>
