@@ -395,8 +395,8 @@
       <file name="$USER_HOME$/bernieportal/app/Views/Composers/Layout/Nav/BackLinkNavComposer.php" timestamp="1494879351196">
         <mark key="[" line="46" column="26" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/benefit-provider/client-list.vue" timestamp="1504035121861">
-        <mark key="[" line="17" column="49" />
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/benefit-provider/client-list.vue" timestamp="1504036355107">
+        <mark key="[" line="133" column="10" />
         <mark key="]" line="76" column="11" />
         <mark key="." line="76" column="11" />
         <mark key="^" line="76" column="11" />
@@ -675,7 +675,7 @@
         <text encoding="base64">LyovL0hFUkUqLwo=</text>
       </register>
       <register name=":" type="4">
-        <text>808</text>
+        <text>134</text>
       </register>
     </registers>
     <search>
@@ -709,7 +709,6 @@
         <entry>boogerstate</entry>
       </history-search>
       <history-cmd>
-        <entry>2452</entry>
         <entry>791</entry>
         <entry>48</entry>
         <entry>109</entry>
@@ -729,6 +728,7 @@
         <entry>901</entry>
         <entry>179</entry>
         <entry>808</entry>
+        <entry>134</entry>
       </history-cmd>
       <history-expr />
       <history-input />
