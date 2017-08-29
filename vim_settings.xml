@@ -395,11 +395,11 @@
       <file name="$USER_HOME$/bernieportal/app/Views/Composers/Layout/Nav/BackLinkNavComposer.php" timestamp="1494879351196">
         <mark key="[" line="46" column="26" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/benefit-provider/client-list.vue" timestamp="1504025629764">
-        <mark key="[" line="82" column="26" />
-        <mark key="]" line="82" column="26" />
-        <mark key="^" line="75" column="8" />
-        <mark key="." line="82" column="26" />
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/benefit-provider/client-list.vue" timestamp="1504035121861">
+        <mark key="[" line="17" column="49" />
+        <mark key="]" line="76" column="11" />
+        <mark key="." line="76" column="11" />
+        <mark key="^" line="76" column="11" />
       </file>
       <file name="$USER_HOME$/bernieportal/_ide_helper.php" timestamp="1495658208354">
         <mark key="[" line="9769" column="49" />
@@ -422,7 +422,7 @@
       <file name="$USER_HOME$/bernieportal/resources/views/layout/nav/user.blade.php" timestamp="1494275620716">
         <mark key="[" line="62" column="74" />
       </file>
-      <file name="/PHP Console" timestamp="1504026343442">
+      <file name="/PHP Console" timestamp="1504035127996">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/views/authentication/employer-code-login.blade.php" timestamp="1503691209860">
@@ -633,13 +633,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>employer[key]</text>
+        <text>Agencies</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>employer[key]</text>
+        <text>Agencies</text>
       </register>
       <register name="/" type="4">
         <text>boogerstate</text>
@@ -647,32 +647,32 @@
       <register name="0" type="4">
         <text />
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text encoding="base64">ewovLyAgICAgICAgICAgIGNvbnNvbGUubG9nKGVtcGxveWVyKTsKICAgICAgICAgICAgcmV0dXJuIA==</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICwK</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">ICAgICAgICAvLyB4UG9zID0gKHNjcmVlbldpZHRoIC8gMikgLSAoX2cubWVhc3VyZVRleHQodGV4dCkud2lkdGggLyAyKTsKIA==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">CnVsLnp3UE5VTCArIHVsLnp3UE5VTCB7CiAgICBiYWNrZ3JvdW5kLWNvbG9yOiBwaW5rOwp9</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHBhZGRpbmctbGVmdDogNTBweCAhaW1wb3J0YW50Owo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LyovL0hFUkUqLwo=</text>
+        <text encoding="base64">ICAgIHBhZGRpbmctbGVmdDogNTBweCAhaW1wb3J0YW50Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGl2I3p3UGFnZU5hdmlnYXRpb25UcmVlIHVsIHVsLnp3UE5VTCB7Cg==</text>
+        <text encoding="base64">LyovL0hFUkUqLwo=</text>
       </register>
       <register name=":" type="4">
         <text>808</text>
