@@ -305,8 +305,11 @@
         <mark key="^" line="8" column="2" />
       </file>
       <file name="$USER_HOME$/bernieportal/legacy/ClienteleUserModule.php" timestamp="1503602557576" />
-      <file name="$USER_HOME$/workspace/web_audio_api_tutorial/main.js" timestamp="1504049401333">
+      <file name="$USER_HOME$/workspace/web_audio_api_tutorial/main.js" timestamp="1504050237518">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="21" />
+        <mark key="^" line="0" column="21" />
+        <mark key="." line="0" column="21" />
       </file>
       <file name="$USER_HOME$/workspace/php/testProject/resources/views/picture.blade.php" timestamp="1503415336646">
         <mark key="[" line="8" column="15" />
