@@ -105,10 +105,10 @@
         <mark key="]" line="4" column="25" />
         <mark key="." line="4" column="25" />
       </file>
-      <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/sounds/player-small.js" timestamp="1504061220044">
-        <mark key="[" line="344" column="7" />
-        <mark key="]" line="344" column="7" />
-        <mark key="." line="344" column="7" />
+      <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/sounds/player-small.js" timestamp="1504063267697">
+        <mark key="[" line="27" column="20" />
+        <mark key="]" line="27" column="16" />
+        <mark key="." line="27" column="16" />
         <mark key="^" line="27" column="12" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Api/Transformers/Time/TimesheetTransformer.php" timestamp="1499884159706">
@@ -613,13 +613,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>static</text>
+        <text>function</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>static</text>
+        <text>function</text>
       </register>
       <register name="/" type="4">
         <text>boogerstate</text>
