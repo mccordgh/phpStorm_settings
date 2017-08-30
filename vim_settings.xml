@@ -34,6 +34,7 @@
         <mark key="]" line="193" column="0" />
         <mark key="." line="193" column="0" />
       </file>
+      <file name="$USER_HOME$/bernieportal/legacy/OnboardingModule.php" timestamp="1504116222777" />
       <file name="$USER_HOME$/bernieportal/resources/views/authentication/login.blade.php" timestamp="1503690549134">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="4" />
@@ -251,6 +252,9 @@
         <mark key="]" line="16" column="19" />
         <mark key="." line="16" column="19" />
       </file>
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/onboarding/personal-info.vue" timestamp="1504116368510">
+        <mark key="[" line="13" column="58" />
+      </file>
       <file name="$USER_HOME$/bernieportal/legacy/ClientPortalModule.php" timestamp="1503600445978">
         <mark key="[" line="2463" column="85" />
         <mark key="]" line="2463" column="86" />
@@ -392,7 +396,7 @@
       <file name="$USER_HOME$/bernieportal/resources/views/layout/nav/user.blade.php" timestamp="1494275620716">
         <mark key="[" line="62" column="74" />
       </file>
-      <file name="/PHP Console" timestamp="1504035127996">
+      <file name="/PHP Console" timestamp="1504116223837">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/views/authentication/employer-code-login.blade.php" timestamp="1503691209860">
@@ -419,7 +423,7 @@
       <file name="$USER_HOME$/workspace/soundbox_js_playground/index.html" timestamp="1504056226018">
         <mark key="[" line="6" column="8" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504103073463">
+      <file name="/Dummy.txt" timestamp="1504116327655">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -475,6 +479,7 @@
         <mark key="]" line="5" column="36" />
         <mark key="." line="5" column="36" />
       </file>
+      <file name="$USER_HOME$/bernieportal/public/sites/all/modules/onboarding/onboarding.module" timestamp="1504116190120" />
       <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/components/hiring-team.vue" timestamp="1493220766505">
         <mark key="[" line="77" column="56" />
       </file>
@@ -663,7 +668,7 @@ RawBlameHistory
         <text encoding="base64">CsKpIDIwMTcgR2l0SHViLCBJbmMuCiAgVGVybXMKUHJpdmFjeQpTZWN1cml0eQpTdGF0dXMKSGVscApDb250YWN0IEdpdEh1YgpBUEkKVHJhaW5pbmcKU2hvcApCbG9nCkFib3V0</text>
       </register>
       <register name=":" type="4">
-        <text>134</text>
+        <text>162</text>
       </register>
     </registers>
     <search>
@@ -697,7 +702,6 @@ RawBlameHistory
         <entry>boogerstate</entry>
       </history-search>
       <history-cmd>
-        <entry>791</entry>
         <entry>48</entry>
         <entry>109</entry>
         <entry>41</entry>
@@ -717,6 +721,7 @@ RawBlameHistory
         <entry>179</entry>
         <entry>808</entry>
         <entry>134</entry>
+        <entry>162</entry>
       </history-cmd>
       <history-expr />
       <history-input />
