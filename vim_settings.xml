@@ -34,7 +34,7 @@
         <mark key="]" line="193" column="0" />
         <mark key="." line="193" column="0" />
       </file>
-      <file name="$USER_HOME$/bernieportal/legacy/OnboardingModule.php" timestamp="1504122164231" />
+      <file name="$USER_HOME$/bernieportal/legacy/OnboardingModule.php" timestamp="1504127675268" />
       <file name="$USER_HOME$/bernieportal/resources/views/authentication/login.blade.php" timestamp="1503690549134">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="4" />
@@ -185,6 +185,9 @@
         <mark key="[" line="352" column="15" />
         <mark key="]" line="352" column="15" />
         <mark key="." line="352" column="15" />
+      </file>
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/time/time-period-select.vue" timestamp="1504130613062">
+        <mark key="[" line="53" column="0" />
       </file>
       <file name="/fragment.php" timestamp="1503601372242">
         <mark key="[" line="0" column="0" />
@@ -396,13 +399,19 @@
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/tiles/path-yellow.js" timestamp="1503356619147">
         <mark key="[" line="3" column="17" />
       </file>
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/time/timesheet.vue" timestamp="1504130412679">
+        <mark key="[" line="232" column="77" />
+        <mark key="]" line="232" column="77" />
+        <mark key="." line="232" column="77" />
+        <mark key="^" line="226" column="59" />
+      </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/time/employees/timesheet.vue" timestamp="1496866552323">
         <mark key="[" line="3" column="37" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/views/layout/nav/user.blade.php" timestamp="1494275620716">
         <mark key="[" line="62" column="74" />
       </file>
-      <file name="/PHP Console" timestamp="1504122156776">
+      <file name="/PHP Console" timestamp="1504131037876">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/views/authentication/employer-code-login.blade.php" timestamp="1503691209860">
@@ -500,6 +509,13 @@
         <mark key="^" line="14" column="43" />
         <mark key="." line="14" column="13" />
       </file>
+      <file name="$USER_HOME$/BerniePortalWiki/bernie-portal-wiki.css" timestamp="1504128951555">
+        <mark key="'" line="582" column="0" />
+        <mark key="[" line="574" column="29" />
+        <mark key="]" line="282" column="0" />
+        <mark key="^" line="282" column="0" />
+        <mark key="." line="282" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/menus/game-over.js" timestamp="1503622992940">
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="0" />
@@ -516,8 +532,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3532" column="53" filename="$USER_HOME$/bernieportal/legacy/OnboardingModule.php" />
-      <jump line="3530" column="43" filename="$USER_HOME$/bernieportal/legacy/OnboardingModule.php" />
       <jump line="3507" column="0" filename="$USER_HOME$/bernieportal/legacy/OnboardingModule.php" />
       <jump line="3498" column="0" filename="$USER_HOME$/bernieportal/legacy/OnboardingModule.php" />
       <jump line="3490" column="0" filename="$USER_HOME$/bernieportal/legacy/OnboardingModule.php" />
@@ -616,16 +630,18 @@
       <jump line="23" column="56" filename="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/lighting/light-source.js" />
       <jump line="310" column="3" filename="$USER_HOME$/workspace/soundbox_js_playground/main.js" />
       <jump line="2" column="21" filename="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/sounds/sound-manager.js" />
+      <jump line="282" column="0" filename="$USER_HOME$/BerniePortalWiki/bernie-portal-wiki.css" />
+      <jump line="580" column="0" filename="$USER_HOME$/BerniePortalWiki/bernie-portal-wiki.css" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>2017-08-01'</text>
+        <text>data</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>2017-08-01'</text>
+        <text>data</text>
       </register>
       <register name="/" type="4">
         <text>boogerstate</text>
