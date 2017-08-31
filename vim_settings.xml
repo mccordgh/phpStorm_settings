@@ -37,7 +37,6 @@
         <mark key="]" line="193" column="0" />
         <mark key="." line="193" column="0" />
       </file>
-      <file name="$USER_HOME$/bernieportal/legacy/OnboardingModule.php" timestamp="1504127675268" />
       <file name="$USER_HOME$/bernieportal/resources/views/authentication/login.blade.php" timestamp="1503690549134">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="4" />
@@ -101,10 +100,10 @@
         <mark key="]" line="6218" column="33" />
         <mark key="." line="6218" column="33" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/onboarding/contact-info.vue" timestamp="1504211567479">
-        <mark key="[" line="39" column="31" />
-        <mark key="]" line="226" column="33" />
-        <mark key="." line="226" column="33" />
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/onboarding/contact-info.vue" timestamp="1504211703234">
+        <mark key="[" line="172" column="22" />
+        <mark key="]" line="229" column="33" />
+        <mark key="." line="229" column="33" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Api/Transformers/UserTransformer.php" timestamp="1495663599299">
         <mark key="[" line="16" column="24" />
@@ -243,7 +242,7 @@
         <mark key="]" line="16" column="19" />
         <mark key="." line="16" column="19" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/onboarding/personal-info.vue" timestamp="1504211198691">
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/onboarding/personal-info.vue" timestamp="1504211661672">
         <mark key="[" line="216" column="50" />
       </file>
       <file name="$USER_HOME$/bernieportal/legacy/ClientPortalModule.php" timestamp="1503600445978">
