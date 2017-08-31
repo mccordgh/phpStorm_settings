@@ -229,8 +229,10 @@
         <mark key="]" line="16" column="19" />
         <mark key="." line="16" column="19" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/onboarding/personal-info.vue" timestamp="1504116368510">
-        <mark key="[" line="13" column="58" />
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/onboarding/personal-info.vue" timestamp="1504196922074">
+        <mark key="[" line="41" column="34" />
+        <mark key="]" line="41" column="34" />
+        <mark key="." line="41" column="34" />
       </file>
       <file name="$USER_HOME$/bernieportal/legacy/ClientPortalModule.php" timestamp="1503600445978">
         <mark key="[" line="2463" column="85" />
@@ -338,9 +340,9 @@
         <mark key="[" line="3" column="17" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/time/timesheet.vue" timestamp="1504130412679">
-        <mark key="[" line="232" column="77" />
-        <mark key="]" line="232" column="77" />
-        <mark key="." line="232" column="77" />
+        <mark key="[" line="227" column="77" />
+        <mark key="]" line="227" column="77" />
+        <mark key="." line="227" column="77" />
         <mark key="^" line="226" column="59" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/time/employees/timesheet.vue" timestamp="1496866552323">
@@ -349,7 +351,7 @@
       <file name="$USER_HOME$/bernieportal/resources/views/layout/nav/user.blade.php" timestamp="1494275620716">
         <mark key="[" line="62" column="74" />
       </file>
-      <file name="/PHP Console" timestamp="1504131402626">
+      <file name="/PHP Console" timestamp="1504197055110">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/time/subgroups/index.vue" timestamp="1493133715565">
@@ -561,39 +563,42 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>handler</text>
+        <text>user.</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>handler</text>
+        <text>user.</text>
       </register>
       <register name="/" type="4">
         <text>boogerstate</text>
       </register>
       <register name="0" type="4">
-        <text />
+        <text encoding="base64">by5mb3JFYWNoKCA=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gc3RhcnREZW1vKCkgewo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">aW5mby5mb3JFYWNoKChrZXksIHZhbHVlKSA9PiB7CiAgICAgICAgICBjb25zb2xlLmxvZyh7a2V5LCB2YWx1ZX0pOwogICAgICAgIH0pOw==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ZnVuY3Rpb24gc3RhcnREZW1vKCkgewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coQ2hvcmQuYnVpbGQoIkEgTWFqIikpOwo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coQ2hvcmQuYnVpbGQoIkEgTWFqIikpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coKTsK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coKTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="4">
         <text>Skip to content
 This repository
 Search
@@ -614,11 +619,8 @@ m Clear note cache when arpeggio changes
 RawBlameHistory
 345 lines (285 sloc)  11.6 KB</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">CsKpIDIwMTcgR2l0SHViLCBJbmMuCiAgVGVybXMKUHJpdmFjeQpTZWN1cml0eQpTdGF0dXMKSGVscApDb250YWN0IEdpdEh1YgpBUEkKVHJhaW5pbmcKU2hvcApCbG9nCkFib3V0</text>
       </register>
       <register name=":" type="4">
         <text>162</text>
