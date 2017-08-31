@@ -101,6 +101,11 @@
         <mark key="]" line="6218" column="33" />
         <mark key="." line="6218" column="33" />
       </file>
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/onboarding/contact-info.vue" timestamp="1504211567479">
+        <mark key="[" line="39" column="31" />
+        <mark key="]" line="226" column="33" />
+        <mark key="." line="226" column="33" />
+      </file>
       <file name="$USER_HOME$/bernieportal/app/Api/Transformers/UserTransformer.php" timestamp="1495663599299">
         <mark key="[" line="16" column="24" />
       </file>
@@ -135,7 +140,7 @@
       <file name="$USER_HOME$/bernieportal/app/Ats/Repositories/JobCandidateRepository.php" timestamp="1502732569985">
         <mark key="[" line="36" column="25" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/date-input.vue" timestamp="1504200902543">
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/date-input.vue" timestamp="1504211323542">
         <mark key="[" line="46" column="32" />
         <mark key="]" line="35" column="4" />
         <mark key="^" line="35" column="4" />
@@ -195,6 +200,12 @@
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/gfx/game-camera.js" timestamp="1503516675101">
         <mark key="[" line="40" column="26" />
       </file>
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/state-picker.vue" timestamp="1504211477345">
+        <mark key="[" line="63" column="12" />
+        <mark key="]" line="63" column="12" />
+        <mark key="^" line="63" column="12" />
+        <mark key="." line="63" column="12" />
+      </file>
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/menus/main-menu.js" timestamp="1503962479742">
         <mark key="[" line="32" column="22" />
         <mark key="]" line="32" column="22" />
@@ -232,10 +243,8 @@
         <mark key="]" line="16" column="19" />
         <mark key="." line="16" column="19" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/onboarding/personal-info.vue" timestamp="1504203280502">
-        <mark key="[" line="219" column="9" />
-        <mark key="]" line="219" column="9" />
-        <mark key="." line="219" column="9" />
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/onboarding/personal-info.vue" timestamp="1504211198691">
+        <mark key="[" line="216" column="50" />
       </file>
       <file name="$USER_HOME$/bernieportal/legacy/ClientPortalModule.php" timestamp="1503600445978">
         <mark key="[" line="2463" column="85" />
@@ -354,7 +363,7 @@
       <file name="$USER_HOME$/bernieportal/resources/views/layout/nav/user.blade.php" timestamp="1494275620716">
         <mark key="[" line="62" column="74" />
       </file>
-      <file name="/PHP Console" timestamp="1504203367175">
+      <file name="/PHP Console" timestamp="1504210726300">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/time/subgroups/index.vue" timestamp="1493133715565">
@@ -566,13 +575,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IGVsc2Ugew==</text>
+        <text encoding="base64">IFsnc3RhdGUnXQ==</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGVsc2Ugew==</text>
+        <text encoding="base64">IFsnc3RhdGUnXQ==</text>
       </register>
       <register name="/" type="4">
         <text>boogerstate</text>
@@ -581,55 +590,37 @@
         <text>e.log('add invalid to', );</text>
       </register>
       <register name="1" type="4">
+        <text encoding="base64">ewovLyAgICAgICAgICBpZiAoaXRlbSA9PT0gJ2JpcnRoZGF0ZScpIHsKLy8gICAgICAgICAgICB0aGlzLmJpcnRoZGF0ZUVycm9yID0gdHJ1ZTsKLy8gICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgIA==</text>
+      </register>
+      <register name="2" type="4">
         <text>) {
 //            console.log('add invalid to', key);
             this.addInvalidClass(key);
           }</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">aW5mby5mb3JFYWNoKChrZXksIHZhbHVlKSA9PiB7CiAgICAgICAgICBjb25zb2xlLmxvZyh7a2V5LCB2YWx1ZX0pOwogICAgICAgIH0pOw==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ZnVuY3Rpb24gc3RhcnREZW1vKCkgewo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">fQo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Y29uc29sZS5sb2coQ2hvcmQuYnVpbGQoIkEgTWFqIikpOwo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coKTsK</text>
+      </register>
+      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>Skip to content
-This repository
-Search
-Pull requests
-Issues
-Marketplace
-Explore
-@mccordgh
-Sign out
-Watch 5
-Star 40
-Fork 12 mbitsnbites/soundbox
-Code  Issues 1  Pull requests 0  Projects 0  Wiki Insights
-Branch: master Find file Copy pathsoundbox/player-small.js
-5437603  10 days ago
-m Clear note cache when arpeggio changes
-1 contributor
-RawBlameHistory
-345 lines (285 sloc)  11.6 KB</text>
-      </register>
       <register name=":" type="4">
-        <text>162</text>
+        <text>vsp</text>
       </register>
     </registers>
     <search>
@@ -671,7 +662,6 @@ RawBlameHistory
         <entry>355</entry>
         <entry>2672</entry>
         <entry>2788</entry>
-        <entry>vsp</entry>
         <entry>641</entry>
         <entry>238</entry>
         <entry>121</entry>
@@ -683,6 +673,7 @@ RawBlameHistory
         <entry>808</entry>
         <entry>134</entry>
         <entry>162</entry>
+        <entry>vsp</entry>
       </history-cmd>
       <history-expr />
       <history-input />
