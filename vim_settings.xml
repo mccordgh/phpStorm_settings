@@ -290,7 +290,11 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/time/summary-table.vue" timestamp="1496776949409">
         <mark key="[" line="39" column="46" />
       </file>
-      <file name="$USER_HOME$/workspace/php/testProject/config/database.php" timestamp="1504284774945" />
+      <file name="$USER_HOME$/workspace/php/testProject/config/database.php" timestamp="1504285842902">
+        <mark key="[" line="51" column="25" />
+        <mark key="]" line="51" column="25" />
+        <mark key="." line="51" column="25" />
+      </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/quaternary-nav-for-vue.vue" timestamp="1498594361234">
         <mark key="[" line="15" column="23" />
       </file>
@@ -311,6 +315,7 @@
       <file name="$USER_HOME$/bernieportal/public/sites/all/themes/bernard/template.php" timestamp="1502920203387">
         <mark key="[" line="256" column="36" />
       </file>
+      <file name="$USER_HOME$/workspace/php/testProject/.env" timestamp="1504285645787" />
       <file name="$USER_HOME$/bernieportal/legacy/BhReportsModule.php" timestamp="1502138500148">
         <mark key="[" line="470" column="27" />
       </file>
@@ -392,7 +397,7 @@
       <file name="$USER_HOME$/workspace/soundbox_js_playground/index.html" timestamp="1504056226018">
         <mark key="[" line="6" column="8" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504215184448">
+      <file name="/Dummy.txt" timestamp="1504285632164">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -576,13 +581,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>comment</text>
+        <text>gwc_</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>comment</text>
+        <text>gwc_</text>
       </register>
       <register name="/" type="4">
         <text>boogerstate</text>
