@@ -90,7 +90,7 @@
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/states/state.js" timestamp="1503516791795">
         <mark key="[" line="1" column="24" />
       </file>
-      <file name="$USER_HOME$/workspace/php/testProject/database/seeds/UserTableSeeder.php" timestamp="1504288093711">
+      <file name="$USER_HOME$/workspace/php/testProject/database/seeds/UserTableSeeder.php" timestamp="1504297508566">
         <mark key="[" line="27" column="27" />
         <mark key="]" line="27" column="27" />
         <mark key="^" line="27" column="27" />
@@ -112,10 +112,7 @@
         <mark key="]" line="6218" column="33" />
         <mark key="." line="6218" column="33" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/onboarding/contact-info.vue" timestamp="1504280021200">
-        <mark key="^" line="40" column="17" />
-      </file>
-      <file name="$USER_HOME$/workspace/php/testProject/database/migrations/2014_10_12_000000_create_users_table.php" timestamp="1504287253081" />
+      <file name="$USER_HOME$/workspace/php/testProject/database/migrations/2014_10_12_000000_create_users_table.php" timestamp="1504297302058" />
       <file name="$USER_HOME$/bernieportal/app/Api/Transformers/UserTransformer.php" timestamp="1495663599299">
         <mark key="[" line="16" column="24" />
       </file>
@@ -271,6 +268,11 @@
       <file name="$USER_HOME$/bernieportal/resources/views/dashboards/sidebar/benefits.blade.php" timestamp="1499974671996">
         <mark key="[" line="5" column="31" />
       </file>
+      <file name="$USER_HOME$/workspace/php/testProject/database/migrations/2017_09_01_202126_CreateUserInfoTable.php" timestamp="1504297854595">
+        <mark key="[" line="20" column="20" />
+        <mark key="]" line="20" column="20" />
+        <mark key="." line="20" column="20" />
+      </file>
       <file name="$USER_HOME$/workspace/web_audio_api_tutorial/main.js" timestamp="1504052390866">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -401,6 +403,11 @@
       </file>
       <file name="$USER_HOME$/workspace/Defend_The_Castle/js/app/classes/entities/creatures/monsters/Bat.js" timestamp="1503176608598">
         <mark key="[" line="88" column="48" />
+      </file>
+      <file name="$USER_HOME$/workspace/php/testProject/database/seeds/UserInfosTableSeeder.php" timestamp="1504298023701">
+        <mark key="[" line="14" column="46" />
+        <mark key="]" line="14" column="46" />
+        <mark key="." line="14" column="46" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/popover.vue" timestamp="1492636708489">
         <mark key="[" line="13" column="26" />
@@ -571,13 +578,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">LT5zZWxlY3QoJ25hbWUnLCAnZm9vZCcp</text>
+        <text>null</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LT5zZWxlY3QoJ25hbWUnLCAnZm9vZCcp</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
         <text>boogerstate</text>
@@ -586,34 +593,34 @@
         <text>e.log('add invalid to', );</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICB7eyB2YXJfZHVtcCgkdXNlcnMpIH19Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YWRkVXNlckluZm8oWydCZXJuaWUnLCAnZEBmJywgJ2ZyZWVkb20gZnJpZXMnXSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkdXNlcnMgPSBEQjo6c2VsZWN0KCdzZWxlY3QgKiBmcm9tIHVzZXJzJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICB7eyB2YXJfZHVtcCgkdXNlcnMpIH19Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAkdXNlcnMgPSBEQjo6c2VsZWN0KCdzZWxlY3QgKiBmcm9tIHVzZXJzJyk7Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBEQjo6dGFibGUoJ3VzZXJzJyktPmluc2VydChbXSkgICAgICAgIERCOjp0YWJsZSgndXNlcnMnKS0+aW5zZXJ0KFtdKQo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">ewovLyAgICAgICAgICBpZiAoaXRlbSA9PT0gJ2JpcnRoZGF0ZScpIHsKLy8gICAgICAgICAgICB0aGlzLmJpcnRoZGF0ZUVycm9yID0gdHJ1ZTsKLy8gICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgIA==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>) {
 //            console.log('add invalid to', key);
             this.addInvalidClass(key);
           }</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">aW5mby5mb3JFYWNoKChrZXksIHZhbHVlKSA9PiB7CiAgICAgICAgICBjb25zb2xlLmxvZyh7a2V5LCB2YWx1ZX0pOwogICAgICAgIH0pOw==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ZnVuY3Rpb24gc3RhcnREZW1vKCkgewo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">fQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coQ2hvcmQuYnVpbGQoIkEgTWFqIikpOwo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
