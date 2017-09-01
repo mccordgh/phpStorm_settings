@@ -100,11 +100,8 @@
         <mark key="]" line="6218" column="33" />
         <mark key="." line="6218" column="33" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/onboarding/contact-info.vue" timestamp="1504215728840">
-        <mark key="[" line="202" column="18" />
-        <mark key="]" line="202" column="18" />
-        <mark key="^" line="79" column="19" />
-        <mark key="." line="202" column="18" />
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/onboarding/contact-info.vue" timestamp="1504280021200">
+        <mark key="^" line="40" column="17" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Api/Transformers/UserTransformer.php" timestamp="1495663599299">
         <mark key="[" line="16" column="24" />
@@ -140,7 +137,7 @@
       <file name="$USER_HOME$/bernieportal/app/Ats/Repositories/JobCandidateRepository.php" timestamp="1502732569985">
         <mark key="[" line="36" column="25" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/date-input.vue" timestamp="1504211323542">
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/date-input.vue" timestamp="1504280487033">
         <mark key="[" line="46" column="32" />
         <mark key="]" line="35" column="4" />
         <mark key="^" line="35" column="4" />
@@ -200,10 +197,9 @@
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/gfx/game-camera.js" timestamp="1503516675101">
         <mark key="[" line="40" column="26" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/state-picker.vue" timestamp="1504212159588">
-        <mark key="[" line="4" column="24" />
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/state-picker.vue" timestamp="1504280396750">
+        <mark key="[" line="62" column="18" />
         <mark key="]" line="4" column="24" />
-        <mark key="^" line="63" column="12" />
         <mark key="." line="4" column="24" />
       </file>
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/menus/main-menu.js" timestamp="1503962479742">
@@ -243,8 +239,8 @@
         <mark key="]" line="16" column="19" />
         <mark key="." line="16" column="19" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/onboarding/personal-info.vue" timestamp="1504215204312">
-        <mark key="[" line="64" column="34" />
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/onboarding/personal-info.vue" timestamp="1504279297415">
+        <mark key="[" line="190" column="24" />
         <mark key="]" line="64" column="34" />
         <mark key="." line="64" column="34" />
       </file>
@@ -365,7 +361,7 @@
       <file name="$USER_HOME$/bernieportal/resources/views/layout/nav/user.blade.php" timestamp="1494275620716">
         <mark key="[" line="62" column="74" />
       </file>
-      <file name="/PHP Console" timestamp="1504216058787">
+      <file name="/PHP Console" timestamp="1504280339722">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/time/subgroups/index.vue" timestamp="1493133715565">
@@ -577,13 +573,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>his.user.email.</text>
+        <text>MO</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>his.user.email.</text>
+        <text>MO</text>
       </register>
       <register name="/" type="4">
         <text>boogerstate</text>
