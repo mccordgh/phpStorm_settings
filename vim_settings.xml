@@ -335,9 +335,11 @@
         <mark key="]" line="13" column="46" />
         <mark key="." line="13" column="46" />
       </file>
-      <file name="$USER_HOME$/workspace/php/testProject/app/Http/Controllers/HomeController.php" timestamp="1504291333796">
-        <mark key="]" line="16" column="65" />
-        <mark key="." line="16" column="65" />
+      <file name="$USER_HOME$/workspace/php/testProject/app/Http/Controllers/HomeController.php" timestamp="1504295326003">
+        <mark key="[" line="19" column="27" />
+        <mark key="]" line="19" column="27" />
+        <mark key="." line="19" column="27" />
+        <mark key="^" line="19" column="26" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Data/Gateways/Benefits/BenefitGateway.php" timestamp="1500584485332">
         <mark key="[" line="4" column="28" />
@@ -569,13 +571,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>css/main.css</text>
+        <text encoding="base64">LT5zZWxlY3QoJ25hbWUnLCAnZm9vZCcp</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>css/main.css</text>
+        <text encoding="base64">LT5zZWxlY3QoJ25hbWUnLCAnZm9vZCcp</text>
       </register>
       <register name="/" type="4">
         <text>boogerstate</text>
