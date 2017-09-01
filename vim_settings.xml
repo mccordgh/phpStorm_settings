@@ -42,7 +42,7 @@
         <mark key="]" line="2" column="4" />
         <mark key="." line="2" column="4" />
       </file>
-      <file name="$USER_HOME$/workspace/php/testProject/resources/views/home.blade.php" timestamp="1504281606457">
+      <file name="$USER_HOME$/workspace/php/testProject/resources/views/home.blade.php" timestamp="1504282670285">
         <mark key="[" line="6" column="47" />
         <mark key="]" line="8" column="33" />
         <mark key="." line="8" column="33" />
@@ -231,6 +231,12 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/thread/candidate-job-message-modal.vue" timestamp="1493229583139">
         <mark key="[" line="13" column="61" />
       </file>
+      <file name="$USER_HOME$/workspace/php/testProject/app/Console/Commands/DrawACoolGuy.php" timestamp="1504284289872">
+        <mark key="[" line="44" column="15" />
+        <mark key="]" line="44" column="15" />
+        <mark key="^" line="46" column="20" />
+        <mark key="." line="44" column="15" />
+      </file>
       <file name="$USER_HOME$/bernieportal/app/Carriers/Billing/SummaryBill.php" timestamp="1497900688518">
         <mark key="[" line="76" column="5" />
       </file>
@@ -284,6 +290,7 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/time/summary-table.vue" timestamp="1496776949409">
         <mark key="[" line="39" column="46" />
       </file>
+      <file name="$USER_HOME$/workspace/php/testProject/config/database.php" timestamp="1504284774945" />
       <file name="$USER_HOME$/bernieportal/resources/assets/components/quaternary-nav-for-vue.vue" timestamp="1498594361234">
         <mark key="[" line="15" column="23" />
       </file>
@@ -379,6 +386,9 @@
         <mark key="." line="48" column="71" />
         <mark key="^" line="15" column="56" />
       </file>
+      <file name="$USER_HOME$/workspace/php/testProject/app/Console/Kernel.php" timestamp="1504282888931">
+        <mark key="[" line="16" column="10" />
+      </file>
       <file name="$USER_HOME$/workspace/soundbox_js_playground/index.html" timestamp="1504056226018">
         <mark key="[" line="6" column="8" />
       </file>
@@ -452,13 +462,6 @@
         <mark key="]" line="14" column="13" />
         <mark key="^" line="14" column="43" />
         <mark key="." line="14" column="13" />
-      </file>
-      <file name="$USER_HOME$/BerniePortalWiki/bernie-portal-wiki.css" timestamp="1504128951555">
-        <mark key="'" line="582" column="0" />
-        <mark key="[" line="574" column="29" />
-        <mark key="]" line="282" column="0" />
-        <mark key="^" line="282" column="0" />
-        <mark key="." line="282" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/menus/game-over.js" timestamp="1503622992940">
         <mark key="[" line="46" column="0" />
@@ -573,13 +576,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>MO</text>
+        <text>comment</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>MO</text>
+        <text>comment</text>
       </register>
       <register name="/" type="4">
         <text>boogerstate</text>
