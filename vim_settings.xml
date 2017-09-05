@@ -186,6 +186,11 @@
       <file name="$USER_HOME$/bernieportal/app/Ats/Repositories/JobCandidateRepository.php" timestamp="1502732569985">
         <mark key="[" line="36" column="25" />
       </file>
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/time/subgroups/settings.vue" timestamp="1504640516329">
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="0" column="1" />
+        <mark key="." line="0" column="1" />
+      </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/date-input.vue" timestamp="1504290771481">
         <mark key="[" line="46" column="32" />
         <mark key="]" line="35" column="4" />
@@ -288,7 +293,7 @@
       <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/Time/PeriodsController.php" timestamp="1502307418679">
         <mark key="[" line="56" column="67" />
       </file>
-      <file name="/fragment.js" timestamp="1497373471660">
+      <file name="/fragment.js" timestamp="1504640425143">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/aca/employees/employees-list.vue" timestamp="1498596747533">
@@ -476,7 +481,7 @@
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/worlds/levels/level.js" timestamp="1504391486114">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1504280339722">
+      <file name="/PHP Console" timestamp="1504640257171">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/time/subgroups/index.vue" timestamp="1493133715565">
@@ -701,7 +706,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>assets.animations</text>
+        <text encoding="base64">IGJyIHsKICAgIGxpbmUtaGVpZ2h0OiAyLjVyZW07CiAgfQ==</text>
       </register>
       <register name="d" type="4">
         <text />
@@ -715,32 +720,32 @@
       <register name="0" type="4">
         <text>e.log('add invalid to', );</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="1" type="4">
+        <text encoding="base64">IGJyIHsKICAgIGxpbmUtaGVpZ2h0OiAyLjVyZW07CiAgfQ==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDxhIGhyZWY9Ii8iPkdPIEhPTUU8L2E+Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgIDxhIGhyZWY9Ii8iPkdPIEhPTUU8L2E+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDxhIGhyZWY9Ii8iPiBIT01FPC9hPgo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgIDxhIGhyZWY9Ii8iPkdPIEhPTUU8L2E+Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIDxhIGhyZWY9Ii8iPiBIT01FPC9hPgo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">Ly8gICAgICAgICAgICBkZCgkdGhpc1N0YXR1cyk7CgogICAgICAgICAgICAkdGhpc1VzZXJzID0gW107CiAgICAgICAgICAgIGZvcmVhY2goJHRoaXNTdGF0dXMgYXMgJHVzZXJOYW1lID0+ICRzdGF0cykKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgJHRoaXNVc2Vyc1skc3RhdHNbJ2ZpcnN0X25hbWUnXV0gPSBbJ25hbWUnID0+ICRzdGF0c1snbmFtZSddLCAncG9pbnRzJyA9PiAkc3RhdHNbJ3BvaW50cyddXTsKICAgICAgICAgICAgfQ==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIDxhIGhyZWY9Ii8iPkdPIEhPTUU8L2E+Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
