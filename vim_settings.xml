@@ -143,9 +143,12 @@
         <mark key="]" line="5" column="36" />
         <mark key="." line="5" column="36" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/billing/benefit-billing-past.vue" timestamp="1504731868328">
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/billing/benefit-billing-past.vue" timestamp="1504733800182">
         <mark key="'" line="82" column="0" />
+        <mark key="[" line="140" column="25" />
+        <mark key="]" line="151" column="16" />
         <mark key="^" line="80" column="5" />
+        <mark key="." line="151" column="16" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Ats/Repositories/JobCandidateRepository.php" timestamp="1502732569985">
         <mark key="[" line="36" column="25" />
@@ -172,10 +175,10 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/js/current-user-id.js" timestamp="1499278658594">
         <mark key="[" line="2" column="63" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/billing/benefit-billing-current.vue" timestamp="1503328826485">
-        <mark key="[" line="352" column="15" />
-        <mark key="]" line="352" column="15" />
-        <mark key="." line="352" column="15" />
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/billing/benefit-billing-current.vue" timestamp="1504733724767">
+        <mark key="[" line="288" column="11" />
+        <mark key="]" line="290" column="15" />
+        <mark key="." line="290" column="15" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/time/time-period-select.vue" timestamp="1504646418969">
         <mark key="[" line="44" column="41" />
@@ -422,7 +425,7 @@
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/worlds/levels/level.js" timestamp="1504391486114">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1504732144457">
+      <file name="/PHP Console" timestamp="1504733785192">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/public/sites/all/modules/bh_reports/bh_reports.module" timestamp="1504646506471" />
@@ -441,7 +444,7 @@
       <file name="$USER_HOME$/workspace/soundbox_js_playground/index.html" timestamp="1504056226018">
         <mark key="[" line="6" column="8" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504730672749">
+      <file name="/Dummy.txt" timestamp="1504733122561">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -636,13 +639,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>numericInput</text>
+        <text>this.$dispatch('alertError', 'There was a problem receiving past bills')</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>numericInput</text>
+        <text>this.$dispatch('alertError', 'There was a problem receiving past bills')</text>
       </register>
       <register name="/" type="4">
         <text>boogerstate</text>
