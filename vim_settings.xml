@@ -162,6 +162,7 @@
       <file name="$USER_HOME$/bernieportal/public/sites/all/themes/bernard/template.php" timestamp="1502920203387">
         <mark key="[" line="256" column="36" />
       </file>
+      <file name="$USER_HOME$/bernieportal/app/Carriers/Billing/AllStateRules.php" timestamp="1504808893643" />
       <file name="$USER_HOME$/bernieportal/resources/assets/components/sidebar-toggle.vue" timestamp="1496247983712">
         <mark key="[" line="12" column="13" />
       </file>
@@ -359,7 +360,7 @@
         <mark key="]" line="44" column="3" />
         <mark key="." line="44" column="41" />
       </file>
-      <file name="/fragment.php" timestamp="1504724580673">
+      <file name="/fragment.php" timestamp="1504808285346">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
@@ -407,7 +408,7 @@
       <file name="/fragment.js" timestamp="1504640425143">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Http/routes.php" timestamp="1503694176777">
+      <file name="$USER_HOME$/bernieportal/app/Http/routes.php" timestamp="1504808256691">
         <mark key="[" line="16" column="19" />
         <mark key="]" line="16" column="19" />
         <mark key="." line="16" column="19" />
@@ -450,6 +451,7 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/job/job-candidates-list.vue" timestamp="1502727847016">
         <mark key="[" line="188" column="88" />
       </file>
+      <file name="$USER_HOME$/bernieportal/app/Carriers/Billing/BillingRepository.php" timestamp="1504808487691" />
       <file name="$USER_HOME$/workspace/php/testProject/resources/views/about.blade.php" timestamp="1504305341948">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -483,7 +485,7 @@
         <mark key="[" line="183" column="5" />
       </file>
       <file name="$USER_HOME$/bernieportal/public/includes/database.inc" timestamp="1504724413492" />
-      <file name="/PHP Console" timestamp="1504807110954">
+      <file name="/PHP Console" timestamp="1504808394683">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/public/sites/all/modules/bh_reports/bh_reports.module" timestamp="1504646506471" />
@@ -687,7 +689,7 @@
         <text encoding="base64">ICB0YWtlRGFtYWdlOiBmdW5jdGlvbihfZGFtYWdlKXsKICAgIGlmICh0eXBlb2YgdGhpcy5oZWFsdGhiYXIgIT0gdW5kZWZpbmVkICYmICF0aGlzLmRlYWQpCiAgICAgIHRoaXMuaGVhbHRoIC09IF9kYW1hZ2U7CiAgICB0aGlzLmhlYWx0aGJhci51cGRhdGUoKTsKICB9</text>
       </register>
       <register name=":" type="4">
-        <text>248</text>
+        <text>19</text>
       </register>
     </registers>
     <search>
@@ -721,8 +723,6 @@
         <entry>boogerstate</entry>
       </history-search>
       <history-cmd>
-        <entry>2449</entry>
-        <entry>137</entry>
         <entry>355</entry>
         <entry>2672</entry>
         <entry>2788</entry>
@@ -741,6 +741,8 @@
         <entry>113</entry>
         <entry>153</entry>
         <entry>248</entry>
+        <entry>139</entry>
+        <entry>19</entry>
       </history-cmd>
       <history-expr />
       <history-input />
