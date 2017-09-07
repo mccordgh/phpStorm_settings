@@ -372,9 +372,9 @@
         <mark key="[" line="8" column="27" />
       </file>
       <file name="$USER_HOME$/bernieportal/legacy/BenefitSelectionModule.php" timestamp="1504713586370" />
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/billing/benefit-billing-past.vue" timestamp="1504801306505">
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/billing/benefit-billing-past.vue" timestamp="1504805968314">
         <mark key="'" line="82" column="0" />
-        <mark key="[" line="153" column="29" />
+        <mark key="[" line="140" column="25" />
         <mark key="]" line="153" column="27" />
         <mark key="^" line="80" column="5" />
         <mark key="." line="153" column="27" />
@@ -384,8 +384,8 @@
         <mark key="]" line="5" column="14" />
         <mark key="." line="5" column="14" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/billing/benefit-billing-current.vue" timestamp="1504801298731">
-        <mark key="[" line="291" column="40" />
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/billing/benefit-billing-current.vue" timestamp="1504805981451">
+        <mark key="[" line="268" column="25" />
         <mark key="]" line="291" column="40" />
         <mark key="^" line="291" column="39" />
         <mark key="." line="291" column="40" />
@@ -525,7 +525,7 @@
         <mark key="[" line="183" column="5" />
       </file>
       <file name="$USER_HOME$/bernieportal/public/includes/database.inc" timestamp="1504724413492" />
-      <file name="/PHP Console" timestamp="1504801495722">
+      <file name="/PHP Console" timestamp="1504805938059">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/public/sites/all/modules/bh_reports/bh_reports.module" timestamp="1504646506471" />
