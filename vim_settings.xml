@@ -99,6 +99,9 @@
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
       </file>
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/billing/generate-bill-button.vue" timestamp="1504819916674">
+        <mark key="[" line="17" column="17" />
+      </file>
       <file name="$USER_HOME$/bernieportal/app/Views/Composers/Sidebar/Sidebar.php" timestamp="1495661096600">
         <mark key="[" line="46" column="10" />
       </file>
@@ -442,6 +445,11 @@
         <mark key="]" line="5" column="14" />
         <mark key="." line="5" column="14" />
       </file>
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/billing/benefit-billing-current.vue" timestamp="1504820347981">
+        <mark key="[" line="335" column="31" />
+        <mark key="]" line="272" column="29" />
+        <mark key="." line="272" column="29" />
+      </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/time/time-period-select.vue" timestamp="1504646418969">
         <mark key="[" line="44" column="41" />
         <mark key="]" line="44" column="3" />
@@ -592,7 +600,7 @@
       <file name="$USER_HOME$/workspace/php/testProject/public/css/main.css" timestamp="1504813753200">
         <mark key="[" line="34" column="23" />
       </file>
-      <file name="/PHP Console" timestamp="1504808394683">
+      <file name="/PHP Console" timestamp="1504820690960">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/public/sites/all/modules/bh_reports/bh_reports.module" timestamp="1504646506471" />
@@ -759,14 +767,14 @@
       <jump line="491" column="0" filename="$USER_HOME$/bernieportal/resources/assets/js/bernie-portal.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>data.can_generate</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>mailtrap</text>
+        <text>data.can_generate</text>
       </register>
       <register name="/" type="4">
         <text>boogerstate</text>
