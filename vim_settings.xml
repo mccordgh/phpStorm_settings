@@ -471,6 +471,11 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="4" column="10" />
       </file>
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/onboarding/contact-info.vue" timestamp="1504905723265">
+        <mark key="[" line="190" column="59" />
+        <mark key="]" line="190" column="59" />
+        <mark key="." line="190" column="59" />
+      </file>
       <file name="$USER_HOME$/bernieportal/app/Api/Transformers/UserTransformer.php" timestamp="1495663599299">
         <mark key="[" line="16" column="24" />
       </file>
@@ -675,7 +680,7 @@
       <file name="$USER_HOME$/workspace/php/testProject/public/css/main.css" timestamp="1504813753200">
         <mark key="[" line="34" column="23" />
       </file>
-      <file name="/PHP Console" timestamp="1504897466874">
+      <file name="/PHP Console" timestamp="1504905883318">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/public/sites/all/modules/bh_reports/bh_reports.module" timestamp="1504646506471" />
@@ -843,13 +848,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>this.onGenerating</text>
+        <text encoding="base64">dGhpcy5wb3N0VXNlckluZm8oKSA=</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>this.onGenerating</text>
+        <text encoding="base64">dGhpcy5wb3N0VXNlckluZm8oKSA=</text>
       </register>
       <register name="/" type="4">
         <text>boogerstate</text>
@@ -857,20 +862,20 @@
       <register name="0" type="4">
         <text>e.log('add invalid to', );</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text encoding="base64">bygpIDogZmFsc2U7CiAgICAgICAgcmV0dXJuIE9iamVjdC5rZXlzKGluZm8pLmV2ZXJ5KGtleSA9PiBpbmZvW2tleV0pID8gdA==</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">Zm9yKGxldCBpID0gMDsgaSA8IGNhbmRpZGF0ZXMubGVuZ3RoOyBpKyspIHsKICAgICAgY29uc3QgZSA9IGNhbmRpZGF0ZXNbaV07CiAgICAgICAgaWYgKGUuZ2V0Q29sbGlzaW9uQm91bmRzKDAsIDApLmludGVyc2VjdHModGhpcy5nZXRDb2xsaXNpb25Cb3VuZHMoeE9mZnNldCwgeU9mZnNldCkpKSB7CiAgICAgICAgICAgIAogICAgICAgICAgICByZXR1cm4gdHJ1ZTsKICAgICAgICB9CiAgICB9CiAgICByZXR1cm4gZmFsc2U7CiAgfQ==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">QXV0aDo6cm91dGVzKCk7CgpSb3V0ZTo6Z2V0KCcvaG9tZScsICdIb21lQ29udHJvbGxlckBpbmRleCcpLT5uYW1lKCdob21lJyk7</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -879,10 +884,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">SG9tZUNvbnRyb2xsZXIucGhwCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Um91dGU6OmdldCgnaG9tZScsICdIb21lQ29udHJvbGxlckBpbmRleCcpOwo=</text>
+        <text encoding="base64">SG9tZUNvbnRyb2xsZXIucGhwCg==</text>
       </register>
       <register name=":" type="4">
         <text>214</text>
