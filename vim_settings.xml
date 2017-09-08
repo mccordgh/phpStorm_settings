@@ -117,12 +117,6 @@
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/billing/generate-bill-button.vue" timestamp="1504895303515">
-        <mark key="[" line="25" column="27" />
-        <mark key="]" line="25" column="27" />
-        <mark key="^" line="25" column="9" />
-        <mark key="." line="25" column="27" />
-      </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/date-input.vue" timestamp="1504290771481">
         <mark key="[" line="46" column="32" />
         <mark key="]" line="35" column="4" />
@@ -681,7 +675,7 @@
       <file name="$USER_HOME$/workspace/php/testProject/public/css/main.css" timestamp="1504813753200">
         <mark key="[" line="34" column="23" />
       </file>
-      <file name="/PHP Console" timestamp="1504895179429">
+      <file name="/PHP Console" timestamp="1504897466874">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/public/sites/all/modules/bh_reports/bh_reports.module" timestamp="1504646506471" />
