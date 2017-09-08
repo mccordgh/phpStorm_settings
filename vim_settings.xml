@@ -505,10 +505,10 @@
         <mark key="." line="5" column="14" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/billing/benefit-billing-current.vue" timestamp="1504888900567">
-        <mark key="[" line="350" column="56" />
-        <mark key="]" line="350" column="44" />
-        <mark key="." line="350" column="44" />
-        <mark key="^" line="350" column="44" />
+        <mark key="[" line="349" column="56" />
+        <mark key="]" line="349" column="44" />
+        <mark key="." line="349" column="44" />
+        <mark key="^" line="349" column="44" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/time/time-period-select.vue" timestamp="1504646418969">
         <mark key="[" line="44" column="41" />
@@ -678,7 +678,7 @@
       <file name="$USER_HOME$/workspace/php/testProject/public/css/main.css" timestamp="1504813753200">
         <mark key="[" line="34" column="23" />
       </file>
-      <file name="/PHP Console" timestamp="1504889072553">
+      <file name="/PHP Console" timestamp="1504889685950">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/public/sites/all/modules/bh_reports/bh_reports.module" timestamp="1504646506471" />
@@ -888,7 +888,7 @@
         <text encoding="base64">Um91dGU6OmdldCgnaG9tZScsICdIb21lQ29udHJvbGxlckBpbmRleCcpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>217</text>
+        <text>214</text>
       </register>
     </registers>
     <search>
@@ -922,7 +922,6 @@
         <entry>boogerstate</entry>
       </history-search>
       <history-cmd>
-        <entry>2672</entry>
         <entry>2788</entry>
         <entry>641</entry>
         <entry>238</entry>
@@ -942,6 +941,7 @@
         <entry>139</entry>
         <entry>19</entry>
         <entry>217</entry>
+        <entry>214</entry>
       </history-cmd>
       <history-expr />
       <history-input />
