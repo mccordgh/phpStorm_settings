@@ -117,8 +117,8 @@
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/date-input.vue" timestamp="1504290771481">
-        <mark key="[" line="46" column="32" />
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/date-input.vue" timestamp="1504908347304">
+        <mark key="[" line="27" column="6" />
         <mark key="]" line="35" column="4" />
         <mark key="^" line="35" column="4" />
         <mark key="." line="35" column="4" />
@@ -191,10 +191,11 @@
         <mark key="[" line="76" column="5" />
       </file>
       <file name="$USER_HOME$/bernieportal/legacy/EmployerProfile/FeatureAdmin/FeatureAdmin.php" timestamp="1504716334238" />
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/onboarding/personal-info.vue" timestamp="1504279297415">
-        <mark key="[" line="190" column="24" />
-        <mark key="]" line="64" column="34" />
-        <mark key="." line="64" column="34" />
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/onboarding/personal-info.vue" timestamp="1504910673795">
+        <mark key="[" line="191" column="14" />
+        <mark key="]" line="191" column="14" />
+        <mark key="." line="191" column="14" />
+        <mark key="^" line="197" column="5" />
       </file>
       <file name="$USER_HOME$/bernieportal/legacy/ClientPortalModule.php" timestamp="1503600445978">
         <mark key="[" line="2463" column="85" />
@@ -316,7 +317,7 @@
       <file name="$USER_HOME$/workspace/soundbox_js_playground/index.html" timestamp="1504056226018">
         <mark key="[" line="6" column="8" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504888842759">
+      <file name="/Dummy.txt" timestamp="1504908737089">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -471,7 +472,7 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="4" column="10" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/onboarding/contact-info.vue" timestamp="1504905723265">
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/onboarding/contact-info.vue" timestamp="1504906955460">
         <mark key="[" line="190" column="59" />
         <mark key="]" line="190" column="59" />
         <mark key="." line="190" column="59" />
@@ -680,7 +681,7 @@
       <file name="$USER_HOME$/workspace/php/testProject/public/css/main.css" timestamp="1504813753200">
         <mark key="[" line="34" column="23" />
       </file>
-      <file name="/PHP Console" timestamp="1504905883318">
+      <file name="/PHP Console" timestamp="1504910654566">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/public/sites/all/modules/bh_reports/bh_reports.module" timestamp="1504646506471" />
@@ -848,19 +849,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">dGhpcy5wb3N0VXNlckluZm8oKSA=</text>
+        <text>''</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dGhpcy5wb3N0VXNlckluZm8oKSA=</text>
+        <text>''</text>
       </register>
       <register name="/" type="4">
         <text>boogerstate</text>
       </register>
       <register name="0" type="4">
-        <text>e.log('add invalid to', );</text>
+        <text>) {</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">bygpIDogZmFsc2U7CiAgICAgICAgcmV0dXJuIE9iamVjdC5rZXlzKGluZm8pLmV2ZXJ5KGtleSA9PiBpbmZvW2tleV0pID8gdA==</text>
