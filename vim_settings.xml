@@ -153,6 +153,9 @@
       <file name="$USER_HOME$/bernieportal/resources/views/layout/masquerade-notice.blade.php" timestamp="1502139682624">
         <mark key="[" line="1" column="30" />
       </file>
+      <file name="$USER_HOME$/bernieportal/resources/assets/js/client_reg.js" timestamp="1504715797161">
+        <mark key="[" line="589" column="71" />
+      </file>
       <file name="$USER_HOME$/workspace/php/testProject/app/UserInfo.php" timestamp="1504302323621">
         <mark key="[" line="15" column="48" />
         <mark key="]" line="15" column="48" />
@@ -186,6 +189,9 @@
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/thread/candidate-job-message-modal.vue" timestamp="1493229583139">
         <mark key="[" line="13" column="61" />
+      </file>
+      <file name="$USER_HOME$/bernieportal/legacy/PayrollModule.php" timestamp="1504716719837">
+        <mark key="[" line="401" column="9" />
       </file>
       <file name="$USER_HOME$/workspace/php/testProject/app/Console/Commands/DrawACoolGuy.php" timestamp="1504284289872">
         <mark key="[" line="44" column="15" />
@@ -387,10 +393,10 @@
         <mark key="]" line="29" column="30" />
         <mark key="." line="29" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/entities/creatures/monsters/clone.js" timestamp="1504705403610">
-        <mark key="[" line="107" column="32" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/entities/creatures/monsters/clone.js" timestamp="1505056931027">
+        <mark key="[" line="20" column="26" />
+        <mark key="]" line="6" column="36" />
+        <mark key="." line="6" column="36" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/billing/benefit-billing.vue" timestamp="1502984960309">
         <mark key="[" line="0" column="10" />
@@ -506,12 +512,15 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/loading-popup.vue" timestamp="1498514478199">
         <mark key="[" line="8" column="27" />
       </file>
+      <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/entities/creatures/creature.js" timestamp="1505057133191">
+        <mark key="[" line="93" column="30" />
+      </file>
       <file name="$USER_HOME$/bernieportal/legacy/BenefitSelectionModule.php" timestamp="1504713586370" />
-      <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/gfx/assets.js" timestamp="1505054868313">
-        <mark key="[" line="52" column="90" />
-        <mark key="]" line="54" column="33" />
-        <mark key="." line="54" column="33" />
-        <mark key="^" line="54" column="33" />
+      <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/gfx/assets.js" timestamp="1505056876168">
+        <mark key="[" line="87" column="21" />
+        <mark key="]" line="88" column="14" />
+        <mark key="." line="88" column="14" />
+        <mark key="^" line="47" column="35" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/billing/benefit-billing-current.vue" timestamp="1504895352578">
         <mark key="[" line="239" column="49" />
@@ -536,6 +545,11 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/components/candidate-header.vue" timestamp="1493220732358">
         <mark key="[" line="41" column="54" />
       </file>
+      <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/webpack.config.js" timestamp="1505057278064">
+        <mark key="[" line="50" column="52" />
+        <mark key="]" line="50" column="52" />
+        <mark key="." line="50" column="52" />
+      </file>
       <file name="$USER_HOME$/bernieportal/app/Api/Transformers/BenefitProvider/EmployerTransformer.php" timestamp="1501534288275">
         <mark key="[" line="17" column="52" />
       </file>
@@ -543,6 +557,9 @@
         <mark key="[" line="9" column="85" />
         <mark key="]" line="9" column="85" />
         <mark key="." line="9" column="85" />
+      </file>
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/action.vue" timestamp="1504727087926">
+        <mark key="[" line="15" column="22" />
       </file>
       <file name="$USER_HOME$/workspace/php/testProject/app/User.php" timestamp="1504812311688">
         <mark key="[" line="17" column="36" />
@@ -628,6 +645,9 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/job/job-candidates-list.vue" timestamp="1502727847016">
         <mark key="[" line="188" column="88" />
       </file>
+      <file name="$USER_HOME$/bernieportal/app/Carriers/Billing/BillingRepository.php" timestamp="1504884894137">
+        <mark key="[" line="215" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/php/testProject/.env" timestamp="1504816694263">
         <mark key="[" line="24" column="15" />
         <mark key="]" line="24" column="15" />
@@ -645,6 +665,9 @@
         <mark key="." line="0" column="181" />
       </file>
       <file name="$USER_HOME$/bernieportal/legacy/EmployerProfile/EmployerProfile.php" timestamp="1504715818652" />
+      <file name="$USER_HOME$/bernieportal/legacy/BhReportsModule.php" timestamp="1504648179651">
+        <mark key="[" line="371" column="39" />
+      </file>
       <file name="$USER_HOME$/bernieportal/app/Http/Requests/User/ShowUserRequest.php" timestamp="1496853931288">
         <mark key="[" line="21" column="49" />
       </file>
@@ -686,6 +709,9 @@
       <file name="$USER_HOME$/workspace/php/testProject/app/Console/Kernel.php" timestamp="1504282888931">
         <mark key="[" line="16" column="10" />
       </file>
+      <file name="$USER_HOME$/workspace/Defend_The_Castle/js/app/classes/entities/creatures/monsters/Bat.js" timestamp="1504884424576">
+        <mark key="[" line="88" column="48" />
+      </file>
       <file name="$USER_HOME$/workspace/php/testProject/database/seeds/UserInfosTableSeeder.php" timestamp="1504301902628">
         <mark key="[" line="24" column="21" />
         <mark key="]" line="24" column="21" />
@@ -697,10 +723,10 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/sass/_modal.scss" timestamp="1500415612390">
         <mark key="[" line="16" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/entities/creatures/player.js" timestamp="1504882083505">
-        <mark key="[" line="14" column="18" />
-        <mark key="]" line="3" column="32" />
-        <mark key="." line="3" column="32" />
+      <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/entities/creatures/player.js" timestamp="1505056915757">
+        <mark key="[" line="23" column="26" />
+        <mark key="]" line="10" column="36" />
+        <mark key="." line="10" column="36" />
       </file>
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/hello.js" timestamp="1502755160022">
         <mark key="[" line="0" column="34" />
@@ -838,13 +864,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IHRoaXMuaGFuZGxlci5nZXRXb3JsZCgpLmdldFRpbGUoeCwgeSkuZGlzYXBwZWFyID8gMCA6</text>
+        <text>sprites</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHRoaXMuaGFuZGxlci5nZXRXb3JsZCgpLmdldFRpbGUoeCwgeSkuZGlzYXBwZWFyID8gMCA6</text>
+        <text>sprites</text>
       </register>
       <register name="/" type="4">
         <text>boogerstate</text>
