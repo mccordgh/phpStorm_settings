@@ -325,7 +325,7 @@
       <file name="$USER_HOME$/workspace/soundbox_js_playground/index.html" timestamp="1504056226018">
         <mark key="[" line="6" column="8" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505159466656">
+      <file name="/Dummy.txt" timestamp="1505164328980">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -679,6 +679,7 @@
         <mark key="]" line="0" column="181" />
         <mark key="." line="0" column="181" />
       </file>
+      <file name="$USER_HOME$/bernieportal/legacy/BhReportsModule.php" timestamp="1505164129508" />
       <file name="$USER_HOME$/bernieportal/app/Http/Requests/User/ShowUserRequest.php" timestamp="1496853931288">
         <mark key="[" line="21" column="49" />
       </file>
@@ -706,8 +707,14 @@
       <file name="$USER_HOME$/workspace/php/testProject/public/css/main.css" timestamp="1504813753200">
         <mark key="[" line="34" column="23" />
       </file>
-      <file name="/PHP Console" timestamp="1505163441351">
+      <file name="/PHP Console" timestamp="1505164593646">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/bernieportal/public/sites/all/modules/bh_reports/bh_reports.module" timestamp="1505164622286">
+        <mark key="[" line="34" column="6" />
+        <mark key="]" line="35" column="3" />
+        <mark key="^" line="35" column="3" />
+        <mark key="." line="35" column="3" />
       </file>
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/entities/creatures/monsters/ghost.js" timestamp="1504650421593">
         <mark key="[" line="8" column="36" />
@@ -869,7 +876,9 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/* ie8 *</text>
+        <text>else {
+        //
+    }</text>
       </register>
       <register name="d" type="4">
         <text />
@@ -883,19 +892,24 @@
       <register name="0" type="4">
         <text>) {</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">fQo=</text>
+      <register name="1" type="4">
+        <text>else {
+        //
+    }</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1nIHsK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1nIHsK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="4">
         <text>div.slideTitle {
         position: absolute;
         -webkit-clip-path: inset(0px 50% 0px 50%);
@@ -924,19 +938,15 @@
     }
 }</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIGJhY2tncm91bmQtaW1hZ2U6IHVybChodHRwczovL3d3dy5iZXJuaWVwb3J0YWwuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE2LzExL21haW5wYWdlLTEuanBnKTsK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBldmVudC50YXJnZXQuY2xhc3NMaXN0LnJlbW92ZSgnZXJyb3InKTsK</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>ey === 'birthdate'
               ? this.$els[key.toLowerCase()].children[1]</text>
-      </register>
-      <register name="9" type="4">
-        <text>= key === 'birthdate'
-            ? this.$els[key.toLowerCase()].children[1]</text>
       </register>
       <register name=":" type="4">
         <text>74</text>
