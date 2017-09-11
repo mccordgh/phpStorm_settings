@@ -245,6 +245,12 @@
       <file name="$USER_HOME$/bernieportal/public/sites/all/themes/bernard/template.php" timestamp="1502920203387">
         <mark key="[" line="256" column="36" />
       </file>
+      <file name="$USER_HOME$/bernieportal/app/Exceptions/Bootstrapper.php" timestamp="1505166044871">
+        <mark key="[" line="11" column="43" />
+        <mark key="]" line="11" column="42" />
+        <mark key="^" line="11" column="42" />
+        <mark key="." line="11" column="42" />
+      </file>
       <file name="$USER_HOME$/workspace/php/testProject/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesUsers.php" timestamp="1504817286923">
         <mark key="[" line="75" column="67" />
       </file>
@@ -325,7 +331,7 @@
       <file name="$USER_HOME$/workspace/soundbox_js_playground/index.html" timestamp="1504056226018">
         <mark key="[" line="6" column="8" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505164328980">
+      <file name="/Dummy.txt" timestamp="1505165099857">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -427,6 +433,7 @@
       <file name="$USER_HOME$/bernieportal/app/Views/Composers/Sidebar/TimeComposer.php" timestamp="1496787657266">
         <mark key="[" line="41" column="11" />
       </file>
+      <file name="$USER_HOME$/bernieportal/app/Data/Parsers/PlanDetailParser.php" timestamp="1505166327490" />
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/states/game-state.js" timestamp="1504396334526">
         <mark key="[" line="5" column="38" />
       </file>
@@ -519,6 +526,7 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/thread/thread-modal.vue" timestamp="1493229662131">
         <mark key="[" line="80" column="58" />
       </file>
+      <file name="$USER_HOME$/bernieportal/public/sites/all/modules/broker_portal/broker_portal.module" timestamp="1505165103525" />
       <file name="$USER_HOME$/bernieportal/resources/assets/components/loading-popup.vue" timestamp="1498514478199">
         <mark key="[" line="8" column="27" />
       </file>
@@ -551,7 +559,7 @@
         <mark key="]" line="44" column="3" />
         <mark key="." line="44" column="41" />
       </file>
-      <file name="/fragment.php" timestamp="1504808285346">
+      <file name="/fragment.php" timestamp="1505166274636">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
@@ -679,7 +687,12 @@
         <mark key="]" line="0" column="181" />
         <mark key="." line="0" column="181" />
       </file>
-      <file name="$USER_HOME$/bernieportal/legacy/BhReportsModule.php" timestamp="1505164129508" />
+      <file name="$USER_HOME$/bernieportal/legacy/BhReportsModule.php" timestamp="1505166337781">
+        <mark key="[" line="6806" column="73" />
+        <mark key="]" line="6806" column="77" />
+        <mark key="^" line="6806" column="77" />
+        <mark key="." line="6806" column="77" />
+      </file>
       <file name="$USER_HOME$/bernieportal/app/Http/Requests/User/ShowUserRequest.php" timestamp="1496853931288">
         <mark key="[" line="21" column="49" />
       </file>
@@ -707,14 +720,14 @@
       <file name="$USER_HOME$/workspace/php/testProject/public/css/main.css" timestamp="1504813753200">
         <mark key="[" line="34" column="23" />
       </file>
-      <file name="/PHP Console" timestamp="1505164593646">
+      <file name="/PHP Console" timestamp="1505166400052">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/bernieportal/public/sites/all/modules/bh_reports/bh_reports.module" timestamp="1505164622286">
-        <mark key="[" line="34" column="6" />
-        <mark key="]" line="35" column="3" />
-        <mark key="^" line="35" column="3" />
-        <mark key="." line="35" column="3" />
+      <file name="$USER_HOME$/bernieportal/public/sites/all/modules/bh_reports/bh_reports.module" timestamp="1505165130780">
+        <mark key="[" line="20" column="25" />
+        <mark key="]" line="20" column="25" />
+        <mark key="^" line="24" column="3" />
+        <mark key="." line="20" column="25" />
       </file>
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/entities/creatures/monsters/ghost.js" timestamp="1504650421593">
         <mark key="[" line="8" column="36" />
@@ -876,15 +889,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>else {
-        //
-    }</text>
+        <text>true</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>/* ie8 *</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>boogerstate</text>
@@ -893,23 +904,26 @@
         <text>) {</text>
       </register>
       <register name="1" type="4">
+        <text encoding="base64">CgogICAgaWYgKCEgJG1heUNhY2hlKSB7CgogICAgfQ==</text>
+      </register>
+      <register name="2" type="4">
         <text>else {
         //
     }</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">fQo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1nIHsK</text>
-      </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1nIHsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="4">
         <text>div.slideTitle {
         position: absolute;
         -webkit-clip-path: inset(0px 50% 0px 50%);
@@ -938,15 +952,11 @@
     }
 }</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGJhY2tncm91bmQtaW1hZ2U6IHVybChodHRwczovL3d3dy5iZXJuaWVwb3J0YWwuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE2LzExL21haW5wYWdlLTEuanBnKTsK</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICBldmVudC50YXJnZXQuY2xhc3NMaXN0LnJlbW92ZSgnZXJyb3InKTsK</text>
-      </register>
-      <register name="9" type="4">
-        <text>ey === 'birthdate'
-              ? this.$els[key.toLowerCase()].children[1]</text>
       </register>
       <register name=":" type="4">
         <text>74</text>
