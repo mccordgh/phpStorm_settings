@@ -782,6 +782,7 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/aca/subgroups/list-1095.vue" timestamp="1493071790826">
         <mark key="[" line="32" column="28" />
       </file>
+      <file name="$USER_HOME$/BerniePortalWiki/bernie-portal-wiki.css" timestamp="1505161705752" />
       <file name="$USER_HOME$/workspace/php/testProject/database/migrations/2017_09_01_173357_AddUserFavoriteFoodColumn.php" timestamp="1504287334388">
         <mark key="[" line="28" column="20" />
         <mark key="]" line="28" column="20" />
@@ -893,13 +894,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>console.log('valiiiidddd'</text>
+        <text>/* ie8 *</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>console.log('valiiiidddd'</text>
+        <text>/* ie8 *</text>
       </register>
       <register name="/" type="4">
         <text>boogerstate</text>
@@ -908,33 +909,59 @@
         <text>) {</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBldmVudC50YXJnZXQuY2xhc3NMaXN0LnJlbW92ZSgnZXJyb3InKTsK</text>
+        <text encoding="base64">fQo=</text>
       </register>
-      <register name="2" type="4">
-        <text>ey === 'birthdate'
-              ? this.$els[key.toLowerCase()].children[1]</text>
+      <register name="2" type="2">
+        <text encoding="base64">aW1nIHsK</text>
       </register>
-      <register name="3" type="4">
-        <text>= key === 'birthdate'
-            ? this.$els[key.toLowerCase()].children[1]</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>div.slideTitle {
+        position: absolute;
+        -webkit-clip-path: inset(0px 50% 0px 50%);
+        left: 0;
+        right: 0;
+        margin-left: 18%;
+        margin-right: 18%;
+        -webkit-animation: revealText 0.8s cubic-bezier(0.39, 0.58, 0.32, 1) 0.8s;
+        -webkit-animation-fill-mode: forwards;
+        top: 46%;
+        text-align: center;
+        background-image: transparent;
+    @-moz-document url-prefix() {
+        width: 0%;
+        height: 9%;
+        margin: auto;
+        -moz-animation: revealTextMoz 0.8s cubic-bezier(0.39, 0.58, 0.32, 1) 0.8s;
+        -moz-animation-fill-mode: forwards;
+        background-size: auto 100%;
+        background-repeat: no-repeat;
+        background-position: center;
+        background-image: url(/imageurl.svg);
+        img {
+            display: none;
+        }
+    }
+}</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJhY2tncm91bmQtaW1hZ2U6IHVybChodHRwczovL3d3dy5iZXJuaWVwb3J0YWwuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE2LzExL21haW5wYWdlLTEuanBnKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG1vbnN0ZXJzQ2xlYXJlZCA9IGZhbHNlOwo=</text>
+        <text encoding="base64">ICAgICAgICBldmVudC50YXJnZXQuY2xhc3NMaXN0LnJlbW92ZSgnZXJyb3InKTsK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>ey === 'birthdate'
+              ? this.$els[key.toLowerCase()].children[1]</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAnIiBhbG9uZSBhbG9uZSInLAo=</text>
+      <register name="9" type="4">
+        <text>= key === 'birthdate'
+            ? this.$els[key.toLowerCase()].children[1]</text>
       </register>
       <register name=":" type="4">
         <text>74</text>
