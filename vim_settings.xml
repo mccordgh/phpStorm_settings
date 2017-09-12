@@ -286,10 +286,11 @@
         <mark key="]" line="44" column="3" />
         <mark key="." line="44" column="41" />
       </file>
-      <file name="/fragment.php" timestamp="1505253875627">
+      <file name="/fragment.php" timestamp="1505255220414">
+        <mark key="p" line="0" column="10" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="11" />
-        <mark key="." line="0" column="11" />
+        <mark key="]" line="0" column="1" />
+        <mark key="." line="0" column="1" />
       </file>
       <file name="$USER_HOME$/workspace/gamepad_api_demo/main.css" timestamp="1501271749114">
         <mark key="[" line="5" column="10" />
@@ -521,7 +522,7 @@
         <mark key="]" line="0" column="181" />
         <mark key="." line="0" column="181" />
       </file>
-      <file name="$USER_HOME$/bernieportal/legacy/BhReportsModule.php" timestamp="1505253892247">
+      <file name="$USER_HOME$/bernieportal/legacy/BhReportsModule.php" timestamp="1505255237479">
         <mark key="[" line="1720" column="5" />
         <mark key="]" line="6806" column="77" />
         <mark key="^" line="6806" column="77" />
@@ -609,7 +610,7 @@
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/worlds/levels/level.js" timestamp="1504391486114">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1505253576983">
+      <file name="/PHP Console" timestamp="1505255233045">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/public/sites/all/modules/bh_reports/bh_reports.module" timestamp="1505251167790">
@@ -865,13 +866,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>isFinite</text>
+        <text>plan_data</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>isFinite</text>
+        <text>plan_data</text>
       </register>
       <register name="/" type="4">
         <text>boogerstate</text>
