@@ -602,7 +602,11 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/aca/subgroups/list-1095.vue" timestamp="1493071790826">
         <mark key="[" line="32" column="28" />
       </file>
-      <file name="$USER_HOME$/BerniePortalWiki/bernie-portal-wiki.css" timestamp="1505167195890" />
+      <file name="$USER_HOME$/BerniePortalWiki/bernie-portal-wiki.css" timestamp="1505230735160">
+        <mark key="[" line="371" column="20" />
+        <mark key="]" line="371" column="20" />
+        <mark key="." line="371" column="20" />
+      </file>
       <file name="$USER_HOME$/workspace/php/testProject/database/migrations/2017_09_01_173357_AddUserFavoriteFoodColumn.php" timestamp="1504287334388">
         <mark key="[" line="28" column="20" />
         <mark key="]" line="28" column="20" />
@@ -713,13 +717,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>gotta</text>
+        <text>Cont</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>gotta</text>
+        <text>Cont</text>
       </register>
       <register name="/" type="4">
         <text>boogerstate</text>
@@ -727,31 +731,31 @@
       <register name="0" type="4">
         <text>) {</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text encoding="base64">ZGl2I3NuZGl2IGRpdi5zZWFyY2hsaXN0IGRpdi5oZWFkZXIsCmRpdi5zZWFyY2hsaXN0LCBkaXYuc2VhcmNoQ29udCA=</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgID8sICdDb21lIHRvIG1lLCBzb24uJwo=</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">ICB9IGVsc2UgewogICAgICAKICAgIH0=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">CgogICAgaWYgKCEgJG1heUNhY2hlKSB7CgogICAgfQ==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>else {
         //
     }</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">fQo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW1nIHsK</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1nIHsK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
