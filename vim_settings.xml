@@ -286,7 +286,7 @@
         <mark key="]" line="44" column="3" />
         <mark key="." line="44" column="41" />
       </file>
-      <file name="/fragment.php" timestamp="1505249722345">
+      <file name="/fragment.php" timestamp="1505253875627">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
         <mark key="." line="0" column="11" />
@@ -350,10 +350,6 @@
         <mark key="]" line="76" column="20" />
         <mark key="." line="76" column="20" />
         <mark key="^" line="112" column="19" />
-      </file>
-      <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/dialogue/journals/journal-three.js" timestamp="1505222833009">
-        <mark key="[" line="15" column="7" />
-        <mark key="^" line="10" column="21" />
       </file>
       <file name="$USER_HOME$/workspace/php/testProject/resources/views/roster.blade.php" timestamp="1504385441486">
         <mark key="[" line="4" column="19" />
@@ -525,8 +521,8 @@
         <mark key="]" line="0" column="181" />
         <mark key="." line="0" column="181" />
       </file>
-      <file name="$USER_HOME$/bernieportal/legacy/BhReportsModule.php" timestamp="1505166337781">
-        <mark key="[" line="6806" column="73" />
+      <file name="$USER_HOME$/bernieportal/legacy/BhReportsModule.php" timestamp="1505253892247">
+        <mark key="[" line="1720" column="5" />
         <mark key="]" line="6806" column="77" />
         <mark key="^" line="6806" column="77" />
         <mark key="." line="6806" column="77" />
@@ -613,10 +609,10 @@
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/worlds/levels/level.js" timestamp="1504391486114">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1505250001165">
+      <file name="/PHP Console" timestamp="1505253576983">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/bernieportal/public/sites/all/modules/bh_reports/bh_reports.module" timestamp="1505165130780">
+      <file name="$USER_HOME$/bernieportal/public/sites/all/modules/bh_reports/bh_reports.module" timestamp="1505251167790">
         <mark key="[" line="20" column="25" />
         <mark key="]" line="20" column="25" />
         <mark key="^" line="24" column="3" />
@@ -914,7 +910,7 @@
     }</text>
       </register>
       <register name=":" type="4">
-        <text>1456</text>
+        <text>27</text>
       </register>
     </registers>
     <search>
@@ -948,7 +944,6 @@
         <entry>boogerstate</entry>
       </history-search>
       <history-cmd>
-        <entry>88</entry>
         <entry>146</entry>
         <entry>2460</entry>
         <entry>901</entry>
@@ -968,6 +963,7 @@
         <entry>84</entry>
         <entry>77</entry>
         <entry>1456</entry>
+        <entry>27</entry>
       </history-cmd>
       <history-expr />
       <history-input />
