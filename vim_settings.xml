@@ -401,7 +401,7 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/thread/thread-modal.vue" timestamp="1493229662131">
         <mark key="[" line="80" column="58" />
       </file>
-      <file name="$USER_HOME$/bernieportal/public/sites/all/modules/broker_portal/broker_portal.module" timestamp="1505165103525" />
+      <file name="$USER_HOME$/bernieportal/public/sites/all/modules/broker_portal/broker_portal.module" timestamp="1505232782035" />
       <file name="$USER_HOME$/bernieportal/resources/assets/components/loading-popup.vue" timestamp="1498514478199">
         <mark key="[" line="8" column="27" />
       </file>
@@ -418,15 +418,21 @@
         <mark key="]" line="39" column="36" />
         <mark key="." line="39" column="36" />
       </file>
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/billing/benefit-billing-current.vue" timestamp="1505236677854">
+        <mark key="[" line="338" column="17" />
+        <mark key="]" line="338" column="17" />
+        <mark key="^" line="308" column="9" />
+        <mark key="." line="338" column="17" />
+      </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/time/time-period-select.vue" timestamp="1504646418969">
         <mark key="[" line="44" column="41" />
         <mark key="]" line="44" column="3" />
         <mark key="." line="44" column="41" />
       </file>
-      <file name="/fragment.php" timestamp="1505166274636">
+      <file name="/fragment.php" timestamp="1505235610266">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="1" />
-        <mark key="." line="0" column="1" />
+        <mark key="]" line="0" column="11" />
+        <mark key="." line="0" column="11" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/views/components/dashboard-tabs-template.blade.php" timestamp="1502478886901">
         <mark key="[" line="1" column="17" />
@@ -484,6 +490,7 @@
       <file name="$USER_HOME$/bernieportal/resources/views/dashboards/sidebar/benefits.blade.php" timestamp="1499974671996">
         <mark key="[" line="5" column="31" />
       </file>
+      <file name="$USER_HOME$/bernieportal/legacy/CignaModule.php" timestamp="1505235325627" />
       <file name="$USER_HOME$/workspace/web_audio_api_tutorial/main.js" timestamp="1504052390866">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -545,10 +552,11 @@
       <file name="$USER_HOME$/bernieportal/app/BenefitProviders/BenefitProviderRepository.php" timestamp="1501534966462">
         <mark key="[" line="183" column="5" />
       </file>
+      <file name="$USER_HOME$/bernieportal/legacy/BrokerPortalModule.php" timestamp="1505233812545" />
       <file name="$USER_HOME$/workspace/php/testProject/public/css/main.css" timestamp="1504813753200">
         <mark key="[" line="34" column="23" />
       </file>
-      <file name="/PHP Console" timestamp="1505166400052">
+      <file name="/PHP Console" timestamp="1505236612673">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/public/sites/all/modules/bh_reports/bh_reports.module" timestamp="1505165130780">
@@ -717,13 +725,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Cont</text>
+        <text>23423</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>Cont</text>
+        <text>23423</text>
       </register>
       <register name="/" type="4">
         <text>boogerstate</text>
@@ -731,37 +739,37 @@
       <register name="0" type="4">
         <text>) {</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ZGl2I3NuZGl2IGRpdi5zZWFyY2hsaXN0IGRpdi5oZWFkZXIsCmRpdi5zZWFyY2hsaXN0LCBkaXYuc2VhcmNoQ29udCA=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgID8sICdDb21lIHRvIG1lLCBzb24uJwo=</text>
-      </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICB9IGVsc2UgewogICAgICAKICAgIH0=</text>
-      </register>
-      <register name="4" type="2">
+      <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CgogICAgaWYgKCEgJG1heUNhY2hlKSB7CgogICAgfQ==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ZGl2I3NuZGl2IGRpdi5zZWFyY2hsaXN0IGRpdi5oZWFkZXIsCmRpdi5zZWFyY2hsaXN0LCBkaXYuc2VhcmNoQ29udCA=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgID8sICdDb21lIHRvIG1lLCBzb24uJwo=</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">ICB9IGVsc2UgewogICAgICAKICAgIH0=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="4">
+        <text encoding="base64">CgogICAgaWYgKCEgJG1heUNhY2hlKSB7CgogICAgfQ==</text>
+      </register>
+      <register name="7" type="4">
         <text>else {
         //
     }</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">fQo=</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">aW1nIHsK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name=":" type="4">
-        <text>74</text>
+        <text>84</text>
       </register>
     </registers>
     <search>
@@ -795,7 +803,6 @@
         <entry>boogerstate</entry>
       </history-search>
       <history-cmd>
-        <entry>641</entry>
         <entry>238</entry>
         <entry>121</entry>
         <entry>88</entry>
@@ -815,6 +822,7 @@
         <entry>217</entry>
         <entry>214</entry>
         <entry>74</entry>
+        <entry>84</entry>
       </history-cmd>
       <history-expr />
       <history-input />
