@@ -436,10 +436,10 @@
       <file name="$USER_HOME$/workspace/php/testProject/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesUsers.php" timestamp="1504817286923">
         <mark key="[" line="75" column="67" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/settings/global-hiring-settings.vue" timestamp="1505402100283">
-        <mark key="[" line="95" column="57" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/settings/global-hiring-settings.vue" timestamp="1505412612625">
+        <mark key="[" line="100" column="42" />
+        <mark key="]" line="100" column="42" />
+        <mark key="." line="100" column="42" />
       </file>
       <file name="$USER_HOME$/workspace/php/testProject/storage/framework/sessions/GNrI1JOwdVL6S4LoZ7O1gdc6lgJjtpRSTGui9bl0" timestamp="1504812950567">
         <mark key="[" line="0" column="181" />
@@ -533,7 +533,7 @@
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/worlds/levels/level.js" timestamp="1504391486114">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1505401991886">
+      <file name="/PHP Console" timestamp="1505412550633">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/public/sites/all/modules/bh_reports/bh_reports.module" timestamp="1505251167790">
@@ -775,14 +775,14 @@
       <jump line="79" column="44" filename="$USER_HOME$/bernieportal/app/Http/Controllers/Api/Ats/Candidate/CandidateApplicationController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IGlkPSJlZGl0LWRvY3VtZW50LW5hbWUtd3JhcHBlciI=</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>blur</text>
+        <text encoding="base64">IGlkPSJlZGl0LWRvY3VtZW50LW5hbWUtd3JhcHBlciI=</text>
       </register>
       <register name="/" type="4">
         <text>boogerstate</text>
