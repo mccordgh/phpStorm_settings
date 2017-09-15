@@ -51,6 +51,9 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/test-sortable.vue" timestamp="1494452587108">
         <mark key="[" line="0" column="26" />
       </file>
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/applications/application.vue" timestamp="1505482376533">
+        <mark key="[" line="79" column="7" />
+      </file>
       <file name="$USER_HOME$/bernieportal/app/Ats/Candidate.php" timestamp="1502737804653">
         <mark key="[" line="32" column="86" />
       </file>
@@ -436,6 +439,9 @@
       <file name="$USER_HOME$/workspace/php/testProject/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesUsers.php" timestamp="1504817286923">
         <mark key="[" line="75" column="67" />
       </file>
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/settings/global-hiring-settings.vue" timestamp="1505483109534">
+        <mark key="[" line="99" column="18" />
+      </file>
       <file name="$USER_HOME$/workspace/php/testProject/storage/framework/sessions/GNrI1JOwdVL6S4LoZ7O1gdc6lgJjtpRSTGui9bl0" timestamp="1504812950567">
         <mark key="[" line="0" column="181" />
         <mark key="]" line="0" column="181" />
@@ -528,7 +534,7 @@
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/worlds/levels/level.js" timestamp="1504391486114">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1505414035865">
+      <file name="/PHP Console" timestamp="1505482351694">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/public/sites/all/modules/bh_reports/bh_reports.module" timestamp="1505251167790">
@@ -568,7 +574,7 @@
       <file name="$USER_HOME$/workspace/soundbox_js_playground/index.html" timestamp="1504056226018">
         <mark key="[" line="6" column="8" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505398405062">
+      <file name="/Dummy.txt" timestamp="1505482241427">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -668,7 +674,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3276" column="0" filename="$USER_HOME$/bernieportal/legacy/OnboardingModule.php" />
       <jump line="3268" column="0" filename="$USER_HOME$/bernieportal/legacy/OnboardingModule.php" />
       <jump line="3263" column="0" filename="$USER_HOME$/bernieportal/legacy/OnboardingModule.php" />
       <jump line="3257" column="0" filename="$USER_HOME$/bernieportal/legacy/OnboardingModule.php" />
@@ -740,7 +745,6 @@
       <jump line="68" column="6" filename="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/worlds/maze-generator.js" />
       <jump line="5" column="28" filename="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/worlds/maze-generator.js" />
       <jump line="940" column="27" filename="$USER_HOME$/bernieportal/legacy/BenefitAttachModule.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/bernieportal/legacy/BenefitAttachModule.php" />
       <jump line="0" column="0" filename="$USER_HOME$/bernieportal/resources/views/forgot-password.blade.php" />
       <jump line="27" column="0" filename="$USER_HOME$/bernieportal/resources/views/forgot-password.blade.php" />
       <jump line="9" column="8" filename="$USER_HOME$/bernieportal/resources/views/forgot-password.blade.php" />
@@ -768,6 +772,8 @@
       <jump line="88" column="46" filename="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/entities/entity.js" />
       <jump line="16" column="827" filename="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/sounds/sound-manager.js" />
       <jump line="79" column="44" filename="$USER_HOME$/bernieportal/app/Http/Controllers/Api/Ats/Candidate/CandidateApplicationController.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/bernieportal/legacy/BenefitAttachModule.php" />
+      <jump line="3402" column="3" filename="$USER_HOME$/bernieportal/legacy/BenefitAttachModule.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -780,7 +786,7 @@
         <text encoding="base64">IGlkPSJlZGl0LWRvY3VtZW50LW5hbWUtd3JhcHBlciI=</text>
       </register>
       <register name="/" type="4">
-        <text>boogerstate</text>
+        <text encoding="base64">Pj4+</text>
       </register>
       <register name="0" type="4">
         <text>) {</text>
@@ -819,15 +825,14 @@
       </register>
     </registers>
     <search>
-      <last-search>boogerstate</last-search>
+      <last-search encoding="base64">Pj4+</last-search>
       <last-offset />
-      <last-pattern>boogerstate</last-pattern>
+      <last-pattern encoding="base64">Pj4+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRFbXBsb3llckNvZGVRdWVyeVw+</entry>
         <entry encoding="base64">XDxpc0VtcGxveWVyQ29kZVZhbGlkXD4=</entry>
         <entry encoding="base64">XDxzcHJlYWRzaGVldFw+</entry>
         <entry encoding="base64">XDxjbGlja09uTGlua1w+</entry>
@@ -847,6 +852,7 @@
         <entry>tree</entry>
         <entry>boogerState</entry>
         <entry>boogerstate</entry>
+        <entry encoding="base64">Pj4+</entry>
       </history-search>
       <history-cmd>
         <entry>808</entry>
