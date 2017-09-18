@@ -12,6 +12,13 @@
       <file name="$USER_HOME$/workspace/php/testProject/app/Http/Controllers/ContactController.php" timestamp="1503087041690">
         <mark key="[" line="8" column="6" />
       </file>
+      <file name="$USER_HOME$/bernieportal/legacy/Employer/Billing.php" timestamp="1505749066713">
+        <mark key="e" line="1711" column="161" />
+        <mark key="[" line="1651" column="49" />
+        <mark key="]" line="1651" column="49" />
+        <mark key="." line="1651" column="49" />
+        <mark key="^" line="1715" column="0" />
+      </file>
       <file name="/a.dummy" timestamp="1504811442266">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -229,7 +236,7 @@
         <mark key="]" line="44" column="3" />
         <mark key="." line="44" column="41" />
       </file>
-      <file name="/fragment.php" timestamp="1505348103891">
+      <file name="/fragment.php" timestamp="1505749002307">
         <mark key="p" line="0" column="10" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -384,6 +391,7 @@
         <mark key="]" line="38" column="29" />
         <mark key="." line="38" column="29" />
       </file>
+      <file name="/Billing.php" timestamp="1505747821213" />
       <file name="$USER_HOME$/workspace/web_audio_api_tutorial/main.js" timestamp="1504052390866">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -440,6 +448,7 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/settings/global-hiring-settings.vue" timestamp="1505483109534">
         <mark key="[" line="99" column="18" />
       </file>
+      <file name="$USER_HOME$/bernieportal/database/migrations/2017_09_04_025333_rename_std_tables.php" timestamp="1505747233476" />
       <file name="$USER_HOME$/workspace/php/testProject/storage/framework/sessions/GNrI1JOwdVL6S4LoZ7O1gdc6lgJjtpRSTGui9bl0" timestamp="1504812950567">
         <mark key="[" line="0" column="181" />
         <mark key="]" line="0" column="181" />
@@ -532,7 +541,7 @@
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/worlds/levels/level.js" timestamp="1504391486114">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1505482351694">
+      <file name="/PHP Console" timestamp="1505749081698">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/public/sites/all/modules/bh_reports/bh_reports.module" timestamp="1505251167790">
@@ -773,13 +782,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IGNvbnNvbGUuZXJyb3IpOw==</text>
+        <text encoding="base64">PnRvRGF0ZVRpbWVTdHJpbmcoKQ==</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGNvbnNvbGUuZXJyb3IpOw==</text>
+        <text encoding="base64">PnRvRGF0ZVRpbWVTdHJpbmcoKQ==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">Pj4+</text>
@@ -816,7 +825,7 @@
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
-        <text>4526</text>
+        <text>1652</text>
       </register>
     </registers>
     <search>
@@ -850,8 +859,6 @@
         <entry encoding="base64">Pj4+</entry>
       </history-search>
       <history-cmd>
-        <entry>808</entry>
-        <entry>134</entry>
         <entry>162</entry>
         <entry>vsp</entry>
         <entry>113</entry>
@@ -870,6 +877,8 @@
         <entry>2351</entry>
         <entry>2679</entry>
         <entry>4526</entry>
+        <entry>1712</entry>
+        <entry>1652</entry>
       </history-cmd>
       <history-expr />
       <history-input />
