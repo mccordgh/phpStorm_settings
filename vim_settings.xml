@@ -210,6 +210,12 @@
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
       </file>
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/billing/generate-bill-button.vue" timestamp="1505751419044">
+        <mark key="[" line="19" column="22" />
+        <mark key="]" line="19" column="22" />
+        <mark key="^" line="27" column="9" />
+        <mark key="." line="19" column="22" />
+      </file>
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/gfx/assets.js" timestamp="1505266305153">
         <mark key="[" line="30" column="9" />
         <mark key="]" line="30" column="9" />
@@ -227,9 +233,10 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/js/current-user-id.js" timestamp="1499278658594">
         <mark key="[" line="2" column="63" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/billing/benefit-billing-current.vue" timestamp="1505744217959">
-        <mark key="]" line="301" column="10" />
-        <mark key="." line="301" column="10" />
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/billing/benefit-billing-current.vue" timestamp="1505751554026">
+        <mark key="[" line="319" column="43" />
+        <mark key="]" line="353" column="58" />
+        <mark key="." line="353" column="58" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/time/time-period-select.vue" timestamp="1504646418969">
         <mark key="[" line="44" column="41" />
@@ -445,8 +452,10 @@
       <file name="$USER_HOME$/workspace/php/testProject/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesUsers.php" timestamp="1504817286923">
         <mark key="[" line="75" column="67" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/settings/global-hiring-settings.vue" timestamp="1505483109534">
-        <mark key="[" line="99" column="18" />
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/settings/global-hiring-settings.vue" timestamp="1505752927812">
+        <mark key="[" line="101" column="125" />
+        <mark key="]" line="101" column="125" />
+        <mark key="." line="101" column="125" />
       </file>
       <file name="$USER_HOME$/bernieportal/database/migrations/2017_09_04_025333_rename_std_tables.php" timestamp="1505747233476" />
       <file name="$USER_HOME$/workspace/php/testProject/storage/framework/sessions/GNrI1JOwdVL6S4LoZ7O1gdc6lgJjtpRSTGui9bl0" timestamp="1504812950567">
@@ -541,7 +550,7 @@
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/worlds/levels/level.js" timestamp="1504391486114">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1505749081698">
+      <file name="/PHP Console" timestamp="1505752959404">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/public/sites/all/modules/bh_reports/bh_reports.module" timestamp="1505251167790">
@@ -782,13 +791,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">PnRvRGF0ZVRpbWVTdHJpbmcoKQ==</text>
+        <text>@focus=&quot;removeAddStageError&quot;</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PnRvRGF0ZVRpbWVTdHJpbmcoKQ==</text>
+        <text>@focus=&quot;removeAddStageError&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">Pj4+</text>
@@ -796,33 +805,34 @@
       <register name="0" type="4">
         <text>) {</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBlcnJvciBmZWVkYmFjayBmb3IgYmlsbHMgZmV0Y2hpbmcgZXJyb3JzCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9LAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">IAo=</text>
-      </register>
-      <register name="7" type="4">
-        <text>alert('Please enter a stage name.');
+      <register name="1" type="4">
+        <text>console.log('nope');
           return;</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgfSwK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgb25HZW5lcmF0aW5nRXJyb3IoKSB7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="4">
+        <text>this.status = '';
+          this.generateStatus = '';</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBlcnJvciBmZWVkYmFjayBmb3IgYmlsbHMgZmV0Y2hpbmcgZXJyb3JzCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB9LAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name=":" type="4">
         <text>1652</text>
