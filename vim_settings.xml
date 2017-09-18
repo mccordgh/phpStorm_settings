@@ -220,11 +220,10 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/js/current-user-id.js" timestamp="1499278658594">
         <mark key="[" line="2" column="63" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/billing/benefit-billing-current.vue" timestamp="1505242928211">
-        <mark key="[" line="372" column="12" />
-        <mark key="]" line="375" column="0" />
-        <mark key="^" line="375" column="0" />
-        <mark key="." line="375" column="0" />
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/billing/benefit-billing-current.vue" timestamp="1505744217959">
+        <mark key="[" line="312" column="8" />
+        <mark key="]" line="301" column="10" />
+        <mark key="." line="301" column="10" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/time/time-period-select.vue" timestamp="1504646418969">
         <mark key="[" line="44" column="41" />
@@ -775,13 +774,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IGlkPSJlZGl0LWRvY3VtZW50LW5hbWUtd3JhcHBlciI=</text>
+        <text encoding="base64">IGNvbnNvbGUuZXJyb3IpOw==</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGlkPSJlZGl0LWRvY3VtZW50LW5hbWUtd3JhcHBlciI=</text>
+        <text encoding="base64">IGNvbnNvbGUuZXJyb3IpOw==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">Pj4+</text>
@@ -790,33 +789,32 @@
         <text>) {</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBlcnJvciBmZWVkYmFjayBmb3IgYmlsbHMgZmV0Y2hpbmcgZXJyb3JzCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICB9LAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">PT09PT09PQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">IAo=</text>
       </register>
-      <register name="2" type="4">
+      <register name="7" type="4">
         <text>alert('Please enter a stage name.');
           return;</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="5" type="4">
-        <text>console.log(this.threads);
-        return;</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIDxoMT5sQUxBTExBTEFMQUxBTDwvaDE+Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIGQgICAnI2RlZmF1bHRfdmFsdWUnID0+ICdzZGZzZGYnLAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>4526</text>
