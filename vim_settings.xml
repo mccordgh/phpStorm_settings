@@ -12,7 +12,7 @@
       <file name="$USER_HOME$/workspace/php/testProject/app/Http/Controllers/ContactController.php" timestamp="1503087041690">
         <mark key="[" line="8" column="6" />
       </file>
-      <file name="$USER_HOME$/bernieportal/legacy/Employer/Billing.php" timestamp="1505749066713">
+      <file name="$USER_HOME$/bernieportal/legacy/Employer/Billing.php" timestamp="1505754015494">
         <mark key="e" line="1711" column="161" />
         <mark key="[" line="1651" column="49" />
         <mark key="]" line="1651" column="49" />
@@ -296,6 +296,12 @@
         <mark key="]" line="3" column="14" />
         <mark key="." line="3" column="14" />
       </file>
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/state-picker.vue" timestamp="1505754658257">
+        <mark key="[" line="72" column="53" />
+        <mark key="]" line="72" column="54" />
+        <mark key="^" line="72" column="54" />
+        <mark key="." line="72" column="54" />
+      </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/billing/billing-table.vue" timestamp="1505243473496">
         <mark key="[" line="76" column="20" />
         <mark key="]" line="76" column="20" />
@@ -452,10 +458,10 @@
       <file name="$USER_HOME$/workspace/php/testProject/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesUsers.php" timestamp="1504817286923">
         <mark key="[" line="75" column="67" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/settings/global-hiring-settings.vue" timestamp="1505752927812">
-        <mark key="[" line="101" column="125" />
-        <mark key="]" line="101" column="125" />
-        <mark key="." line="101" column="125" />
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/settings/global-hiring-settings.vue" timestamp="1505753828896">
+        <mark key="]" line="159" column="0" />
+        <mark key="^" line="159" column="0" />
+        <mark key="." line="159" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/database/migrations/2017_09_04_025333_rename_std_tables.php" timestamp="1505747233476" />
       <file name="$USER_HOME$/workspace/php/testProject/storage/framework/sessions/GNrI1JOwdVL6S4LoZ7O1gdc6lgJjtpRSTGui9bl0" timestamp="1504812950567">
@@ -550,7 +556,7 @@
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/worlds/levels/level.js" timestamp="1504391486114">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1505752959404">
+      <file name="/PHP Console" timestamp="1505754420591">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/public/sites/all/modules/bh_reports/bh_reports.module" timestamp="1505251167790">
@@ -800,7 +806,7 @@
         <text>@focus=&quot;removeAddStageError&quot;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">Pj4+</text>
+        <text>@blue</text>
       </register>
       <register name="0" type="4">
         <text>) {</text>
@@ -839,15 +845,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">Pj4+</last-search>
+      <last-search>@blue</last-search>
       <last-offset />
-      <last-pattern encoding="base64">Pj4+</last-pattern>
+      <last-pattern>@blue</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpc0VtcGxveWVyQ29kZVZhbGlkXD4=</entry>
         <entry encoding="base64">XDxzcHJlYWRzaGVldFw+</entry>
         <entry encoding="base64">XDxjbGlja09uTGlua1w+</entry>
         <entry encoding="base64">XDxjbGllbnRfZW1wbG95ZWVzX2xpc3RcPg==</entry>
@@ -867,6 +872,7 @@
         <entry>boogerState</entry>
         <entry>boogerstate</entry>
         <entry encoding="base64">Pj4+</entry>
+        <entry>@blue</entry>
       </history-search>
       <history-cmd>
         <entry>162</entry>
