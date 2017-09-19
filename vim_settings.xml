@@ -270,13 +270,7 @@
       <file name="$USER_HOME$/workspace/php/testProject/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesUsers.php" timestamp="1504817286923">
         <mark key="[" line="75" column="67" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/settings/global-hiring-settings.vue" timestamp="1505836678988">
-        <mark key="[" line="2" column="20" />
-        <mark key="]" line="159" column="0" />
-        <mark key="^" line="159" column="0" />
-        <mark key="." line="159" column="0" />
-      </file>
-      <file name="$USER_HOME$/bernieportal/legacy/BhReportsModule.php" timestamp="1505836359291">
+      <file name="$USER_HOME$/bernieportal/legacy/BhReportsModule.php" timestamp="1505837997688">
         <mark key="[" line="1348" column="0" />
         <mark key="]" line="5964" column="52" />
         <mark key="^" line="5964" column="30" />
@@ -321,10 +315,10 @@
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/worlds/levels/level.js" timestamp="1504391486114">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1505836897354">
+      <file name="/PHP Console" timestamp="1505837552367">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/bernieportal/public/sites/all/modules/bh_reports/bh_reports.module" timestamp="1505767474535">
+      <file name="$USER_HOME$/bernieportal/public/sites/all/modules/bh_reports/bh_reports.module" timestamp="1505837944919">
         <mark key="[" line="20" column="25" />
         <mark key="]" line="20" column="25" />
         <mark key="^" line="24" column="3" />
