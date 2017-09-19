@@ -119,6 +119,12 @@
         <mark key="^" line="27" column="9" />
         <mark key="." line="19" column="22" />
       </file>
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/time/subgroups/settings.vue" timestamp="1505850820517">
+        <mark key="[" line="362" column="45" />
+        <mark key="]" line="364" column="10" />
+        <mark key="^" line="364" column="10" />
+        <mark key="." line="364" column="10" />
+      </file>
       <file name="$USER_HOME$/bernieportal/app/Views/Composers/Sidebar/Sidebar.php" timestamp="1495661096600">
         <mark key="[" line="46" column="10" />
       </file>
@@ -304,7 +310,7 @@
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/worlds/levels/level.js" timestamp="1504391486114">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1505848431146">
+      <file name="/PHP Console" timestamp="1505850907784">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/public/sites/all/modules/bh_reports/bh_reports.module" timestamp="1505837944919">
@@ -496,13 +502,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Ly8tPnJlcGxpY2F0ZSgpOw==</text>
+        <text>`params: ${</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Ly8tPnJlcGxpY2F0ZSgpOw==</text>
+        <text>`params: ${</text>
       </register>
       <register name="/" type="4">
         <text>@blue</text>
@@ -510,34 +516,34 @@
       <register name="0" type="4">
         <text>) {</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLmd1cikK</text>
+      </register>
+      <register name="2" type="4">
         <text>console.log('nope');
           return;</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgfSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgb25HZW5lcmF0aW5nRXJyb3IoKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgfSwK</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgb25HZW5lcmF0aW5nRXJyb3IoKSB7Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>this.status = '';
           this.generateStatus = '';</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Pj4+Pj4+PiBlcnJvciBmZWVkYmFjayBmb3IgYmlsbHMgZmV0Y2hpbmcgZXJyb3JzCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9LAo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgICAgICB9LAo=</text>
       </register>
       <register name=":" type="4">
         <text>423</text>
