@@ -57,7 +57,6 @@
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/states/game-state.js" timestamp="1504396334526">
         <mark key="[" line="5" column="38" />
       </file>
-      <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/worlds/world.js" timestamp="1505920323047" />
       <file name="$USER_HOME$/bernieportal/app/Navigation/Items.php" timestamp="1498597315962">
         <mark key="[" line="83" column="5" />
       </file>
@@ -72,9 +71,6 @@
       </file>
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/tiles/wall-blue.js" timestamp="1503354559657">
         <mark key="[" line="3" column="17" />
-      </file>
-      <file name="$USER_HOME$/bernieportal/legacy/ClientRegModule.php" timestamp="1506005007694">
-        <mark key="[" line="6382" column="15" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/views/dashboards/sidebar/employer-employee-items.blade.php" timestamp="1502480216885">
         <mark key="[" line="3" column="43" />
@@ -103,6 +99,7 @@
         <mark key="^" line="10" column="56" />
         <mark key="." line="11" column="44" />
       </file>
+      <file name="$USER_HOME$/bernieportal/app/Api/Transformers/EmployerTransformer.php" timestamp="1506010623890" />
       <file name="$USER_HOME$/bernieportal/resources/assets/components/loading-popup.vue" timestamp="1498514478199">
         <mark key="[" line="8" column="27" />
       </file>
@@ -130,7 +127,6 @@
       <file name="$USER_HOME$/bernieportal/app/Views/Composers/Sidebar/Sidebar.php" timestamp="1495661096600">
         <mark key="[" line="46" column="10" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Time/Timesheet.php" timestamp="1505860097999" />
       <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/candidate/individual-application.vue" timestamp="1493136831791">
         <mark key="[" line="70" column="120" />
       </file>
@@ -228,7 +224,7 @@
       <file name="$USER_HOME$/bernieportal/app/Carriers/Billing/SummaryBill.php" timestamp="1497900688518">
         <mark key="[" line="76" column="5" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Http/routes.php" timestamp="1505929888431" />
+      <file name="$USER_HOME$/bernieportal/app/Http/routes.php" timestamp="1506010583774" />
       <file name="$USER_HOME$/workspace/php/testProject/app/Http/Controllers/AboutController.php" timestamp="1503412371066">
         <mark key="[" line="8" column="50" />
       </file>
@@ -238,7 +234,7 @@
       <file name="$USER_HOME$/bernieportal/app/Data/Gateways/Plans/DatabaseRateGateway.php" timestamp="1500561299485">
         <mark key="[" line="54" column="20" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Subgroups/TimeSubgroup.php" timestamp="1505856331022" />
+      <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/TerminationReasonsController.php" timestamp="1506010612169" />
       <file name="$USER_HOME$/bernieportal/public/sites/all/modules/employee_reg/employee_reg.js" timestamp="1505318709547">
         <mark key="[" line="0" column="31" />
       </file>
@@ -281,7 +277,6 @@
       <file name="$USER_HOME$/workspace/php/testProject/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesUsers.php" timestamp="1504817286923">
         <mark key="[" line="75" column="67" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Demographics/Profile.php" timestamp="1505940530473" />
       <file name="$USER_HOME$/bernieportal/legacy/BhReportsModule.php" timestamp="1506004338628">
         <mark key="'" line="6709" column="14" />
         <mark key="[" line="6708" column="12" />
@@ -323,7 +318,6 @@
       <file name="$USER_HOME$/bernieportal/app/BenefitProviders/BenefitProviderRepository.php" timestamp="1501534966462">
         <mark key="[" line="183" column="5" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Time/Workweek.php" timestamp="1505939618963" />
       <file name="$USER_HOME$/bernieportal/resources/assets/components/time/employees/timesheet.vue" timestamp="1496866552323">
         <mark key="[" line="3" column="37" />
       </file>
@@ -336,7 +330,7 @@
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/worlds/levels/level.js" timestamp="1504391486114">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1506004497368">
+      <file name="/PHP Console" timestamp="1506009969315">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/public/sites/all/modules/bh_reports/bh_reports.module" timestamp="1505837944919">
@@ -360,7 +354,6 @@
       <file name="$USER_HOME$/bernieportal/legacy/BenefitProviderModule.php" timestamp="1494262752364">
         <mark key="[" line="116" column="64" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Time/SubgroupSettings.php" timestamp="1505853304158" />
       <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/ProfilePhotoController.php" timestamp="1499369572506">
         <mark key="[" line="29" column="8" />
       </file>
@@ -417,6 +410,11 @@
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/benefit-eoi/pending-buttons.vue" timestamp="1498596940985">
         <mark key="[" line="2" column="10" />
+      </file>
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/employer/employee-terminate-modal.vue" timestamp="1506009983612">
+        <mark key="[" line="15" column="34" />
+        <mark key="]" line="15" column="34" />
+        <mark key="." line="15" column="34" />
       </file>
       <file name="$USER_HOME$/bernieportal/legacy/EmployeeElectionModule.php" timestamp="1505337808191">
         <mark key="[" line="4525" column="164" />
@@ -529,13 +527,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>$workWeeks</text>
+        <text>EXTERMINATE</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>$workWeeks</text>
+        <text>EXTERMINATE</text>
       </register>
       <register name="/" type="4">
         <text>@blue</text>
