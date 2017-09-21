@@ -279,12 +279,12 @@
         <mark key="[" line="75" column="67" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Demographics/Profile.php" timestamp="1505940530473" />
-      <file name="$USER_HOME$/bernieportal/legacy/BhReportsModule.php" timestamp="1505946859410">
+      <file name="$USER_HOME$/bernieportal/legacy/BhReportsModule.php" timestamp="1506003713942">
         <mark key="'" line="6709" column="14" />
-        <mark key="[" line="6714" column="18" />
-        <mark key="]" line="653" column="94" />
+        <mark key="[" line="6708" column="12" />
+        <mark key="]" line="6708" column="12" />
         <mark key="^" line="655" column="19" />
-        <mark key="." line="653" column="94" />
+        <mark key="." line="6708" column="12" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Http/Requests/User/ShowUserRequest.php" timestamp="1496853931288">
         <mark key="[" line="21" column="49" />
@@ -333,7 +333,7 @@
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/worlds/levels/level.js" timestamp="1504391486114">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1505947178637">
+      <file name="/PHP Console" timestamp="1506003047178">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/public/sites/all/modules/bh_reports/bh_reports.module" timestamp="1505837944919">
@@ -526,13 +526,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>public</text>
+        <text>$workWeeks</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>public</text>
+        <text>$workWeeks</text>
       </register>
       <register name="/" type="4">
         <text>@blue</text>
