@@ -244,6 +244,11 @@
       <file name="$USER_HOME$/bernieportal/resources/views/dashboards/sidebar/benefits.blade.php" timestamp="1499974671996">
         <mark key="[" line="5" column="31" />
       </file>
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/employer/terminate-employee-form.vue" timestamp="1506012440187">
+        <mark key="]" line="168" column="9" />
+        <mark key="^" line="168" column="9" />
+        <mark key="." line="168" column="9" />
+      </file>
       <file name="$USER_HOME$/workspace/gamepad_api_demo/index.html" timestamp="1501271743681">
         <mark key="[" line="3" column="0" />
       </file>
@@ -330,7 +335,7 @@
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/worlds/levels/level.js" timestamp="1504391486114">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1506009969315">
+      <file name="/PHP Console" timestamp="1506012512544">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/public/sites/all/modules/bh_reports/bh_reports.module" timestamp="1505837944919">
@@ -527,13 +532,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>EXTERMINATE</text>
+        <text>Other</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>EXTERMINATE</text>
+        <text>Other</text>
       </register>
       <register name="/" type="4">
         <text>@blue</text>
@@ -542,21 +547,24 @@
         <text>) {</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAK</text>
-      </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgICAgCi8vICAgICAgICAgICAgfSk7Ci8vICAgICAgICAgICAgLT50b0FycmF5KCk7</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">JGJsYWhoID0gJGxpc3QtPm1hcChmdW5jdGlvbiAoJHB1bmNoZXNGb3JFbXBsb3llZSkgewovLyAgICAgICAgICAgICAgICAkY2xvY2tlZEhvdXJzVG90YWwgPSAkcHVuY2hlc0ZvckVtcGxveWVlLT5tYXAoZnVuY3Rpb24gKCRob3Vyc1N1bSkgewovLyAgICAgICAgICAgICAgICAgICAgcmV0dXJuICRob3Vyc1N1bTsKLy8gICAgICAgICAgICAgICAgfSk7Ci8vICAgICAgICAgICAgICAgICRyZWd1bGFySG91cnNUb3RhbCA9ICcnOwovLyAgICAgICAgICAgICAgICAkb3ZlcnRpbWVIb3Vyc1RvdGFsID0gJyc7Ci8vICAgICAgICAgICAgICAgIHJldHVybiAgWwovLyAgICAgICAgICAgICAgICAgICAgMCA9PiAkcHVuY2hlc0ZvckVtcGxveWVlWzBdLAovLyAgICAgICAgICAgICAgICAgICAgMSA9PiAkY2xvY2tlZEhvdXJzVG90YWwsCi8vICAgICAgICAgICAgICAgICAgICAyID0+ICRyZWd1bGFySG91cnNUb3RhbCwKLy8gICAgICAgICAgICAgICAgICAgIDMgPT4gJG92ZXJ0aW1lSG91cnNUb3RhbCwKLy8gICAgICAgICAgICAgICAgXTs=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="3" type="2">
+        <text encoding="base64">Ly8gICAgICAK</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgICAgCi8vICAgICAgICAgICAgfSk7Ci8vICAgICAgICAgICAgLT50b0FycmF5KCk7</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">JGJsYWhoID0gJGxpc3QtPm1hcChmdW5jdGlvbiAoJHB1bmNoZXNGb3JFbXBsb3llZSkgewovLyAgICAgICAgICAgICAgICAkY2xvY2tlZEhvdXJzVG90YWwgPSAkcHVuY2hlc0ZvckVtcGxveWVlLT5tYXAoZnVuY3Rpb24gKCRob3Vyc1N1bSkgewovLyAgICAgICAgICAgICAgICAgICAgcmV0dXJuICRob3Vyc1N1bTsKLy8gICAgICAgICAgICAgICAgfSk7Ci8vICAgICAgICAgICAgICAgICRyZWd1bGFySG91cnNUb3RhbCA9ICcnOwovLyAgICAgICAgICAgICAgICAkb3ZlcnRpbWVIb3Vyc1RvdGFsID0gJyc7Ci8vICAgICAgICAgICAgICAgIHJldHVybiAgWwovLyAgICAgICAgICAgICAgICAgICAgMCA9PiAkcHVuY2hlc0ZvckVtcGxveWVlWzBdLAovLyAgICAgICAgICAgICAgICAgICAgMSA9PiAkY2xvY2tlZEhvdXJzVG90YWwsCi8vICAgICAgICAgICAgICAgICAgICAyID0+ICRyZWd1bGFySG91cnNUb3RhbCwKLy8gICAgICAgICAgICAgICAgICAgIDMgPT4gJG92ZXJ0aW1lSG91cnNUb3RhbCwKLy8gICAgICAgICAgICAgICAgXTs=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="4">
         <text>reduce(function ($key, $value) {
 //
             return [
@@ -564,14 +572,11 @@
             ];
         });</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGxpc3QgIAo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAkd29ya1dlZWtzID0gV29ya1dlZWskbGlzdCA9IFB1bmNoOjppbkRhdGVSYW5nZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGxpc3QgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>6383</text>
