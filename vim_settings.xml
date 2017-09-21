@@ -73,6 +73,9 @@
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/tiles/wall-blue.js" timestamp="1503354559657">
         <mark key="[" line="3" column="17" />
       </file>
+      <file name="$USER_HOME$/bernieportal/legacy/ClientRegModule.php" timestamp="1506005007694">
+        <mark key="[" line="6382" column="15" />
+      </file>
       <file name="$USER_HOME$/bernieportal/resources/views/dashboards/sidebar/employer-employee-items.blade.php" timestamp="1502480216885">
         <mark key="[" line="3" column="43" />
       </file>
@@ -137,7 +140,7 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/js/current-user-id.js" timestamp="1499278658594">
         <mark key="[" line="2" column="63" />
       </file>
-      <file name="/fragment.php" timestamp="1505946018927">
+      <file name="/fragment.php" timestamp="1506004492695">
         <mark key="p" line="0" column="10" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -279,7 +282,7 @@
         <mark key="[" line="75" column="67" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Demographics/Profile.php" timestamp="1505940530473" />
-      <file name="$USER_HOME$/bernieportal/legacy/BhReportsModule.php" timestamp="1506003713942">
+      <file name="$USER_HOME$/bernieportal/legacy/BhReportsModule.php" timestamp="1506004338628">
         <mark key="'" line="6709" column="14" />
         <mark key="[" line="6708" column="12" />
         <mark key="]" line="6708" column="12" />
@@ -295,12 +298,12 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/sortable.vue" timestamp="1494448912691">
         <mark key="[" line="2" column="58" />
       </file>
-      <file name="$USER_HOME$/bernieportal/legacy/Reports/TimeReportModule.php" timestamp="1505946632298">
+      <file name="$USER_HOME$/bernieportal/legacy/Reports/TimeReportModule.php" timestamp="1506004464961">
         <mark key="'" line="64" column="55" />
-        <mark key="[" line="80" column="37" />
-        <mark key="]" line="80" column="37" />
-        <mark key="." line="80" column="37" />
-        <mark key="^" line="75" column="13" />
+        <mark key="[" line="82" column="10" />
+        <mark key="]" line="82" column="9" />
+        <mark key="." line="82" column="9" />
+        <mark key="^" line="82" column="9" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Data/Gateways/Benefits/BenefitGateway.php" timestamp="1500584485332">
         <mark key="[" line="4" column="28" />
@@ -333,7 +336,7 @@
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/worlds/levels/level.js" timestamp="1504391486114">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1506003047178">
+      <file name="/PHP Console" timestamp="1506004497368">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/public/sites/all/modules/bh_reports/bh_reports.module" timestamp="1505837944919">
@@ -573,7 +576,7 @@
         <text encoding="base64">Ly8gICAgICAgICAgICAkd29ya1dlZWtzID0gV29ya1dlZWskbGlzdCA9IFB1bmNoOjppbkRhdGVSYW5nZSgpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>98</text>
+        <text>6383</text>
       </register>
     </registers>
     <search>
@@ -607,7 +610,6 @@
         <entry>@blue</entry>
       </history-search>
       <history-cmd>
-        <entry>74</entry>
         <entry>84</entry>
         <entry>77</entry>
         <entry>1456</entry>
@@ -627,6 +629,7 @@
         <entry>6695</entry>
         <entry>83</entry>
         <entry>98</entry>
+        <entry>6383</entry>
       </history-cmd>
       <history-expr />
       <history-input />
