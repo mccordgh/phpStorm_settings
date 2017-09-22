@@ -29,13 +29,7 @@
       <file name="$USER_HOME$/bernieportal/app/Ats/Candidate.php" timestamp="1502737804653">
         <mark key="[" line="32" column="86" />
       </file>
-      <file name="$USER_HOME$/bernieportal/legacy/OnboardingModule.php" timestamp="1506027865834">
-        <mark key="'" line="2493" column="165" />
-        <mark key="[" line="2506" column="48" />
-        <mark key="]" line="2506" column="48" />
-        <mark key="." line="2506" column="48" />
-        <mark key="^" line="2506" column="64" />
-      </file>
+      <file name="$USER_HOME$/bernieportal/legacy/OnboardingModule.php" timestamp="1506031245135" />
       <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/Edi/SchedulersController.php" timestamp="1494362868134">
         <mark key="[" line="32" column="44" />
       </file>
@@ -107,7 +101,7 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/js/current-user-id.js" timestamp="1499278658594">
         <mark key="[" line="2" column="63" />
       </file>
-      <file name="/fragment.php" timestamp="1506027723464">
+      <file name="/fragment.php" timestamp="1506030900623">
         <mark key="p" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -282,7 +276,7 @@
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/worlds/levels/level.js" timestamp="1504391486114">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1506028001640">
+      <file name="/PHP Console" timestamp="1506031112618">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/legacy/BenefitProviderModule.php" timestamp="1494262752364">
@@ -455,13 +449,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'WHY WHY WHY GOD'</text>
+        <text>array_keys($options)[0]</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>'WHY WHY WHY GOD'</text>
+        <text>array_keys($options)[0]</text>
       </register>
       <register name="/" type="4">
         <text>@blue</text>
