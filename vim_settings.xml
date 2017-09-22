@@ -106,11 +106,11 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/js/current-user-id.js" timestamp="1499278658594">
         <mark key="[" line="2" column="63" />
       </file>
-      <file name="/fragment.php" timestamp="1506113062319">
+      <file name="/fragment.php" timestamp="1506113280335">
         <mark key="p" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="1" />
-        <mark key="." line="0" column="1" />
+        <mark key="[" line="0" column="2" />
+        <mark key="]" line="0" column="2" />
+        <mark key="." line="0" column="2" />
       </file>
       <file name="$USER_HOME$/workspace/gamepad_api_demo/main.css" timestamp="1501271749114">
         <mark key="[" line="5" column="10" />
@@ -177,7 +177,7 @@
         <mark key="[" line="76" column="5" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Http/routes.php" timestamp="1506024427076" />
-      <file name="$USER_HOME$/bernieportal/legacy/ClientPortalModule.php" timestamp="1506113070364">
+      <file name="$USER_HOME$/bernieportal/legacy/ClientPortalModule.php" timestamp="1506113277546">
         <mark key="'" line="2151" column="155" />
         <mark key="[" line="1492" column="10" />
         <mark key="]" line="1494" column="11" />
@@ -288,7 +288,7 @@
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/worlds/levels/level.js" timestamp="1504391486114">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1506113052387">
+      <file name="/PHP Console" timestamp="1506113112294">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/legacy/BenefitProviderModule.php" timestamp="1494262752364">
@@ -463,13 +463,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>$rows</text>
+        <text>efcodes[$fid]</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>$rows</text>
+        <text>efcodes[$fid]</text>
       </register>
       <register name="/" type="4">
         <text>@blue</text>
