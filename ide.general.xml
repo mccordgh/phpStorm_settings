@@ -1,5 +1,6 @@
 <application>
   <component name="GeneralSettings">
+    <option name="confirmOpenNewProject2" value="0" />
     <option name="processCloseConfirmation" value="TERMINATE" />
     <option name="searchInBackground" value="true" />
     <option name="showTipsOnStartup" value="false" />
@@ -8,5 +9,6 @@
     <entry key="ide.firstStartup" value="false" />
     <entry key="dumb.aware.run.configurations" value="true" />
     <entry key="debugger.watches.in.variables" value="false" />
+    <entry key="ide.tooltip.initialDelay" value="496" />
   </component>
 </application>
