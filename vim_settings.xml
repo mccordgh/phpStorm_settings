@@ -121,7 +121,7 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/js/current-user-id.js" timestamp="1499278658594">
         <mark key="[" line="2" column="63" />
       </file>
-      <file name="/fragment.php" timestamp="1506443333510">
+      <file name="/fragment.php" timestamp="1506454577321">
         <mark key="p" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
@@ -198,16 +198,13 @@
       <file name="$USER_HOME$/bernieportal/app/Carriers/Billing/SummaryBill.php" timestamp="1497900688518">
         <mark key="[" line="76" column="5" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/benefit-provider/edi/file.vue" timestamp="1506449950873">
-        <mark key="[" line="315" column="31" />
-        <mark key="]" line="315" column="31" />
-        <mark key="^" line="314" column="17" />
-        <mark key="." line="315" column="31" />
-      </file>
       <file name="$USER_HOME$/bernieportal/app/Onboarding/EmployeesImport.php" timestamp="1506355596605">
         <mark key="[" line="5" column="1" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Http/routes.php" timestamp="1506448537472" />
+      <file name="$USER_HOME$/bernieportal/legacy/ClientPortalModule.php" timestamp="1506455335565">
+        <mark key="^" line="17" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/emoji_rogue_like/css/main.css" timestamp="1506373068544">
         <mark key="[" line="0" column="0" />
       </file>
@@ -306,7 +303,7 @@
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/worlds/levels/level.js" timestamp="1504391486114">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1506449981548">
+      <file name="/PHP Console" timestamp="1506454572028">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/emoji_rogue_like/index.js" timestamp="1506373351794">
@@ -497,13 +494,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>prevent</text>
+        <text>$updatedRows</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>prevent</text>
+        <text>$updatedRows</text>
       </register>
       <register name="/" type="4">
         <text>@blue</text>
@@ -512,10 +509,10 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgVENvZGUgPSBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgnVENvZGUnKS52YWx1ZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IHsKICAgICAgICAgIGFsZXJ0KCdJbnB1dCBpcyBub3QgYWxwaGFudW1lcmljJyk7CiAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgfQogICAgICAgIHJldHVybiB0cnVlOw==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoc3RybGVuKCRyb3dbRW1wbG95ZWVzSW1wb3J0OjpISVJFREFURV9DT0xVTU5fRlJPTV9FWENFTF9TSEVFVF0pID09PSA1ICYmIHN0cnBvcygkcm93W0VtcGxveWVlc0ltcG9ydDo6SElSRURBVEVfQ09MVU1OX0ZST01fRVhDRUxfU0hFRVRdLCAnLycpID09IGZhbHNlKSB7CiAgICAgICAgICAgICR1bml4RGF0ZSA9ICgkcm93W0VtcGxveWVlc0ltcG9ydDo6SElSRURBVEVfQ09MVU1OX0ZST01fRVhDRUxfU0hFRVRdIC0gMjU1NjkpICogODY0MDA7CiAgICAgICAgICAgICRyb3dbRW1wbG95ZWVzSW1wb3J0OjpISVJFREFURV9DT0xVTU5fRlJPTV9FWENFTF9TSEVFVF0gPSBnbWRhdGUoIm0vZC9ZIiwgJHVuaXhEYXRlKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -523,23 +520,23 @@
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgICAgICAgIDxsYWJlbCBmb3I9InNlY29uZGFyeS1pZC13cmFwcGVyIj5QbGFuSUQgU2Vjb25kYXJ5OjwvbGFiZWw+CiAgICAgICAgICA8ZGl2IGNsYXNzPSJmb3JtLXJvdyBtb2RhbC0tZm9ybS1yb3cgbW9kYWwtLWNvbmZpZyI+CiAgICAgICAgICAgIDxkaXYgY2xhc3M9ImZvcm0tY29udHJvbCBtb2RhbC0taW5wdXQtY29uZmlnICBtb2RhbC0tY29uZmlnLWZ1bGwiIGlkPSJzZWNvbmRhcnktaWQtd3JhcHBlciI+CiAgICAgICAgICAgICAgPGlucHV0IHR5cGU9InRleHQiIG1heGxlbmd0aD0iMzIiIG5hbWU9ImNob29zZS1zZWNvbmRhcnktaWQiIGlkPSJjaG9vc2Utc2Vjb25kYXJ5LWlkIiBzaXplPSIyNSIgdi1tb2RlbD0iYmVuZWZpdC5wbGFuSWRTZWNvbmRhcnkiIGNsYXNzPSJmb3JtLXRleHQiIC8+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgPC9kaXY+CiAgICAgICAgPC9kaXY+CgogICAgICAgIDxidXR0b24gdHlwZT0iYnV0dG9uIiBAY2xpY2s9InNhdmVQbGFuSWRDaGFuZ2VzIiBjbGFzcz0iYnV0dG9uIj5TYXZlIENoYW5nZXM8L2J1dHRvbj4KICAgICAgICA8YnV0dG9uIHR5cGU9ImJ1dHRvbiIgQGNsaWNrPSJzaG93Q29uZmlnUGxhbk1vZGFsID0gZmFsc2UiIGNsYXNzPSJidXR0b24tLXNlY29uZGFyeSBhZGQtbGVmdC1tYXJnaW4iPkNhbmNlbDwvYnV0dG9uPgogICAgICA8L2Rpdj4=</text>
-      </register>
-      <register name="6" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgPGRpdj4K</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB2YXIgVENvZGUgPSBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgnVENvZGUnKS52YWx1ZTsK</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">IHsKICAgICAgICAgIGFsZXJ0KCdJbnB1dCBpcyBub3QgYWxwaGFudW1lcmljJyk7CiAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgfQogICAgICAgIHJldHVybiB0cnVlOw==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICA8bGFiZWwgZm9yPSJwbGFuLWNvbmZpZy1iZW5lZml0LXR5cGUiPkJlbmVmaXQgVHlwZTo8L2xhYmVsPgogICAgICAgIDxkaXYgY2xhc3M9ImZvcm0tcm93IG1vZGFsLS1mb3JtLXJvdyBtb2RhbC0tY29uZmlnIj4KICAgICAgICAgIDxkaXYgaWQ9InBsYW4tY29uZmlnLWJlbmVmaXQtdHlwZSIgY2xhc3M9InNlbGVjdC1jb250cm9sIG1vZGFsLS1jb25maWctZnVsbCI+CiAgICAgICAgICAgIDxzZWxlY3QgY2xhc3M9ImZvcm0tc2VsZWN0IiBpZD0iY2hvb3NlLWJlbmVmaXQtdHlwZSIgdi1tb2RlbD0iY29uZmlnUGxhbkRhdGEuc2VsZWN0ZWRCZW5lZml0Ij4KICAgICAgICAgICAgICA8b3B0aW9uIHYtZm9yPSJiZW5lZml0IGluIGNvbmZpZ1BsYW5EYXRhLmJlbmVmaXRzIiA6dmFsdWU9ImJlbmVmaXQiPnt7IGJlbmVmaXQuYmVuZWZpdE5hbWUgfX08L29wdGlvbj4KICAgICAgICAgICAgPC9zZWxlY3Q+CiAgICAgICAgICA8L2Rpdj4KICAgICAgICA8L2Rpdj4=</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>27</text>
+        <text>1564</text>
       </register>
     </registers>
     <search>
@@ -573,7 +570,6 @@
         <entry>@blue</entry>
       </history-search>
       <history-cmd>
-        <entry>99</entry>
         <entry>2487</entry>
         <entry>180</entry>
         <entry>315</entry>
@@ -593,6 +589,7 @@
         <entry>901</entry>
         <entry>29</entry>
         <entry>27</entry>
+        <entry>1564</entry>
       </history-cmd>
       <history-expr />
       <history-input />
