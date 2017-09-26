@@ -121,7 +121,7 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/js/current-user-id.js" timestamp="1499278658594">
         <mark key="[" line="2" column="63" />
       </file>
-      <file name="/fragment.php" timestamp="1506454577321">
+      <file name="/fragment.php" timestamp="1506458673261">
         <mark key="p" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
@@ -202,8 +202,12 @@
         <mark key="[" line="5" column="1" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Http/routes.php" timestamp="1506448537472" />
-      <file name="$USER_HOME$/bernieportal/legacy/ClientPortalModule.php" timestamp="1506455335565">
-        <mark key="^" line="17" column="0" />
+      <file name="$USER_HOME$/bernieportal/legacy/ClientPortalModule.php" timestamp="1506458577505">
+        <mark key="'" line="2853" column="15" />
+        <mark key="[" line="2837" column="48" />
+        <mark key="]" line="2837" column="48" />
+        <mark key="." line="2837" column="48" />
+        <mark key="^" line="2849" column="7" />
       </file>
       <file name="$USER_HOME$/workspace/emoji_rogue_like/css/main.css" timestamp="1506373068544">
         <mark key="[" line="0" column="0" />
@@ -303,7 +307,7 @@
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/worlds/levels/level.js" timestamp="1504391486114">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1506454572028">
+      <file name="/PHP Console" timestamp="1506458682766">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/emoji_rogue_like/index.js" timestamp="1506373351794">
@@ -391,7 +395,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3157" column="0" filename="$USER_HOME$/bernieportal/legacy/OnboardingModule.php" />
       <jump line="3155" column="0" filename="$USER_HOME$/bernieportal/legacy/OnboardingModule.php" />
       <jump line="3149" column="0" filename="$USER_HOME$/bernieportal/legacy/OnboardingModule.php" />
       <jump line="3101" column="0" filename="$USER_HOME$/bernieportal/legacy/OnboardingModule.php" />
@@ -491,16 +494,17 @@
       <jump line="2151" column="155" filename="$USER_HOME$/bernieportal/legacy/ClientPortalModule.php" />
       <jump line="2731" column="34" filename="$USER_HOME$/bernieportal/legacy/ClientPortalModule.php" />
       <jump line="1563" column="59" filename="$USER_HOME$/bernieportal/legacy/ClientPortalModule.php" />
+      <jump line="2853" column="15" filename="$USER_HOME$/bernieportal/legacy/ClientPortalModule.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>$updatedRows</text>
+        <text>string</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>$updatedRows</text>
+        <text>string</text>
       </register>
       <register name="/" type="4">
         <text>@blue</text>
@@ -508,32 +512,32 @@
       <register name="0" type="4">
         <text />
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">c3RybGVuKCRkYXRlKSA9PT0gNQogICAgICAgICAgICAmJiBzdHJwb3MoJGRhdGUsICcvJykgPT0gZmFsc2UKICAgICAgICA=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoc3RybGVuKCRyb3dbRW1wbG95ZWVzSW1wb3J0OjpISVJFREFURV9DT0xVTU5fRlJPTV9FWENFTF9TSEVFVF0pID09PSA1ICYmIHN0cnBvcygkcm93W0VtcGxveWVlc0ltcG9ydDo6SElSRURBVEVfQ09MVU1OX0ZST01fRVhDRUxfU0hFRVRdLCAnLycpID09IGZhbHNlKSB7CiAgICAgICAgICAgICR1bml4RGF0ZSA9ICgkcm93W0VtcGxveWVlc0ltcG9ydDo6SElSRURBVEVfQ09MVU1OX0ZST01fRVhDRUxfU0hFRVRdIC0gMjU1NjkpICogODY0MDA7CiAgICAgICAgICAgICRyb3dbRW1wbG95ZWVzSW1wb3J0OjpISVJFREFURV9DT0xVTU5fRlJPTV9FWENFTF9TSEVFVF0gPSBnbWRhdGUoIm0vZC9ZIiwgJHVuaXhEYXRlKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGAkcm93W0VtcGxveWVlc0ltcG9ydDo6QklSVEhEQVRFX0NPTFVNTkFfRlJPTV9FWENFTF9TSEVFVF0gPSAK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoc3RybGVuKCRyb3dbRW1wbG95ZWVzSW1wb3J0OjpISVJFREFURV9DT0xVTU5fRlJPTV9FWENFTF9TSEVFVF0pID09PSA1ICYmIHN0cnBvcygkcm93W0VtcGxveWVlc0ltcG9ydDo6SElSRURBVEVfQ09MVU1OX0ZST01fRVhDRUxfU0hFRVRdLCAnLycpID09IGZhbHNlKSB7CiAgICAgICAgICAgICR1bml4RGF0ZSA9ICgkcm93W0VtcGxveWVlc0ltcG9ydDo6SElSRURBVEVfQ09MVU1OX0ZST01fRVhDRUxfU0hFRVRdIC0gMjU1NjkpICogODY0MDA7CiAgICAgICAgICAgICRyb3dbRW1wbG95ZWVzSW1wb3J0OjpISVJFREFURV9DT0xVTU5fRlJPTV9FWENFTF9TSEVFVF0gPSBnbWRhdGUoIm0vZC9ZIiwgJHVuaXhEYXRlKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgVENvZGUgPSBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgnVENvZGUnKS52YWx1ZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IHsKICAgICAgICAgIGFsZXJ0KCdJbnB1dCBpcyBub3QgYWxwaGFudW1lcmljJyk7CiAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgfQogICAgICAgIHJldHVybiB0cnVlOw==</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXIgVENvZGUgPSBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgnVENvZGUnKS52YWx1ZTsK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">IHsKICAgICAgICAgIGFsZXJ0KCdJbnB1dCBpcyBub3QgYWxwaGFudW1lcmljJyk7CiAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgfQogICAgICAgIHJldHVybiB0cnVlOw==</text>
       </register>
       <register name=":" type="4">
         <text>1564</text>
