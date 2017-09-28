@@ -224,7 +224,12 @@
       <file name="$USER_HOME$/workspace/php/testProject/app/Http/Kernel.php" timestamp="1504817441978">
         <mark key="[" line="32" column="13" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/billing/billing-table.vue" timestamp="1506641629998" />
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/billing/billing-table.vue" timestamp="1506642390189">
+        <mark key="[" line="181" column="29" />
+        <mark key="]" line="181" column="27" />
+        <mark key="^" line="181" column="27" />
+        <mark key="." line="181" column="27" />
+      </file>
       <file name="$USER_HOME$/bernieportal/legacy/UserManagementModule.php" timestamp="1494343921488">
         <mark key="[" line="505" column="30" />
       </file>
@@ -598,13 +603,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">aW5FZGl0cygpLT5hbGwoKQ==</text>
+        <text>array</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aW5FZGl0cygpLT5hbGwoKQ==</text>
+        <text>array</text>
       </register>
       <register name="/" type="4">
         <text>@blue</text>
