@@ -195,7 +195,7 @@
       <file name="$USER_HOME$/bernieportal/app/Api/Transformers/BenefitProvider/EmployerTransformer.php" timestamp="1501534288275">
         <mark key="[" line="17" column="52" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Time/Punch.php" timestamp="1506635420471">
+      <file name="$USER_HOME$/bernieportal/app/Time/Punch.php" timestamp="1506708187030">
         <mark key="[" line="273" column="39" />
         <mark key="]" line="273" column="39" />
         <mark key="." line="273" column="39" />
@@ -225,10 +225,9 @@
         <mark key="[" line="32" column="13" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/billing/billing-table.vue" timestamp="1506702544311">
-        <mark key="[" line="187" column="15" />
-        <mark key="]" line="187" column="15" />
-        <mark key="." line="187" column="15" />
-        <mark key="^" line="153" column="23" />
+        <mark key="[" line="53" column="15" />
+        <mark key="]" line="53" column="15" />
+        <mark key="." line="53" column="15" />
       </file>
       <file name="$USER_HOME$/bernieportal/legacy/UserManagementModule.php" timestamp="1494343921488">
         <mark key="[" line="505" column="30" />
@@ -398,7 +397,7 @@
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/worlds/levels/level.js" timestamp="1504391486114">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1506703121073">
+      <file name="/PHP Console" timestamp="1506707928918">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/emoji_rogue_like/index.js" timestamp="1506373351794">
