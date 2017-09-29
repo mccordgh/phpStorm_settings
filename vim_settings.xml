@@ -159,11 +159,6 @@
       <file name="$USER_HOME$/bernieportal/app/Api/Transformers/BenefitProvider/EmployerTransformer.php" timestamp="1501534288275">
         <mark key="[" line="17" column="52" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Time/Punch.php" timestamp="1506716434998">
-        <mark key="[" line="345" column="5" />
-        <mark key="]" line="291" column="0" />
-        <mark key="." line="291" column="0" />
-      </file>
       <file name="$USER_HOME$/bernieportal/app/Http/Requests/Time/UpdateSubgroupRequest.php" timestamp="1506359566944">
         <mark key="[" line="37" column="12" />
         <mark key="]" line="37" column="12" />
