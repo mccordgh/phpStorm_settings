@@ -224,11 +224,11 @@
       <file name="$USER_HOME$/workspace/php/testProject/app/Http/Kernel.php" timestamp="1504817441978">
         <mark key="[" line="32" column="13" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/billing/billing-table.vue" timestamp="1506644402015">
-        <mark key="[" line="187" column="68" />
-        <mark key="]" line="187" column="68" />
-        <mark key="." line="187" column="68" />
-        <mark key="^" line="187" column="56" />
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/billing/billing-table.vue" timestamp="1506702544311">
+        <mark key="[" line="187" column="15" />
+        <mark key="]" line="187" column="15" />
+        <mark key="." line="187" column="15" />
+        <mark key="^" line="153" column="23" />
       </file>
       <file name="$USER_HOME$/bernieportal/legacy/UserManagementModule.php" timestamp="1494343921488">
         <mark key="[" line="505" column="30" />
@@ -398,7 +398,7 @@
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/worlds/levels/level.js" timestamp="1504391486114">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1506643918831">
+      <file name="/PHP Console" timestamp="1506703121073">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/emoji_rogue_like/index.js" timestamp="1506373351794">
@@ -603,13 +603,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, this.limit)</text>
+        <text encoding="base64">PyB0aGlzLm51bUVudHJpZXMgOiA=</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>, this.limit)</text>
+        <text encoding="base64">PyB0aGlzLm51bUVudHJpZXMgOiA=</text>
       </register>
       <register name="/" type="4">
         <text>@blue</text>
