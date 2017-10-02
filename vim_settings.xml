@@ -130,7 +130,7 @@
         <mark key="]" line="281" column="59" />
         <mark key="." line="281" column="59" />
       </file>
-      <file name="/fragment.php" timestamp="1506965158458">
+      <file name="/fragment.php" timestamp="1506970812246">
         <mark key="p" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -241,6 +241,9 @@
         <mark key="]" line="6842" column="54" />
         <mark key="." line="6842" column="54" />
       </file>
+      <file name="$USER_HOME$/bernieportal/legacy/CmsMiscModule.php" timestamp="1506970816567">
+        <mark key="[" line="1282" column="12" />
+      </file>
       <file name="$USER_HOME$/workspace/gamepad_api_demo/index.html" timestamp="1501271743681">
         <mark key="[" line="3" column="0" />
       </file>
@@ -329,7 +332,7 @@
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/worlds/levels/level.js" timestamp="1504391486114">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1506965517192">
+      <file name="/PHP Console" timestamp="1506971032847">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/emoji_rogue_like/index.js" timestamp="1506373351794">
@@ -570,7 +573,7 @@
         <text encoding="base64">IAo=</text>
       </register>
       <register name=":" type="4">
-        <text>293</text>
+        <text>1170</text>
       </register>
     </registers>
     <search>
@@ -604,7 +607,6 @@
         <entry>@blue</entry>
       </history-search>
       <history-cmd>
-        <entry>1564</entry>
         <entry>2849</entry>
         <entry>6708</entry>
         <entry>72</entry>
@@ -624,6 +626,7 @@
         <entry>4170]</entry>
         <entry>4170</entry>
         <entry>293</entry>
+        <entry>1170</entry>
       </history-cmd>
       <history-expr />
       <history-input />
