@@ -90,12 +90,6 @@
       <file name="$USER_HOME$/bernieportal/app/Api/Transformers/UserTransformer.php" timestamp="1495663599299">
         <mark key="[" line="16" column="24" />
       </file>
-      <file name="$USER_HOME$/workspace/Defend_The_Castle/js/app/classes/display/menus/MainMenu.js" timestamp="1506608954182">
-        <mark key="[" line="167" column="30" />
-        <mark key="]" line="167" column="30" />
-        <mark key="^" line="155" column="48" />
-        <mark key="." line="167" column="30" />
-      </file>
       <file name="$USER_HOME$/workspace/Defend_The_Castle/.gitignore" timestamp="1506608558146">
         <mark key="[" line="0" column="0" />
       </file>
@@ -248,18 +242,13 @@
         <mark key="]" line="6842" column="54" />
         <mark key="." line="6842" column="54" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Api/Transformers/Bills/CarrierBillTransformer.php" timestamp="1506613394051">
-        <mark key="[" line="32" column="16" />
-        <mark key="]" line="30" column="3" />
-        <mark key="." line="30" column="3" />
-        <mark key="^" line="30" column="3" />
-      </file>
       <file name="$USER_HOME$/workspace/gamepad_api_demo/index.html" timestamp="1501271743681">
         <mark key="[" line="3" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/time/summary-table.vue" timestamp="1496776949409">
         <mark key="[" line="39" column="46" />
       </file>
+      <file name="$USER_HOME$/bernieportal/legacy/BenefitConfigureModule.php" timestamp="1506963620466" />
       <file name="$USER_HOME$/bernieportal/resources/assets/components/benefit-booklets/configure-booklet.vue" timestamp="1500501129749">
         <mark key="[" line="183" column="98" />
       </file>
@@ -345,7 +334,7 @@
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/worlds/levels/level.js" timestamp="1504391486114">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1506963407134">
+      <file name="/PHP Console" timestamp="1506963536309">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/emoji_rogue_like/index.js" timestamp="1506373351794">
