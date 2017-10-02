@@ -345,7 +345,7 @@
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/worlds/levels/level.js" timestamp="1504391486114">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1506980472403">
+      <file name="/PHP Console" timestamp="1506983183180">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/emoji_rogue_like/index.js" timestamp="1506373351794">
@@ -377,7 +377,7 @@
       <file name="$USER_HOME$/workspace/soundbox_js_playground/index.html" timestamp="1504056226018">
         <mark key="[" line="6" column="8" />
       </file>
-      <file name="/Dummy.txt" timestamp="1506980123460">
+      <file name="/Dummy.txt" timestamp="1506983381778">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/popover.vue" timestamp="1492636708489">
@@ -586,7 +586,7 @@
         <text encoding="base64">IC8qKgogICAgICogQHBhcmFtIENhcmJvbiAkaW4KICAgICAqIEBwYXJhbSBDYXJib24gJG91dAogICAgICogQHJldHVybiBhcnJheQogICAgICov</text>
       </register>
       <register name=":" type="4">
-        <text>5072</text>
+        <text>41</text>
       </register>
     </registers>
     <search>
@@ -620,7 +620,6 @@
         <entry>@blue</entry>
       </history-search>
       <history-cmd>
-        <entry>95</entry>
         <entry>223</entry>
         <entry>6847</entry>
         <entry>4182</entry>
@@ -640,6 +639,7 @@
         <entry>2229</entry>
         <entry>4168</entry>
         <entry>5072</entry>
+        <entry>41</entry>
       </history-cmd>
       <history-expr />
       <history-input />
