@@ -58,6 +58,7 @@
       <file name="$USER_HOME$/bernieportal/app/Navigation/Items.php" timestamp="1498597315962">
         <mark key="[" line="83" column="5" />
       </file>
+      <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/PasswordController.php" timestamp="1507222368601" />
       <file name="$USER_HOME$/workspace/emoji_rogue_like/src/js/classes/game.js" timestamp="1506480008631">
         <mark key="[" line="72" column="38" />
         <mark key="]" line="93" column="37" />
@@ -169,12 +170,6 @@
         <mark key="]" line="37" column="12" />
         <mark key="." line="37" column="12" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Time/Punch.php" timestamp="1507221534629">
-        <mark key="[" line="345" column="5" />
-        <mark key="]" line="349" column="18" />
-        <mark key="^" line="349" column="18" />
-        <mark key="." line="349" column="18" />
-      </file>
       <file name="$USER_HOME$/workspace/emoji_rogue_like/src/css/main.css" timestamp="1506481764623">
         <mark key="[" line="6" column="1" />
         <mark key="]" line="0" column="12" />
@@ -231,7 +226,7 @@
       <file name="$USER_HOME$/bernieportal/app/Onboarding/EmployeesImport.php" timestamp="1506355596605">
         <mark key="[" line="5" column="1" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Http/routes.php" timestamp="1506964833268" />
+      <file name="$USER_HOME$/bernieportal/app/Http/routes.php" timestamp="1507222113671" />
       <file name="$USER_HOME$/workspace/emoji_rogue_like/css/main.css" timestamp="1506373068544">
         <mark key="[" line="0" column="0" />
       </file>
@@ -254,7 +249,11 @@
       <file name="$USER_HOME$/bernieportal/resources/views/dashboards/sidebar/benefits.blade.php" timestamp="1499974671996">
         <mark key="[" line="5" column="31" />
       </file>
-      <file name="$USER_HOME$/bernieportal/legacy/ClienteleUserModule.php" timestamp="1506980122325" />
+      <file name="$USER_HOME$/bernieportal/legacy/ClienteleUserModule.php" timestamp="1507222602198">
+        <mark key="[" line="6844" column="56" />
+        <mark key="]" line="6844" column="56" />
+        <mark key="." line="6844" column="56" />
+      </file>
       <file name="$USER_HOME$/bernieportal/legacy/CmsMiscModule.php" timestamp="1506970816567">
         <mark key="[" line="1169" column="12" />
       </file>
@@ -352,7 +351,7 @@
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/worlds/levels/level.js" timestamp="1504391486114">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1506985169369">
+      <file name="/PHP Console" timestamp="1507222751246">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/emoji_rogue_like/index.js" timestamp="1506373351794">
@@ -552,13 +551,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ID8gMSA6IDA=</text>
+        <text>client</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ID8gMSA6IDA=</text>
+        <text>client</text>
       </register>
       <register name="/" type="4">
         <text>@blue</text>
@@ -594,7 +593,7 @@
         <text encoding="base64">IC8qKgogICAgICogQHBhcmFtIENhcmJvbiAkaW4KICAgICAqIEBwYXJhbSBDYXJib24gJG91dAogICAgICogQHJldHVybiBhcnJheQogICAgICov</text>
       </register>
       <register name=":" type="4">
-        <text>348</text>
+        <text>6846</text>
       </register>
     </registers>
     <search>
@@ -628,7 +627,6 @@
         <entry>@blue</entry>
       </history-search>
       <history-cmd>
-        <entry>6847</entry>
         <entry>4182</entry>
         <entry>4161</entry>
         <entry>400</entry>
@@ -648,6 +646,7 @@
         <entry>5072</entry>
         <entry>41</entry>
         <entry>348</entry>
+        <entry>6846</entry>
       </history-cmd>
       <history-expr />
       <history-input />
