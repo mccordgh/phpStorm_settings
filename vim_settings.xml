@@ -179,11 +179,7 @@
       <file name="$USER_HOME$/bernieportal/app/Onboarding/EmployeesImport.php" timestamp="1506355596605">
         <mark key="[" line="5" column="1" />
       </file>
-      <file name="$USER_HOME$/bernieportal/legacy/Reports/ChangeReportModule.php" timestamp="1507568739698">
-        <mark key="[" line="339" column="14" />
-        <mark key="]" line="339" column="14" />
-        <mark key="." line="339" column="14" />
-      </file>
+      <file name="$USER_HOME$/bernieportal/legacy/Reports/ChangeReportModule.php" timestamp="1507570295036" />
       <file name="$USER_HOME$/workspace/emoji_rogue_like/css/main.css" timestamp="1506373068544">
         <mark key="[" line="0" column="0" />
       </file>
@@ -298,7 +294,7 @@
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/worlds/levels/level.js" timestamp="1504391486114">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1507568860277">
+      <file name="/PHP Console" timestamp="1507570073740">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/public/sites/all/modules/bh_reports/bh_reports.module" timestamp="1507565899766" />
@@ -473,13 +469,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">JGVtcGxveWVlTmV3U3ViZ3JvdXBzID0g</text>
+        <text>$difference</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JGVtcGxveWVlTmV3U3ViZ3JvdXBzID0g</text>
+        <text>$difference</text>
       </register>
       <register name="/" type="4">
         <text>@blue</text>
@@ -488,31 +484,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
-      </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAkcHRvX3N0YXR1cyA9IGZhbHNlOwogICAgICAgICAgICB9</text>
-      </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgICAkYWxsb3RtZW50ID0gW107CiAgICAgICAgICAgIGlmIChpc3NldCgkZW1wbG95ZWVfZGF0YSkgew==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="6" type="2">
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">JGluQ2hhbmdlZCA9ICEoJG9sZEluICYmICRpbkVkaXRDaGFuZ2VkKSB8fCAoJGluICYmICEkaW4tPmVxKCRvbGRJbikpOwogICAgICAgICRvdXRDaGFuZ2VkID0gISgkb2xkT3V0ICYmICRvdXRFZGl0Q2hhbmdlZCkgfHwgKCRvdXQgJiYgISRvdXQtPmVxKCRvbGRPdXQpKTsK</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ZmlsbCgkbmV3RWRpdE91dCk7CiAgICAgICAgICAgICRvdXRFZGl0LT5zYXZlKCk7</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAkcHRvX3N0YXR1cyA9IGZhbHNlOwogICAgICAgICAgICB9</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgICAkYWxsb3RtZW50ID0gW107CiAgICAgICAgICAgIGlmIChpc3NldCgkZW1wbG95ZWVfZGF0YSkgew==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">ZmlsbCgkbmV3VGltZXMpOwogICAgICAgICR0aGlzLT5zYXZlKCk7</text>
+        <text encoding="base64">JGluQ2hhbmdlZCA9ICEoJG9sZEluICYmICRpbkVkaXRDaGFuZ2VkKSB8fCAoJGluICYmICEkaW4tPmVxKCRvbGRJbikpOwogICAgICAgICRvdXRDaGFuZ2VkID0gISgkb2xkT3V0ICYmICRvdXRFZGl0Q2hhbmdlZCkgfHwgKCRvdXQgJiYgISRvdXQtPmVxKCRvbGRPdXQpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>49</text>
