@@ -207,7 +207,7 @@
         <mark key="]" line="6844" column="56" />
         <mark key="." line="6844" column="56" />
       </file>
-      <file name="$USER_HOME$/bernieportal/legacy/CmsMiscModule.php" timestamp="1506970816567">
+      <file name="$USER_HOME$/bernieportal/legacy/CmsMiscModule.php" timestamp="1507581372070">
         <mark key="[" line="1169" column="12" />
       </file>
       <file name="$USER_HOME$/workspace/gamepad_api_demo/index.html" timestamp="1501271743681">
@@ -295,7 +295,7 @@
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/worlds/levels/level.js" timestamp="1504391486114">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1507577262496">
+      <file name="/PHP Console" timestamp="1507581319967">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/public/sites/all/modules/bh_reports/bh_reports.module" timestamp="1507565899766" />
@@ -341,6 +341,7 @@
       <file name="$USER_HOME$/BerniePortalWiki/FooterBackup.html" timestamp="1502825749665">
         <mark key="[" line="20" column="47" />
       </file>
+      <file name="$USER_HOME$/bernieportal/public/modules/node/node.module" timestamp="1507581784109" />
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/hello.js" timestamp="1502755160022">
         <mark key="[" line="0" column="34" />
       </file>
@@ -512,7 +513,7 @@
         <text encoding="base64">JGluQ2hhbmdlZCA9ICEoJG9sZEluICYmICRpbkVkaXRDaGFuZ2VkKSB8fCAoJGluICYmICEkaW4tPmVxKCRvbGRJbikpOwogICAgICAgICRvdXRDaGFuZ2VkID0gISgkb2xkT3V0ICYmICRvdXRFZGl0Q2hhbmdlZCkgfHwgKCRvdXQgJiYgISRvdXQtPmVxKCRvbGRPdXQpKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>49</text>
+        <text>1389</text>
       </register>
     </registers>
     <search>
@@ -546,8 +547,6 @@
         <entry>@blue</entry>
       </history-search>
       <history-cmd>
-        <entry>463</entry>
-        <entry>4170]</entry>
         <entry>4170</entry>
         <entry>293</entry>
         <entry>1170</entry>
@@ -566,6 +565,8 @@
         <entry>453</entry>
         <entry>447</entry>
         <entry>49</entry>
+        <entry>1169</entry>
+        <entry>1389</entry>
       </history-cmd>
       <history-expr />
       <history-input />
