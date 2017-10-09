@@ -27,7 +27,12 @@
       <file name="$USER_HOME$/bernieportal/app/Ats/Candidate.php" timestamp="1502737804653">
         <mark key="[" line="32" column="86" />
       </file>
-      <file name="$USER_HOME$/bernieportal/public/sites/all/modules/clientele/clientele_user.module" timestamp="1507583171973" />
+      <file name="$USER_HOME$/bernieportal/public/sites/all/modules/clientele/clientele_user.module" timestamp="1507585422924">
+        <mark key="[" line="520" column="84" />
+        <mark key="]" line="520" column="84" />
+        <mark key="." line="520" column="84" />
+        <mark key="^" line="520" column="83" />
+      </file>
       <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/Edi/SchedulersController.php" timestamp="1494362868134">
         <mark key="[" line="32" column="44" />
       </file>
@@ -113,7 +118,7 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/js/current-user-id.js" timestamp="1499278658594">
         <mark key="[" line="2" column="63" />
       </file>
-      <file name="/fragment.php" timestamp="1507583875696">
+      <file name="/fragment.php" timestamp="1507584602383">
         <mark key="p" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -203,10 +208,11 @@
       <file name="$USER_HOME$/bernieportal/resources/views/dashboards/sidebar/benefits.blade.php" timestamp="1499974671996">
         <mark key="[" line="5" column="31" />
       </file>
-      <file name="$USER_HOME$/bernieportal/legacy/ClienteleUserModule.php" timestamp="1507583846164">
-        <mark key="[" line="6524" column="35" />
-        <mark key="]" line="6524" column="35" />
-        <mark key="." line="6524" column="35" />
+      <file name="$USER_HOME$/bernieportal/legacy/ClienteleUserModule.php" timestamp="1507585820032">
+        <mark key="[" line="6525" column="89" />
+        <mark key="]" line="6527" column="8" />
+        <mark key="." line="6527" column="8" />
+        <mark key="^" line="6527" column="8" />
       </file>
       <file name="$USER_HOME$/bernieportal/legacy/CmsMiscModule.php" timestamp="1507581372070">
         <mark key="[" line="1169" column="12" />
@@ -296,7 +302,7 @@
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/worlds/levels/level.js" timestamp="1504391486114">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1507583870716">
+      <file name="/PHP Console" timestamp="1507585023034">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/public/sites/all/modules/bh_reports/bh_reports.module" timestamp="1507565899766" />
@@ -472,13 +478,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>== &quot;&quot;</text>
+        <text>$e_uid</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>== &quot;&quot;</text>
+        <text>$e_uid</text>
       </register>
       <register name="/" type="4">
         <text>@blue</text>
@@ -517,7 +523,7 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>6536</text>
+        <text>6523</text>
       </register>
     </registers>
     <search>
@@ -551,7 +557,6 @@
         <entry>@blue</entry>
       </history-search>
       <history-cmd>
-        <entry>1170</entry>
         <entry>2229</entry>
         <entry>4168</entry>
         <entry>348</entry>
@@ -571,6 +576,7 @@
         <entry>1389</entry>
         <entry>132</entry>
         <entry>6536</entry>
+        <entry>6523</entry>
       </history-cmd>
       <history-expr />
       <history-input />
