@@ -78,12 +78,12 @@
       <file name="$USER_HOME$/bernieportal/app/Api/Transformers/Time/TimesheetTransformer.php" timestamp="1499884159706">
         <mark key="[" line="32" column="27" />
       </file>
-      <file name="$USER_HOME$/bernieportal/legacy/EmployeeRegModule.php" timestamp="1507589830009">
+      <file name="$USER_HOME$/bernieportal/legacy/EmployeeRegModule.php" timestamp="1507590597090">
         <mark key="'" line="4045" column="0" />
         <mark key="[" line="4601" column="12" />
-        <mark key="]" line="4601" column="12" />
-        <mark key="^" line="4215" column="32" />
-        <mark key="." line="4601" column="12" />
+        <mark key="]" line="5245" column="53" />
+        <mark key="^" line="5245" column="53" />
+        <mark key="." line="5245" column="53" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Api/Transformers/UserTransformer.php" timestamp="1495663599299">
         <mark key="[" line="16" column="24" />
@@ -302,7 +302,7 @@
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/worlds/levels/level.js" timestamp="1504391486114">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1507589705875">
+      <file name="/PHP Console" timestamp="1507589993223">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/public/sites/all/modules/bh_reports/bh_reports.module" timestamp="1507565899766" />
