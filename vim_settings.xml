@@ -48,7 +48,6 @@
       <file name="$USER_HOME$/bernieportal/app/Navigation/Items.php" timestamp="1498597315962">
         <mark key="[" line="83" column="5" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/PasswordController.php" timestamp="1507222368601" />
       <file name="$USER_HOME$/bernieportal/legacy/ClienteleModule.php" timestamp="1497635912389">
         <mark key="[" line="2" column="17" />
       </file>
@@ -72,12 +71,6 @@
       </file>
       <file name="$USER_HOME$/bernieportal/app/Api/Transformers/Time/TimesheetTransformer.php" timestamp="1499884159706">
         <mark key="[" line="32" column="27" />
-      </file>
-      <file name="$USER_HOME$/bernieportal/legacy/EmployeeRegModule.php" timestamp="1507331436820">
-        <mark key="[" line="452" column="65" />
-        <mark key="]" line="452" column="68" />
-        <mark key="." line="452" column="68" />
-        <mark key="^" line="452" column="68" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Api/Transformers/UserTransformer.php" timestamp="1495663599299">
         <mark key="[" line="16" column="24" />
@@ -186,7 +179,6 @@
       <file name="$USER_HOME$/bernieportal/app/Onboarding/EmployeesImport.php" timestamp="1506355596605">
         <mark key="[" line="5" column="1" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Http/routes.php" timestamp="1507222113671" />
       <file name="$USER_HOME$/workspace/emoji_rogue_like/css/main.css" timestamp="1506373068544">
         <mark key="[" line="0" column="0" />
       </file>
@@ -199,7 +191,6 @@
       <file name="$USER_HOME$/bernieportal/app/Data/Gateways/Plans/DatabaseRateGateway.php" timestamp="1500561299485">
         <mark key="[" line="54" column="20" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Jobs/GeneratePreviewCarrierForm.php" timestamp="1506964893853" />
       <file name="$USER_HOME$/bernieportal/public/sites/all/modules/employee_reg/employee_reg.js" timestamp="1505318709547">
         <mark key="[" line="0" column="31" />
       </file>
@@ -331,7 +322,6 @@
       <file name="/Dummy.txt" timestamp="1507330110393">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/bernieportal/public/sites/all/modules/pto/pto.module" timestamp="1507306068115" />
       <file name="$USER_HOME$/bernieportal/resources/assets/components/popover.vue" timestamp="1492636708489">
         <mark key="[" line="13" column="26" />
       </file>
