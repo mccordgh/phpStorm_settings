@@ -78,12 +78,12 @@
       <file name="$USER_HOME$/bernieportal/app/Api/Transformers/Time/TimesheetTransformer.php" timestamp="1499884159706">
         <mark key="[" line="32" column="27" />
       </file>
-      <file name="$USER_HOME$/bernieportal/legacy/EmployeeRegModule.php" timestamp="1507587059581">
-        <mark key="'" line="4187" column="12" />
-        <mark key="[" line="4258" column="42" />
-        <mark key="]" line="4258" column="42" />
-        <mark key="^" line="192" column="8" />
-        <mark key="." line="4258" column="42" />
+      <file name="$USER_HOME$/bernieportal/legacy/EmployeeRegModule.php" timestamp="1507589830009">
+        <mark key="'" line="4045" column="0" />
+        <mark key="[" line="4601" column="12" />
+        <mark key="]" line="4601" column="12" />
+        <mark key="^" line="4215" column="32" />
+        <mark key="." line="4601" column="12" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Api/Transformers/UserTransformer.php" timestamp="1495663599299">
         <mark key="[" line="16" column="24" />
@@ -124,11 +124,11 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/js/current-user-id.js" timestamp="1499278658594">
         <mark key="[" line="2" column="63" />
       </file>
-      <file name="/fragment.php" timestamp="1507584602383">
+      <file name="/fragment.php" timestamp="1507588639726">
         <mark key="p" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="0" column="1" />
+        <mark key="." line="0" column="1" />
         <mark key="^" line="0" column="15" />
       </file>
       <file name="$USER_HOME$/workspace/gamepad_api_demo/main.css" timestamp="1501271749114">
@@ -302,7 +302,7 @@
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/worlds/levels/level.js" timestamp="1504391486114">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1507586609231">
+      <file name="/PHP Console" timestamp="1507589705875">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/public/sites/all/modules/bh_reports/bh_reports.module" timestamp="1507565899766" />
@@ -375,7 +375,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3149" column="0" filename="$USER_HOME$/bernieportal/legacy/OnboardingModule.php" />
       <jump line="3101" column="0" filename="$USER_HOME$/bernieportal/legacy/OnboardingModule.php" />
       <jump line="3095" column="0" filename="$USER_HOME$/bernieportal/legacy/OnboardingModule.php" />
       <jump line="3088" column="0" filename="$USER_HOME$/bernieportal/legacy/OnboardingModule.php" />
@@ -475,16 +474,17 @@
       <jump line="1563" column="59" filename="$USER_HOME$/bernieportal/legacy/ClientPortalModule.php" />
       <jump line="2853" column="15" filename="$USER_HOME$/bernieportal/legacy/ClientPortalModule.php" />
       <jump line="4180" column="12" filename="$USER_HOME$/bernieportal/legacy/EmployeeRegModule.php" />
+      <jump line="4037" column="0" filename="$USER_HOME$/bernieportal/legacy/EmployeeRegModule.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>$currentRoute</text>
+        <text>$employerId</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>$currentRoute</text>
+        <text>$employerId</text>
       </register>
       <register name="/" type="4">
         <text>@blue</text>
@@ -493,7 +493,7 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -502,28 +502,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAkcHRvX3N0YXR1cyA9IGZhbHNlOwogICAgICAgICAgICB9</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgICAkYWxsb3RtZW50ID0gW107CiAgICAgICAgICAgIGlmIChpc3NldCgkZW1wbG95ZWVfZGF0YSkgew==</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
-        <text>4181</text>
+        <text>4602</text>
       </register>
     </registers>
     <search>
@@ -557,8 +557,6 @@
         <entry>@blue</entry>
       </history-search>
       <history-cmd>
-        <entry>4168</entry>
-        <entry>348</entry>
         <entry>6846</entry>
         <entry>162</entry>
         <entry>2180</entry>
@@ -577,6 +575,8 @@
         <entry>6536</entry>
         <entry>6523</entry>
         <entry>4181</entry>
+        <entry>4281</entry>
+        <entry>4602</entry>
       </history-cmd>
       <history-expr />
       <history-input />
