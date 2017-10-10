@@ -120,7 +120,7 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/js/current-user-id.js" timestamp="1499278658594">
         <mark key="[" line="2" column="63" />
       </file>
-      <file name="/fragment.php" timestamp="1507675399128">
+      <file name="/fragment.php" timestamp="1507676624963">
         <mark key="p" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -183,13 +183,7 @@
         <mark key="[" line="5" column="1" />
       </file>
       <file name="$USER_HOME$/bernieportal/legacy/Reports/ChangeReportModule.php" timestamp="1507570295036" />
-      <file name="$USER_HOME$/bernieportal/legacy/ClientPortalModule.php" timestamp="1507675437918">
-        <mark key="p" line="2816" column="28" />
-        <mark key="[" line="2795" column="111" />
-        <mark key="]" line="2795" column="97" />
-        <mark key="." line="2795" column="97" />
-        <mark key="^" line="2778" column="32" />
-      </file>
+      <file name="$USER_HOME$/bernieportal/legacy/ClientPortalModule.php" timestamp="1507677384635" />
       <file name="$USER_HOME$/workspace/emoji_rogue_like/css/main.css" timestamp="1506373068544">
         <mark key="[" line="0" column="0" />
       </file>
@@ -301,7 +295,7 @@
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/worlds/levels/level.js" timestamp="1504391486114">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1507675433914">
+      <file name="/PHP Console" timestamp="1507677197831">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/public/sites/all/modules/bh_reports/bh_reports.module" timestamp="1507565899766" />
