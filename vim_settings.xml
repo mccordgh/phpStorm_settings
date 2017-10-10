@@ -183,11 +183,6 @@
         <mark key="[" line="5" column="1" />
       </file>
       <file name="$USER_HOME$/bernieportal/legacy/Reports/ChangeReportModule.php" timestamp="1507570295036" />
-      <file name="$USER_HOME$/bernieportal/legacy/ClientPortalModule.php" timestamp="1507663276947">
-        <mark key="]" line="2798" column="0" />
-        <mark key="^" line="2798" column="0" />
-        <mark key="." line="2798" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/emoji_rogue_like/css/main.css" timestamp="1506373068544">
         <mark key="[" line="0" column="0" />
       </file>
@@ -299,7 +294,7 @@
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/worlds/levels/level.js" timestamp="1504391486114">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1507663232395">
+      <file name="/PHP Console" timestamp="1507667656289">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/public/sites/all/modules/bh_reports/bh_reports.module" timestamp="1507565899766" />
@@ -475,13 +470,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>$subgroupInfo</text>
+        <text>BEN</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>$subgroupInfo</text>
+        <text>BEN</text>
       </register>
       <register name="/" type="4">
         <text>@blue</text>
