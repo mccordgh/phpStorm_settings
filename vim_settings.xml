@@ -183,10 +183,12 @@
         <mark key="[" line="5" column="1" />
       </file>
       <file name="$USER_HOME$/bernieportal/legacy/Reports/ChangeReportModule.php" timestamp="1507570295036" />
-      <file name="$USER_HOME$/bernieportal/legacy/ClientPortalModule.php" timestamp="1507670311830">
-        <mark key="[" line="2806" column="20" />
-        <mark key="]" line="2806" column="20" />
-        <mark key="." line="2806" column="20" />
+      <file name="$USER_HOME$/bernieportal/legacy/ClientPortalModule.php" timestamp="1507671911348">
+        <mark key="p" line="2815" column="28" />
+        <mark key="[" line="2814" column="28" />
+        <mark key="]" line="2815" column="27" />
+        <mark key="." line="2815" column="27" />
+        <mark key="^" line="2815" column="27" />
       </file>
       <file name="$USER_HOME$/workspace/emoji_rogue_like/css/main.css" timestamp="1506373068544">
         <mark key="[" line="0" column="0" />
@@ -475,13 +477,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>$enid</text>
+        <text>$clientUid</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>$enid</text>
+        <text>$clientUid</text>
       </register>
       <register name="/" type="4">
         <text>@blue</text>
