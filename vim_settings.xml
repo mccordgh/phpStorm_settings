@@ -27,7 +27,7 @@
       <file name="$USER_HOME$/bernieportal/app/Ats/Candidate.php" timestamp="1502737804653">
         <mark key="[" line="32" column="86" />
       </file>
-      <file name="$USER_HOME$/bernieportal/legacy/OnboardingModule.php" timestamp="1507651181463" />
+      <file name="$USER_HOME$/bernieportal/legacy/OnboardingModule.php" timestamp="1507737386264" />
       <file name="$USER_HOME$/bernieportal/public/sites/all/modules/clientele/clientele_user.module" timestamp="1507585422924">
         <mark key="[" line="518" column="84" />
         <mark key="]" line="518" column="84" />
@@ -205,6 +205,9 @@
       <file name="$USER_HOME$/bernieportal/resources/views/dashboards/sidebar/benefits.blade.php" timestamp="1499974671996">
         <mark key="[" line="5" column="31" />
       </file>
+      <file name="$USER_HOME$/bernieportal/legacy/ClienteleUserModule.php" timestamp="1507737261948">
+        <mark key="[" line="6525" column="37" />
+      </file>
       <file name="$USER_HOME$/bernieportal/legacy/CmsMiscModule.php" timestamp="1507581372070">
         <mark key="[" line="1169" column="12" />
       </file>
@@ -295,7 +298,7 @@
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/worlds/levels/level.js" timestamp="1504391486114">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1507677197831">
+      <file name="/PHP Console" timestamp="1507737471148">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/public/sites/all/modules/bh_reports/bh_reports.module" timestamp="1507565899766" />
