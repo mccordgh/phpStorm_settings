@@ -43,6 +43,7 @@
       <file name="$USER_HOME$/workspace/php/testProject/resources/views/dashboard.blade.php" timestamp="1504811117559">
         <mark key="[" line="63" column="26" />
       </file>
+      <file name="$USER_HOME$/bernieportal/app/Pto/PtoSubgroupSettings.php" timestamp="1507835724260" />
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/states/game-state.js" timestamp="1504396334526">
         <mark key="[" line="5" column="38" />
       </file>
@@ -195,6 +196,11 @@
         <mark key="[" line="13" column="61" />
       </file>
       <file name="$USER_HOME$/bernieportal/legacy/Subgroups/SubgroupTable.php" timestamp="1507661878559" />
+      <file name="$USER_HOME$/bernieportal/app/Pto/PtoSubgroupAllowances.php" timestamp="1507835762432">
+        <mark key="[" line="13" column="46" />
+        <mark key="]" line="13" column="46" />
+        <mark key="." line="13" column="46" />
+      </file>
       <file name="$USER_HOME$/bernieportal/app/Onboarding/EmployeesImport.php" timestamp="1506355596605">
         <mark key="[" line="5" column="1" />
       </file>
@@ -371,7 +377,12 @@
         <mark key="[" line="20" column="47" />
       </file>
       <file name="$USER_HOME$/bernieportal/public/modules/node/node.module" timestamp="1507583045025" />
-      <file name="$USER_HOME$/bernieportal/app/Subgroups/PtoSubgroup.php" timestamp="1507834591109" />
+      <file name="$USER_HOME$/bernieportal/app/Subgroups/PtoSubgroup.php" timestamp="1507835321290">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="^" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/hello.js" timestamp="1502755160022">
         <mark key="[" line="0" column="34" />
       </file>
@@ -502,13 +513,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>BerniePortal\Subgroups\PTO\PTOSubgroupSettings</text>
+        <text>Subgroups</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>BerniePortal\Subgroups\PTO\PTOSubgroupSettings</text>
+        <text>Subgroups</text>
       </register>
       <register name="/" type="4">
         <text>@blue</text>
@@ -523,28 +534,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkYl9xdWVyeSgiVVBEQVRFIHtlbnJvbF9zeXN0ZW19IFNFVCBuYW1lID0gJyVzJyBXSEVSRSBlbmlkID0gJWQiLCAkZm9ybV92YWx1ZXNbJ3N1Ymdyb3VwX25hbWUnXSwgJGZvcm1fdmFsdWVzWydwdG9fZW5pZCddKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkdXNlciA9ICR0aGlzLT51c2VyOwo=</text>
+        <text encoding="base64">ICAgICAgICBkYl9xdWVyeSgiVVBEQVRFIHtlbnJvbF9zeXN0ZW19IFNFVCBuYW1lID0gJyVzJyBXSEVSRSBlbmlkID0gJWQiLCAkZm9ybV92YWx1ZXNbJ3N1Ymdyb3VwX25hbWUnXSwgJGZvcm1fdmFsdWVzWydwdG9fZW5pZCddKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAkdXNlciA9ICR0aGlzLT51c2VyOwo=</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">CiAgICAgICAgICAgICAgICAkZmlsdGVyTm9uZVN1Ymdyb3VwUXVlcnkgPSBpbl9hcnJheSgkZmlkLCBbCiAgICAgICAgICAgICAgICAgICAgU3ViZ3JvdXBUeXBlOjpCSUxMSU5HX1BSSU1BUlksCiAgICAgICAgICAgICAgICAgICAgU3ViZ3JvdXBUeXBlOjpCSUxMSU5HX1NFQ09OREFSWSwKICAgICAgICAgICAgICAgICAgICBTdWJncm91cFR5cGU6OkJJTExJTkdfVEVSVElBUlkKICAgICAgICAgICAgICAgIF0pID8gJ0FORCBpc25vbmU9MCcgOiAnJzs=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICRhbGxvd0lzTm9uZVN1Ymdyb3VwLAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>6366</text>
