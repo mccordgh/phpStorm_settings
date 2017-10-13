@@ -48,10 +48,11 @@
         <mark key="]" line="22" column="69" />
         <mark key="." line="22" column="69" />
       </file>
-      <file name="$USER_HOME$/bernieportal/tests/app/Subgroups/PtoSubgroupTest.php" timestamp="1507920058149">
-        <mark key="[" line="42" column="35" />
-        <mark key="]" line="42" column="35" />
-        <mark key="." line="42" column="35" />
+      <file name="$USER_HOME$/bernieportal/tests/app/Subgroups/PtoSubgroupTest.php" timestamp="1507933269689">
+        <mark key="[" line="47" column="35" />
+        <mark key="]" line="47" column="34" />
+        <mark key="." line="47" column="34" />
+        <mark key="^" line="47" column="34" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/Edi/SchedulersController.php" timestamp="1494362868134">
         <mark key="[" line="32" column="44" />
@@ -425,7 +426,7 @@
       <file name="$USER_HOME$/BerniePortalWiki/FooterBackup.html" timestamp="1502825749665">
         <mark key="[" line="20" column="47" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Subgroups/PtoSubgroup.php" timestamp="1507931796725">
+      <file name="$USER_HOME$/bernieportal/app/Subgroups/PtoSubgroup.php" timestamp="1507933223102">
         <mark key="[" line="28" column="112" />
         <mark key="]" line="28" column="112" />
         <mark key="." line="28" column="112" />
@@ -559,13 +560,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>PtoSubgroup</text>
+        <text>aveNewSubgroupDefaults</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>PtoSubgroup</text>
+        <text>aveNewSubgroupDefaults</text>
       </register>
       <register name="/" type="4">
         <text>@blue</text>
