@@ -62,7 +62,7 @@
       <file name="$USER_HOME$/bernieportal/app/Views/Composers/Sidebar/TimeComposer.php" timestamp="1496787657266">
         <mark key="[" line="41" column="11" />
       </file>
-      <file name="$USER_HOME$/bernieportal/tests/app/Pto/PtoSubgroupAllowanceTest.php" timestamp="1507915538218">
+      <file name="$USER_HOME$/bernieportal/tests/app/Pto/PtoSubgroupAllowanceTest.php" timestamp="1507931945576">
         <mark key="[" line="32" column="0" />
         <mark key="]" line="33" column="27" />
         <mark key="^" line="33" column="27" />
@@ -102,8 +102,12 @@
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/tiles/wall-blue.js" timestamp="1503354559657">
         <mark key="[" line="3" column="17" />
       </file>
-      <file name="$USER_HOME$/bernieportal/legacy/ClientRegModule.php" timestamp="1507844435031">
-        <mark key="[" line="6379" column="84" />
+      <file name="$USER_HOME$/bernieportal/legacy/ClientRegModule.php" timestamp="1507931689906">
+        <mark key="'" line="6402" column="27" />
+        <mark key="[" line="6402" column="15" />
+        <mark key="]" line="6402" column="16" />
+        <mark key="^" line="6402" column="23" />
+        <mark key="." line="6402" column="16" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/views/dashboards/sidebar/employer-employee-items.blade.php" timestamp="1502480216885">
         <mark key="[" line="3" column="43" />
@@ -366,7 +370,7 @@
         <mark key="[" line="2" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/tests/legacy/Air/Models/TransmitterConfigurationRepositoryTest.php" timestamp="1507909285135" />
-      <file name="/PHP Console" timestamp="1507924488901">
+      <file name="/PHP Console" timestamp="1507932395820">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/views/employees/election-data.blade.php" timestamp="1506440738197">
@@ -393,8 +397,18 @@
       <file name="$USER_HOME$/workspace/soundbox_js_playground/index.html" timestamp="1504056226018">
         <mark key="[" line="6" column="8" />
       </file>
-      <file name="/Dummy.txt" timestamp="1507930755994">
+      <file name="/Dummy.txt" timestamp="1507931840494">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/bernieportal/tests/app/Pto/Repositories/PtoSubgroupRepositoryTest.php" timestamp="1507931962451">
+        <mark key="[" line="28" column="28" />
+        <mark key="]" line="28" column="28" />
+        <mark key="." line="28" column="28" />
+      </file>
+      <file name="$USER_HOME$/bernieportal/app/Pto/Repositories/PtoSubgroupRepository.php" timestamp="1507931972317">
+        <mark key="[" line="11" column="27" />
+        <mark key="]" line="11" column="27" />
+        <mark key="." line="11" column="27" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/popover.vue" timestamp="1492636708489">
         <mark key="[" line="13" column="26" />
@@ -411,7 +425,7 @@
       <file name="$USER_HOME$/BerniePortalWiki/FooterBackup.html" timestamp="1502825749665">
         <mark key="[" line="20" column="47" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Subgroups/PtoSubgroup.php" timestamp="1507920027616">
+      <file name="$USER_HOME$/bernieportal/app/Subgroups/PtoSubgroup.php" timestamp="1507931796725">
         <mark key="[" line="28" column="112" />
         <mark key="]" line="28" column="112" />
         <mark key="." line="28" column="112" />
@@ -442,8 +456,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3080" column="0" filename="$USER_HOME$/bernieportal/legacy/OnboardingModule.php" />
-      <jump line="3074" column="0" filename="$USER_HOME$/bernieportal/legacy/OnboardingModule.php" />
       <jump line="3063" column="0" filename="$USER_HOME$/bernieportal/legacy/OnboardingModule.php" />
       <jump line="14706" column="23" filename="$USER_HOME$/bernieportal/legacy/OnboardingModule.php" />
       <jump line="14696" column="34" filename="$USER_HOME$/bernieportal/legacy/OnboardingModule.php" />
@@ -542,16 +554,18 @@
       <jump line="35" column="28" filename="$USER_HOME$/bernieportal/app/Subgroups/PTO/PTOSubgroup.php" />
       <jump line="32" column="0" filename="$USER_HOME$/bernieportal/tests/app/Demographics/EmployeeSubgroupHistoryTest.php" />
       <jump line="55" column="48" filename="$USER_HOME$/bernieportal/app/Subgroups/PtoSubgroup.php" />
+      <jump line="7908" column="13" filename="$USER_HOME$/bernieportal/legacy/ClientRegModule.php" />
+      <jump line="6395" column="27" filename="$USER_HOME$/bernieportal/legacy/ClientRegModule.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>aveUserClientInfo</text>
+        <text>PtoSubgroup</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>aveUserClientInfo</text>
+        <text>PtoSubgroup</text>
       </register>
       <register name="/" type="4">
         <text>@blue</text>
@@ -566,28 +580,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fSAK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ewo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">PD9waHAKCmNsYXNzIEVtcGxveWVlU3ViZ3JvdXBIaXN0b3J5VGVzdCBleHRlbmRzIFRlc3RDYXNlCns=</text>
+      <register name="4" type="2">
+        <text encoding="base64">Y2xhc3MgRW1wbG95ZWVQdG9BbGxvdG1lbnRUZXN0IGV4dGVuZHMgVGVzdENhc2UK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiB0ZXN0VGhhdHNhdmVOZXdTdWJncm91cEFsbG93YW5jZU1ldGhvZEV4aXN0cygpCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">PD9waHAK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkcHRvQWxsb3dhbmNlcyA9IG5ldyBQdG9TdWJncm91cEFsbG93YW5jZSgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkcXVlcnkgPSBNb2NrZXJ5Ojptb2NrKCdJbGx1bWluYXRlXERhdGFiYXNlXFF1ZXJ5Jyk7Cg==</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCAK</text>
       </register>
-      <register name="9" type="4">
-        <text>\BerniePortal\Pto\PtoSubgroupSetting()</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
