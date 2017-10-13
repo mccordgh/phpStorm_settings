@@ -48,10 +48,10 @@
         <mark key="]" line="22" column="69" />
         <mark key="." line="22" column="69" />
       </file>
-      <file name="$USER_HOME$/bernieportal/tests/app/Subgroups/PtoSubgroupTest.php" timestamp="1507917221729">
-        <mark key="[" line="60" column="62" />
-        <mark key="]" line="60" column="62" />
-        <mark key="." line="60" column="62" />
+      <file name="$USER_HOME$/bernieportal/tests/app/Subgroups/PtoSubgroupTest.php" timestamp="1507920058149">
+        <mark key="[" line="42" column="35" />
+        <mark key="]" line="42" column="35" />
+        <mark key="." line="42" column="35" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/Edi/SchedulersController.php" timestamp="1494362868134">
         <mark key="[" line="32" column="44" />
@@ -76,12 +76,6 @@
       </file>
       <file name="$USER_HOME$/workspace/php/testProject/resources/views/dashboard.blade.php" timestamp="1504811117559">
         <mark key="[" line="63" column="26" />
-      </file>
-      <file name="$USER_HOME$/bernieportal/app/Pto/PtoSubgroupSettings.php" timestamp="1507849041786">
-        <mark key="[" line="34" column="29" />
-        <mark key="]" line="34" column="29" />
-        <mark key="^" line="35" column="0" />
-        <mark key="." line="34" column="29" />
       </file>
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/states/game-state.js" timestamp="1504396334526">
         <mark key="[" line="5" column="38" />
@@ -152,6 +146,7 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/loading-popup.vue" timestamp="1498514478199">
         <mark key="[" line="8" column="27" />
       </file>
+      <file name="$USER_HOME$/bernieportal/legacy/Employer/ChangeSubgroup.php" timestamp="1507920746805" />
       <file name="$USER_HOME$/bernieportal/app/Ats/Repositories/JobCandidateRepository.php" timestamp="1505347656980">
         <mark key="[" line="36" column="25" />
       </file>
@@ -179,7 +174,7 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/js/current-user-id.js" timestamp="1499278658594">
         <mark key="[" line="2" column="63" />
       </file>
-      <file name="/fragment.php" timestamp="1507846662747">
+      <file name="/fragment.php" timestamp="1507920935782">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="15" />
         <mark key="." line="0" column="15" />
@@ -230,6 +225,7 @@
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/gfx/shapes/rectangle.js" timestamp="1504707160607">
         <mark key="[" line="9" column="12" />
       </file>
+      <file name="$USER_HOME$/bernieportal/public/sites/all/modules/client_reg/js/changeSubgroup.js" timestamp="1507920373210" />
       <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/Time/PeriodsController.php" timestamp="1505929956281">
         <mark key="[" line="56" column="67" />
       </file>
@@ -247,12 +243,6 @@
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/thread/candidate-job-message-modal.vue" timestamp="1493229583139">
         <mark key="[" line="13" column="61" />
-      </file>
-      <file name="$USER_HOME$/bernieportal/app/Pto/PtoSubgroupAllowances.php" timestamp="1507843112633">
-        <mark key="[" line="29" column="5" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
-        <mark key="^" line="33" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/tests/app/PtoSubgroup/PtoSubgroupTest.php" timestamp="1507906938138">
         <mark key="[" line="25" column="77" />
@@ -317,18 +307,13 @@
       <file name="$USER_HOME$/bernieportal/public/sites/all/themes/bernard/template.php" timestamp="1506543049489">
         <mark key="[" line="256" column="36" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Exceptions/Bootstrapper.php" timestamp="1507674461964">
-        <mark key="[" line="11" column="43" />
-        <mark key="]" line="11" column="42" />
-        <mark key="." line="11" column="42" />
-        <mark key="^" line="11" column="42" />
-      </file>
       <file name="$USER_HOME$/bernieportal/public/sites/all/modules/clientele/js/clientele_user_login_block.js" timestamp="1505318597961">
         <mark key="[" line="19" column="46" />
       </file>
       <file name="$USER_HOME$/workspace/php/testProject/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesUsers.php" timestamp="1504817286923">
         <mark key="[" line="75" column="67" />
       </file>
+      <file name="$USER_HOME$/bernieportal/public/sites/all/modules/client_reg/client_reg.module" timestamp="1507920402764" />
       <file name="$USER_HOME$/bernieportal/storage/framework/views/241e2393e69edc8bff247d70c53e0872b31b741a.php" timestamp="1506372251594">
         <mark key="[" line="4" column="57" />
       </file>
@@ -340,12 +325,6 @@
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/sidebar-toggle.vue" timestamp="1496247983712">
         <mark key="[" line="12" column="13" />
-      </file>
-      <file name="$USER_HOME$/bernieportal/app/Subgroups/PTO/PTOSubgroupAllowances.php" timestamp="1507828666829">
-        <mark key="[" line="6" column="1" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="8" column="0" />
-        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/sortable.vue" timestamp="1494448912691">
         <mark key="[" line="2" column="58" />
@@ -387,7 +366,7 @@
         <mark key="[" line="2" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/tests/legacy/Air/Models/TransmitterConfigurationRepositoryTest.php" timestamp="1507909285135" />
-      <file name="/PHP Console" timestamp="1507846658888">
+      <file name="/PHP Console" timestamp="1507920743239">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/views/employees/election-data.blade.php" timestamp="1506440738197">
@@ -414,7 +393,7 @@
       <file name="$USER_HOME$/workspace/soundbox_js_playground/index.html" timestamp="1504056226018">
         <mark key="[" line="6" column="8" />
       </file>
-      <file name="/Dummy.txt" timestamp="1507918539352">
+      <file name="/Dummy.txt" timestamp="1507920403388">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/popover.vue" timestamp="1492636708489">
@@ -432,12 +411,10 @@
       <file name="$USER_HOME$/BerniePortalWiki/FooterBackup.html" timestamp="1502825749665">
         <mark key="[" line="20" column="47" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Subgroups/PtoSubgroup.php" timestamp="1507917235849">
-        <mark key="'" line="63" column="48" />
-        <mark key="[" line="67" column="4" />
-        <mark key="]" line="67" column="3" />
-        <mark key="^" line="67" column="3" />
-        <mark key="." line="67" column="3" />
+      <file name="$USER_HOME$/bernieportal/app/Subgroups/PtoSubgroup.php" timestamp="1507920027616">
+        <mark key="[" line="28" column="112" />
+        <mark key="]" line="28" column="112" />
+        <mark key="." line="28" column="112" />
       </file>
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/hello.js" timestamp="1502755160022">
         <mark key="[" line="0" column="34" />
@@ -568,13 +545,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>copeByEmployee</text>
+        <text>aveUserClientInfo</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>copeByEmployee</text>
+        <text>aveUserClientInfo</text>
       </register>
       <register name="/" type="4">
         <text>@blue</text>
@@ -583,37 +560,37 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fSAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">fSAK</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">PD9waHAKCmNsYXNzIEVtcGxveWVlU3ViZ3JvdXBIaXN0b3J5VGVzdCBleHRlbmRzIFRlc3RDYXNlCns=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiB0ZXN0VGhhdHNhdmVOZXdTdWJncm91cEFsbG93YW5jZU1ldGhvZEV4aXN0cygpCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAkcHRvQWxsb3dhbmNlcyA9IG5ldyBQdG9TdWJncm91cEFsbG93YW5jZSgpOwo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAkcXVlcnkgPSBNb2NrZXJ5Ojptb2NrKCdJbGx1bWluYXRlXERhdGFiYXNlXFF1ZXJ5Jyk7Cg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>\BerniePortal\Pto\PtoSubgroupSetting()</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ewo=</text>
-      </register>
       <register name=":" type="4">
-        <text>vsp</text>
+        <text>463</text>
       </register>
     </registers>
     <search>
@@ -647,7 +624,6 @@
         <entry>@blue</entry>
       </history-search>
       <history-cmd>
-        <entry>453</entry>
         <entry>447</entry>
         <entry>49</entry>
         <entry>1169</entry>
@@ -667,6 +643,7 @@
         <entry>6366</entry>
         <entry>1047</entry>
         <entry>vsp</entry>
+        <entry>463</entry>
       </history-cmd>
       <history-expr />
       <history-input />
