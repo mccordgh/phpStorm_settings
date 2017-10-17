@@ -213,11 +213,11 @@
       <file name="$USER_HOME$/workspace/php/testProject/app/Http/Kernel.php" timestamp="1504817441978">
         <mark key="[" line="32" column="13" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/billing/billing-table.vue" timestamp="1508279924593">
-        <mark key="[" line="150" column="0" />
-        <mark key="]" line="14" column="26" />
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/billing/billing-table.vue" timestamp="1508281651084">
+        <mark key="[" line="123" column="0" />
+        <mark key="]" line="123" column="0" />
         <mark key="^" line="14" column="26" />
-        <mark key="." line="14" column="26" />
+        <mark key="." line="123" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/tests/app/Demographics/ProfileHistoryTest.php" timestamp="1507917887573">
         <mark key="[" line="33" column="29" />
@@ -406,7 +406,7 @@
       <file name="$USER_HOME$/workspace/soundbox_js_playground/index.html" timestamp="1504056226018">
         <mark key="[" line="6" column="8" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508279044673">
+      <file name="/Dummy.txt" timestamp="1508281678671">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/tests/app/Pto/Repositories/PtoSubgroupRepositoryTest.php" timestamp="1507931962451">
@@ -569,14 +569,14 @@
       <jump line="453" column="48" filename="$USER_HOME$/bernieportal/legacy/Employer/ChangeSubgroup.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>$value</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>$value</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>@blue</text>
@@ -584,35 +584,35 @@
       <register name="0" type="4">
         <text>formValues</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">YXN0KCkKICAgICAgICAgICAgLT5nZXQoWw==</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">YXN0KCkKICAgICAgICAgICAgLT5nZXQoWw==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ewo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y2xhc3MgRW1wbG95ZWVQdG9BbGxvdG1lbnRUZXN0IGV4dGVuZHMgVGVzdENhc2UK</text>
+        <text encoding="base64">ewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y2xhc3MgRW1wbG95ZWVQdG9BbGxvdG1lbnRUZXN0IGV4dGVuZHMgVGVzdENhc2UK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PD9waHAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PD9waHAK</text>
       </register>
       <register name=":" type="4">
         <text>1389</text>
