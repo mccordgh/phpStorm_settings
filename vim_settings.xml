@@ -213,6 +213,12 @@
       <file name="$USER_HOME$/workspace/php/testProject/app/Http/Kernel.php" timestamp="1504817441978">
         <mark key="[" line="32" column="13" />
       </file>
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/billing/billing-table.vue" timestamp="1508279924593">
+        <mark key="[" line="150" column="0" />
+        <mark key="]" line="14" column="26" />
+        <mark key="^" line="14" column="26" />
+        <mark key="." line="14" column="26" />
+      </file>
       <file name="$USER_HOME$/bernieportal/tests/app/Demographics/ProfileHistoryTest.php" timestamp="1507917887573">
         <mark key="[" line="33" column="29" />
         <mark key="]" line="33" column="29" />
@@ -373,7 +379,7 @@
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/worlds/levels/level.js" timestamp="1504391486114">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1508277818962">
+      <file name="/PHP Console" timestamp="1508279404360">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/views/employees/election-data.blade.php" timestamp="1506440738197">
@@ -400,7 +406,7 @@
       <file name="$USER_HOME$/workspace/soundbox_js_playground/index.html" timestamp="1504056226018">
         <mark key="[" line="6" column="8" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508194587559">
+      <file name="/Dummy.txt" timestamp="1508279044673">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/tests/app/Pto/Repositories/PtoSubgroupRepositoryTest.php" timestamp="1507931962451">
