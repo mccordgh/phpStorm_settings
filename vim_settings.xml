@@ -87,7 +87,6 @@
       <file name="$USER_HOME$/workspace/php/testProject/app/Http/Controllers/mySampleResourceController.php" timestamp="1503082068737">
         <mark key="[" line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/bernieportal/public/sites/all/modules/clientele/js/clientele_plan_node_form.js" timestamp="1508193878482" />
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/tiles/wall-blue.js" timestamp="1503354559657">
         <mark key="[" line="3" column="17" />
       </file>
@@ -106,7 +105,6 @@
       <file name="$USER_HOME$/bernieportal/app/Api/Transformers/Time/TimesheetTransformer.php" timestamp="1499884159706">
         <mark key="[" line="32" column="27" />
       </file>
-      <file name="$USER_HOME$/bernieportal/legacy/EmployeeRegModule.php" timestamp="1508179843642" />
       <file name="$USER_HOME$/bernieportal/app/Api/Transformers/UserTransformer.php" timestamp="1495663599299">
         <mark key="[" line="16" column="24" />
       </file>
@@ -122,14 +120,12 @@
       <file name="$USER_HOME$/bernieportal/app/Subgroups/PTO/PTOSubgroupSetting.php" timestamp="1507829125307">
         <mark key="[" line="9" column="6" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Carriers/Edi/GroupRepository.php" timestamp="1508191836060" />
       <file name="$USER_HOME$/bernieportal/legacy/PtoModule.php" timestamp="1508180845142">
         <mark key="[" line="1009" column="48" />
         <mark key="]" line="1020" column="0" />
         <mark key="^" line="1020" column="0" />
         <mark key="." line="1020" column="0" />
       </file>
-      <file name="$USER_HOME$/bernieportal/public/sites/all/modules/broker_portal/broker_portal.module" timestamp="1508190323266" />
       <file name="$USER_HOME$/bernieportal/resources/assets/components/loading-popup.vue" timestamp="1498514478199">
         <mark key="[" line="8" column="27" />
       </file>
@@ -198,11 +194,11 @@
       <file name="$USER_HOME$/workspace/php/testProject/app/Http/Kernel.php" timestamp="1504817441978">
         <mark key="[" line="32" column="13" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/billing/billing-table.vue" timestamp="1508347090117">
-        <mark key="[" line="126" column="27" />
-        <mark key="]" line="127" column="0" />
-        <mark key="^" line="127" column="2" />
-        <mark key="." line="127" column="0" />
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/billing/billing-table.vue" timestamp="1508349199706">
+        <mark key="[" line="154" column="35" />
+        <mark key="]" line="154" column="82" />
+        <mark key="." line="154" column="82" />
+        <mark key="^" line="154" column="82" />
       </file>
       <file name="$USER_HOME$/bernieportal/legacy/UserManagementModule.php" timestamp="1494343921488">
         <mark key="[" line="505" column="30" />
@@ -231,11 +227,9 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/thread/candidate-job-message-modal.vue" timestamp="1493229583139">
         <mark key="[" line="13" column="61" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/benefit-provider/edi/file.vue" timestamp="1508346733993" />
       <file name="$USER_HOME$/bernieportal/app/Onboarding/EmployeesImport.php" timestamp="1506355596605">
         <mark key="[" line="5" column="1" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Http/routes.php" timestamp="1508342961813" />
       <file name="$USER_HOME$/workspace/emoji_rogue_like/css/main.css" timestamp="1506373068544">
         <mark key="[" line="0" column="0" />
       </file>
@@ -346,7 +340,7 @@
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/worlds/levels/level.js" timestamp="1504391486114">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1508347161737">
+      <file name="/PHP Console" timestamp="1508349041216">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/views/employees/election-data.blade.php" timestamp="1506440738197">
@@ -391,7 +385,6 @@
       <file name="$USER_HOME$/BerniePortalWiki/FooterBackup.html" timestamp="1502825749665">
         <mark key="[" line="20" column="47" />
       </file>
-      <file name="$USER_HOME$/bernieportal/public/modules/node/node.module" timestamp="1508269289420" />
       <file name="$USER_HOME$/bernieportal/app/Subgroups/PtoSubgroup.php" timestamp="1508171408809">
         <mark key="[" line="56" column="4" />
         <mark key="]" line="45" column="0" />
@@ -526,14 +519,14 @@
       <jump line="453" column="48" filename="$USER_HOME$/bernieportal/legacy/Employer/ChangeSubgroup.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBkIAo=</text>
+      <register name="&quot;" type="4">
+        <text>sortedData</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICB0aGlzLnNvcnQoKTs=</text>
+        <text>sortedData</text>
       </register>
       <register name="/" type="4">
         <text>@blue</text>
@@ -542,34 +535,41 @@
         <text>formValues</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBkIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>if (this.sortKey === 'full_name') {
+          sortedData = orderBy(data,
+            function (item) {
+              return item;
+            },
+          this.sortDirection,
+          );
+        }</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBkIAo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">YXN0KCkKICAgICAgICAgICAgLT5nZXQoWw==</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>1389</text>
