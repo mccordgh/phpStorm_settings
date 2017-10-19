@@ -104,9 +104,9 @@
         <mark key="[" line="8" column="27" />
       </file>
       <file name="$USER_HOME$/bernieportal/legacy/Employer/ChangeSubgroup.php" timestamp="1508439001678">
-        <mark key="[" line="439" column="25" />
-        <mark key="]" line="439" column="25" />
-        <mark key="." line="439" column="25" />
+        <mark key="[" line="4" column="25" />
+        <mark key="]" line="4" column="25" />
+        <mark key="." line="4" column="25" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Api/Transformers/Bills/SummaryItemTransformer.php" timestamp="1508426536805" />
       <file name="$USER_HOME$/bernieportal/app/Ats/Repositories/JobCandidateRepository.php" timestamp="1505347656980">
@@ -306,7 +306,7 @@
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/worlds/levels/level.js" timestamp="1504391486114">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1508438761409">
+      <file name="/PHP Console" timestamp="1508440128082">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/views/employees/election-data.blade.php" timestamp="1506440738197">
@@ -339,13 +339,19 @@
       <file name="/Dummy.txt" timestamp="1508436428350">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/bernieportal/tests/app/Pto/Repositories/PtoSubgroupRepositoryTest.php" timestamp="1508440276258">
+        <mark key="[" line="35" column="79" />
+        <mark key="]" line="35" column="7" />
+        <mark key="^" line="35" column="7" />
+        <mark key="." line="35" column="7" />
+      </file>
       <file name="$USER_HOME$/bernieportal/app/Carriers/Billing/AdjustmentLineItem.php" timestamp="1508424681247">
         <mark key="[" line="43" column="5" />
         <mark key="]" line="43" column="3" />
         <mark key="^" line="43" column="3" />
         <mark key="." line="43" column="3" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Pto/Repositories/PtoSubgroupRepository.php" timestamp="1508438998179">
+      <file name="$USER_HOME$/bernieportal/app/Pto/Repositories/PtoSubgroupRepository.php" timestamp="1508440179901">
         <mark key="[" line="19" column="20" />
         <mark key="]" line="19" column="20" />
         <mark key="." line="19" column="20" />
@@ -367,10 +373,10 @@
         <mark key="[" line="20" column="47" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Subgroups/PtoSubgroup.php" timestamp="1508438001500">
-        <mark key="[" line="63" column="83" />
-        <mark key="]" line="19" column="5" />
-        <mark key="." line="19" column="5" />
-        <mark key="^" line="19" column="5" />
+        <mark key="[" line="61" column="83" />
+        <mark key="]" line="17" column="5" />
+        <mark key="." line="17" column="5" />
+        <mark key="^" line="17" column="5" />
       </file>
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/hello.js" timestamp="1502755160022">
         <mark key="[" line="0" column="34" />
@@ -554,6 +560,8 @@
       <last-search>@blue</last-search>
       <last-offset />
       <last-pattern>@blue</last-pattern>
+      <last-replace>~</last-replace>
+      <last-substitute>@blue</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
