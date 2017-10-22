@@ -213,11 +213,11 @@
         <mark key="[" line="13" column="61" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Providers/EventServiceProvider.php" timestamp="1508519124368" />
-      <file name="$USER_HOME$/bernieportal/app/Data/Gateways/Auth/DatabaseUserGateway.php" timestamp="1508535556440">
-        <mark key="[" line="244" column="22" />
-        <mark key="]" line="244" column="22" />
-        <mark key="." line="244" column="22" />
-        <mark key="^" line="244" column="21" />
+      <file name="$USER_HOME$/bernieportal/app/Data/Gateways/Auth/DatabaseUserGateway.php" timestamp="1508535689169">
+        <mark key="[" line="240" column="22" />
+        <mark key="]" line="240" column="22" />
+        <mark key="." line="240" column="22" />
+        <mark key="^" line="240" column="21" />
       </file>
       <file name="$USER_HOME$/bernieportal/legacy/CrIntegration/Forms.php" timestamp="1508444554955" />
       <file name="$USER_HOME$/bernieportal/resources/assets/components/benefit-provider/edi/file.vue" timestamp="1508367313792" />
@@ -344,7 +344,7 @@
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/worlds/levels/level.js" timestamp="1504391486114">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1508535549490">
+      <file name="/PHP Console" timestamp="1508535846143">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/views/employees/election-data.blade.php" timestamp="1506440738197">
