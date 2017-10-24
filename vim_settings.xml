@@ -139,7 +139,7 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/js/current-user-id.js" timestamp="1499278658594">
         <mark key="[" line="2" column="63" />
       </file>
-      <file name="/fragment.php" timestamp="1508798822174">
+      <file name="/fragment.php" timestamp="1508867718923">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
@@ -182,6 +182,7 @@
         <mark key="^" line="193" column="7" />
         <mark key="." line="193" column="7" />
       </file>
+      <file name="$USER_HOME$/bernieportal/public/modules/user/user.module" timestamp="1508867463931" />
       <file name="$USER_HOME$/bernieportal/legacy/UserManagementModule.php" timestamp="1508444607673">
         <mark key="[" line="505" column="30" />
       </file>
@@ -349,7 +350,7 @@
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/worlds/levels/level.js" timestamp="1504391486114">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1508861611724">
+      <file name="/PHP Console" timestamp="1508867810405">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/views/employees/election-data.blade.php" timestamp="1506440738197">
