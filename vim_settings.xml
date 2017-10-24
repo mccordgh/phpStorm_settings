@@ -139,10 +139,11 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/js/current-user-id.js" timestamp="1499278658594">
         <mark key="[" line="2" column="63" />
       </file>
-      <file name="/fragment.php" timestamp="1508867718923">
+      <file name="$USER_HOME$/bernieportal/app/Commands/Auth/UpdatePassword.php" timestamp="1508870330467" />
+      <file name="/fragment.php" timestamp="1508870487130">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="1" />
-        <mark key="." line="0" column="1" />
+        <mark key="]" line="0" column="11" />
+        <mark key="." line="0" column="11" />
         <mark key="^" line="0" column="3" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Benefits/Plans/BrokerForms/Answerer.php" timestamp="1508794600797" />
@@ -214,8 +215,8 @@
       <file name="$USER_HOME$/workspace/portfolio_os/src/js/main.js" timestamp="1508693809881">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Data/Gateways/Auth/DatabaseUserGateway.php" timestamp="1508535689169">
-        <mark key="[" line="240" column="22" />
+      <file name="$USER_HOME$/bernieportal/app/Data/Gateways/Auth/DatabaseUserGateway.php" timestamp="1508870414316">
+        <mark key="[" line="238" column="21" />
         <mark key="]" line="240" column="22" />
         <mark key="." line="240" column="22" />
         <mark key="^" line="240" column="21" />
@@ -350,7 +351,7 @@
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/worlds/levels/level.js" timestamp="1504391486114">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1508867810405">
+      <file name="/PHP Console" timestamp="1508870862462">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/views/employees/election-data.blade.php" timestamp="1506440738197">
@@ -554,13 +555,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>this</text>
+        <text>$userId</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>this</text>
+        <text>$userId</text>
       </register>
       <register name="/" type="4">
         <text>@blue</text>
