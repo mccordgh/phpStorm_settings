@@ -72,7 +72,7 @@
       <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/Time/TimesheetsController.php" timestamp="1506635792834">
         <mark key="[" line="60" column="83" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Data/Gateways/Auth/UserGateway.php" timestamp="1508951211349">
+      <file name="$USER_HOME$/bernieportal/app/Data/Gateways/Auth/UserGateway.php" timestamp="1508953059463">
         <mark key="[" line="51" column="65" />
       </file>
       <file name="$USER_HOME$/workspace/php/testProject/app/Http/Controllers/mySampleResourceController.php" timestamp="1503082068737">
@@ -136,7 +136,7 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/js/current-user-id.js" timestamp="1499278658594">
         <mark key="[" line="2" column="63" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Commands/Auth/UpdatePassword.php" timestamp="1508951177018">
+      <file name="$USER_HOME$/bernieportal/app/Commands/Auth/UpdatePassword.php" timestamp="1508953326592">
         <mark key="[" line="71" column="68" />
       </file>
       <file name="/fragment.php" timestamp="1508949335126">
@@ -207,11 +207,6 @@
       </file>
       <file name="$USER_HOME$/workspace/portfolio_os/src/js/main.js" timestamp="1508693809881">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/bernieportal/app/Data/Gateways/Auth/DatabaseUserGateway.php" timestamp="1508951208739">
-        <mark key="[" line="251" column="4" />
-        <mark key="]" line="251" column="4" />
-        <mark key="." line="251" column="4" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Onboarding/EmployeesImport.php" timestamp="1506355596605">
         <mark key="[" line="5" column="1" />
@@ -532,7 +527,7 @@
         <text>formValues</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgZGJfcXVlcnkoIlVQREFURSB7dXNlcnN9IFNFVCBuYW1lID0gJyVzJyBXSEVSRSB1aWQgPSAnJXMnIiwgJG9sZEFjY291bnRPd25lckVtYWlsLCAkc3ViX2FjY291bnQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -540,29 +535,29 @@
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgJG9sZEFjY291bnRPd25lckVtYWlsID0gZGJfcmVzdWx0KGRiX3F1ZXJ5KCJTRUxFQ1QgbWFpbCBGUk9NIHt1c2Vyc30gV0hFUkUgdWlkID0gJyVzJyIsICRzdWJfYWNjb3VudCkpOwo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">ZGItPnRhYmxlKHNlbGY6OlRBQkxFKS0+d2hlcmUoJ3VpZCcsICc9JywgJGVtcGxveWVlT3duZWRBY2NvdW50SWQtPmNsaWVudF9pZCktPnVwZGF0ZShbCiAgICAgICAgICAgICAgICAgICAgJ3Bhc3MnID0+ICRoYXNoZWRQYXNzd29yZCwKICAgICAgICAgICAgICAgIF0pOw==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gKCRkYXRhKSB7ICAgICAgICAgICAgIHJldHVybiAkdGhpcy0+ZmlsbEZvcm0oJGRhdGFbJ2Zvcm0nXSwgJGRhdGFbJ3BsYW5zJ10pOyAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgZGJfcXVlcnkoIlVQREFURSB7dXNlcnN9IFNFVCBuYW1lID0gJyVzJyBXSEVSRSB1aWQgPSAnJXMnIiwgJG9sZEFjY291bnRPd25lckVtYWlsLCAkc3ViX2FjY291bnQpOwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgZ2V0RW1wbG95ZWVGdWxsTmFtZSgpIG1ldGhvZC4K</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgJG9sZEFjY291bnRPd25lckVtYWlsID0gZGJfcmVzdWx0KGRiX3F1ZXJ5KCJTRUxFQ1QgbWFpbCBGUk9NIHt1c2Vyc30gV0hFUkUgdWlkID0gJyVzJyIsICRzdWJfYWNjb3VudCkpOwo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>198</text>
+        <text>3351</text>
       </register>
     </registers>
     <search>
@@ -598,7 +593,6 @@
         <entry>@blue</entry>
       </history-search>
       <history-cmd>
-        <entry>4602</entry>
         <entry>180</entry>
         <entry>2490</entry>
         <entry>2816</entry>
@@ -618,6 +612,7 @@
         <entry>6622</entry>
         <entry>901</entry>
         <entry>198</entry>
+        <entry>3351</entry>
       </history-cmd>
       <history-expr />
       <history-input />
