@@ -134,10 +134,10 @@
         <mark key="[" line="2" column="63" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Commands/Auth/UpdatePassword.php" timestamp="1508870330467" />
-      <file name="/fragment.php" timestamp="1508882715164">
-        <mark key="[" line="0" column="15" />
-        <mark key="]" line="0" column="15" />
-        <mark key="." line="0" column="15" />
+      <file name="/fragment.php" timestamp="1508949335126">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="25" />
+        <mark key="." line="0" column="25" />
         <mark key="^" line="0" column="3" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Benefits/Plans/BrokerForms/Answerer.php" timestamp="1508794600797" />
@@ -203,10 +203,11 @@
       <file name="$USER_HOME$/workspace/portfolio_os/src/js/main.js" timestamp="1508693809881">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Data/Gateways/Auth/DatabaseUserGateway.php" timestamp="1508948050761">
-        <mark key="[" line="245" column="16" />
-        <mark key="]" line="245" column="16" />
-        <mark key="." line="245" column="16" />
+      <file name="$USER_HOME$/bernieportal/app/Data/Gateways/Auth/DatabaseUserGateway.php" timestamp="1508949319225">
+        <mark key="[" line="248" column="77" />
+        <mark key="]" line="250" column="15" />
+        <mark key="." line="250" column="15" />
+        <mark key="^" line="250" column="15" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Onboarding/EmployeesImport.php" timestamp="1506355596605">
         <mark key="[" line="5" column="1" />
@@ -332,7 +333,7 @@
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/worlds/levels/level.js" timestamp="1504391486114">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1508939229775">
+      <file name="/PHP Console" timestamp="1508949603038">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/views/employees/election-data.blade.php" timestamp="1506440738197">
@@ -512,13 +513,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>\BerniePortal\</text>
+        <text>get</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>\BerniePortal\</text>
+        <text>get</text>
       </register>
       <register name="/" type="4">
         <text>@blue</text>
