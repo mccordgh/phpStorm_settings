@@ -332,7 +332,7 @@
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/worlds/levels/level.js" timestamp="1504391486114">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1508951663655">
+      <file name="/PHP Console" timestamp="1508957611091">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/views/employees/election-data.blade.php" timestamp="1506440738197">
@@ -392,6 +392,7 @@
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/tiles/path-blue.js" timestamp="1503356614590">
         <mark key="[" line="3" column="17" />
       </file>
+      <file name="$USER_HOME$/bernieportal/spec/Data/Gateways/Auth/DatabaseUserGatewaySpec.php" timestamp="1508957316176" />
       <file name="$USER_HOME$/bernieportal/resources/views/dashboards/sidebar/onboarding.blade.php" timestamp="1499974681229">
         <mark key="[" line="4" column="39" />
       </file>
@@ -512,13 +513,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>private</text>
+        <text>BpUser</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>private</text>
+        <text>BpUser</text>
       </register>
       <register name="/" type="4">
         <text>@blue</text>
