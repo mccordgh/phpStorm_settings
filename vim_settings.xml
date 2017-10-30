@@ -153,7 +153,7 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/js/current-user-id.js" timestamp="1499278658594">
         <mark key="[" line="2" column="63" />
       </file>
-      <file name="/fragment.php" timestamp="1509397468202">
+      <file name="/fragment.php" timestamp="1509400795063">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
@@ -265,10 +265,10 @@
       <file name="$USER_HOME$/bernieportal/resources/views/dashboards/sidebar/benefits.blade.php" timestamp="1499974671996">
         <mark key="[" line="5" column="31" />
       </file>
-      <file name="$USER_HOME$/bernieportal/legacy/ClienteleUserModule.php" timestamp="1509397834990">
-        <mark key="[" line="6875" column="28" />
-        <mark key="]" line="6875" column="28" />
-        <mark key="." line="6875" column="28" />
+      <file name="$USER_HOME$/bernieportal/legacy/ClienteleUserModule.php" timestamp="1509401119805">
+        <mark key="[" line="7018" column="12" />
+        <mark key="]" line="7020" column="0" />
+        <mark key="." line="7020" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/legacy/CmsMiscModule.php" timestamp="1508444603150">
         <mark key="[" line="1169" column="12" />
@@ -357,7 +357,7 @@
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/worlds/levels/level.js" timestamp="1504391486114">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1509397896060">
+      <file name="/PHP Console" timestamp="1509400801217">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/views/employees/election-data.blade.php" timestamp="1506440738197">
@@ -536,14 +536,14 @@
       <jump line="124" column="35" filename="$USER_HOME$/bernieportal/resources/assets/components/billing/billing-table.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>account</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>account</text>
+        <text>$user</text>
       </register>
       <register name="/" type="4">
         <text>@blue</text>
@@ -552,34 +552,34 @@
         <text encoding="base64">CiAgICAgICAgJA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">IAo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCEkY2xpZW50X2lkKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gJ2VtcGxveWVlL2Rhc2hib2FyZCc7CiAgICAgICAgICAgIH0=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBiZW5lZml0UHJvdmlkZXJMYWJlbC5pbm5lckhUTUwgKz0gJyc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAqIEB2YXIgVXNlcgo=</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8qKgo=</text>
+        <text encoding="base64">ICBiZW5lZml0UHJvdmlkZXJMYWJlbC5pbm5lckhUTUwgKz0gJyc7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBVc2VyICR1c2VyTW9kZWwK</text>
+        <text encoding="base64">ICAgICAqLwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gKCRpZCkgdXNlICgkaGFzaGVkUGFzc3dvcmQpIHsgICAgICAgICAgICAgJHRoaXMtPnVzZXItPnNldFBhc3N3b3JkKCRpZCwgJGhhc2hlZFBhc3N3b3JkKTsgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAqIEB2YXIgVXNlcgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">JHVzZXJJZHNDb2xsZWN0aW9uLT5wdXNoKCdoaScpOwo=</text>
+        <text encoding="base64">ICAgIC8qKgo=</text>
       </register>
       <register name=":" type="4">
         <text>49</text>
