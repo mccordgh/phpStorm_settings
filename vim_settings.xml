@@ -265,10 +265,8 @@
       <file name="$USER_HOME$/bernieportal/resources/views/dashboards/sidebar/benefits.blade.php" timestamp="1499974671996">
         <mark key="[" line="5" column="31" />
       </file>
-      <file name="$USER_HOME$/bernieportal/legacy/ClienteleUserModule.php" timestamp="1509401119805">
-        <mark key="[" line="7018" column="12" />
-        <mark key="]" line="7020" column="0" />
-        <mark key="." line="7020" column="0" />
+      <file name="$USER_HOME$/bernieportal/legacy/ClienteleUserModule.php" timestamp="1509402949909">
+        <mark key="[" line="6965" column="52" />
       </file>
       <file name="$USER_HOME$/bernieportal/legacy/CmsMiscModule.php" timestamp="1508444603150">
         <mark key="[" line="1169" column="12" />
@@ -357,7 +355,7 @@
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/worlds/levels/level.js" timestamp="1504391486114">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1509400801217">
+      <file name="/PHP Console" timestamp="1509402912938">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/views/employees/election-data.blade.php" timestamp="1506440738197">
@@ -536,14 +534,14 @@
       <jump line="124" column="35" filename="$USER_HOME$/bernieportal/resources/assets/components/billing/billing-table.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">YXJyYXlfa2V5X2V4aXN0cyhSb2xlOjpCUk9LRVIsICR1c2VyLT5yb2xlcyk=</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>$user</text>
+        <text encoding="base64">YXJyYXlfa2V5X2V4aXN0cyhSb2xlOjpCUk9LRVIsICR1c2VyLT5yb2xlcyk=</text>
       </register>
       <register name="/" type="4">
         <text>@blue</text>
@@ -582,7 +580,7 @@
         <text encoding="base64">ICAgIC8qKgo=</text>
       </register>
       <register name=":" type="4">
-        <text>49</text>
+        <text>6000</text>
       </register>
     </registers>
     <search>
@@ -618,12 +616,6 @@
         <entry>@blue</entry>
       </history-search>
       <history-cmd>
-        <entry>2800</entry>
-        <entry>986</entry>
-        <entry>6366</entry>
-        <entry>1047</entry>
-        <entry>463</entry>
-        <entry>vsp</entry>
         <entry>278</entry>
         <entry>1011</entry>
         <entry>2229</entry>
@@ -638,6 +630,12 @@
         <entry>1768</entry>
         <entry>61</entry>
         <entry>49</entry>
+        <entry>181</entry>
+        <entry>486</entry>
+        <entry>599</entry>
+        <entry>791</entry>
+        <entry>866</entry>
+        <entry>6000</entry>
       </history-cmd>
       <history-expr />
       <history-input />
