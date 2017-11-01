@@ -81,12 +81,6 @@
       <file name="$USER_HOME$/workspace/php/testProject/app/Http/Controllers/mySampleResourceController.php" timestamp="1503082068737">
         <mark key="[" line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/bernieportal/public/sites/all/modules/clientele/js/clientele_plan_node_form.js" timestamp="1509134217623">
-        <mark key="[" line="1" column="74" />
-        <mark key="]" line="1" column="74" />
-        <mark key="^" line="1" column="5" />
-        <mark key="." line="1" column="74" />
-      </file>
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/tiles/wall-blue.js" timestamp="1503354559657">
         <mark key="[" line="3" column="17" />
       </file>
@@ -135,10 +129,8 @@
         <mark key="]" line="328" column="245" />
         <mark key="." line="328" column="245" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/billing/benefit-billing-past.vue" timestamp="1509546502015">
-        <mark key="[" line="49" column="22" />
-        <mark key="]" line="49" column="22" />
-        <mark key="." line="49" column="22" />
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/billing/benefit-billing-past.vue" timestamp="1509549019612">
+        <mark key="^" line="21" column="23" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Ats/Repositories/JobCandidateRepository.php" timestamp="1505347656980">
         <mark key="[" line="36" column="25" />
@@ -334,6 +326,9 @@
       <file name="$USER_HOME$/bernieportal/resources/views/employees/get-employee-previous-imported-elections.blade.php" timestamp="1509144383101">
         <mark key="[" line="10" column="32" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/phpstorm.vmoptions" timestamp="1509549498567">
+        <mark key="[" line="0" column="7" />
+      </file>
       <file name="$USER_HOME$/bernieportal/app/Data/Gateways/Benefits/BenefitGateway.php" timestamp="1500584485332">
         <mark key="[" line="4" column="28" />
       </file>
@@ -370,7 +365,7 @@
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/worlds/levels/level.js" timestamp="1504391486114">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1509546250451">
+      <file name="/PHP Console" timestamp="1509549488584">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/views/employees/election-data.blade.php" timestamp="1506440738197">
@@ -551,13 +546,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>{{ row[key] | maybeFormatMoney }}</text>
+        <text />
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>{{ row[key] | maybeFormatMoney }}</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>@blue</text>
