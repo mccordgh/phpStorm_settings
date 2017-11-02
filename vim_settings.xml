@@ -15,11 +15,6 @@
       <file name="/a.dummy" timestamp="1507907314495">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/billing/benefit-billing.vue" timestamp="1509557830003">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/bernieportal/resources/views/dashboards/employer/current-enrollment.blade.php" timestamp="1502478648006">
         <mark key="[" line="0" column="1" />
       </file>
@@ -32,11 +27,6 @@
       <file name="$USER_HOME$/bernieportal/app/Employment/Employer.php" timestamp="1509638357212" />
       <file name="$USER_HOME$/bernieportal/app/Ats/Candidate.php" timestamp="1502737804653">
         <mark key="[" line="32" column="86" />
-      </file>
-      <file name="$USER_HOME$/bernieportal/app/Handlers/Events/EmployeeConfirmedElections/GenerateCarrierForms.php" timestamp="1509126241058">
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="70" column="0" />
-        <mark key="." line="70" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/public/sites/all/modules/clientele/clientele_user.module" timestamp="1509390769159">
         <mark key="[" line="46" column="40" />
@@ -114,11 +104,6 @@
       <file name="$USER_HOME$/bernieportal/app/Subgroups/PTO/PTOSubgroupSetting.php" timestamp="1507829125307">
         <mark key="[" line="9" column="6" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Handlers/Events/UpdatingUserProfileValuesHandler.php" timestamp="1509391715683">
-        <mark key="[" line="48" column="62" />
-        <mark key="]" line="48" column="62" />
-        <mark key="." line="48" column="62" />
-      </file>
       <file name="$USER_HOME$/bernieportal/app/Subgroups/SubgroupRepository.php" timestamp="1509639855649">
         <mark key="[" line="15" column="15" />
         <mark key="]" line="15" column="15" />
@@ -127,11 +112,6 @@
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/loading-popup.vue" timestamp="1498514478199">
         <mark key="[" line="8" column="27" />
-      </file>
-      <file name="$USER_HOME$/bernieportal/legacy/Employer/ChangeSubgroup.php" timestamp="1509144937566">
-        <mark key="[" line="328" column="245" />
-        <mark key="]" line="328" column="245" />
-        <mark key="." line="328" column="245" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/billing/benefit-billing-past.vue" timestamp="1509557931236">
         <mark key="[" line="247" column="24" />
@@ -216,11 +196,6 @@
       <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/Time/PeriodsController.php" timestamp="1505929956281">
         <mark key="[" line="56" column="67" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Console/Commands/GenerateCarrierFormsForUser.php" timestamp="1509027696772">
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="64" column="0" />
-        <mark key="." line="64" column="0" />
-      </file>
       <file name="$USER_HOME$/bernieportal/app/Time/WorkweekRepository.php" timestamp="1506462935562">
         <mark key="[" line="15" column="105" />
       </file>
@@ -241,11 +216,6 @@
       </file>
       <file name="$USER_HOME$/workspace/portfolio_os/src/js/main.js" timestamp="1508693809881">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/bernieportal/legacy/Subgroups/SubgroupTable.php" timestamp="1509390747783">
-        <mark key="[" line="132" column="48" />
-        <mark key="]" line="132" column="48" />
-        <mark key="." line="132" column="48" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Onboarding/EmployeesImport.php" timestamp="1506355596605">
         <mark key="[" line="5" column="1" />
@@ -332,6 +302,11 @@
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/sidebar-toggle.vue" timestamp="1496247983712">
         <mark key="[" line="12" column="13" />
+      </file>
+      <file name="$USER_HOME$/bernieportal/database/migrations/2017_11_02_153718_add_regenerating_bills_feature_toggle.php" timestamp="1509651641534">
+        <mark key="[" line="22" column="3" />
+        <mark key="]" line="22" column="3" />
+        <mark key="." line="22" column="3" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/sortable.vue" timestamp="1494448912691">
         <mark key="[" line="2" column="58" />
@@ -427,11 +402,6 @@
       </file>
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/entities/creatures/player.js" timestamp="1506609965011">
         <mark key="[" line="9" column="19" />
-      </file>
-      <file name="$USER_HOME$/bernieportal/tests/legacy/ClienteleUserModuleTest.php" timestamp="1509649256717">
-        <mark key="[" line="61" column="26" />
-        <mark key="]" line="61" column="26" />
-        <mark key="." line="61" column="26" />
       </file>
       <file name="$USER_HOME$/BerniePortalWiki/FooterBackup.html" timestamp="1502825749665">
         <mark key="[" line="20" column="47" />
@@ -574,7 +544,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>EmployeeRepository</text>
+        <text encoding="base64">IC8qKgogICAgICogUmV2ZXJzZSB0aGUgbWlncmF0aW9ucy4KICAgICAqCiAgICAgKiBAcmV0dXJuIHZvaWQKICAgICAqLw==</text>
       </register>
       <register name="d" type="4">
         <text />
@@ -589,17 +559,34 @@
         <text encoding="base64">CiAgICAgICAgJA==</text>
       </register>
       <register name="1" type="4">
-        <text>$freezeAccount = '';
-        $hsaChange = '';
-        $paringAndTransitChange = '';</text>
+        <text encoding="base64">IC8qKgogICAgICogUmV2ZXJzZSB0aGUgbWlncmF0aW9ucy4KICAgICAqCiAgICAgKiBAcmV0dXJuIHZvaWQKICAgICAqLw==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICB9KTsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBTY2hlbWE6OnRhYmxlKCdmZWF0dXJlX3RvZ2dsZXMnLCBmdW5jdGlvbiAoQmx1ZXByaW50ICR0YWJsZSkgewo=</text>
+      </register>
+      <register name="5" type="4">
+        <text>Schema::table('feature_toggles', function (Blueprint $table) {
+            
+        });</text>
+      </register>
+      <register name="6" type="4">
+        <text>$freezeAccount = '';
+        $hsaChange = '';
+        $paringAndTransitChange = '';</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="8" type="4">
         <text>db_result(
             db_query(
                 &quot;SELECT c_uid FROM {user_clients_employees} WHERE e_uid = %d AND estatus = %d&quot;,
@@ -607,23 +594,8 @@
                 true
             )</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgKwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ZAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8YSA6aHJlZj0iIyIgY2xhc3M9ImJpbGwtLWxpbmstcGFkZGVkIj52e3sgcm93LnByZXZpb3VzX3ZlcnNpb25zLmxlbmd0aCAtIGluZGV4IH19IFBERjwvYT4K</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA6ICdDb3N0JywK</text>
+        <text encoding="base64">ICAgICAgKwo=</text>
       </register>
       <register name=":" type="4">
         <text>7003</text>
