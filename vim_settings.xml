@@ -277,12 +277,12 @@
       <file name="$USER_HOME$/bernieportal/resources/views/dashboards/sidebar/benefits.blade.php" timestamp="1499974671996">
         <mark key="[" line="5" column="31" />
       </file>
-      <file name="$USER_HOME$/bernieportal/legacy/ClienteleUserModule.php" timestamp="1509643229899">
-        <mark key="'" line="6810" column="9" />
+      <file name="$USER_HOME$/bernieportal/legacy/ClienteleUserModule.php" timestamp="1509649244016">
+        <mark key="'" line="6920" column="65" />
         <mark key="[" line="7002" column="85" />
-        <mark key="]" line="6900" column="24" />
-        <mark key="^" line="6900" column="24" />
-        <mark key="." line="6900" column="24" />
+        <mark key="]" line="6920" column="65" />
+        <mark key="^" line="6920" column="65" />
+        <mark key="." line="6920" column="65" />
       </file>
       <file name="$USER_HOME$/bernieportal/legacy/CmsMiscModule.php" timestamp="1508444603150">
         <mark key="[" line="1169" column="12" />
@@ -428,6 +428,11 @@
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/entities/creatures/player.js" timestamp="1506609965011">
         <mark key="[" line="9" column="19" />
       </file>
+      <file name="$USER_HOME$/bernieportal/tests/legacy/ClienteleUserModuleTest.php" timestamp="1509649256717">
+        <mark key="[" line="61" column="26" />
+        <mark key="]" line="61" column="26" />
+        <mark key="." line="61" column="26" />
+      </file>
       <file name="$USER_HOME$/BerniePortalWiki/FooterBackup.html" timestamp="1502825749665">
         <mark key="[" line="20" column="47" />
       </file>
@@ -466,7 +471,6 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/js/feature-toggle.js" timestamp="1509565228038" />
     </filemarks>
     <jumps>
-      <jump line="333" column="11" filename="$USER_HOME$/bernieportal/resources/assets/components/benefit-provider/edi/file.vue" />
       <jump line="331" column="6" filename="$USER_HOME$/bernieportal/resources/assets/components/benefit-provider/edi/file.vue" />
       <jump line="143" column="34" filename="$USER_HOME$/bernieportal/resources/assets/components/benefit-provider/edi/file.vue" />
       <jump line="256" column="38" filename="$USER_HOME$/bernieportal/resources/assets/components/benefit-provider/edi/file.vue" />
@@ -566,16 +570,17 @@
       <jump line="6707" column="11" filename="$USER_HOME$/bernieportal/legacy/ClienteleUserModule.php" />
       <jump line="6571" column="40" filename="$USER_HOME$/bernieportal/legacy/ClienteleUserModule.php" />
       <jump line="6810" column="9" filename="$USER_HOME$/bernieportal/legacy/ClienteleUserModule.php" />
+      <jump line="6920" column="65" filename="$USER_HOME$/bernieportal/legacy/ClienteleUserModule.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>string</text>
+        <text>EmployeeRepository</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>string</text>
+        <text>EmployeeRepository</text>
       </register>
       <register name="/" type="4">
         <text>@blue</text>
