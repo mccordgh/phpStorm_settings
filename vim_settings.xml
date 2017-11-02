@@ -277,9 +277,9 @@
       <file name="$USER_HOME$/bernieportal/resources/views/dashboards/sidebar/benefits.blade.php" timestamp="1499974671996">
         <mark key="[" line="5" column="31" />
       </file>
-      <file name="$USER_HOME$/bernieportal/legacy/ClienteleUserModule.php" timestamp="1509649244016">
+      <file name="$USER_HOME$/bernieportal/legacy/ClienteleUserModule.php" timestamp="1509650318506">
         <mark key="'" line="6920" column="65" />
-        <mark key="[" line="7002" column="85" />
+        <mark key="[" line="168" column="11" />
         <mark key="]" line="6920" column="65" />
         <mark key="^" line="6920" column="65" />
         <mark key="." line="6920" column="65" />
