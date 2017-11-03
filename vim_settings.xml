@@ -107,10 +107,11 @@
       <file name="$USER_HOME$/bernieportal/app/Subgroups/PTO/PTOSubgroupSetting.php" timestamp="1507829125307">
         <mark key="[" line="9" column="6" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Subgroups/SubgroupRepository.php" timestamp="1509639855649">
-        <mark key="[" line="15" column="15" />
-        <mark key="]" line="15" column="15" />
-        <mark key="." line="15" column="15" />
+      <file name="$USER_HOME$/bernieportal/database/migrations/2017_10_26_151954_create_linkedin_users_table.php" timestamp="1509734102755" />
+      <file name="$USER_HOME$/bernieportal/app/Subgroups/SubgroupRepository.php" timestamp="1509734161244">
+        <mark key="[" line="10" column="26" />
+        <mark key="]" line="10" column="26" />
+        <mark key="." line="10" column="26" />
         <mark key="^" line="19" column="54" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/loading-popup.vue" timestamp="1498514478199">
@@ -250,7 +251,7 @@
       <file name="$USER_HOME$/bernieportal/resources/views/dashboards/sidebar/benefits.blade.php" timestamp="1499974671996">
         <mark key="[" line="5" column="31" />
       </file>
-      <file name="$USER_HOME$/bernieportal/legacy/ClienteleUserModule.php" timestamp="1509650318506">
+      <file name="$USER_HOME$/bernieportal/legacy/ClienteleUserModule.php" timestamp="1509734238140">
         <mark key="'" line="6920" column="65" />
         <mark key="[" line="168" column="11" />
         <mark key="]" line="6920" column="65" />
@@ -358,7 +359,7 @@
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/worlds/levels/level.js" timestamp="1504391486114">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1509661481613">
+      <file name="/PHP Console" timestamp="1509734284358">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/views/employees/election-data.blade.php" timestamp="1506440738197">
@@ -551,13 +552,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">LT51c2VySWQoKQ==</text>
+        <text>new Subgroup()</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LT51c2VySWQoKQ==</text>
+        <text>new Subgroup()</text>
       </register>
       <register name="/" type="4">
         <text>@blue</text>
