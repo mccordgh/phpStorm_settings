@@ -108,11 +108,11 @@
         <mark key="[" line="9" column="6" />
       </file>
       <file name="$USER_HOME$/bernieportal/database/migrations/2017_10_26_151954_create_linkedin_users_table.php" timestamp="1509734102755" />
-      <file name="$USER_HOME$/bernieportal/app/Subgroups/SubgroupRepository.php" timestamp="1509734161244">
-        <mark key="[" line="10" column="26" />
-        <mark key="]" line="10" column="26" />
-        <mark key="." line="10" column="26" />
-        <mark key="^" line="19" column="54" />
+      <file name="$USER_HOME$/bernieportal/app/Subgroups/SubgroupRepository.php" timestamp="1509741849744">
+        <mark key="[" line="15" column="14" />
+        <mark key="]" line="15" column="14" />
+        <mark key="." line="15" column="14" />
+        <mark key="^" line="28" column="54" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/loading-popup.vue" timestamp="1498514478199">
         <mark key="[" line="8" column="27" />
@@ -151,8 +151,8 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/js/current-user-id.js" timestamp="1499278658594">
         <mark key="[" line="2" column="63" />
       </file>
-      <file name="/fragment.php" timestamp="1509660479847">
-        <mark key="[" line="0" column="11" />
+      <file name="/fragment.php" timestamp="1509743137949">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
         <mark key="." line="0" column="11" />
         <mark key="^" line="0" column="3" />
@@ -252,12 +252,12 @@
       <file name="$USER_HOME$/bernieportal/resources/views/dashboards/sidebar/benefits.blade.php" timestamp="1499974671996">
         <mark key="[" line="5" column="31" />
       </file>
-      <file name="$USER_HOME$/bernieportal/legacy/ClienteleUserModule.php" timestamp="1509735403572">
+      <file name="$USER_HOME$/bernieportal/legacy/ClienteleUserModule.php" timestamp="1509742816020">
         <mark key="'" line="6920" column="65" />
-        <mark key="[" line="168" column="11" />
-        <mark key="]" line="6920" column="65" />
-        <mark key="^" line="6920" column="65" />
-        <mark key="." line="6920" column="65" />
+        <mark key="[" line="6893" column="82" />
+        <mark key="]" line="6898" column="0" />
+        <mark key="^" line="6898" column="0" />
+        <mark key="." line="6898" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/legacy/CmsMiscModule.php" timestamp="1508444603150">
         <mark key="[" line="1169" column="12" />
@@ -360,7 +360,7 @@
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/worlds/levels/level.js" timestamp="1504391486114">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1509736448074">
+      <file name="/PHP Console" timestamp="1509743324022">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/views/employees/election-data.blade.php" timestamp="1506440738197">
@@ -553,13 +553,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>new Subgroup()</text>
+        <text>$data</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>new Subgroup()</text>
+        <text>$data</text>
       </register>
       <register name="/" type="4">
         <text>@blue</text>
@@ -567,35 +567,38 @@
       <register name="0" type="4">
         <text encoding="base64">CiAgICAgICAgJA==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IC8qKgogICAgICogUmV2ZXJzZSB0aGUgbWlncmF0aW9ucy4KICAgICAqCiAgICAgKiBAcmV0dXJuIHZvaWQKICAgICAqLw==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBhcnJheSAkZGF0YQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9KTsK</text>
+      <register name="2" type="4">
+        <text encoding="base64">IC8qKgogICAgICogUmV2ZXJzZSB0aGUgbWlncmF0aW9ucy4KICAgICAqCiAgICAgKiBAcmV0dXJuIHZvaWQKICAgICAqLw==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8K</text>
+        <text encoding="base64">ICAgICAgICB9KTsK</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8K</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBTY2hlbWE6OnRhYmxlKCdmZWF0dXJlX3RvZ2dsZXMnLCBmdW5jdGlvbiAoQmx1ZXByaW50ICR0YWJsZSkgewo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>Schema::table('feature_toggles', function (Blueprint $table) {
             
         });</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>$freezeAccount = '';
         $hsaChange = '';
         $paringAndTransitChange = '';</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>db_result(
             db_query(
                 &quot;SELECT c_uid FROM {user_clients_employees} WHERE e_uid = %d AND estatus = %d&quot;,
@@ -603,11 +606,8 @@
                 true
             )</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgKwo=</text>
-      </register>
       <register name=":" type="4">
-        <text>7003</text>
+        <text>6798</text>
       </register>
     </registers>
     <search>
@@ -643,7 +643,6 @@
         <entry>@blue</entry>
       </history-search>
       <history-cmd>
-        <entry>901</entry>
         <entry>198</entry>
         <entry>3351</entry>
         <entry>1565</entry>
@@ -663,6 +662,7 @@
         <entry>6900</entry>
         <entry>6991</entry>
         <entry>7003</entry>
+        <entry>6798</entry>
       </history-cmd>
       <history-expr />
       <history-input />
