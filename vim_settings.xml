@@ -27,6 +27,7 @@
       <file name="$USER_HOME$/bernieportal/app/Ats/Candidate.php" timestamp="1502737804653">
         <mark key="[" line="32" column="86" />
       </file>
+      <file name="$USER_HOME$/bernieportal/app/IO/Pdf/DomPdfWriter.php" timestamp="1510093932230" />
       <file name="$USER_HOME$/bernieportal/public/sites/all/modules/clientele/clientele_user.module" timestamp="1509390769159">
         <mark key="[" line="46" column="40" />
       </file>
@@ -267,6 +268,7 @@
         <mark key="[" line="1169" column="12" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Aca/XmlTransmissionRepository.php" timestamp="1510076702147" />
+      <file name="$USER_HOME$/bernieportal/app/Providers/AppServiceProvider.php" timestamp="1510093378740" />
       <file name="$USER_HOME$/workspace/gamepad_api_demo/index.html" timestamp="1501271743681">
         <mark key="[" line="3" column="0" />
       </file>
@@ -401,7 +403,7 @@
       <file name="$USER_HOME$/workspace/soundbox_js_playground/index.html" timestamp="1504056226018">
         <mark key="[" line="6" column="8" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510088824565">
+      <file name="/Dummy.txt" timestamp="1510094027804">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/legacy/Air/Models/AirFPDI.php" timestamp="1510005039723">
