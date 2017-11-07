@@ -132,6 +132,12 @@
       <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/Bills/BillsController.php" timestamp="1508343091461">
         <mark key="[" line="146" column="5" />
       </file>
+      <file name="$USER_HOME$/bernieportal/resources/views/aca-air/1095c-cover-sheet.blade.php" timestamp="1510094668659">
+        <mark key="[" line="3" column="20" />
+        <mark key="]" line="3" column="19" />
+        <mark key="." line="3" column="19" />
+        <mark key="^" line="3" column="19" />
+      </file>
       <file name="$USER_HOME$/bernieportal/app/Benefits/AccidentBenefit.php" timestamp="1507838130495">
         <mark key="[" line="0" column="1" />
       </file>
@@ -403,7 +409,7 @@
       <file name="$USER_HOME$/workspace/soundbox_js_playground/index.html" timestamp="1504056226018">
         <mark key="[" line="6" column="8" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510094027804">
+      <file name="/Dummy.txt" timestamp="1510094569427">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/legacy/Air/Models/AirFPDI.php" timestamp="1510005039723">
@@ -562,7 +568,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">e3sgJHhtbFRyYW5zbWlzc2lvbnMtPmdldCgkZW1wbG95ZXItPnVzZXJfaWQpLT50cmFuc21pc3Npb25fdHlwZSA/PyAnJ319</text>
+        <text encoding="base64">PGRpdiBjbGFzcz0iZm9ybS1yb3ciPgogICAgPGRpdiBjbGFzcz0iZm9ybS1jb250cm9sIj4KICAgICAgICA8aDI+QUlSIHNlY3Rpb25zOjwvaDI+CiAgICA8L2Rpdj4KPC9kaXY+CjxkaXYgY2xhc3M9ImZvcm0tcm93Ij4KICAgIDxkaXYgY2xhc3M9ImZvcm0tY29udHJvbCI+CiAgICAgICAgPHVsPgogICAgICAgICAgICA8bGk+PGEgaHJlZj0iIHt7ICR1cmwtPnRyYW5zbWl0dGVyQ29uZmlndXJhdGlvbiB9fSI+VHJhbnNtaXR0ZXIgQ29uZmlndXJhdGlvbiBwYWdlPC9hPjwvbGk+CiAgICAgICAgICAgIDxsaT48YSBocmVmPSJ7eyAkdXJsLT5lbXBsb3llcnNUcmFja2luZyB9fSI+RW1wbG95ZXJzIHdpdGggMTA5NC8xMDk1QyBnZW5lcmF0ZWQgZm9ybXMgKFhNTCB0cmFja2luZy9nZW5lcmF0aW5nIHBhZ2UpPC9hPjwvbGk+CiAgICAgICAgPC91bD4KICAgIDwvZGl2Pgo8L2Rpdj4=</text>
       </register>
       <register name="d" type="4">
         <text />
@@ -576,44 +582,39 @@
       <register name="0" type="4">
         <text encoding="base64">CiAgICAgICAgJA==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBhcnJheSAkZGF0YQo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">PGRpdiBjbGFzcz0iZm9ybS1yb3ciPgogICAgPGRpdiBjbGFzcz0iZm9ybS1jb250cm9sIj4KICAgICAgICA8aDI+QUlSIHNlY3Rpb25zOjwvaDI+CiAgICA8L2Rpdj4KPC9kaXY+CjxkaXYgY2xhc3M9ImZvcm0tcm93Ij4KICAgIDxkaXYgY2xhc3M9ImZvcm0tY29udHJvbCI+CiAgICAgICAgPHVsPgogICAgICAgICAgICA8bGk+PGEgaHJlZj0iIHt7ICR1cmwtPnRyYW5zbWl0dGVyQ29uZmlndXJhdGlvbiB9fSI+VHJhbnNtaXR0ZXIgQ29uZmlndXJhdGlvbiBwYWdlPC9hPjwvbGk+CiAgICAgICAgICAgIDxsaT48YSBocmVmPSJ7eyAkdXJsLT5lbXBsb3llcnNUcmFja2luZyB9fSI+RW1wbG95ZXJzIHdpdGggMTA5NC8xMDk1QyBnZW5lcmF0ZWQgZm9ybXMgKFhNTCB0cmFja2luZy9nZW5lcmF0aW5nIHBhZ2UpPC9hPjwvbGk+CiAgICAgICAgPC91bD4KICAgIDwvZGl2Pgo8L2Rpdj4=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IC8qKgogICAgICogUmV2ZXJzZSB0aGUgbWlncmF0aW9ucy4KICAgICAqCiAgICAgKiBAcmV0dXJuIHZvaWQKICAgICAqLw==</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBhcnJheSAkZGF0YQo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8K</text>
+      <register name="4" type="4">
+        <text encoding="base64">IC8qKgogICAgICogUmV2ZXJzZSB0aGUgbWlncmF0aW9ucy4KICAgICAqCiAgICAgKiBAcmV0dXJuIHZvaWQKICAgICAqLw==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB9KTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8K</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBTY2hlbWE6OnRhYmxlKCdmZWF0dXJlX3RvZ2dsZXMnLCBmdW5jdGlvbiAoQmx1ZXByaW50ICR0YWJsZSkgewo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>Schema::table('feature_toggles', function (Blueprint $table) {
             
         });</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text>$freezeAccount = '';
         $hsaChange = '';
         $paringAndTransitChange = '';</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="9" type="4">
-        <text>db_result(
-            db_query(
-                &quot;SELECT c_uid FROM {user_clients_employees} WHERE e_uid = %d AND estatus = %d&quot;,
-                $employeeId,
-                true
-            )</text>
       </register>
       <register name=":" type="4">
         <text>92</text>
