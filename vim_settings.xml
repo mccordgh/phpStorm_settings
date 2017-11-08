@@ -12,7 +12,7 @@
       <file name="$USER_HOME$/bernieportal/app/Carriers/Billing/LifeChildSummaryLineItem.php" timestamp="1508429199353">
         <mark key="[" line="39" column="6" />
       </file>
-      <file name="/a.dummy" timestamp="1507907314495">
+      <file name="/a.dummy" timestamp="1510168742887">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/views/dashboards/employer/current-enrollment.blade.php" timestamp="1502478648006">
@@ -29,6 +29,11 @@
       </file>
       <file name="$USER_HOME$/bernieportal/public/sites/all/modules/clientele/clientele_user.module" timestamp="1509390769159">
         <mark key="[" line="46" column="40" />
+      </file>
+      <file name="$USER_HOME$/bernieportal/tests/app/Listeners/Aca/Generate1095CsPdfMailerZipFileTest.php" timestamp="1510170067661">
+        <mark key="[" line="4" column="62" />
+        <mark key="]" line="4" column="62" />
+        <mark key="." line="4" column="62" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Employers/EmployerRepository.php" timestamp="1509638091233">
         <mark key="[" line="35" column="5" />
@@ -187,7 +192,7 @@
       <file name="$USER_HOME$/workspace/php/testProject/app/User.php" timestamp="1504812311688">
         <mark key="[" line="17" column="36" />
       </file>
-      <file name="$USER_HOME$/bernieportal/legacy/Air/Models/EmployerAirForms.php" timestamp="1510159454887" />
+      <file name="$USER_HOME$/bernieportal/legacy/Air/Models/EmployerAirForms.php" timestamp="1510170583741" />
       <file name="$USER_HOME$/workspace/php/testProject/app/Http/Kernel.php" timestamp="1504817441978">
         <mark key="[" line="32" column="13" />
       </file>
@@ -229,10 +234,10 @@
         <mark key="]" line="138" column="10" />
         <mark key="." line="138" column="10" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Listeners/Aca/Generate1095CsPdfMailerZipFile.php" timestamp="1510167163432">
-        <mark key="[" line="27" column="15" />
-        <mark key="]" line="27" column="15" />
-        <mark key="." line="27" column="15" />
+      <file name="$USER_HOME$/bernieportal/app/Listeners/Aca/Generate1095CsPdfMailerZipFile.php" timestamp="1510169244956">
+        <mark key="[" line="20" column="15" />
+        <mark key="]" line="20" column="15" />
+        <mark key="." line="20" column="15" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Onboarding/EmployeesImport.php" timestamp="1506355596605">
         <mark key="[" line="5" column="1" />
@@ -312,13 +317,6 @@
       <file name="$USER_HOME$/bernieportal/app/Http/Requests/User/ShowUserRequest.php" timestamp="1496853931288">
         <mark key="[" line="21" column="49" />
       </file>
-      <file name="$USER_HOME$/bernieportal/legacy/Air/Models/AirXmlUiBuilder.php" timestamp="1510079916328">
-        <mark key="p" line="111" column="16" />
-        <mark key="[" line="100" column="31" />
-        <mark key="]" line="101" column="51" />
-        <mark key="^" line="101" column="51" />
-        <mark key="." line="101" column="51" />
-      </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/sidebar-toggle.vue" timestamp="1496247983712">
         <mark key="[" line="12" column="13" />
       </file>
@@ -340,11 +338,11 @@
       <file name="$USER_HOME$/bernieportal/app/Views/Composers/Layout/Nav/BackLinkNavComposer.php" timestamp="1494879351196">
         <mark key="[" line="46" column="26" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Events/Aca/EmployerGenerated1094And1095Cs.php" timestamp="1510167192457">
-        <mark key="[" line="22" column="5" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-        <mark key="^" line="27" column="0" />
+      <file name="$USER_HOME$/bernieportal/app/Events/Aca/EmployerGenerated1094And1095Cs.php" timestamp="1510170897983">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="36" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/_ide_helper.php" timestamp="1495658208354">
         <mark key="[" line="9769" column="49" />
@@ -378,6 +376,12 @@
       </file>
       <file name="$USER_HOME$/bernieportal/resources/views/employees/election-data.blade.php" timestamp="1506440738197">
         <mark key="[" line="113" column="56" />
+      </file>
+      <file name="$USER_HOME$/bernieportal/tests/app/Events/Aca/EmployerGenerated1094And1095CsTest.php" timestamp="1510171058229">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+        <mark key="^" line="21" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Time/SubgroupSettings.php" timestamp="1506357820036">
         <mark key="[" line="7" column="1" />
@@ -447,7 +451,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="143" column="34" filename="$USER_HOME$/bernieportal/resources/assets/components/benefit-provider/edi/file.vue" />
       <jump line="256" column="38" filename="$USER_HOME$/bernieportal/resources/assets/components/benefit-provider/edi/file.vue" />
       <jump line="264" column="136" filename="$USER_HOME$/bernieportal/resources/assets/components/benefit-provider/edi/file.vue" />
       <jump line="271" column="155" filename="$USER_HOME$/bernieportal/resources/assets/components/benefit-provider/edi/file.vue" />
@@ -547,16 +550,17 @@
       <jump line="6810" column="9" filename="$USER_HOME$/bernieportal/legacy/ClienteleUserModule.php" />
       <jump line="6920" column="65" filename="$USER_HOME$/bernieportal/legacy/ClienteleUserModule.php" />
       <jump line="72" column="0" filename="$USER_HOME$/bernieportal/legacy/BenefitProviderModule.php" />
+      <jump line="24" column="12" filename="$USER_HOME$/bernieportal/tests/app/Events/Aca/EmployerGenerated1094And1095CsTest.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>void</text>
+        <text>employerAirForms</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>void</text>
+        <text>employerAirForms</text>
       </register>
       <register name="/" type="4">
         <text>@blue</text>
@@ -564,45 +568,35 @@
       <register name="0" type="4">
         <text encoding="base64">CiAgICAgICAgJA==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">JHRoaXMtPmRvbXBkZi0+bG9hZF9odG1sKCJUaGlzIGlzIGEgdGVzdCBvZiB0aGUgZW1lcmdlbmN5IGV2ZW50IHN5c3RlbSBcbndlZWUgXG5vb29vXG4gaCB3XG5lZWVlZVxuIG9vb1xub29vIik7CiAgICAgICAgJHRoaXMtPmRvbXBkZi0+cmVuZGVyKCk7CiAgICAgICAgJG91dHB1dCA9ICR0aGlzLT5kb21wZGYtPm91dHB1dCgpOwoKICAgICAgICBmaWxlX3B1dF9jb250ZW50cygnRVZFTlRfVEVTVF9ZRUFfWUVBX1lFQS5wZGYnLCAkb3V0cHV0KTs=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ZGQK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>/**
-     * Generate1095CsPdfMailerZipFile constructor.
-     */</text>
+        <text encoding="base64">IGQgCgogICAgICAgIHJldHVybiAkYWlyRm9ybXM7</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Lwo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgIFxNb2NrZXJ5OjpzcHkoRW1wbG95ZXJBaXJGb3Jtczo6Y2xhc3MpLA==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3IEFpckdlbmVyYXRlZFBkZkZvcm1zKCkK</text>
       </register>
       <register name="5" type="4">
-        <text>/    /**
-//     * Get the channels the event should broadcast on.
-//     *
-//     * @return Channel|array
-//     */
-//    public function broadcastOn()
-//    {
-//        return new PrivateChannel('channel-name');
-//    }</text>
+        <text encoding="base64">IEFpckdlbmVyYXRlZFBkZkZvcm1zKCkKICAgICAgICApOwogICAgfQoKICAgIHByb3RlY3RlZCBmdW5jdGlvbiB0ZWFyRG93bigpCiAgICB7CiAgICAgICAgcGFyZW50Ojp0ZWFyRG93bigpOwo=</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">ICAgICAgICAkYWlyMTA5NCA9ICRldmVudC0+Z2VuZXJhdGVkUGRmT2JqZWN0cy0+Z2V0MTA5NCgpOwogICAgICAgICRhaXIxMDk1ID0gJGV2ZW50LT5nZW5lcmF0ZWRQZGZPYmplY3RzLT5nZXQxMDk1cygpOw==</text>
+        <text encoding="base64">CnVzZSBCcmFuZHlcQWlyXE1vZGVsc1xBaXJHZW5lcmF0ZWRQZGZGb3JtczsKdXNlIEJyYW5keVxBaXJcTW9kZWxzXEVtcGxveWVyQWlyRm9ybXM7CnVzZSBEb21wZGZcRG9tcGRmOwp1c2UgTW9ja2VyeVxNb2NrSW50ZXJmYWNlOw==</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQ3JlYXRlIHRoZSBldmVudCBsaXN0ZW5lci4KICAgICAqCiAgICAgKiBAcmV0dXJuIHZvaWQKICAgICAqLw==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiB0ZXN0VGhhdENsYXNzRXhpc3RzKCkKICAgIHsKICAgICAgICAkdGhpcy0+YXNzZXJ0VHJ1ZShjbGFzc19leGlzdHMoR2VuZXJhdGUxMDk1Q3NQZGZNYWlsZXJaaXBGaWxlOjpjbGFzcykpOwogICAgfQ==</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQ3JlYXRlIGEgbmV3IGV2ZW50IGluc3RhbmNlLgogICAgICoKICAgICAqIEByZXR1cm4gdm9pZAogICAgICov</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQHJldHVybiBFbXBsb3llckFpckZvcm1zfE1vY2tJbnRlcmZhY2UKICAgICAqLwogICAgcHJpdmF0ZSBmdW5jdGlvbiBtb2NrRW1wbG95ZXJBaXJGb3JtcygpCiAgICB7CiAgICAgICAgcmV0dXJuIFxNb2NrZXJ5Ojptb2NrKEVtcGxveWVyQWlyRm9ybXM6OmNsYXNzKTsKICAgIH0KCiAgICAvKioKICAgICAqIEByZXR1cm4gQWlyR2VuZXJhdGVkUGRmRm9ybXN8TW9ja0ludGVyZmFjZQogICAgICovCiAgICBwcml2YXRlIGZ1bmN0aW9uIG1vY2tBaXJHZW5lcmF0ZWRQZGZGb3JtcygpCiAgICB7CiAgICAgICAgcmV0dXJuIFxNb2NrZXJ5Ojptb2NrKEFpckdlbmVyYXRlZFBkZkZvcm1zOjpjbGFzcyk7CiAgICB9</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">PGRpdiBjbGFzcz0iZm9ybS1yb3ciPgogICAgPGRpdiBjbGFzcz0iZm9ybS1jb250cm9sIj4KICAgICAgICA8aDI+QUlSIHNlY3Rpb25zOjwvaDI+CiAgICA8L2Rpdj4KPC9kaXY+CjxkaXYgY2xhc3M9ImZvcm0tcm93Ij4KICAgIDxkaXYgY2xhc3M9ImZvcm0tY29udHJvbCI+CiAgICAgICAgPHVsPgogICAgICAgICAgICA8bGk+PGEgaHJlZj0iIHt7ICR1cmwtPnRyYW5zbWl0dGVyQ29uZmlndXJhdGlvbiB9fSI+VHJhbnNtaXR0ZXIgQ29uZmlndXJhdGlvbiBwYWdlPC9hPjwvbGk+CiAgICAgICAgICAgIDxsaT48YSBocmVmPSJ7eyAkdXJsLT5lbXBsb3llcnNUcmFja2luZyB9fSI+RW1wbG95ZXJzIHdpdGggMTA5NC8xMDk1QyBnZW5lcmF0ZWQgZm9ybXMgKFhNTCB0cmFja2luZy9nZW5lcmF0aW5nIHBhZ2UpPC9hPjwvbGk+CiAgICAgICAgPC91bD4KICAgIDwvZGl2Pgo8L2Rpdj4=</text>
+        <text encoding="base64">ICAkdGhpcy0+bW9ja0VtcGxveWVyQWlyRm9ybXMoKSwKICAgICAgICAgICAgJHRoaXMtPm1vY2tBaXJHZW5lcmF0ZWRQZGZGb3Jtcygp</text>
       </register>
       <register name=":" type="4">
         <text>92</text>
