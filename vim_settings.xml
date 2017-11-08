@@ -229,10 +229,10 @@
         <mark key="]" line="138" column="10" />
         <mark key="." line="138" column="10" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Listeners/Aca/Generate1095CsPdfMailerZipFile.php" timestamp="1510159718196">
-        <mark key="[" line="26" column="8" />
-        <mark key="]" line="26" column="8" />
-        <mark key="." line="26" column="8" />
+      <file name="$USER_HOME$/bernieportal/app/Listeners/Aca/Generate1095CsPdfMailerZipFile.php" timestamp="1510167163432">
+        <mark key="[" line="27" column="15" />
+        <mark key="]" line="27" column="15" />
+        <mark key="." line="27" column="15" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Onboarding/EmployeesImport.php" timestamp="1506355596605">
         <mark key="[" line="5" column="1" />
@@ -340,8 +340,8 @@
       <file name="$USER_HOME$/bernieportal/app/Views/Composers/Layout/Nav/BackLinkNavComposer.php" timestamp="1494879351196">
         <mark key="[" line="46" column="26" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Events/Aca/EmployerGenerated1094And1095Cs.php" timestamp="1510159685222">
-        <mark key="[" line="27" column="0" />
+      <file name="$USER_HOME$/bernieportal/app/Events/Aca/EmployerGenerated1094And1095Cs.php" timestamp="1510167192457">
+        <mark key="[" line="22" column="5" />
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
         <mark key="^" line="27" column="0" />
@@ -550,13 +550,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">JHRoaXMtPmRvbXBkZi0+bG9hZF9odG1sKCJUaGlzIGlzIGEgdGVzdCBvZiB0aGUgZW1lcmdlbmN5IGV2ZW50IHN5c3RlbSBcbndlZWUgXG5vb29vXG4gaCB3XG5lZWVlZVxuIG9vb1xub29vIik7CiAgICAgICAgJHRoaXMtPmRvbXBkZi0+cmVuZGVyKCk7CiAgICAgICAgJG91dHB1dCA9ICR0aGlzLT5kb21wZGYtPm91dHB1dCgpOwoKICAgICAgICBmaWxlX3B1dF9jb250ZW50cygnRVZFTlRfVEVTVF9ZRUFfWUVBX1lFQS5wZGYnLCAkb3V0cHV0KTs=</text>
+        <text>void</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>Generate1095CsPdfMailerZipFile::class</text>
+        <text>void</text>
       </register>
       <register name="/" type="4">
         <text>@blue</text>
