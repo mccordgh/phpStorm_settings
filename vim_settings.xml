@@ -83,6 +83,11 @@
       <file name="$USER_HOME$/workspace/php/testProject/app/Http/Controllers/mySampleResourceController.php" timestamp="1503082068737">
         <mark key="[" line="0" column="1" />
       </file>
+      <file name="$USER_HOME$/bernieportal/legacy/Air/Views/AirGeneratePdfDrupalForm.php" timestamp="1510174407533">
+        <mark key="[" line="110" column="29" />
+        <mark key="]" line="110" column="29" />
+        <mark key="." line="110" column="29" />
+      </file>
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/tiles/wall-blue.js" timestamp="1503354559657">
         <mark key="[" line="3" column="17" />
       </file>
@@ -159,11 +164,11 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/js/current-user-id.js" timestamp="1499278658594">
         <mark key="[" line="2" column="63" />
       </file>
-      <file name="/fragment.php" timestamp="1510095645099">
-        <mark key="[" line="0" column="21" />
-        <mark key="]" line="0" column="21" />
-        <mark key="." line="0" column="21" />
-        <mark key="^" line="0" column="21" />
+      <file name="/fragment.php" timestamp="1510178094271">
+        <mark key="[" line="0" column="6" />
+        <mark key="]" line="0" column="6" />
+        <mark key="." line="0" column="6" />
+        <mark key="^" line="0" column="13" />
       </file>
       <file name="$USER_HOME$/workspace/gamepad_api_demo/main.css" timestamp="1501271749114">
         <mark key="[" line="5" column="10" />
@@ -223,6 +228,7 @@
       <file name="$USER_HOME$/bernieportal/public/sites/all/modules/emp_pto/emp_pto.module" timestamp="1507320519182">
         <mark key="[" line="86" column="5" />
       </file>
+      <file name="$USER_HOME$/bernieportal/vendor/tecnickcom/tcpdf/tcpdf.php" timestamp="1510178000356" />
       <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/thread/candidate-job-message-modal.vue" timestamp="1493229583139">
         <mark key="[" line="13" column="61" />
       </file>
@@ -234,10 +240,12 @@
         <mark key="]" line="138" column="10" />
         <mark key="." line="138" column="10" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Listeners/Aca/Generate1095CsPdfMailerZipFile.php" timestamp="1510169244956">
-        <mark key="[" line="20" column="15" />
-        <mark key="]" line="20" column="15" />
-        <mark key="." line="20" column="15" />
+      <file name="$USER_HOME$/bernieportal/app/Listeners/Aca/Generate1095CsPdfMailerZipFile.php" timestamp="1510177932960">
+        <mark key="'" line="43" column="8" />
+        <mark key="[" line="48" column="22" />
+        <mark key="]" line="48" column="22" />
+        <mark key="^" line="49" column="17" />
+        <mark key="." line="48" column="22" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Onboarding/EmployeesImport.php" timestamp="1506355596605">
         <mark key="[" line="5" column="1" />
@@ -338,7 +346,7 @@
       <file name="$USER_HOME$/bernieportal/app/Views/Composers/Layout/Nav/BackLinkNavComposer.php" timestamp="1494879351196">
         <mark key="[" line="46" column="26" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Events/Aca/EmployerGenerated1094And1095Cs.php" timestamp="1510170897983">
+      <file name="$USER_HOME$/bernieportal/app/Events/Aca/EmployerGenerated1094And1095Cs.php" timestamp="1510174318102">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
@@ -371,7 +379,7 @@
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/worlds/levels/level.js" timestamp="1504391486114">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1510095606713">
+      <file name="/PHP Console" timestamp="1510178027904">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/views/employees/election-data.blade.php" timestamp="1506440738197">
@@ -407,7 +415,7 @@
       <file name="$USER_HOME$/workspace/soundbox_js_playground/index.html" timestamp="1504056226018">
         <mark key="[" line="6" column="8" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510158501394">
+      <file name="/Dummy.txt" timestamp="1510176810616">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/popover.vue" timestamp="1492636708489">
@@ -425,6 +433,7 @@
       <file name="$USER_HOME$/BerniePortalWiki/FooterBackup.html" timestamp="1502825749665">
         <mark key="[" line="20" column="47" />
       </file>
+      <file name="$USER_HOME$/bernieportal/legacy/Air/Models/AirForm.php" timestamp="1510177550610" />
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/hello.js" timestamp="1502755160022">
         <mark key="[" line="0" column="34" />
       </file>
@@ -451,8 +460,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="256" column="38" filename="$USER_HOME$/bernieportal/resources/assets/components/benefit-provider/edi/file.vue" />
-      <jump line="264" column="136" filename="$USER_HOME$/bernieportal/resources/assets/components/benefit-provider/edi/file.vue" />
       <jump line="271" column="155" filename="$USER_HOME$/bernieportal/resources/assets/components/benefit-provider/edi/file.vue" />
       <jump line="257" column="23" filename="$USER_HOME$/bernieportal/resources/assets/components/benefit-provider/edi/file.vue" />
       <jump line="254" column="0" filename="$USER_HOME$/bernieportal/resources/assets/components/benefit-provider/edi/file.vue" />
@@ -551,16 +558,18 @@
       <jump line="6920" column="65" filename="$USER_HOME$/bernieportal/legacy/ClienteleUserModule.php" />
       <jump line="72" column="0" filename="$USER_HOME$/bernieportal/legacy/BenefitProviderModule.php" />
       <jump line="24" column="12" filename="$USER_HOME$/bernieportal/tests/app/Events/Aca/EmployerGenerated1094And1095CsTest.php" />
+      <jump line="39" column="42" filename="$USER_HOME$/bernieportal/app/Listeners/Aca/Generate1095CsPdfMailerZipFile.php" />
+      <jump line="36" column="8" filename="$USER_HOME$/bernieportal/app/Listeners/Aca/Generate1095CsPdfMailerZipFile.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>employerAirForms</text>
+        <text encoding="base64">PnBhZ2VkaW1bJHRoaXMtPnBhZ2VdWydNZWRpYUJveCdd</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>employerAirForms</text>
+        <text encoding="base64">PnBhZ2VkaW1bJHRoaXMtPnBhZ2VdWydNZWRpYUJveCdd</text>
       </register>
       <register name="/" type="4">
         <text>@blue</text>
@@ -568,35 +577,38 @@
       <register name="0" type="4">
         <text encoding="base64">CiAgICAgICAgJA==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ZGQK</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICAgICAgJHBkZi0+cGFnZVJvdGF0ZSg5MCk7</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IGQgCgogICAgICAgIHJldHVybiAkYWlyRm9ybXM7</text>
+        <text encoding="base64">ICAgICAgICAkb3V0ID0gcmVhbHBhdGgoJGZpbGUpOwoKICAgICAgICBpZihyZW5hbWUoJGZpbGUsImZpbGVzLzEvZmlsZS5iYWsiKSl7CiAgICAgICAgICAgICRyZXN1bHQgPSAkcGRmLT5PdXRwdXQoJG91dCwgIkYiKTsKICAgICAgICAgICAgaWYoJHJlc3VsdCA9PSAiIiApewogICAgICAgICAgICAgICAgZWNobyAib2siOwogICAgICAgICAgICB9CiAgICAgICAgfWVsc2V7CiAgICAgICAgICAgIGVjaG8gIkZhaWxlZCB0byByZW5hbWUgb2xkIFBERiI7CiAgICAgICAgICAgIGRpZTsKICAgICAgICB9CgogICAgICAgICRmaWxlID0gImZpbGVzLzEvMS5wZGYiOwogICAgICAgIHJvdGF0ZVBERigkZmlsZSw5MCk7IC8vIHJvdGF0aW5nIGFsbCB3b3JrcyBmaW5lCiAgICAgICAgcm90YXRlUERGKCRmaWxlLDE4MCwzKTs=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIFxNb2NrZXJ5OjpzcHkoRW1wbG95ZXJBaXJGb3Jtczo6Y2xhc3MpLA==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3IEFpckdlbmVyYXRlZFBkZkZvcm1zKCkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IEFpckdlbmVyYXRlZFBkZkZvcm1zKCkKICAgICAgICApOwogICAgfQoKICAgIHByb3RlY3RlZCBmdW5jdGlvbiB0ZWFyRG93bigpCiAgICB7CiAgICAgICAgcGFyZW50Ojp0ZWFyRG93bigpOwo=</text>
+        <text>/**
+     * @param AirFPDI $airForm1905
+     * @return AirFPDI
+     */</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CnVzZSBCcmFuZHlcQWlyXE1vZGVsc1xBaXJHZW5lcmF0ZWRQZGZGb3JtczsKdXNlIEJyYW5keVxBaXJcTW9kZWxzXEVtcGxveWVyQWlyRm9ybXM7CnVzZSBEb21wZGZcRG9tcGRmOwp1c2UgTW9ja2VyeVxNb2NrSW50ZXJmYWNlOw==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiB0ZXN0VGhhdENsYXNzRXhpc3RzKCkKICAgIHsKICAgICAgICAkdGhpcy0+YXNzZXJ0VHJ1ZShjbGFzc19leGlzdHMoR2VuZXJhdGUxMDk1Q3NQZGZNYWlsZXJaaXBGaWxlOjpjbGFzcykpOwogICAgfQ==</text>
+        <text encoding="base64">IC8qKgogICAgICogQHBhcmFtIEFpckZQREkgJGFpckZvcm0xMDk1CiAgICAgKiBAcmV0dXJuIEFpckZQREkKICAgICAqLw==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHJldHVybiBFbXBsb3llckFpckZvcm1zfE1vY2tJbnRlcmZhY2UKICAgICAqLwogICAgcHJpdmF0ZSBmdW5jdGlvbiBtb2NrRW1wbG95ZXJBaXJGb3JtcygpCiAgICB7CiAgICAgICAgcmV0dXJuIFxNb2NrZXJ5Ojptb2NrKEVtcGxveWVyQWlyRm9ybXM6OmNsYXNzKTsKICAgIH0KCiAgICAvKioKICAgICAqIEByZXR1cm4gQWlyR2VuZXJhdGVkUGRmRm9ybXN8TW9ja0ludGVyZmFjZQogICAgICovCiAgICBwcml2YXRlIGZ1bmN0aW9uIG1vY2tBaXJHZW5lcmF0ZWRQZGZGb3JtcygpCiAgICB7CiAgICAgICAgcmV0dXJuIFxNb2NrZXJ5Ojptb2NrKEFpckdlbmVyYXRlZFBkZkZvcm1zOjpjbGFzcyk7CiAgICB9</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBzYXZlIGZpbGVzIGluIHppcAo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAkdGhpcy0+bW9ja0VtcGxveWVyQWlyRm9ybXMoKSwKICAgICAgICAgICAgJHRoaXMtPm1vY2tBaXJHZW5lcmF0ZWRQZGZGb3Jtcygp</text>
+      <register name="9" type="2">
+        <text encoding="base64">ZGQK</text>
       </register>
       <register name=":" type="4">
         <text>92</text>
