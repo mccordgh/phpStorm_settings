@@ -115,6 +115,7 @@
       <file name="$USER_HOME$/bernieportal/app/Subgroups/PTO/PTOSubgroupSetting.php" timestamp="1507829125307">
         <mark key="[" line="9" column="6" />
       </file>
+      <file name="$USER_HOME$/bernieportal/resources/views/ats/job-postings/job.blade.php" timestamp="1510262302099" />
       <file name="$USER_HOME$/bernieportal/app/Subgroups/SubgroupRepository.php" timestamp="1509741849744">
         <mark key="[" line="15" column="14" />
         <mark key="]" line="15" column="14" />
@@ -199,6 +200,12 @@
       <file name="$USER_HOME$/workspace/php/testProject/app/Http/Kernel.php" timestamp="1504817441978">
         <mark key="[" line="32" column="13" />
       </file>
+      <file name="$USER_HOME$/bernieportal/resources/views/aca-air/1095-pdf-cover-letter.blade.php" timestamp="1510262974793">
+        <mark key="[" line="11" column="22" />
+        <mark key="]" line="13" column="18" />
+        <mark key="." line="13" column="18" />
+        <mark key="^" line="13" column="18" />
+      </file>
       <file name="$USER_HOME$/bernieportal/legacy/UserManagementModule.php" timestamp="1508444607673">
         <mark key="[" line="505" column="30" />
       </file>
@@ -238,11 +245,11 @@
         <mark key="]" line="138" column="10" />
         <mark key="." line="138" column="10" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Listeners/Aca/Generate1095CsPdfMailerZipFile.php" timestamp="1510250759199">
-        <mark key="[" line="52" column="59" />
-        <mark key="]" line="52" column="59" />
-        <mark key="." line="52" column="59" />
-        <mark key="^" line="70" column="0" />
+      <file name="$USER_HOME$/bernieportal/app/Listeners/Aca/Generate1095CsPdfMailerZipFile.php" timestamp="1510262411146">
+        <mark key="[" line="111" column="8" />
+        <mark key="]" line="83" column="21" />
+        <mark key="." line="83" column="21" />
+        <mark key="^" line="83" column="21" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Onboarding/EmployeesImport.php" timestamp="1506355596605">
         <mark key="[" line="5" column="1" />
@@ -376,7 +383,7 @@
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/worlds/levels/level.js" timestamp="1504391486114">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1510252810606">
+      <file name="/PHP Console" timestamp="1510259740376">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/views/employees/election-data.blade.php" timestamp="1506440738197">
@@ -412,7 +419,7 @@
       <file name="$USER_HOME$/workspace/soundbox_js_playground/index.html" timestamp="1504056226018">
         <mark key="[" line="6" column="8" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510247903996">
+      <file name="/Dummy.txt" timestamp="1510262278880">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/legacy/Air/Models/AirFPDI.php" timestamp="1510249549953" />
@@ -563,13 +570,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IC8gMw==</text>
+        <text encoding="base64">PC9kaXY+</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IC8gMw==</text>
+        <text encoding="base64">PC9kaXY+</text>
       </register>
       <register name="/" type="4">
         <text>@blue</text>
@@ -578,34 +585,34 @@
         <text encoding="base64">CiAgICAgICAgJA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyRhaXJGb3JtMTA5NS0+c2V0UGFnZU9yaWVudGF0aW9uKCdQJyk7Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgICAgIDxzdHlsZT4KICAgICAgICAgICAgdWwuY292ZXItbGV0dGVyLS1saXN0IHsKICAgICAgICAgICAgICAgIGRpc3BsYXk6IGJsb2NrOwogICAgICAgICAgICB9CgogICAgICAgICAgICB1bC5jb3Zlci1sZXR0ZXItLWxpc3QgbGkgewogICAgICAgICAgICAgICAgZGlzcGxheTogYmxvY2s7CiAgICAgICAgICAgIH0KICAgICAgICA8L3N0eWxlPgogICAgPGJvZHk+CiA=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgICRhaXJGb3JtMTA5NS0+Z2V0TnVtUGFnZXMoKTsK</text>
+      <register name="4" type="4">
+        <text encoding="base64">PGRpdiBjbGFzcz0iZm9ybS1yb3ciPgogICAgPGRpdiBjbGFzcz0iZm9ybS1jb250cm9sIj4KICAgICAgICA8aDI+RU1QTE9ZRVIgU1RVRkY8L2gyPgogICAgPC9kaXY+CjwvZGl2Pgo8ZGl2IGNsYXNzPSJmb3JtLXJvdyI+CiAgICA8ZGl2IGNsYXNzPSJmb3JtLWNvbnRyb2wiPgogICAgICAgPGgyPkVNUExPWUVFIFNUVUZGPC9oMj4KICAgIDwvZGl2Pgo8L2Rpdj4=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmaWxlX3B1dF9jb250ZW50cygndGVtcC1jb3Zlci1wYWdlLnBkZicsICRvdXRwdXQpOyB6aXAK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">PHVsPgogICAgICAgICAgICA8bGk+PGEgaHJlZj0iIHt7ICR1cmwtPnRyYW5zbWl0dGVyQ29uZmlndXJhdGlvbiB9fSI+VHJhbnNtaXR0ZXIgQ29uZmlndXJhdGlvbiBwYWdlPC9hPjwvbGk+CiAgICAgICAgICAgIDxsaT48YSBocmVmPSJ7eyAkdXJsLT5lbXBsb3llcnNUcmFja2luZyB9fSI+RW1wbG95ZXJzIHdpdGggMTA5NC8xMDk1QyBnZW5lcmF0ZWQgZm9ybXMgKFhNTCB0cmFja2luZy9nZW5lcmF0aW5nIHBhZ2UpPC9hPjwvbGk+CiAgICAgICAgPC91bD4=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRlbXBsYXRlID0gJG5ld0Zvcm0tPmltcG9ydFBhZ2UoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBhdHRhY2ggY292ZXIgc2hlZXQK</text>
       </register>
       <register name=":" type="4">
         <text>92</text>
