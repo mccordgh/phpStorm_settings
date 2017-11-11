@@ -24,6 +24,7 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/applications/application.vue" timestamp="1505482376533">
         <mark key="[" line="79" column="7" />
       </file>
+      <file name="$USER_HOME$/bernieportal/legacy/Air/Views/AirFormsPageDrupalForm.php" timestamp="1510353690629" />
       <file name="$USER_HOME$/bernieportal/app/Ats/Candidate.php" timestamp="1502737804653">
         <mark key="[" line="32" column="86" />
       </file>
@@ -50,6 +51,13 @@
       </file>
       <file name="$USER_HOME$/bernieportal/app/Views/Composers/Sidebar/TimeComposer.php" timestamp="1496787657266">
         <mark key="[" line="41" column="11" />
+      </file>
+      <file name="$USER_HOME$/bernieportal/legacy/AirReportModule.php" timestamp="1510353448065" />
+      <file name="$USER_HOME$/bernieportal/resources/views/aca-air/xml-generation-employers-list.blade.php" timestamp="1510355597531">
+        <mark key="[" line="22" column="31" />
+        <mark key="]" line="22" column="31" />
+        <mark key="^" line="22" column="51" />
+        <mark key="." line="22" column="31" />
       </file>
       <file name="$USER_HOME$/workspace/php/testProject/resources/views/dashboard.blade.php" timestamp="1504811117559">
         <mark key="[" line="63" column="26" />
@@ -81,7 +89,7 @@
       <file name="$USER_HOME$/workspace/php/testProject/app/Http/Controllers/mySampleResourceController.php" timestamp="1503082068737">
         <mark key="[" line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/bernieportal/legacy/Air/Views/AirGeneratePdfDrupalForm.php" timestamp="1510174407533">
+      <file name="$USER_HOME$/bernieportal/legacy/Air/Views/AirGeneratePdfDrupalForm.php" timestamp="1510355354290">
         <mark key="[" line="6" column="29" />
         <mark key="]" line="6" column="29" />
         <mark key="." line="6" column="29" />
@@ -89,6 +97,7 @@
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/tiles/wall-blue.js" timestamp="1503354559657">
         <mark key="[" line="3" column="17" />
       </file>
+      <file name="$USER_HOME$/bernieportal/public/sites/all/modules/air_report/air_report.module" timestamp="1510353444750" />
       <file name="$USER_HOME$/bernieportal/resources/views/dashboards/sidebar/employer-employee-items.blade.php" timestamp="1502480216885">
         <mark key="[" line="3" column="43" />
       </file>
@@ -162,7 +171,7 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/js/current-user-id.js" timestamp="1499278658594">
         <mark key="[" line="2" column="63" />
       </file>
-      <file name="/fragment.php" timestamp="1510337314423">
+      <file name="/fragment.php" timestamp="1510355538033">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -237,12 +246,7 @@
       <file name="$USER_HOME$/workspace/portfolio_os/src/js/main.js" timestamp="1508693809881">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Providers/EventServiceProvider.php" timestamp="1510159567824">
-        <mark key="[" line="138" column="10" />
-        <mark key="]" line="138" column="10" />
-        <mark key="." line="138" column="10" />
-      </file>
-      <file name="$USER_HOME$/bernieportal/app/Listeners/Aca/Generate1095CsPdfMailerZipFile.php" timestamp="1510346186521">
+      <file name="$USER_HOME$/bernieportal/app/Listeners/Aca/Generate1095CsPdfMailerZipFile.php" timestamp="1510351905128">
         <mark key="'" line="159" column="8" />
         <mark key="[" line="65" column="100" />
         <mark key="]" line="38" column="4" />
@@ -327,6 +331,12 @@
       <file name="$USER_HOME$/bernieportal/app/Http/Requests/User/ShowUserRequest.php" timestamp="1496853931288">
         <mark key="[" line="21" column="49" />
       </file>
+      <file name="$USER_HOME$/bernieportal/legacy/Air/Models/AirXmlUiBuilder.php" timestamp="1510355535295">
+        <mark key="[" line="156" column="21" />
+        <mark key="]" line="156" column="21" />
+        <mark key="^" line="132" column="9" />
+        <mark key="." line="156" column="21" />
+      </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/sidebar-toggle.vue" timestamp="1496247983712">
         <mark key="[" line="12" column="13" />
       </file>
@@ -381,7 +391,7 @@
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/worlds/levels/level.js" timestamp="1504391486114">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1510346189281">
+      <file name="/PHP Console" timestamp="1510355531343">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/views/employees/election-data.blade.php" timestamp="1506440738197">
@@ -464,7 +474,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="254" column="0" filename="$USER_HOME$/bernieportal/resources/assets/components/benefit-provider/edi/file.vue" />
       <jump line="302" column="18" filename="$USER_HOME$/bernieportal/resources/assets/components/benefit-provider/edi/file.vue" />
       <jump line="25" column="23" filename="$USER_HOME$/bernieportal/public/sites/all/modules/employee_portal/employee_portal.module" />
       <jump line="1" column="75" filename="$USER_HOME$/bernieportal/resources/views/layout/nav/quaternary.blade.php" />
@@ -564,16 +573,17 @@
       <jump line="36" column="8" filename="$USER_HOME$/bernieportal/app/Listeners/Aca/Generate1095CsPdfMailerZipFile.php" />
       <jump line="54" column="50" filename="$USER_HOME$/bernieportal/app/Listeners/Aca/Generate1095CsPdfMailerZipFile.php" />
       <jump line="134" column="8" filename="$USER_HOME$/bernieportal/app/Listeners/Aca/Generate1095CsPdfMailerZipFile.php" />
+      <jump line="139" column="46" filename="$USER_HOME$/bernieportal/legacy/Air/Models/AirXmlUiBuilder.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'tmp-air-1095-pdf.pdf'</text>
+        <text>Exception $e</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>'tmp-air-1095-pdf.pdf'</text>
+        <text>Exception $e</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmb3JtMTA5NURhdGFcPg==</text>
@@ -582,47 +592,40 @@
         <text encoding="base64">CiAgICAgICAgJA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICRpID0gMDsKLy8gICAgICAgICRyZXR1cm4gJGFsbFppcEZpbGVzWzBdOw==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtICR6aXBGaWxlCiAgICAgKiBAcGFyYW0gJG5ld0FpckZvcm0xMDk1cwogICAgICogQHBhcmFtICRhaXJGb3JtMTA5NURhdGEKICAgICAqLw==</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="4">
-        <text>/**
-             * @var int $airFormID
-             * @var  AirFPDI $pdf1095
-             */</text>
+        <text>private function getPathWithMostRecentYear(string $pathToZipsDirectory)
+    {
+
+    }</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="8" type="4">
-        <text>function ($partsOfName = []) {
-            $fileName = '';
-            foreach ($partsOfName as $namePart) {
-                $fileName .= strtolower(str_replace(' ', '', $namePart));
-            }
-
-            return $fileName;
-        };</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgIC8qKgogICAgICAgICAqIEBwYXJhbSBpbnQgJHVzZXJJZAogICAgICAgICAqIEByZXR1cm4gc3RyaW5nCiAgICAgICAgICovCiAgICAgICAgcHJvdGVjdGVkIGZ1bmN0aW9uIGFpckZvcm1zU3RvcmFnZVBhdGgoJHVzZXJJZCkKICAgIHs=</text>
       </register>
       <register name=":" type="4">
-        <text>66</text>
+        <text>64</text>
       </register>
     </registers>
     <search>
@@ -658,8 +661,6 @@
         <entry encoding="base64">XDxmb3JtMTA5NURhdGFcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>599</entry>
-        <entry>791</entry>
         <entry>866</entry>
         <entry>6000</entry>
         <entry>180</entry>
@@ -678,6 +679,8 @@
         <entry>vsp</entry>
         <entry>:66</entry>
         <entry>66</entry>
+        <entry>91</entry>
+        <entry>64</entry>
       </history-cmd>
       <history-expr />
       <history-input />
