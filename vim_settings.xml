@@ -54,13 +54,13 @@
       <file name="$USER_HOME$/bernieportal/app/Views/Composers/Sidebar/TimeComposer.php" timestamp="1496787657266">
         <mark key="[" line="41" column="11" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/views/aca-air/xml-generation-employers-list.blade.php" timestamp="1510607233480">
-        <mark key="'" line="26" column="35" />
-        <mark key="[" line="28" column="58" />
-        <mark key="]" line="28" column="58" />
-        <mark key="^" line="28" column="57" />
-        <mark key="." line="28" column="58" />
+      <file name="$USER_HOME$/bernieportal/legacy/AirReportModule.php" timestamp="1510612470955">
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
+        <mark key="^" line="307" column="0" />
       </file>
+      <file name="$USER_HOME$/bernieportal/resources/views/aca-air/xml-generation-employers-list.blade.php" timestamp="1510612594098" />
       <file name="$USER_HOME$/workspace/php/testProject/resources/views/dashboard.blade.php" timestamp="1504811117559">
         <mark key="[" line="63" column="26" />
       </file>
@@ -93,6 +93,11 @@
       </file>
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/tiles/wall-blue.js" timestamp="1503354559657">
         <mark key="[" line="3" column="17" />
+      </file>
+      <file name="$USER_HOME$/bernieportal/public/sites/all/modules/air_report/air_report.module" timestamp="1510613841159">
+        <mark key="]" line="444" column="44" />
+        <mark key="^" line="444" column="44" />
+        <mark key="." line="444" column="44" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/views/dashboards/sidebar/employer-employee-items.blade.php" timestamp="1502480216885">
         <mark key="[" line="3" column="43" />
@@ -166,7 +171,7 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/js/current-user-id.js" timestamp="1499278658594">
         <mark key="[" line="2" column="63" />
       </file>
-      <file name="/fragment.php" timestamp="1510607404806">
+      <file name="/fragment.php" timestamp="1510611669144">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="23" />
         <mark key="." line="0" column="23" />
@@ -325,10 +330,11 @@
       <file name="$USER_HOME$/bernieportal/app/Http/Requests/User/ShowUserRequest.php" timestamp="1496853931288">
         <mark key="[" line="21" column="49" />
       </file>
-      <file name="$USER_HOME$/bernieportal/legacy/Air/Models/AirXmlUiBuilder.php" timestamp="1510607416060">
-        <mark key="[" line="127" column="0" />
-        <mark key="]" line="127" column="0" />
-        <mark key="." line="127" column="0" />
+      <file name="$USER_HOME$/bernieportal/legacy/Air/Models/AirXmlUiBuilder.php" timestamp="1510613312603">
+        <mark key="[" line="162" column="21" />
+        <mark key="]" line="162" column="21" />
+        <mark key="." line="162" column="21" />
+        <mark key="^" line="160" column="20" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/sidebar-toggle.vue" timestamp="1496247983712">
         <mark key="[" line="12" column="13" />
@@ -384,7 +390,7 @@
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/worlds/levels/level.js" timestamp="1504391486114">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1510607399627">
+      <file name="/PHP Console" timestamp="1510612639991">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/views/employees/election-data.blade.php" timestamp="1506440738197">
@@ -420,7 +426,7 @@
       <file name="$USER_HOME$/workspace/soundbox_js_playground/index.html" timestamp="1504056226018">
         <mark key="[" line="6" column="8" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510599484087">
+      <file name="/Dummy.txt" timestamp="1510611304974">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/popover.vue" timestamp="1492636708489">
@@ -570,13 +576,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtIFF1ZXJ5ICRxdWVyeQogICAgICogQHJldHVybiBhcnJheQogICAgICov</text>
+        <text>PhpException</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>$employerInfo</text>
+        <text>PhpException</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmb3JtMTA5NURhdGFcPg==</text>
@@ -584,38 +590,38 @@
       <register name="0" type="4">
         <text encoding="base64">CiAgICAgICAgJA==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtIFF1ZXJ5ICRxdWVyeQogICAgICogQHJldHVybiBhcnJheQogICAgICov</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBcQnJhbmR5XEF1dGhcVXNlciAkdXNlcgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtIEFpckZvcm0xMDk0ICRhaXJGb3JtMTA5NERhdGEKICAgICAqIEByZXR1cm4gc3RyaW5nCiAgICAgKi8=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gOwogICAgICAgIAogICAgICAgICR1ID0gJHVzZXItPmlzU3VwZXJBZG1pbigpOwogICAgICAgICRmID0gXEZlYXR1cmU6OmVuYWJsZWQoXEZlYXR1cmU6OkJFTkVGSVRTKTsKCiAgICAgICAgcmV0dXJuICR1Owog</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">ICAgIC8qKgogICAgICogSGFuZGxlIHRoZSBldmVudC4KICAgICAqCiAgICAgKiBAcGFyYW0gIEVtcGxveWVyR2VuZXJhdGVkMTA5NEFuZDEwOTVDcyAkZXZlbnQKICAgICAqIEByZXR1cm4gdm9pZAogICAgICov</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtIFF1ZXJ5ICRxdWVyeQogICAgICogQHJldHVybiBhcnJheQogICAgICov</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">IAo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtIEFpckZvcm0xMDk0ICRhaXJGb3JtMTA5NERhdGEKICAgICAqIEByZXR1cm4gc3RyaW5nCiAgICAgKi8=</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">ICAgICAgIDxsaT57eyAkZW1wbG95ZXItPmdldEJ1c2luZXNzTmFtZSgpIH19PC9saT4KICAgICAgICA8bGk+e3sgJGVtcGxveWVyLT5nZXRBZGRyZXNzTGluZSgpIH19PC9saT4KICAgICAgICA8bGk+e3sgJGVtcGxveWVyLT5nZXRDaXR5Tm0oKSB9fSwge3sgJGVtcGxveWVyLT5nZXRVc1N0YXRlQ2QoKSB9fSB7eyAkZW1wbG95ZXItPmdldFVzWmlwQ2QoKSB9fTwvbGk+</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogSGFuZGxlIHRoZSBldmVudC4KICAgICAqCiAgICAgKiBAcGFyYW0gIEVtcGxveWVyR2VuZXJhdGVkMTA5NEFuZDEwOTVDcyAkZXZlbnQKICAgICAqIEByZXR1cm4gdm9pZAogICAgICov</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXZlbnQobmV3IEVtcGxveWVyR2VuZXJhdGVkMTA5NEFuZDEwOTVDcygkZW1wbG95ZXJBaXJGb3JtcywgJGdlbmVyYXRlZFBkZk9iamVjdHMpKTsK</text>
+        <text encoding="base64">IAo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+YWlyRW1wbG95ZXItPnppcAo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgICAgIDxsaT57eyAkZW1wbG95ZXItPmdldEJ1c2luZXNzTmFtZSgpIH19PC9saT4KICAgICAgICA8bGk+e3sgJGVtcGxveWVyLT5nZXRBZGRyZXNzTGluZSgpIH19PC9saT4KICAgICAgICA8bGk+e3sgJGVtcGxveWVyLT5nZXRDaXR5Tm0oKSB9fSwge3sgJGVtcGxveWVyLT5nZXRVc1N0YXRlQ2QoKSB9fSB7eyAkZW1wbG95ZXItPmdldFVzWmlwQ2QoKSB9fTwvbGk+</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+YWlyRW1wbG95ZXItPnN0YXRlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXZlbnQobmV3IEVtcGxveWVyR2VuZXJhdGVkMTA5NEFuZDEwOTVDcygkZW1wbG95ZXJBaXJGb3JtcywgJGdlbmVyYXRlZFBkZk9iamVjdHMpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+YWlyRW1wbG95ZXItPmNpdHkK</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YWlyRW1wbG95ZXItPnppcAo=</text>
       </register>
       <register name=":" type="4">
-        <text>64</text>
+        <text>56</text>
       </register>
     </registers>
     <search>
@@ -651,8 +657,6 @@
         <entry encoding="base64">XDxmb3JtMTA5NURhdGFcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>866</entry>
-        <entry>6000</entry>
         <entry>180</entry>
         <entry>472</entry>
         <entry>223</entry>
@@ -664,13 +668,15 @@
         <entry>129</entry>
         <entry>195</entry>
         <entry>vsw</entry>
-        <entry>56</entry>
         <entry>92</entry>
         <entry>vsp</entry>
         <entry>:66</entry>
         <entry>66</entry>
         <entry>91</entry>
         <entry>64</entry>
+        <entry>160</entry>
+        <entry>50</entry>
+        <entry>56</entry>
       </history-cmd>
       <history-expr />
       <history-input />
