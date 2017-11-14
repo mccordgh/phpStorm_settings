@@ -164,7 +164,7 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/js/current-user-id.js" timestamp="1499278658594">
         <mark key="[" line="2" column="63" />
       </file>
-      <file name="/fragment.php" timestamp="1510694284174">
+      <file name="/fragment.php" timestamp="1510695779048">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="23" />
         <mark key="." line="0" column="23" />
@@ -302,7 +302,9 @@
       <file name="$USER_HOME$/bernieportal/public/sites/all/modules/clientele/js/clientele_user_login_block.js" timestamp="1505318597961">
         <mark key="[" line="19" column="46" />
       </file>
-      <file name="$USER_HOME$/bernieportal/legacy/Reports/BillingReportModule.php" timestamp="1510694282784" />
+      <file name="$USER_HOME$/bernieportal/legacy/Reports/BillingReportModule.php" timestamp="1510695738558">
+        <mark key="[" line="1188" column="52" />
+      </file>
       <file name="$USER_HOME$/workspace/php/testProject/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesUsers.php" timestamp="1504817286923">
         <mark key="[" line="75" column="67" />
       </file>
@@ -315,6 +317,7 @@
       <file name="$USER_HOME$/workspace/emoji_rogue_like/js/main.js" timestamp="1506373361728">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/bernieportal/legacy/BhReportsModule.php" timestamp="1510696715069" />
       <file name="$USER_HOME$/bernieportal/app/Http/Requests/User/ShowUserRequest.php" timestamp="1496853931288">
         <mark key="[" line="21" column="49" />
       </file>
@@ -372,9 +375,10 @@
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/worlds/levels/level.js" timestamp="1504391486114">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1510694241551">
+      <file name="/PHP Console" timestamp="1510696863443">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/bernieportal/public/sites/all/modules/bh_reports/bh_reports.module" timestamp="1510695750434" />
       <file name="$USER_HOME$/bernieportal/resources/views/employees/election-data.blade.php" timestamp="1506440738197">
         <mark key="[" line="113" column="56" />
       </file>
@@ -605,7 +609,7 @@
         <text encoding="base64">ICAgIC8qKgogICAgICogSGFuZGxlIHRoZSBldmVudC4KICAgICAqCiAgICAgKiBAcGFyYW0gIEVtcGxveWVyR2VuZXJhdGVkMTA5NEFuZDEwOTVDcyAkZXZlbnQKICAgICAqIEByZXR1cm4gdm9pZAogICAgICov</text>
       </register>
       <register name=":" type="4">
-        <text>157</text>
+        <text>27</text>
       </register>
     </registers>
     <search>
@@ -641,7 +645,6 @@
         <entry encoding="base64">XDxmb3JtMTA5NURhdGFcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>223</entry>
         <entry>6888</entry>
         <entry>6900</entry>
         <entry>6991</entry>
@@ -661,6 +664,7 @@
         <entry>129</entry>
         <entry>106</entry>
         <entry>157</entry>
+        <entry>27</entry>
       </history-cmd>
       <history-expr />
       <history-input />
