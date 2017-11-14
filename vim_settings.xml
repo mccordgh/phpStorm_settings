@@ -30,11 +30,11 @@
       <file name="$USER_HOME$/bernieportal/public/sites/all/modules/clientele/clientele_user.module" timestamp="1509390769159">
         <mark key="[" line="46" column="40" />
       </file>
-      <file name="$USER_HOME$/bernieportal/tests/app/Listeners/Aca/Generate1095CsPdfMailerZipFileTest.php" timestamp="1510604281369">
-        <mark key="[" line="45" column="58" />
-        <mark key="]" line="45" column="69" />
-        <mark key="." line="45" column="69" />
-        <mark key="^" line="45" column="69" />
+      <file name="$USER_HOME$/bernieportal/tests/app/Listeners/Aca/Generate1095CsPdfMailerZipFileTest.php" timestamp="1510689310269">
+        <mark key="[" line="40" column="59" />
+        <mark key="]" line="40" column="59" />
+        <mark key="." line="40" column="59" />
+        <mark key="^" line="38" column="39" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Employers/EmployerRepository.php" timestamp="1509638091233">
         <mark key="[" line="35" column="5" />
@@ -244,6 +244,7 @@
       <file name="$USER_HOME$/workspace/portfolio_os/src/js/main.js" timestamp="1508693809881">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/bernieportal/app/Listeners/Aca/Generate1095CsPdfMailerZipFile.php" timestamp="1510689245021" />
       <file name="$USER_HOME$/bernieportal/app/Onboarding/EmployeesImport.php" timestamp="1506355596605">
         <mark key="[" line="5" column="1" />
       </file>
@@ -562,13 +563,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">c3RvcmFnZV9wYXRoKCdhY2FfYWlyLycpIC4gJGFpckZvcm0xMDk0RGF0YQogICAgICAgICAgICAgICAgLT5nZXRFbXBsb3llcklkKCkgLiAnL3BkZl9tYWlsZXIvJyAuICRhaXJGb3JtMTA5NERhdGEtPmdldEZvcm1ZZWFyKCk7</text>
+        <text>validateEmployer1094DataForCoverLetter</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>$currentYearDirectory</text>
+        <text>validateEmployer1094DataForCoverLetter</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmb3JtMTA5NURhdGFcPg==</text>
