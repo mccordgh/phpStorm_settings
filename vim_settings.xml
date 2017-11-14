@@ -164,7 +164,7 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/js/current-user-id.js" timestamp="1499278658594">
         <mark key="[" line="2" column="63" />
       </file>
-      <file name="/fragment.php" timestamp="1510678282081">
+      <file name="/fragment.php" timestamp="1510694284174">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="23" />
         <mark key="." line="0" column="23" />
@@ -302,6 +302,7 @@
       <file name="$USER_HOME$/bernieportal/public/sites/all/modules/clientele/js/clientele_user_login_block.js" timestamp="1505318597961">
         <mark key="[" line="19" column="46" />
       </file>
+      <file name="$USER_HOME$/bernieportal/legacy/Reports/BillingReportModule.php" timestamp="1510694282784" />
       <file name="$USER_HOME$/workspace/php/testProject/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesUsers.php" timestamp="1504817286923">
         <mark key="[" line="75" column="67" />
       </file>
@@ -371,7 +372,7 @@
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/worlds/levels/level.js" timestamp="1504391486114">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1510687625380">
+      <file name="/PHP Console" timestamp="1510694241551">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/views/employees/election-data.blade.php" timestamp="1506440738197">
@@ -604,7 +605,7 @@
         <text encoding="base64">ICAgIC8qKgogICAgICogSGFuZGxlIHRoZSBldmVudC4KICAgICAqCiAgICAgKiBAcGFyYW0gIEVtcGxveWVyR2VuZXJhdGVkMTA5NEFuZDEwOTVDcyAkZXZlbnQKICAgICAqIEByZXR1cm4gdm9pZAogICAgICov</text>
       </register>
       <register name=":" type="4">
-        <text>106</text>
+        <text>157</text>
       </register>
     </registers>
     <search>
@@ -640,7 +641,6 @@
         <entry encoding="base64">XDxmb3JtMTA5NURhdGFcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>472</entry>
         <entry>223</entry>
         <entry>6888</entry>
         <entry>6900</entry>
@@ -660,6 +660,7 @@
         <entry>56</entry>
         <entry>129</entry>
         <entry>106</entry>
+        <entry>157</entry>
       </history-cmd>
       <history-expr />
       <history-input />
