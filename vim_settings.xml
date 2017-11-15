@@ -99,6 +99,9 @@
       <file name="$USER_HOME$/bernieportal/app/Api/Transformers/Time/TimesheetTransformer.php" timestamp="1499884159706">
         <mark key="[" line="32" column="27" />
       </file>
+      <file name="$USER_HOME$/bernieportal/legacy/EmployeeRegModule.php" timestamp="1510787429103">
+        <mark key="[" line="5102" column="13" />
+      </file>
       <file name="$USER_HOME$/bernieportal/app/Api/Transformers/UserTransformer.php" timestamp="1495663599299">
         <mark key="[" line="16" column="24" />
       </file>
@@ -126,7 +129,7 @@
       <file name="$USER_HOME$/bernieportal/app/PTO/PtoType.php" timestamp="1507845372995">
         <mark key="[" line="5" column="13" />
       </file>
-      <file name="$USER_HOME$/bernieportal/public/sites/all/modules/employee_reg/employee_reg.module" timestamp="1509468953785">
+      <file name="$USER_HOME$/bernieportal/public/sites/all/modules/employee_reg/employee_reg.module" timestamp="1510787155488">
         <mark key="[" line="83" column="24" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Views/Composers/Sidebar/Sidebar.php" timestamp="1495661096600">
@@ -141,10 +144,10 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/js/current-user-id.js" timestamp="1499278658594">
         <mark key="[" line="2" column="63" />
       </file>
-      <file name="/fragment.php" timestamp="1510777057216">
+      <file name="/fragment.php" timestamp="1510787391783">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="23" />
-        <mark key="." line="0" column="23" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="13" />
       </file>
       <file name="$USER_HOME$/workspace/gamepad_api_demo/main.css" timestamp="1501271749114">
@@ -330,6 +333,7 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/sidebar/item.vue" timestamp="1492628890409">
         <mark key="[" line="52" column="2" />
       </file>
+      <file name="/EmployeeRegModule.php" timestamp="1510787520804" />
       <file name="$USER_HOME$/bernieportal/app/Views/Composers/Layout/Nav/BackLinkNavComposer.php" timestamp="1494879351196">
         <mark key="[" line="46" column="26" />
       </file>
@@ -360,7 +364,7 @@
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/worlds/levels/level.js" timestamp="1504391486114">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1510783580150">
+      <file name="/PHP Console" timestamp="1510787415367">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/public/sites/all/modules/bh_reports/bh_reports.module" timestamp="1510781153428" />
@@ -538,13 +542,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(</text>
+        <text encoding="base64">JGVtcGxveWVlLT5mcmVlemVfYWNjb3VudA==</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text encoding="base64">JGVtcGxveWVlLT5mcmVlemVfYWNjb3VudA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmb3JtMTA5NURhdGFcPg==</text>
@@ -585,7 +589,7 @@
         <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtIFF1ZXJ5ICRxdWVyeQogICAgICogQHJldHVybiBhcnJheQogICAgICov</text>
       </register>
       <register name=":" type="4">
-        <text>vsp</text>
+        <text>187</text>
       </register>
     </registers>
     <search>
@@ -621,7 +625,6 @@
         <entry encoding="base64">XDxmb3JtMTA5NURhdGFcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>6888</entry>
         <entry>6900</entry>
         <entry>6991</entry>
         <entry>7003</entry>
@@ -641,6 +644,7 @@
         <entry>66</entry>
         <entry>157</entry>
         <entry>vsp</entry>
+        <entry>187</entry>
       </history-cmd>
       <history-expr />
       <history-input />
