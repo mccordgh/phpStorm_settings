@@ -9,6 +9,7 @@
       <file name="$USER_HOME$/workspace/php/testProject/app/Http/Controllers/ContactController.php" timestamp="1503087041690">
         <mark key="[" line="8" column="6" />
       </file>
+      <file name="$USER_HOME$/bernieportal/app/Data/Query.php" timestamp="1510766770269" />
       <file name="$USER_HOME$/bernieportal/app/Carriers/Billing/LifeChildSummaryLineItem.php" timestamp="1508429199353">
         <mark key="[" line="39" column="6" />
       </file>
@@ -215,8 +216,11 @@
       <file name="$USER_HOME$/workspace/portfolio_os/src/js/main.js" timestamp="1508693809881">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/js/bh_reports.js" timestamp="1510765157983">
+      <file name="$USER_HOME$/bernieportal/resources/assets/js/bh_reports.js" timestamp="1510766592324">
         <mark key="[" line="137" column="24" />
+        <mark key="]" line="135" column="19" />
+        <mark key="^" line="135" column="19" />
+        <mark key="." line="135" column="19" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Onboarding/EmployeesImport.php" timestamp="1506355596605">
         <mark key="[" line="5" column="1" />
@@ -296,11 +300,11 @@
       <file name="$USER_HOME$/workspace/emoji_rogue_like/js/main.js" timestamp="1506373361728">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/bernieportal/legacy/BhReportsModule.php" timestamp="1510764993625">
-        <mark key="[" line="400" column="27" />
-        <mark key="]" line="400" column="27" />
-        <mark key="." line="400" column="27" />
-        <mark key="^" line="400" column="39" />
+      <file name="$USER_HOME$/bernieportal/legacy/BhReportsModule.php" timestamp="1510766790769">
+        <mark key="[" line="218" column="8" />
+        <mark key="]" line="218" column="8" />
+        <mark key="." line="218" column="8" />
+        <mark key="^" line="229" column="3" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Http/Requests/User/ShowUserRequest.php" timestamp="1496853931288">
         <mark key="[" line="21" column="49" />
@@ -353,10 +357,10 @@
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/worlds/levels/level.js" timestamp="1504391486114">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1510765374846">
+      <file name="/PHP Console" timestamp="1510766793914">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/bernieportal/public/sites/all/modules/bh_reports/bh_reports.module" timestamp="1510695750434" />
+      <file name="$USER_HOME$/bernieportal/public/sites/all/modules/bh_reports/bh_reports.module" timestamp="1510766601707" />
       <file name="$USER_HOME$/bernieportal/resources/views/employees/election-data.blade.php" timestamp="1506440738197">
         <mark key="[" line="113" column="56" />
       </file>
@@ -425,9 +429,6 @@
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/benefit-eoi/pending-buttons.vue" timestamp="1498596940985">
         <mark key="[" line="2" column="10" />
-      </file>
-      <file name="$USER_HOME$/bernieportal/legacy/EmployeeElectionModule.php" timestamp="1510186015736">
-        <mark key="p" line="116" column="19" />
       </file>
     </filemarks>
     <jumps>
@@ -534,13 +535,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Benefit types</text>
+        <text>return</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>Benefit types</text>
+        <text>return</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmb3JtMTA5NURhdGFcPg==</text>
@@ -581,7 +582,7 @@
         <text encoding="base64">ICAgIC8qKgogICAgICogSGFuZGxlIHRoZSBldmVudC4KICAgICAqCiAgICAgKiBAcGFyYW0gIEVtcGxveWVyR2VuZXJhdGVkMTA5NEFuZDEwOTVDcyAkZXZlbnQKICAgICAqIEByZXR1cm4gdm9pZAogICAgICov</text>
       </register>
       <register name=":" type="4">
-        <text>27</text>
+        <text>66</text>
       </register>
     </registers>
     <search>
@@ -627,7 +628,6 @@
         <entry>92</entry>
         <entry>vsp</entry>
         <entry>:66</entry>
-        <entry>66</entry>
         <entry>91</entry>
         <entry>64</entry>
         <entry>160</entry>
@@ -637,6 +637,7 @@
         <entry>106</entry>
         <entry>157</entry>
         <entry>27</entry>
+        <entry>66</entry>
       </history-cmd>
       <history-expr />
       <history-input />
