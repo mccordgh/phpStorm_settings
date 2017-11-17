@@ -118,7 +118,11 @@
       <file name="$USER_HOME$/workspace/Defend_The_Castle/.gitignore" timestamp="1506608558146">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/bernieportal/legacy/JobModule.php" timestamp="1510937279329" />
+      <file name="$USER_HOME$/bernieportal/legacy/JobModule.php" timestamp="1510938909325">
+        <mark key="[" line="109" column="19" />
+        <mark key="]" line="109" column="19" />
+        <mark key="." line="109" column="19" />
+      </file>
       <file name="$USER_HOME$/bernieportal/app/Subgroups/PTO/PTOSubgroupAllowance.php" timestamp="1507829097655">
         <mark key="[" line="7" column="0" />
       </file>
@@ -155,7 +159,7 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/js/current-user-id.js" timestamp="1499278658594">
         <mark key="[" line="2" column="63" />
       </file>
-      <file name="/fragment.php" timestamp="1510867935330">
+      <file name="/fragment.php" timestamp="1510938896567">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -380,7 +384,7 @@
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/worlds/levels/level.js" timestamp="1504391486114">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1510937104009">
+      <file name="/PHP Console" timestamp="1510938999127">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/views/employees/election-data.blade.php" timestamp="1506440738197">
@@ -557,13 +561,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>getDirectory</text>
+        <text>\URL::current()</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>getDirectory</text>
+        <text>\URL::current()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmb3JtMTA5NURhdGFcPg==</text>
