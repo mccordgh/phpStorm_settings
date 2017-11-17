@@ -103,14 +103,15 @@
       <file name="$USER_HOME$/bernieportal/app/Api/Transformers/UserTransformer.php" timestamp="1495663599299">
         <mark key="[" line="16" column="24" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/Ats/JobCandidatesController.php" timestamp="1510945908917" />
+      <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/Ats/JobCandidatesController.php" timestamp="1510948690579" />
       <file name="$USER_HOME$/workspace/Defend_The_Castle/.gitignore" timestamp="1506608558146">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/bernieportal/legacy/JobModule.php" timestamp="1510938909325">
-        <mark key="[" line="109" column="19" />
-        <mark key="]" line="109" column="19" />
-        <mark key="." line="109" column="19" />
+      <file name="$USER_HOME$/bernieportal/legacy/JobModule.php" timestamp="1510948962586">
+        <mark key="[" line="106" column="45" />
+        <mark key="]" line="107" column="44" />
+        <mark key="^" line="107" column="44" />
+        <mark key="." line="107" column="44" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Subgroups/PTO/PTOSubgroupAllowance.php" timestamp="1507829097655">
         <mark key="[" line="7" column="0" />
@@ -253,7 +254,7 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/onboarding/personal-info.vue" timestamp="1508525254571">
         <mark key="[" line="175" column="22" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Http/routes.php" timestamp="1510945000329" />
+      <file name="$USER_HOME$/bernieportal/app/Http/routes.php" timestamp="1510948662248" />
       <file name="$USER_HOME$/bernieportal/vendor/league/fractal/src/Scope.php" timestamp="1510946966732" />
       <file name="$USER_HOME$/workspace/emoji_rogue_like/css/main.css" timestamp="1506373068544">
         <mark key="[" line="0" column="0" />
@@ -391,7 +392,7 @@
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/worlds/levels/level.js" timestamp="1504391486114">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1510947729088">
+      <file name="/PHP Console" timestamp="1510949199788">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/views/employees/election-data.blade.php" timestamp="1506440738197">
@@ -419,7 +420,7 @@
         <mark key="[" line="5" column="1" />
       </file>
       <file name="$USER_HOME$/bernieportal/vendor/league/fractal/src/Manager.php" timestamp="1510946844894" />
-      <file name="$USER_HOME$/bernieportal/app/Api/Transformers/Ats/CandidateTransformer.php" timestamp="1510947739443" />
+      <file name="$USER_HOME$/bernieportal/app/Api/Transformers/Ats/CandidateTransformer.php" timestamp="1510948643794" />
       <file name="$USER_HOME$/workspace/soundbox_js_playground/index.html" timestamp="1504056226018">
         <mark key="[" line="6" column="8" />
       </file>
