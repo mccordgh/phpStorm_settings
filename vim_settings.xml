@@ -114,7 +114,7 @@
       <file name="$USER_HOME$/bernieportal/app/Api/Transformers/UserTransformer.php" timestamp="1495663599299">
         <mark key="[" line="16" column="24" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/Ats/JobCandidatesController.php" timestamp="1510937169391" />
+      <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/Ats/JobCandidatesController.php" timestamp="1510945005066" />
       <file name="$USER_HOME$/workspace/Defend_The_Castle/.gitignore" timestamp="1506608558146">
         <mark key="[" line="0" column="0" />
       </file>
@@ -245,13 +245,18 @@
         <mark key="^" line="135" column="19" />
         <mark key="." line="135" column="19" />
       </file>
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/job-candidates-listing.vue" timestamp="1510945046454">
+        <mark key="[" line="68" column="29" />
+        <mark key="]" line="68" column="29" />
+        <mark key="." line="68" column="29" />
+      </file>
       <file name="$USER_HOME$/bernieportal/app/Onboarding/EmployeesImport.php" timestamp="1506355596605">
         <mark key="[" line="5" column="1" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/onboarding/personal-info.vue" timestamp="1508525254571">
         <mark key="[" line="175" column="22" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Http/routes.php" timestamp="1510937140817" />
+      <file name="$USER_HOME$/bernieportal/app/Http/routes.php" timestamp="1510945000329" />
       <file name="$USER_HOME$/workspace/emoji_rogue_like/css/main.css" timestamp="1506373068544">
         <mark key="[" line="0" column="0" />
       </file>
@@ -384,7 +389,7 @@
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/worlds/levels/level.js" timestamp="1504391486114">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1510944216821">
+      <file name="/PHP Console" timestamp="1510944951142">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/views/employees/election-data.blade.php" timestamp="1506440738197">
@@ -561,13 +566,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>\URL::current()</text>
+        <text>n</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>\URL::current()</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmb3JtMTA5NURhdGFcPg==</text>
