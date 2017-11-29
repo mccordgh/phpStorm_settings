@@ -9,7 +9,6 @@
       <file name="$USER_HOME$/workspace/php/testProject/app/Http/Controllers/ContactController.php" timestamp="1503087041690">
         <mark key="[" line="8" column="6" />
       </file>
-      <file name="$USER_HOME$/bernieportal/public/sites/all/modules/payroll/payroll.module" timestamp="1511982119236" />
       <file name="$USER_HOME$/bernieportal/app/Carriers/Billing/LifeChildSummaryLineItem.php" timestamp="1508429199353">
         <mark key="[" line="39" column="6" />
       </file>
@@ -27,6 +26,12 @@
       </file>
       <file name="$USER_HOME$/bernieportal/app/Ats/Candidate.php" timestamp="1502737804653">
         <mark key="[" line="32" column="86" />
+      </file>
+      <file name="$USER_HOME$/workspace/talk_slides/what_i_learned_at_nodevember_2017/index.html" timestamp="1511996527910">
+        <mark key="[" line="26" column="23" />
+        <mark key="]" line="26" column="23" />
+        <mark key="." line="26" column="23" />
+        <mark key="^" line="26" column="28" />
       </file>
       <file name="$USER_HOME$/bernieportal/public/sites/all/modules/clientele/clientele_user.module" timestamp="1509390769159">
         <mark key="[" line="46" column="40" />
@@ -573,14 +578,14 @@
       <jump line="133" column="9" filename="$USER_HOME$/bernieportal/resources/assets/components/ats/job-candidates-listing.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CSAgICAgICAge3sgdmFyX2R1bXAoJGZvcm0pIH19Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Stuffs</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>JobSharingTransformer</text>
+        <text>Stuffs</text>
       </register>
       <register name="/" type="4">
         <text>ApiRequest</text>
