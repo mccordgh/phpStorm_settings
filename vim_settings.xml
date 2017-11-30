@@ -27,11 +27,11 @@
       <file name="$USER_HOME$/bernieportal/app/Ats/Candidate.php" timestamp="1502737804653">
         <mark key="[" line="32" column="86" />
       </file>
-      <file name="$USER_HOME$/workspace/talk_slides/what_i_learned_at_nodevember_2017/index.html" timestamp="1511998936883">
-        <mark key="[" line="84" column="18" />
-        <mark key="]" line="77" column="0" />
-        <mark key="^" line="77" column="0" />
-        <mark key="." line="77" column="0" />
+      <file name="$USER_HOME$/workspace/talk_slides/what_i_learned_at_nodevember_2017/index.html" timestamp="1512063796897">
+        <mark key="[" line="98" column="15" />
+        <mark key="]" line="98" column="15" />
+        <mark key="^" line="87" column="0" />
+        <mark key="." line="98" column="15" />
       </file>
       <file name="$USER_HOME$/bernieportal/public/sites/all/modules/clientele/clientele_user.module" timestamp="1509390769159">
         <mark key="[" line="46" column="40" />
@@ -579,13 +579,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(think photoshop layers)</text>
+        <text>Composite</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>(think photoshop layers)</text>
+        <text>Composite</text>
       </register>
       <register name="/" type="4">
         <text>ApiRequest</text>
