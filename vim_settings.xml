@@ -27,11 +27,11 @@
       <file name="$USER_HOME$/bernieportal/app/Ats/Candidate.php" timestamp="1502737804653">
         <mark key="[" line="32" column="86" />
       </file>
-      <file name="$USER_HOME$/workspace/talk_slides/what_i_learned_at_nodevember_2017/index.html" timestamp="1512063796897">
-        <mark key="[" line="98" column="15" />
-        <mark key="]" line="98" column="15" />
-        <mark key="^" line="87" column="0" />
-        <mark key="." line="98" column="15" />
+      <file name="$USER_HOME$/workspace/talk_slides/what_i_learned_at_nodevember_2017/index.html" timestamp="1512066340564">
+        <mark key="[" line="264" column="113" />
+        <mark key="]" line="264" column="97" />
+        <mark key="." line="264" column="97" />
+        <mark key="^" line="264" column="97" />
       </file>
       <file name="$USER_HOME$/bernieportal/public/sites/all/modules/clientele/clientele_user.module" timestamp="1509390769159">
         <mark key="[" line="46" column="40" />
@@ -579,13 +579,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Composite</text>
+        <text>a</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>Composite</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
         <text>ApiRequest</text>
@@ -594,34 +594,34 @@
         <text encoding="base64">CiAgICAgICAgJA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQ29uZHVjaXZlIHRvIGNvbGxhYm9yYXRpb24K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRGlzcGxheSBub25lLCBzY3JpcHQgdGFncywgbWV0YSB0YWdzLCBoZWFkIGVsZW1lbnQsIGV0Yy4gYXJlIG9taXR0ZWQgc2luY2UgdGhleSdyZSBub3QgcmVmbGVjdGVkIGluIHRoZSByZW5kZXJlZCBvdXRwdXQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgQ29uZHVjaXZlIHRvIGNvbGxhYm9yYXRpb24K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYGBgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTm90IDEgdG8gMSB3aXRoIHRoZSBET00K</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB9Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IDxzZWN0aW9uPkNTUyBPYmplY3QgTW9kZWw8YnI+IE5vdCAxIHRvIDEgd2l0aCB0aGUgRE9NCiAgICAgICAgICBEaXNwbGF5IG5vbmUsIHNjcmlwdCB0YWdzLCBtZXRhIHRhZ3MsIGhlYWQgZWxlbWVudCwgZXRjLiBhcmUgb21pdHRlZCBzaW5jZSB0aGV5J3JlIG5vdCByZWZsZWN0ZWQgaW4gdGhlIHJlbmRlcmVkIG91dHB1dDwvc2VjdGlvbj4KICAgICAgICA=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJuYW1lIjogIkx1a2UgU2t5d2Fsa2VyIgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAibWUiOiB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYGBgCg==</text>
       </register>
       <register name=":" type="4">
         <text>18</text>
