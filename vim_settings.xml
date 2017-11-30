@@ -63,7 +63,7 @@
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/worlds/world.js" timestamp="1506610094234">
         <mark key="[" line="15" column="50" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Navigation/Items.php" timestamp="1512071067780">
+      <file name="$USER_HOME$/bernieportal/app/Navigation/Items.php" timestamp="1512079512622">
         <mark key="[" line="83" column="5" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/benefit-provider/client-policy-numbers.vue" timestamp="1509661444709">
@@ -164,7 +164,7 @@
         <mark key="[" line="2" column="63" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/billing/benefit-billing-current.vue" timestamp="1512075630126" />
-      <file name="/fragment.php" timestamp="1512073164837">
+      <file name="/fragment.php" timestamp="1512079606408">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/gamepad_api_demo/main.css" timestamp="1501271749114">
@@ -196,12 +196,6 @@
       </file>
       <file name="$USER_HOME$/workspace/php/testProject/app/Http/Kernel.php" timestamp="1504817441978">
         <mark key="[" line="32" column="13" />
-      </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/billing/billing-table.vue" timestamp="1512078006626">
-        <mark key="[" line="196" column="63" />
-        <mark key="]" line="196" column="63" />
-        <mark key="^" line="190" column="34" />
-        <mark key="." line="196" column="63" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/views/aca-air/1095-pdf-cover-letter.blade.php" timestamp="1510603237745">
         <mark key="[" line="41" column="58" />
@@ -255,13 +249,6 @@
         <mark key="]" line="135" column="19" />
         <mark key="^" line="135" column="19" />
         <mark key="." line="135" column="19" />
-      </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/job-candidates-listing.vue" timestamp="1510947660230">
-        <mark key="'" line="133" column="9" />
-        <mark key="[" line="242" column="0" />
-        <mark key="]" line="242" column="0" />
-        <mark key="." line="242" column="0" />
-        <mark key="^" line="248" column="39" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Onboarding/EmployeesImport.php" timestamp="1506355596605">
         <mark key="[" line="5" column="1" />
@@ -329,6 +316,7 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/benefit-provider/edi/settings.vue" timestamp="1509578463039">
         <mark key="[" line="271" column="10" />
       </file>
+      <file name="$USER_HOME$/bernieportal/app/Carriers/Billing/BillingRepository.php" timestamp="1512080202952" />
       <file name="$USER_HOME$/bernieportal/public/sites/all/modules/clientele/js/clientele_user_login_block.js" timestamp="1505318597961">
         <mark key="[" line="19" column="46" />
       </file>
@@ -395,7 +383,7 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/time/employees/timesheet.vue" timestamp="1496866552323">
         <mark key="[" line="3" column="37" />
       </file>
-      <file name="$USER_HOME$/bernieportal/legacy/BrokerPortalModule.php" timestamp="1512072118085" />
+      <file name="$USER_HOME$/bernieportal/legacy/BrokerPortalModule.php" timestamp="1512080097626" />
       <file name="$USER_HOME$/workspace/php/testProject/public/css/main.css" timestamp="1504813753200">
         <mark key="[" line="34" column="23" />
       </file>
@@ -405,7 +393,7 @@
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/worlds/levels/level.js" timestamp="1504391486114">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1512078036016">
+      <file name="/PHP Console" timestamp="1512079862432">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/views/employees/election-data.blade.php" timestamp="1506440738197">
@@ -437,7 +425,7 @@
       <file name="$USER_HOME$/workspace/soundbox_js_playground/index.html" timestamp="1504056226018">
         <mark key="[" line="6" column="8" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512072182214">
+      <file name="/Dummy.txt" timestamp="1512079462303">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
