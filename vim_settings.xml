@@ -15,6 +15,9 @@
       <file name="/a.dummy" timestamp="1510168742887">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/advent_of_code/day_1_captcha/index.html" timestamp="1512157276150">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/bernieportal/resources/views/dashboards/employer/current-enrollment.blade.php" timestamp="1502478648006">
         <mark key="[" line="0" column="1" />
       </file>
@@ -257,6 +260,11 @@
       </file>
       <file name="$USER_HOME$/workspace/emoji_rogue_like/css/main.css" timestamp="1506373068544">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/advent_of_code/day_1_captcha/index.js" timestamp="1512160160932">
+        <mark key="[" line="14" column="35" />
+        <mark key="]" line="14" column="35" />
+        <mark key="." line="14" column="35" />
       </file>
       <file name="$USER_HOME$/workspace/php/testProject/app/Http/Controllers/AboutController.php" timestamp="1503412371066">
         <mark key="[" line="8" column="50" />
@@ -580,13 +588,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">fHwg</text>
+        <text>1156</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">fHwg</text>
+        <text>1156</text>
       </register>
       <register name="/" type="4">
         <text>ApiRequest</text>
@@ -595,34 +603,34 @@
         <text encoding="base64">CiAgICAgICAgJA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ29uZHVjaXZlIHRvIGNvbGxhYm9yYXRpb24K</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhgJHtpfSArICR7c2Vjb25kSW5kZXh9YCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ29uZHVjaXZlIHRvIGNvbGxhYm9yYXRpb24K</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYGBgCg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">CmNvbnNvbGUubG9nKGBoYWxmd2F5OiAke2hhbGZ3YXlBcm91bmR9YCk7Cgpjb25zb2xlLmxvZyhgY2FwdGNoYSBsZW5ndGg6ICR7Y2FwdGNoYS5sZW5ndGh9YCk7</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQ29uZHVjaXZlIHRvIGNvbGxhYm9yYXRpb24K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQ29uZHVjaXZlIHRvIGNvbGxhYm9yYXRpb24K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJuYW1lIjogIkx1a2UgU2t5d2Fsa2VyIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYGBgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAibWUiOiB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYGBgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJuYW1lIjogIkx1a2UgU2t5d2Fsa2VyIgo=</text>
       </register>
       <register name=":" type="4">
         <text>2991</text>
