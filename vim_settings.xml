@@ -368,7 +368,6 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/sidebar-toggle.vue" timestamp="1496247983712">
         <mark key="[" line="12" column="13" />
       </file>
-      <file name="$USER_HOME$/bernieportal/database/migrations/2017_11_02_153718_add_regenerating_bills_feature_toggle.php" timestamp="1512170247899" />
       <file name="$USER_HOME$/bernieportal/resources/assets/components/sortable.vue" timestamp="1494448912691">
         <mark key="[" line="2" column="58" />
       </file>
@@ -402,11 +401,8 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/time/employees/timesheet.vue" timestamp="1496866552323">
         <mark key="[" line="3" column="37" />
       </file>
-      <file name="$USER_HOME$/bernieportal/legacy/BrokerPortalModule.php" timestamp="1512171619925">
-        <mark key="[" line="2995" column="64" />
-        <mark key="]" line="2995" column="64" />
-        <mark key="." line="2995" column="64" />
-        <mark key="^" line="2995" column="64" />
+      <file name="$USER_HOME$/bernieportal/legacy/BrokerPortalModule.php" timestamp="1512172237594">
+        <mark key="[" line="2996" column="20" />
       </file>
       <file name="$USER_HOME$/workspace/php/testProject/public/css/main.css" timestamp="1504813753200">
         <mark key="[" line="34" column="23" />
@@ -417,7 +413,7 @@
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/worlds/levels/level.js" timestamp="1504391486114">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1512171591441">
+      <file name="/PHP Console" timestamp="1512172098243">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/views/employees/election-data.blade.php" timestamp="1506440738197">
@@ -450,7 +446,7 @@
       <file name="$USER_HOME$/workspace/soundbox_js_playground/index.html" timestamp="1504056226018">
         <mark key="[" line="6" column="8" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512170749368">
+      <file name="/Dummy.txt" timestamp="1512171802136">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
@@ -605,13 +601,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Toggle</text>
+        <text encoding="base64">bXBsb3llcigpICYmIFxGZWF0dXJlOjplbmFibGVkKFxGZWF0dXJlOjpCRU5FRklUUyk=</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>Toggle</text>
+        <text encoding="base64">bXBsb3llcigpICYmIFxGZWF0dXJlOjplbmFibGVkKFxGZWF0dXJlOjpCRU5FRklUUyk=</text>
       </register>
       <register name="/" type="4">
         <text>ApiRequest</text>
@@ -652,7 +648,7 @@
         <text encoding="base64">ICAgICAgICBmb3JlYWNoICgkdmFsaWRSb2xlcyBhcyAkcm9sZSkgewo=</text>
       </register>
       <register name=":" type="4">
-        <text>2991</text>
+        <text>2995</text>
       </register>
     </registers>
     <search>
@@ -688,7 +684,6 @@
         <entry>ApiRequest</entry>
       </history-search>
       <history-cmd>
-        <entry>:66</entry>
         <entry>91</entry>
         <entry>64</entry>
         <entry>50</entry>
@@ -708,6 +703,7 @@
         <entry>119</entry>
         <entry>257</entry>
         <entry>2991</entry>
+        <entry>2995</entry>
       </history-cmd>
       <history-expr />
       <history-input />
