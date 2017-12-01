@@ -63,7 +63,7 @@
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/worlds/world.js" timestamp="1506610094234">
         <mark key="[" line="15" column="50" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Navigation/Items.php" timestamp="1512082089535">
+      <file name="$USER_HOME$/bernieportal/app/Navigation/Items.php" timestamp="1512151508830">
         <mark key="[" line="83" column="5" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/benefit-provider/client-policy-numbers.vue" timestamp="1509661444709">
@@ -380,10 +380,11 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/time/employees/timesheet.vue" timestamp="1496866552323">
         <mark key="[" line="3" column="37" />
       </file>
-      <file name="$USER_HOME$/bernieportal/legacy/BrokerPortalModule.php" timestamp="1512082025910">
-        <mark key="[" line="2991" column="20" />
-        <mark key="]" line="2991" column="20" />
-        <mark key="." line="2991" column="20" />
+      <file name="$USER_HOME$/bernieportal/legacy/BrokerPortalModule.php" timestamp="1512151531325">
+        <mark key="[" line="2993" column="19" />
+        <mark key="]" line="2993" column="19" />
+        <mark key="." line="2993" column="19" />
+        <mark key="^" line="2993" column="18" />
       </file>
       <file name="$USER_HOME$/workspace/php/testProject/public/css/main.css" timestamp="1504813753200">
         <mark key="[" line="34" column="23" />
@@ -394,7 +395,7 @@
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/worlds/levels/level.js" timestamp="1504391486114">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1512082660633">
+      <file name="/PHP Console" timestamp="1512151702789">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/views/employees/election-data.blade.php" timestamp="1506440738197">
@@ -579,13 +580,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">fHwg</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">fHwg</text>
       </register>
       <register name="/" type="4">
         <text>ApiRequest</text>
@@ -624,7 +625,7 @@
         <text encoding="base64">ICAgICAgICAgICAgYGBgCg==</text>
       </register>
       <register name=":" type="4">
-        <text>119</text>
+        <text>2991</text>
       </register>
     </registers>
     <search>
@@ -660,7 +661,6 @@
         <entry>ApiRequest</entry>
       </history-search>
       <history-cmd>
-        <entry>vsw</entry>
         <entry>92</entry>
         <entry>:66</entry>
         <entry>91</entry>
@@ -680,6 +680,7 @@
         <entry>24</entry>
         <entry>18</entry>
         <entry>119</entry>
+        <entry>2991</entry>
       </history-cmd>
       <history-expr />
       <history-input />
