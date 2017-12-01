@@ -66,8 +66,11 @@
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/worlds/world.js" timestamp="1506610094234">
         <mark key="[" line="15" column="50" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Navigation/Items.php" timestamp="1512151508830">
-        <mark key="[" line="83" column="5" />
+      <file name="$USER_HOME$/bernieportal/app/Navigation/Items.php" timestamp="1512161956036">
+        <mark key="[" line="319" column="13" />
+        <mark key="]" line="322" column="57" />
+        <mark key="^" line="322" column="57" />
+        <mark key="." line="322" column="57" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/benefit-provider/client-policy-numbers.vue" timestamp="1509661444709">
         <mark key="[" line="7" column="7" />
@@ -403,7 +406,7 @@
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/worlds/levels/level.js" timestamp="1504391486114">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1512161604165">
+      <file name="/PHP Console" timestamp="1512161908397">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/views/employees/election-data.blade.php" timestamp="1506440738197">
@@ -436,7 +439,7 @@
       <file name="$USER_HOME$/workspace/soundbox_js_playground/index.html" timestamp="1504056226018">
         <mark key="[" line="6" column="8" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512082043535">
+      <file name="/Dummy.txt" timestamp="1512161839867">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
@@ -636,7 +639,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICJuYW1lIjogIkx1a2UgU2t5d2Fsa2VyIgo=</text>
       </register>
       <register name=":" type="4">
-        <text>2991</text>
+        <text>257</text>
       </register>
     </registers>
     <search>
@@ -672,7 +675,6 @@
         <entry>ApiRequest</entry>
       </history-search>
       <history-cmd>
-        <entry>92</entry>
         <entry>:66</entry>
         <entry>91</entry>
         <entry>64</entry>
@@ -692,6 +694,7 @@
         <entry>18</entry>
         <entry>119</entry>
         <entry>2991</entry>
+        <entry>257</entry>
       </history-cmd>
       <history-expr />
       <history-input />
