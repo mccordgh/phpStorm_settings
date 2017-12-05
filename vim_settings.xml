@@ -130,6 +130,11 @@
         <mark key="]" line="17" column="30" />
         <mark key="." line="17" column="30" />
       </file>
+      <file name="$USER_HOME$/bernieportal/public/sites/all/modules/broker_portal/broker_portal.module" timestamp="1512487136008">
+        <mark key="[" line="328" column="22" />
+        <mark key="]" line="328" column="22" />
+        <mark key="." line="328" column="22" />
+      </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/loading-popup.vue" timestamp="1498514478199">
         <mark key="[" line="8" column="27" />
       </file>
@@ -389,7 +394,7 @@
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/worlds/levels/level.js" timestamp="1504391486114">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1512429620140">
+      <file name="/PHP Console" timestamp="1512488175418">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/views/employees/election-data.blade.php" timestamp="1506440738197">
@@ -434,13 +439,7 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/benefit-provider/client-bills.vue" timestamp="1510596330385">
         <mark key="[" line="101" column="29" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/general-agency/agency-list.vue" timestamp="1512429243783">
-        <mark key="'" line="144" column="65" />
-        <mark key="[" line="70" column="31" />
-        <mark key="]" line="70" column="31" />
-        <mark key="." line="70" column="31" />
-        <mark key="^" line="144" column="65" />
-      </file>
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/general-agency/agency-list.vue" timestamp="1512488133291" />
       <file name="$USER_HOME$/bernieportal/resources/assets/sass/_modal.scss" timestamp="1500415612390">
         <mark key="[" line="16" column="30" />
       </file>
@@ -589,13 +588,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>masquerade-modal</text>
+        <text>filteredAgencies</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>masquerade-modal</text>
+        <text>filteredAgencies</text>
       </register>
       <register name="/" type="4">
         <text>ApiRequest</text>
@@ -604,32 +603,32 @@
         <text encoding="base64">CiAgICAgICAgJA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">ICAgIDogNDAwcHg7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">IAo=</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">IDxkaXYgY2xhc3M9Im1vZGFsIiB2LXNob3c9InNob3ciPgogICAgPGgxIGNsYXNzPSJtb2RhbF9fdGl0bGUiPgogICAgICA8c2xvdCBuYW1lPSJ0aXRsZSI+PC9zbG90PgogICAgICA8YSBocmVmIGNsYXNzPSJtb2RhbF9fY2xvc2UtYnV0dG9uIiBAY2xpY2sucHJldmVudD0iaGlkZU1vZGFsKCkiPjwvYT4KICAgIDwvaDE+CgogICAgICA8c2xvdCBuYW1lPSJib2R5Ij48L3Nsb3Q+CiAgICA8L2Rpdj4KICA8L2Rpdj4=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="4">
         <text>clientId: null,
       clientName: null,</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBpbXBvcnQgQnBNb2RhbCBmcm9tZGQgJ21vZGFsLnZ1ZSc7Cg==</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBpbXBvcnQgQnBNb2RhbCBmcm9tZGQgJ21vZGFsLnZ1ZSc7Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
