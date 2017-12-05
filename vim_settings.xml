@@ -394,7 +394,7 @@
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/worlds/levels/level.js" timestamp="1504391486114">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1512488175418">
+      <file name="/PHP Console" timestamp="1512492738964">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/views/employees/election-data.blade.php" timestamp="1506440738197">
@@ -438,6 +438,11 @@
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/benefit-provider/client-bills.vue" timestamp="1510596330385">
         <mark key="[" line="101" column="29" />
+      </file>
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/general-agency/agency-list.vue" timestamp="1512493173571">
+        <mark key="[" line="54" column="76" />
+        <mark key="]" line="54" column="76" />
+        <mark key="." line="54" column="76" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/sass/_modal.scss" timestamp="1500415612390">
         <mark key="[" line="16" column="30" />
@@ -587,13 +592,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>filteredAgencies</text>
+        <text>key</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>filteredAgencies</text>
+        <text>key</text>
       </register>
       <register name="/" type="4">
         <text>ApiRequest</text>
