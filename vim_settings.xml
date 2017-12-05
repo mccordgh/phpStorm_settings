@@ -37,6 +37,12 @@
         <mark key="[" line="32" column="86" />
       </file>
       <file name="$USER_HOME$/bernieportal/bootstrap/bernieportal.php" timestamp="1512410832719" />
+      <file name="$USER_HOME$/workspace/talk_slides/what_i_learned_at_nodevember_2017/index.html" timestamp="1512169737493">
+        <mark key="[" line="264" column="113" />
+        <mark key="]" line="264" column="97" />
+        <mark key="." line="264" column="97" />
+        <mark key="^" line="264" column="97" />
+      </file>
       <file name="$USER_HOME$/bernieportal/public/sites/all/modules/clientele/clientele_user.module" timestamp="1509390769159">
         <mark key="[" line="46" column="40" />
       </file>
@@ -51,6 +57,12 @@
       </file>
       <file name="$USER_HOME$/bernieportal/app/Views/Composers/Sidebar/TimeComposer.php" timestamp="1496787657266">
         <mark key="[" line="41" column="11" />
+      </file>
+      <file name="$USER_HOME$/bernieportal/legacy/AirReportModule.php" timestamp="1510854405006">
+        <mark key="[" line="57" column="43" />
+        <mark key="]" line="57" column="43" />
+        <mark key="." line="57" column="43" />
+        <mark key="^" line="57" column="29" />
       </file>
       <file name="$USER_HOME$/workspace/php/testProject/resources/views/dashboard.blade.php" timestamp="1504811117559">
         <mark key="[" line="63" column="26" />
@@ -208,6 +220,12 @@
       <file name="$USER_HOME$/workspace/php/testProject/app/Http/Kernel.php" timestamp="1504817441978">
         <mark key="[" line="32" column="13" />
       </file>
+      <file name="$USER_HOME$/bernieportal/resources/views/aca-air/1095-pdf-cover-letter.blade.php" timestamp="1510603237745">
+        <mark key="[" line="41" column="58" />
+        <mark key="]" line="41" column="58" />
+        <mark key="." line="41" column="58" />
+        <mark key="^" line="39" column="37" />
+      </file>
       <file name="$USER_HOME$/bernieportal/legacy/UserManagementModule.php" timestamp="1508444607673">
         <mark key="[" line="505" column="30" />
       </file>
@@ -249,6 +267,12 @@
       <file name="$USER_HOME$/bernieportal/legacy/PayrollModule.php" timestamp="1511982041893">
         <mark key="[" line="150" column="61" />
       </file>
+      <file name="$USER_HOME$/bernieportal/resources/assets/js/bh_reports.js" timestamp="1510766592324">
+        <mark key="[" line="137" column="24" />
+        <mark key="]" line="135" column="19" />
+        <mark key="^" line="135" column="19" />
+        <mark key="." line="135" column="19" />
+      </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/benefit-provider/edi/file.vue" timestamp="1512424835422" />
       <file name="$USER_HOME$/bernieportal/app/Onboarding/EmployeesImport.php" timestamp="1506355596605">
         <mark key="[" line="5" column="1" />
@@ -256,10 +280,11 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/onboarding/personal-info.vue" timestamp="1508525254571">
         <mark key="[" line="175" column="22" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Http/routes.php" timestamp="1512164968536">
-        <mark key="[" line="3" column="11" />
-        <mark key="]" line="3" column="11" />
-        <mark key="." line="3" column="11" />
+      <file name="$USER_HOME$/bernieportal/app/Http/routes.php" timestamp="1512495047659">
+        <mark key="[" line="64" column="48" />
+        <mark key="]" line="64" column="48" />
+        <mark key="." line="64" column="48" />
+        <mark key="^" line="64" column="77" />
       </file>
       <file name="$USER_HOME$/workspace/emoji_rogue_like/css/main.css" timestamp="1506373068544">
         <mark key="[" line="0" column="0" />
@@ -329,6 +354,12 @@
       <file name="$USER_HOME$/bernieportal/public/sites/all/modules/clientele/js/clientele_user_login_block.js" timestamp="1505318597961">
         <mark key="[" line="19" column="46" />
       </file>
+      <file name="$USER_HOME$/bernieportal/legacy/Reports/BillingReportModule.php" timestamp="1510781098367">
+        <mark key="[" line="156" column="107" />
+        <mark key="]" line="156" column="105" />
+        <mark key="^" line="156" column="105" />
+        <mark key="." line="156" column="105" />
+      </file>
       <file name="$USER_HOME$/workspace/php/testProject/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesUsers.php" timestamp="1504817286923">
         <mark key="[" line="75" column="67" />
       </file>
@@ -340,6 +371,12 @@
       </file>
       <file name="$USER_HOME$/workspace/emoji_rogue_like/js/main.js" timestamp="1506373361728">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/bernieportal/legacy/BhReportsModule.php" timestamp="1510781202390">
+        <mark key="[" line="227" column="0" />
+        <mark key="]" line="227" column="0" />
+        <mark key="^" line="218" column="7" />
+        <mark key="." line="227" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Http/Requests/User/ShowUserRequest.php" timestamp="1496853931288">
         <mark key="[" line="21" column="49" />
@@ -428,7 +465,7 @@
       <file name="$USER_HOME$/workspace/soundbox_js_playground/index.html" timestamp="1504056226018">
         <mark key="[" line="6" column="8" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512493979896">
+      <file name="/Dummy.txt" timestamp="1512494751737">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -449,6 +486,12 @@
       </file>
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/entities/creatures/player.js" timestamp="1506609965011">
         <mark key="[" line="9" column="19" />
+      </file>
+      <file name="$USER_HOME$/bernieportal/app/Views/Composers/Layout/Nav/QuaternaryNavComposer.php" timestamp="1510946469472">
+        <mark key="[" line="18" column="62" />
+        <mark key="]" line="4" column="24" />
+        <mark key="^" line="4" column="24" />
+        <mark key="." line="4" column="24" />
       </file>
       <file name="$USER_HOME$/BerniePortalWiki/FooterBackup.html" timestamp="1502825749665">
         <mark key="[" line="20" column="47" />
@@ -592,13 +635,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>key</text>
+        <text>]</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>key</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>ApiRequest</text>
