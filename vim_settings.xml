@@ -400,10 +400,10 @@
       <file name="$USER_HOME$/bernieportal/resources/views/employees/get-employee-previous-imported-elections.blade.php" timestamp="1509144383101">
         <mark key="[" line="10" column="32" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Api/Transformers/GeneralAgencies/GeneralAgencyAgencyListTransformer.php" timestamp="1512754634328">
-        <mark key="[" line="17" column="42" />
-        <mark key="]" line="17" column="42" />
-        <mark key="." line="17" column="42" />
+      <file name="$USER_HOME$/bernieportal/app/Api/Transformers/GeneralAgencies/GeneralAgencyAgencyListTransformer.php" timestamp="1512755419926">
+        <mark key="[" line="25" column="16" />
+        <mark key="]" line="25" column="16" />
+        <mark key="." line="25" column="16" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/GeneralAgencies/GeneralAgencyRepository.php" timestamp="1512747642964" />
       <file name="$USER_HOME$/bernieportal/app/Data/Gateways/Benefits/BenefitGateway.php" timestamp="1500584485332">
@@ -460,7 +460,7 @@
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/worlds/levels/level.js" timestamp="1504391486114">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1512754527901">
+      <file name="/PHP Console" timestamp="1512755345008">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/views/employees/election-data.blade.php" timestamp="1506440738197">
@@ -669,7 +669,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>rid</text>
+        <text encoding="base64">JGFnZW5jeS0+c2VydmljZVRlYW1NZW1iZXJzKCkKICAgICAgICAgICAgICAgICAgICAtPndpdGhSb2xlcyhSb2xlOjpzZXJ2aWNlVGVhbU1lbWJlcigpLT5nZXRSb2xlSWQoKSkKICAgICAgICAgICAgICAgICAgICAtPmdldCgp</text>
       </register>
       <register name="d" type="4">
         <text />
@@ -683,35 +683,35 @@
       <register name="0" type="4">
         <text encoding="base64">CiAgICAgICAgJA==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJGE7Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">JGFnZW5jeS0+c2VydmljZVRlYW1NZW1iZXJzKCkKICAgICAgICAgICAgICAgICAgICAtPndpdGhSb2xlcyhSb2xlOjpzZXJ2aWNlVGVhbU1lbWJlcigpLT5nZXRSb2xlSWQoKSkKICAgICAgICAgICAgICAgICAgICAtPmdldCgp</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">JHRoaXMtPnBsdWNrSWRzQW5kTmFtZXMoCiAgICAgICAgICAgICAgICAkYWdlbmN5LT5zZXJ2aWNlVGVhbU1lbWJlcnMoKQogICAgICAgICAgICAgICAgICAgIC0+d2l0aFJvbGVzKFJvbGU6OnNlcnZpY2VUZWFtTWVtYmVyKCktPmdldFJvbGVJZCgpKQogICAgICAgICAgICAgICAgICAgIC0+Z2V0KCk=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJGE7Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text encoding="base64">JHRoaXMtPmJlbG9uZ3NUb01hbnkoU2VydmljZVRlYW1NZW1iZXI6OmNsYXNzLCAndXNlcnNfaGllcmFyY2h5JywgJ3BhcmVudCcsICd1aWQnKQogICAgICAgICAgICAtPndoZXJlKCdyb2xlLnJpZCcsIFJvbGU6OlNFUlZJQ0VfVEVBTV9NRU1CRVIpOw==</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text encoding="base64">dGhpcy0+YmVsb25nc1RvTWFueShBZ2VuY3k6OmNsYXNzLCAndXNlcnNfaGllcmFyY2h5JywgJ3BhcmVudCcsICd1aWQnKQogICAgICAgICAgICAtPndoZXJlSGFzKCdyb2xlcycsIGZ1bmN0aW9uICgkcXVlcnkpIHs=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9KTsK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">bwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">b29vb28K</text>
+        <text encoding="base64">ICAgICAgICB9KTsK</text>
       </register>
       <register name=":" type="4">
         <text>585</text>
