@@ -258,7 +258,7 @@
       <file name="$USER_HOME$/workspace/soundbox_js_playground/index.html" timestamp="1504056226018">
         <mark key="[" line="6" column="8" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512769213804">
+      <file name="/Dummy.txt" timestamp="1512779217100">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -531,11 +531,11 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/benefit-provider/client-bills.vue" timestamp="1510596330385">
         <mark key="[" line="101" column="29" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/general-agency/agency-list.vue" timestamp="1512774707564">
-        <mark key="[" line="180" column="17" />
-        <mark key="]" line="180" column="17" />
-        <mark key="^" line="129" column="7" />
-        <mark key="." line="180" column="17" />
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/general-agency/agency-list.vue" timestamp="1512779796881">
+        <mark key="[" line="2" column="21" />
+        <mark key="]" line="3" column="2" />
+        <mark key="." line="3" column="2" />
+        <mark key="^" line="3" column="2" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/sass/_modal.scss" timestamp="1500415612390">
         <mark key="[" line="16" column="30" />
@@ -550,6 +550,7 @@
         <mark key="[" line="3" column="17" />
       </file>
       <file name="$USER_HOME$/bernieportal/public/sites/all/modules/client_portal/client_portal.module" timestamp="1512770913285" />
+      <file name="$USER_HOME$/bernieportal/resources/assets/sass/app.scss" timestamp="1512777875928" />
       <file name="$USER_HOME$/bernieportal/resources/assets/components/masquerade-modal.vue" timestamp="1512774387388">
         <mark key="[" line="56" column="0" />
         <mark key="]" line="56" column="0" />
@@ -672,13 +673,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>item</text>
+        <text>brokers</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>item</text>
+        <text>brokers</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxva1w+</text>
@@ -686,38 +687,35 @@
       <register name="0" type="4">
         <text encoding="base64">CiAgICAgICAgJA==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcy51c2VyUm9sZSk7Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">PGRpdiB2LWZvcj0iYWdlbmNpZXMgaW4gYWxsQWdlbmNpZXMiIGNsYXNzPSJmb3JtLS0yLWNvbHVtbiI+CiAgICAgIDxkaXYgdi1mb3I9InJvdyBpbiBudW1iZXJPZlJvd3MiIGNsYXNzPSJmb3JtLWNvbnRyb2wiPgogICAgICAgIDxkaXYgdi1mb3I9ImtleSBpbiBudW1iZXJPZkNvbHVtbnMiPgoKICAgICAgICA8L2Rpdj4KICAgICAgPC9kaXY+CiAgICA8L2Rpdj4KCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBtYXNxdWVyYWRlKCkK</text>
+      <register name="2" type="4">
+        <text encoding="base64">PGRpdiB2LWZvcj0iY29sdW1uIGluIG51bWJlck9mQ29sdW1ucyI+CiAgICAgICAgPGRpdiB2LWZvcj0icm93IGluIG51bWJlck9mUm93cyI+CiAgICAgICAgICBhZ2VuY3k6IHt7IGFnZW5jeSB9fSByb3c6IHt7IHJvdyB9fSBjb2w6IHt7IGNvbHVtbiB9fQogICAgICAgIDwvZGl2PgogICAgICA8L2Rpdj4=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICcK</text>
+      <register name="3" type="4">
+        <text encoding="base64">IDxkaXYgY2xhc3M9IiI+CiAgICAgICAgPC9kaXY+</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNlIEJyYW5keVxBdXRoXFVzZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgJGJyb2tlclBvcnRhbDsKCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcy51c2VyUm9sZSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBtYXNxdWVyYWRlKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgZnVuY3Rpb24gX19jb25zdHJ1Y3QoQnJva2VyUG9ydGFsTW9kdWxlICRicm9rZXJQb3J0YWwpCg==</text>
+        <text encoding="base64">ICAgICcK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC9hdGUgOwo=</text>
+        <text encoding="base64">dXNlIEJyYW5keVxBdXRoXFVzZXI7Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>**
-     * @var User 
-     */
-    priv</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgJGJyb2tlclBvcnRhbDsKCg==</text>
       </register>
       <register name=":" type="4">
         <text>53</text>
