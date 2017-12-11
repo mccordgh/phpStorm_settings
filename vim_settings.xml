@@ -206,10 +206,10 @@
         <mark key="^" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="/fragment.php" timestamp="1513017957092">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="/fragment.php" timestamp="1513018587353">
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="0" column="1" />
+        <mark key="." line="0" column="1" />
       </file>
       <file name="$USER_HOME$/workspace/gamepad_api_demo/main.css" timestamp="1501271749114">
         <mark key="[" line="5" column="10" />
@@ -256,12 +256,12 @@
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/gfx/shapes/rectangle.js" timestamp="1504707160607">
         <mark key="[" line="9" column="12" />
       </file>
-      <file name="$USER_HOME$/bernieportal/public/sites/all/modules/masquerade/masquerade.module" timestamp="1513015042270">
-        <mark key="'" line="450" column="11" />
-        <mark key="[" line="9" column="22" />
-        <mark key="]" line="450" column="11" />
-        <mark key="^" line="450" column="11" />
-        <mark key="." line="450" column="11" />
+      <file name="$USER_HOME$/bernieportal/public/sites/all/modules/masquerade/masquerade.module" timestamp="1513019009250">
+        <mark key="'" line="454" column="11" />
+        <mark key="[" line="374" column="64" />
+        <mark key="]" line="454" column="11" />
+        <mark key="^" line="454" column="11" />
+        <mark key="." line="454" column="11" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/Time/PeriodsController.php" timestamp="1505929956281">
         <mark key="[" line="56" column="67" />
@@ -440,7 +440,9 @@
         <mark key="]" line="6" column="16" />
         <mark key="." line="6" column="16" />
       </file>
-      <file name="$USER_HOME$/bernieportal/legacy/BrokerPortalModule.php" timestamp="1513017942921" />
+      <file name="$USER_HOME$/bernieportal/legacy/BrokerPortalModule.php" timestamp="1513018436279">
+        <mark key="[" line="1715" column="60" />
+      </file>
       <file name="$USER_HOME$/workspace/php/testProject/public/css/main.css" timestamp="1504813753200">
         <mark key="[" line="34" column="23" />
       </file>
@@ -450,7 +452,7 @@
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/worlds/levels/level.js" timestamp="1504391486114">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1513017952667">
+      <file name="/PHP Console" timestamp="1513018457631">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/views/employees/election-data.blade.php" timestamp="1506440738197">
@@ -516,11 +518,6 @@
       </file>
       <file name="$USER_HOME$/bernieportal/resources/views/dashboards/sidebar/onboarding.blade.php" timestamp="1499974681229">
         <mark key="[" line="4" column="39" />
-      </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/masquerade-modal.vue" timestamp="1512774387388">
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="0" />
-        <mark key="." line="56" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/components/hiring-team.vue" timestamp="1493220766505">
         <mark key="[" line="77" column="56" />
@@ -655,13 +652,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>$serviceTeamMember</text>
+        <text>new_user</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>$serviceTeamMember</text>
+        <text>new_user</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxva1w+</text>
