@@ -255,12 +255,8 @@
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/gfx/shapes/rectangle.js" timestamp="1504707160607">
         <mark key="[" line="9" column="12" />
       </file>
-      <file name="$USER_HOME$/bernieportal/public/sites/all/modules/masquerade/masquerade.module" timestamp="1513019009250">
-        <mark key="'" line="454" column="11" />
-        <mark key="[" line="374" column="64" />
-        <mark key="]" line="454" column="11" />
-        <mark key="^" line="454" column="11" />
-        <mark key="." line="454" column="11" />
+      <file name="$USER_HOME$/bernieportal/public/sites/all/modules/masquerade/masquerade.module" timestamp="1513028997352">
+        <mark key="'" line="453" column="11" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/GeneralAgencies/GeneralAgencyController.php" timestamp="1513023550767">
         <mark key="[" line="52" column="90" />
@@ -444,12 +440,8 @@
         <mark key="]" line="6" column="16" />
         <mark key="." line="6" column="16" />
       </file>
-      <file name="$USER_HOME$/bernieportal/legacy/BrokerPortalModule.php" timestamp="1513026539672">
-        <mark key="'" line="4708" column="16" />
-        <mark key="[" line="1733" column="25" />
-        <mark key="]" line="1733" column="25" />
-        <mark key="^" line="4708" column="16" />
-        <mark key="." line="1733" column="25" />
+      <file name="$USER_HOME$/bernieportal/legacy/BrokerPortalModule.php" timestamp="1513029073743">
+        <mark key="'" line="4710" column="16" />
       </file>
       <file name="$USER_HOME$/workspace/php/testProject/public/css/main.css" timestamp="1504813753200">
         <mark key="[" line="34" column="23" />
@@ -460,7 +452,7 @@
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/worlds/levels/level.js" timestamp="1504391486114">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1513027079846">
+      <file name="/PHP Console" timestamp="1513029187270">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/views/employees/election-data.blade.php" timestamp="1506440738197">
@@ -527,12 +519,6 @@
       <file name="$USER_HOME$/bernieportal/resources/views/dashboards/sidebar/onboarding.blade.php" timestamp="1499974681229">
         <mark key="[" line="4" column="39" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/masquerade-modal.vue" timestamp="1513023796027">
-        <mark key="[" line="12" column="97" />
-        <mark key="]" line="12" column="73" />
-        <mark key="." line="12" column="73" />
-        <mark key="^" line="12" column="73" />
-      </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/components/hiring-team.vue" timestamp="1493220766505">
         <mark key="[" line="77" column="56" />
       </file>
@@ -560,9 +546,6 @@
         <mark key="]" line="32" column="3" />
         <mark key="." line="32" column="3" />
         <mark key="^" line="32" column="3" />
-      </file>
-      <file name="$USER_HOME$/bernieportal/tests/legacy/BrokerPortalTest.php" timestamp="1513027235685">
-        <mark key="[" line="85" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -714,7 +697,7 @@
         <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcy51c2VyUm9sZSk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>53</text>
+        <text>1739</text>
       </register>
     </registers>
     <search>
@@ -750,11 +733,6 @@
         <entry encoding="base64">XDxva1w+</entry>
       </history-search>
       <history-cmd>
-        <entry>160</entry>
-        <entry>307</entry>
-        <entry>57</entry>
-        <entry>24</entry>
-        <entry>18</entry>
         <entry>119</entry>
         <entry>2991</entry>
         <entry>2995</entry>
@@ -770,6 +748,11 @@
         <entry>249</entry>
         <entry>585</entry>
         <entry>53</entry>
+        <entry>1727</entry>
+        <entry>275</entry>
+        <entry>375</entry>
+        <entry>1658</entry>
+        <entry>1739</entry>
       </history-cmd>
       <history-expr />
       <history-input />
