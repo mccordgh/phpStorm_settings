@@ -253,13 +253,10 @@
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/gfx/shapes/rectangle.js" timestamp="1504707160607">
         <mark key="[" line="9" column="12" />
       </file>
-      <file name="$USER_HOME$/bernieportal/public/sites/all/modules/masquerade/masquerade.module" timestamp="1513028997352">
-        <mark key="'" line="449" column="11" />
-      </file>
       <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/GeneralAgencies/GeneralAgencyController.php" timestamp="1513187329757">
-        <mark key="[" line="28" column="43" />
-        <mark key="]" line="54" column="44" />
-        <mark key="." line="54" column="44" />
+        <mark key="[" line="23" column="43" />
+        <mark key="]" line="49" column="44" />
+        <mark key="." line="49" column="44" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/Time/PeriodsController.php" timestamp="1505929956281">
         <mark key="[" line="56" column="67" />
@@ -444,8 +441,12 @@
         <mark key="]" line="6" column="16" />
         <mark key="." line="6" column="16" />
       </file>
-      <file name="$USER_HOME$/bernieportal/legacy/BrokerPortalModule.php" timestamp="1513188314558">
-        <mark key="'" line="4710" column="16" />
+      <file name="$USER_HOME$/bernieportal/legacy/BrokerPortalModule.php" timestamp="1513191330488">
+        <mark key="'" line="4705" column="16" />
+        <mark key="[" line="1728" column="51" />
+        <mark key="]" line="1670" column="34" />
+        <mark key="." line="1670" column="34" />
+        <mark key="^" line="1670" column="34" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Brokerage/ServiceTeamMember.php" timestamp="1513183509908">
         <mark key="[" line="53" column="34" />
@@ -462,7 +463,7 @@
       <file name="$USER_HOME$/bernieportal/tests/app/Api/Transformers/GeneralAgencies/GeneralAgencyAgencyListTransformerTest.php" timestamp="1513188149133">
         <mark key="[" line="12" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1513187432323">
+      <file name="/PHP Console" timestamp="1513190063895">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/views/employees/election-data.blade.php" timestamp="1506440738197">
@@ -502,6 +503,12 @@
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/benefit-provider/client-bills.vue" timestamp="1510596330385">
         <mark key="[" line="101" column="29" />
+      </file>
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/general-agency/agency-list.vue" timestamp="1513190824284">
+        <mark key="[" line="135" column="31" />
+        <mark key="]" line="135" column="69" />
+        <mark key="." line="135" column="69" />
+        <mark key="^" line="135" column="69" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/sass/_modal.scss" timestamp="1500415612390">
         <mark key="[" line="16" column="30" />
@@ -644,13 +651,15 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>General</text>
+        <text>!$clientId
+            || !is_numeric($clientId)
+            ||</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>General</text>
+        <text>agency</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxva1w+</text>
@@ -659,21 +668,23 @@
         <text encoding="base64">CiAgICAgICAgJA==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiB0ZXN0VGhhdGluY2x1ZGVCcm9rZXJzTWV0aG9kRXhpc3RzKCkKICAgIHsKICAgICAgICAkdGhpcy0+YXNzZXJ0VHJ1ZShtZXRob2RfZXhpc3RzKCR0aGlzLT50cmFuc2Zvcm1lciwgJ2luY2x1ZGVCcm9rZXJzJykpOwogICAgfQ==</text>
+        <text>!$clientId
+            || !is_numeric($clientId)
+            ||</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
+      <register name="2" type="4">
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiB0ZXN0VGhhdGluY2x1ZGVCcm9rZXJzTWV0aG9kRXhpc3RzKCkKICAgIHsKICAgICAgICAkdGhpcy0+YXNzZXJ0VHJ1ZShtZXRob2RfZXhpc3RzKCR0aGlzLT50cmFuc2Zvcm1lciwgJ2luY2x1ZGVCcm9rZXJzJykpOwogICAgfQ==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ZGQK</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>(context, payload) {
     context.commit('increment');
   },</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -682,16 +693,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">PCEtLSBBZGQgInNjb3BlZCIgYXR0cmlidXRlIHRvIGxpbWl0IENTUyB0byB0aGlzIGNvbXBvbmVudCBvbmx5IC0tPgo=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">PHN0eWxlIHNjb3BlZD4KaDEsIGgyIHsKICBmb250LXdlaWdodDogbm9ybWFsOwp9CnVsIHsKICBsaXN0LXN0eWxlLXR5cGU6IG5vbmU7CiAgcGFkZGluZzogMDsKfQpsaSB7CiAgZGlzcGxheTogaW5saW5lLWJsb2NrOwogIG1hcmdpbjogMCAxMHB4Owp9CmEgewogIGNvbG9yOiAjNDJiOTgzOwp9Cjwvc3R5bGU+</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
       <register name=":" type="4">
-        <text>1147</text>
+        <text>1732</text>
       </register>
     </registers>
     <search>
@@ -727,9 +738,6 @@
         <entry encoding="base64">XDxva1w+</entry>
       </history-search>
       <history-cmd>
-        <entry>58</entry>
-        <entry>257</entry>
-        <entry>1336</entry>
         <entry>889</entry>
         <entry>1419</entry>
         <entry>1498</entry>
@@ -747,6 +755,9 @@
         <entry>316</entry>
         <entry>1134</entry>
         <entry>1147</entry>
+        <entry>5</entry>
+        <entry>1672</entry>
+        <entry>1732</entry>
       </history-cmd>
       <history-expr />
       <history-input />
