@@ -253,6 +253,9 @@
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/gfx/shapes/rectangle.js" timestamp="1504707160607">
         <mark key="[" line="9" column="12" />
       </file>
+      <file name="$USER_HOME$/bernieportal/public/sites/all/modules/masquerade/masquerade.module" timestamp="1513028997352">
+        <mark key="'" line="449" column="11" />
+      </file>
       <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/GeneralAgencies/GeneralAgencyController.php" timestamp="1513187329757">
         <mark key="[" line="28" column="43" />
         <mark key="]" line="54" column="44" />
@@ -295,11 +298,6 @@
       </file>
       <file name="$USER_HOME$/bernieportal/app/Onboarding/EmployeesImport.php" timestamp="1506355596605">
         <mark key="[" line="5" column="1" />
-      </file>
-      <file name="$USER_HOME$/bernieportal/app/Http/routes.php" timestamp="1512770586798">
-        <mark key="[" line="140" column="41" />
-        <mark key="]" line="140" column="41" />
-        <mark key="." line="140" column="41" />
       </file>
       <file name="$USER_HOME$/bernieportal/vendor/league/fractal/src/Scope.php" timestamp="1513187705377" />
       <file name="$USER_HOME$/workspace/emoji_rogue_like/css/main.css" timestamp="1506373068544">
@@ -447,11 +445,7 @@
         <mark key="." line="6" column="16" />
       </file>
       <file name="$USER_HOME$/bernieportal/legacy/BrokerPortalModule.php" timestamp="1513188314558">
-        <mark key="'" line="4642" column="16" />
-        <mark key="[" line="1210" column="62" />
-        <mark key="]" line="1210" column="62" />
-        <mark key="^" line="1136" column="57" />
-        <mark key="." line="1210" column="62" />
+        <mark key="'" line="4710" column="16" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Brokerage/ServiceTeamMember.php" timestamp="1513183509908">
         <mark key="[" line="53" column="34" />
@@ -498,7 +492,7 @@
       <file name="$USER_HOME$/workspace/soundbox_js_playground/index.html" timestamp="1504056226018">
         <mark key="[" line="6" column="8" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513187235040">
+      <file name="/Dummy.txt" timestamp="1513189474969">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
