@@ -37,11 +37,11 @@
       <file name="$USER_HOME$/bernieportal/app/Agencies/GeneralAgency.php" timestamp="1512746987081">
         <mark key="[" line="19" column="31" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/js/bernie-portal.js" timestamp="1513289029440">
-        <mark key="[" line="15" column="19" />
+      <file name="$USER_HOME$/bernieportal/resources/assets/js/bernie-portal.js" timestamp="1513293602984">
+        <mark key="[" line="484" column="0" />
         <mark key="]" line="15" column="19" />
         <mark key="." line="15" column="19" />
-        <mark key="^" line="526" column="12" />
+        <mark key="^" line="529" column="12" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/applications/application.vue" timestamp="1505482376533">
         <mark key="[" line="79" column="7" />
@@ -96,7 +96,6 @@
         <mark key="]" line="2" column="40" />
         <mark key="." line="2" column="40" />
       </file>
-      <file name="$USER_HOME$/bernieportal/vendor/league/fractal/src/Resource/ResourceAbstract.php" timestamp="1513186610792" />
       <file name="$USER_HOME$/bernieportal/resources/assets/components/benefit-provider/client-policy-numbers.vue" timestamp="1509661444709">
         <mark key="[" line="7" column="7" />
       </file>
@@ -156,11 +155,19 @@
         <mark key="]" line="17" column="30" />
         <mark key="." line="17" column="30" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/routers/job-candidate-router.vue" timestamp="1513290310117" />
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/routers/job-candidate-router.vue" timestamp="1513293089285">
+        <mark key="[" line="26" column="52" />
+        <mark key="]" line="26" column="52" />
+        <mark key="^" line="39" column="44" />
+        <mark key="." line="26" column="52" />
+      </file>
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/routers/job-routing.vue" timestamp="1513293594479">
+        <mark key="[" line="1" column="7" />
+      </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/loading-popup.vue" timestamp="1498514478199">
         <mark key="[" line="8" column="27" />
       </file>
-      <file name="$USER_HOME$/workspace/portfolio_os/.eslintrc.js" timestamp="1513123859236">
+      <file name="$USER_HOME$/workspace/portfolio_os/.eslintrc.js" timestamp="1513291435082">
         <mark key="[" line="46" column="36" />
         <mark key="]" line="46" column="35" />
         <mark key="^" line="46" column="35" />
@@ -195,7 +202,6 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/candidate/individual-application.vue" timestamp="1493136831791">
         <mark key="[" line="70" column="120" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/candidate/job-candidate-feedback.vue" timestamp="1513289743760" />
       <file name="$USER_HOME$/bernieportal/resources/assets/js/current-user-id.js" timestamp="1499278658594">
         <mark key="[" line="2" column="63" />
       </file>
@@ -301,7 +307,6 @@
       <file name="$USER_HOME$/bernieportal/app/Onboarding/EmployeesImport.php" timestamp="1506355596605">
         <mark key="[" line="5" column="1" />
       </file>
-      <file name="$USER_HOME$/bernieportal/vendor/league/fractal/src/Scope.php" timestamp="1513187705377" />
       <file name="$USER_HOME$/workspace/emoji_rogue_like/css/main.css" timestamp="1506373068544">
         <mark key="[" line="0" column="0" />
       </file>
@@ -372,7 +377,6 @@
       <file name="$USER_HOME$/workspace/php/testProject/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesUsers.php" timestamp="1504817286923">
         <mark key="[" line="75" column="67" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/settings/global-hiring-settings.vue" timestamp="1513281332558" />
       <file name="$USER_HOME$/bernieportal/resources/assets/components/account-settings/change-password.vue" timestamp="1508528918510">
         <mark key="[" line="60" column="21" />
       </file>
@@ -462,11 +466,11 @@
       <file name="$USER_HOME$/bernieportal/tests/app/Api/Transformers/GeneralAgencies/GeneralAgencyAgencyListTransformerTest.php" timestamp="1513188149133">
         <mark key="[" line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/store/index.js" timestamp="1513289888020">
-        <mark key="[" line="13" column="4" />
-        <mark key="]" line="13" column="4" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="13" column="4" />
+      <file name="$USER_HOME$/bernieportal/resources/assets/store/index.js" timestamp="1513293436166">
+        <mark key="[" line="39" column="13" />
+        <mark key="]" line="39" column="13" />
+        <mark key="^" line="9" column="14" />
+        <mark key="." line="39" column="13" />
       </file>
       <file name="/PHP Console" timestamp="1513273619567">
         <mark key="[" line="0" column="0" />
@@ -498,7 +502,7 @@
       <file name="$USER_HOME$/workspace/soundbox_js_playground/index.html" timestamp="1504056226018">
         <mark key="[" line="6" column="8" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513289001085">
+      <file name="/Dummy.txt" timestamp="1513293374115">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -542,7 +546,6 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/modal.vue" timestamp="1512429426533">
         <mark key="[" line="16" column="19" />
       </file>
-      <file name="$USER_HOME$/workspace/vuex/examples/todomvc/components/Todo.vue" timestamp="1513279374307" />
       <file name="$USER_HOME$/bernieportal/resources/assets/components/benefit-eoi/pending-buttons.vue" timestamp="1498596940985">
         <mark key="[" line="2" column="10" />
       </file>
@@ -651,13 +654,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Q1JFQVRFX0ZFRURCQUNLOiBmdW5jdGlvbiAoeyBjb21taXQgfSkgewogICAgICBjb25zdCByZXF1ZXN0ID0gbmV3IEFwaVJlcXVlc3QoJy9hcGkvam9icy9jYW5kaWRhdGUvZmVlZGJhY2snLAogICAgICAgICgpID0+IHsKICAgICAgICAgIHRoaXMuc2hvd0ZlZWRiYWNrTW9kYWwgPSBmYWxzZTsKICAgICAgICAgIHRoaXMuJGRpc3BhdGNoKCdyZWxvYWQtYXBwbGljYW50Jyk7CiAgICAgICAgICBDS0VESVRPUi5pbnN0YW5jZXMuZmVlZGJhY2tFZGl0b3Iuc2V0RGF0YSgnJyk7CiAgICAgICAgfSwgY29uc29sZS53YXJuLAogICAgICApOwoKICAgICAgcmVxdWVzdC5wb3N0KHsKICAgICAgICBlbXBsb3llcklkOiB0aGlzLmFwcGxpY2FudC5lbXBsb3llcklkLAogICAgICAgIGFwcGxpY2F0aW9uSWQ6IHRoaXMuYXBwbGljYW50LmFwcGxpY2F0aW9uSWQsCiAgICAgICAgZmVlZGJhY2s6IHRoaXMuZmVlZGJhY2ssCiAgICAgICAgam9iOiB0aGlzLmpvYlNlbGVjdGVkLAogICAgICAgIGNhbmRpZGF0ZUlkOiB0aGlzLmFwcGxpY2FudC5pZCwKICAgICAgfSk7CiAgICB9</text>
+        <text>look like we made it:</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>function</text>
+        <text>look like we made it:</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxva1w+</text>
@@ -666,18 +669,34 @@
         <text encoding="base64">CiAgICAgICAgJA==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">Q1JFQVRFX0ZFRURCQUNLOiBmdW5jdGlvbiAoeyBjb21taXQgfSkgewogICAgICBjb25zdCByZXF1ZXN0ID0gbmV3IEFwaVJlcXVlc3QoJy9hcGkvam9icy9jYW5kaWRhdGUvZmVlZGJhY2snLAogICAgICAgICgpID0+IHsKICAgICAgICAgIHRoaXMuc2hvd0ZlZWRiYWNrTW9kYWwgPSBmYWxzZTsKICAgICAgICAgIHRoaXMuJGRpc3BhdGNoKCdyZWxvYWQtYXBwbGljYW50Jyk7CiAgICAgICAgICBDS0VESVRPUi5pbnN0YW5jZXMuZmVlZGJhY2tFZGl0b3Iuc2V0RGF0YSgnJyk7CiAgICAgICAgfSwgY29uc29sZS53YXJuLAogICAgICApOwoKICAgICAgcmVxdWVzdC5wb3N0KHsKICAgICAgICBlbXBsb3llcklkOiB0aGlzLmFwcGxpY2FudC5lbXBsb3llcklkLAogICAgICAgIGFwcGxpY2F0aW9uSWQ6IHRoaXMuYXBwbGljYW50LmFwcGxpY2F0aW9uSWQsCiAgICAgICAgZmVlZGJhY2s6IHRoaXMuZmVlZGJhY2ssCiAgICAgICAgam9iOiB0aGlzLmpvYlNlbGVjdGVkLAogICAgICAgIGNhbmRpZGF0ZUlkOiB0aGlzLmFwcGxpY2FudC5pZCwKICAgICAgfSk7CiAgICB9</text>
+        <text>[&quot;error&quot;, {
+          &quot;props&quot;: true,
+          &quot;ignorePropertyModificationsFor&quot;: [
+            &quot;state&quot;,
+            &quot;acc&quot;,
+            &quot;e&quot;,
+            &quot;ctx&quot;,
+            &quot;req&quot;,
+            &quot;request&quot;,
+            &quot;res&quot;,
+            &quot;response&quot;,
+            &quot;$scope&quot;
+          ]
+        }]</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgPGgxPmNoZWNrY2hlY2toY2hrYWxqZmxhaztqZGZqYVs4OTA0dWYwOGF1NG9pO2ZqYWtvO2Q8L2gxPgo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">Q1JFQVRFX0ZFRURCQUNLOiBmdW5jdGlvbiAoeyBjb21taXQgfSkgewogICAgICBjb25zdCByZXF1ZXN0ID0gbmV3IEFwaVJlcXVlc3QoJy9hcGkvam9icy9jYW5kaWRhdGUvZmVlZGJhY2snLAogICAgICAgICgpID0+IHsKICAgICAgICAgIHRoaXMuc2hvd0ZlZWRiYWNrTW9kYWwgPSBmYWxzZTsKICAgICAgICAgIHRoaXMuJGRpc3BhdGNoKCdyZWxvYWQtYXBwbGljYW50Jyk7CiAgICAgICAgICBDS0VESVRPUi5pbnN0YW5jZXMuZmVlZGJhY2tFZGl0b3Iuc2V0RGF0YSgnJyk7CiAgICAgICAgfSwgY29uc29sZS53YXJuLAogICAgICApOwoKICAgICAgcmVxdWVzdC5wb3N0KHsKICAgICAgICBlbXBsb3llcklkOiB0aGlzLmFwcGxpY2FudC5lbXBsb3llcklkLAogICAgICAgIGFwcGxpY2F0aW9uSWQ6IHRoaXMuYXBwbGljYW50LmFwcGxpY2F0aW9uSWQsCiAgICAgICAgZmVlZGJhY2s6IHRoaXMuZmVlZGJhY2ssCiAgICAgICAgam9iOiB0aGlzLmpvYlNlbGVjdGVkLAogICAgICAgIGNhbmRpZGF0ZUlkOiB0aGlzLmFwcGxpY2FudC5pZCwKICAgICAgfSk7CiAgICB9</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgPGgxPmNoZWNrY2hlY2toY2hrYWxqZmxhaztqZGZqYVs4OTA0dWYwOGF1NG9pO2ZqYWtvO2Q8L2gxPgo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>import Vue from 'vue';
 import Vuex from 'vuex';
 import createLogger from 'vuex/dist/logger';
@@ -698,20 +717,17 @@ export default new Vuex.Store({
   plugins: debug ? [creatdeLogger()] : [],
 });</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAvLyB0ZW1wbGF0ZTogJzxyb3V0ZXItdmlldz48L3JvdXRlci12aWV3PicsCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">bXBvYWRmCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">PT09PT09PQogICAgICAgICAgICAgIDx0ciB2LWZvcj0iYWdlbmNpZXMgaW4gZ3JvdXBlZEFnZW5jaWVzIj4KICAgICAgICAgICAgICAgIDx0ZCB2LWZvcj0iaW5kZXggaW4gbnVtYmVyT2ZDb2x1bW5zIj4KICAgICAgICAgICAgICAgICAgPHNlY3Rpb24+CiAgICAgICAgICAgICAgICAgICAgPGEgQGNsaWNrLnByZXZlbnQ9InNob3dNYXNxdWVyYWRlRm9yQ2xpZW50KGFnZW5jaWVzW2luZGV4XSkiPnt7IGFnZW5jaWVzW2luZGV4XS5uYW1lIH19PC9hPgogICAgICAgICAgICAgICAgICAgIDx1bCB2LXNob3c9ImFnZW5jaWVzW2luZGV4XS5icm9rZXJzLmxlbmd0aCIgY2xhc3M9ImFnZW5jeS1jbGllbnQtLWxpc3QiPgogICAgICAgICAgICAgICAgICAgICAgPGxpCiAgICAgICAgICAgICAgICAgICAgICAgICAgY2xhc3M9InRleHQtYm9sZCBjbGllbnQtLWxpc3QtaGVhZGVyIgogICAgICAgICAgICAgICAgICAgICAgICAgIEBjbGljaz0idG9nZ2xlRXhwYW5kYWJsZShpbmRleCwgJ2Jyb2tlckV4cGFuZCcpIgogICAgICAgICAgICAgICAgICAgICAgPgogICAgICAgICAgICAgICAgICAgICAgICB7eyBicm9rZXJMYWJlbChhZ2VuY2llc1tpbmRleF0uYnJva2VycykgfX0KICAgICAgICAgICAgICAgICAgICAgICAgPGkgdi1zaG93PSJhZ2VuY2llc1tpbmRleF0uYnJva2VyRXhwYW5kIiBjbGFzcz0iZmEgZmEtY2FyZXQtZG93biIgYXJpYS1oaWRkZW49InRydWUiPjwvaT4KICAgICAgICAgICAgICAgICAgICAgICAgPGkgdi1zaG93PSIhYWdlbmNpZXNbaW5kZXhdLmJyb2tlckV4cGFuZCIgY2xhc3M9ImZhIGZhLWNhcmV0LXJpZ2h0IiBhcmlhLWhpZGRlbj0idHJ1ZSI+PC9pPgogICAgICAgICAgICAgICAgICAgICAgPC9saT4KICAgICAgICAgICAgICAgICAgICAgIDxkaXYgdi1zaG93PSJhZ2VuY2llc1tpbmRleF0uYnJva2VyRXhwYW5kIj4KICAgICAgICAgICAgICAgICAgICAgICAgPGxpIGNsYXNzPSJjbGllbnQtLWxpc3QiIHYtZm9yPSJicm9rZXIgaW4gYWdlbmNpZXNbaW5kZXhdLmJyb2tlcnMiPgogICAgICAgICAgICAgICAgICAgICAgICAgIDxhIEBjbGljay5wcmV2ZW50PSJzaG93TWFzcXVlcmFkZUZvckNsaWVudChicm9rZXIpIj57eyBicm9rZXIubmFtZSB9fTwvYT4KICAgICAgICAgICAgICAgICAgICAgICAgPC9saT4KICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgIDwvdWw+CiAgICAgICAgICAgICAgICAgICAgPHVsIHYtaWY9ImFnZW5jaWVzW2luZGV4XS5zZXJ2aWNlVGVhbU1lbWJlcnMubGVuZ3RoIiBjbGFzcz0iYWdlbmN5LWNsaWVudC0tbGlzdCI+CiAgICAgICAgICAgICAgICAgICAgICA8bGkKICAgICAgICAgICAgICAgICAgICAgICAgICBjbGFzcz0idGV4dC1ib2xkIGNsaWVudC0tbGlzdC1oZWFkZXIiCiAgICAgICAgICAgICAgICAgICAgICAgICAgQGNsaWNrPSJ0b2dnbGVFeHBhbmRhYmxlKGluZGV4LCAnc3RtRXhwYW5kJykiCiAgICAgICAgICAgICAgICAgICAgICA+CiAgICAgICAgICAgICAgICAgICAgICAgIHt7IHNlcnZpY2VUZWFtTWVtYmVyTGFiZWwoYWdlbmNpZXNbaW5kZXhdLnNlcnZpY2VUZWFtTWVtYmVycykgfX0KICAgICAgICAgICAgICAgICAgICAgICAgPGkgdi1pZj0iYWdlbmNpZXNbaW5kZXhdLnN0bUV4cGFuZCIgY2xhc3M9ImZhIGZhLWNhcmV0LWRvd24iIGFyaWEtaGlkZGVuPSJ0cnVlIj48L2k+CiAgICAgICAgICAgICAgICAgICAgICAgIDxpIHYtaWY9IiFhZ2VuY2llc1tpbmRleF0uc3RtRXhwYW5kIiBjbGFzcz0iZmEgZmEtY2FyZXQtcmlnaHQiIGFyaWEtaGlkZGVuPSJ0cnVlIj48L2k+CiAgICAgICAgICAgICAgICAgICAgICA8L2xpPgogICAgICAgICAgICAgICAgICAgICAgPGRpdiB2LXNob3c9ImFnZW5jaWVzW2luZGV4XS5zdG1FeHBhbmQiPgogICAgICAgICAgICAgICAgICAgICAgICA8bGkgIGNsYXNzPSJjbGllbnQtLWxpc3QiIHYtZm9yPSJzZXJ2aWNlVGVhbU1lbWJlciBpbiBhZ2VuY2llc1tpbmRleF0uc2VydmljZVRlYW1NZW1iZXJzIj4KICAgICAgICAgICAgICAgICAgICAgICAgICA8YSBAY2xpY2sucHJldmVudD0ic2hvd01hc3F1ZXJhZGVGb3JDbGllbnQoc2VydmljZVRlYW1NZW1iZXIpIj57eyBzZXJ2aWNlVGVhbU1lbWJlci5uYW1lIH19PC9hPgogICAgICAgICAgICAgICAgICAgICAgICA8L2xpPgogICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgPC91bD4KICAgICAgICAgICAgICAgICAgPC9zZWN0aW9uPgogICAgICAgICAgICAgICAgPC90ZD4KICAgICAgICAgICAgICA8L3RyPgo+Pj4+Pj4+IFN0YXNoZWQgY2hhbmdlcw==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5hbGxBZ2VuY2llcyA9IHRoaXMucmVtb3ZlRXh0cmFuZW91c0RhdGFPYmplY3RLZXlzKGRhdGEpOwogICAgICAgICAgICB0aGlzLmFsbEFnZW5jaWVzID0gdGhpcy5zZXRFeHBhbmRJZk1heEhlaWdodCh0aGlzLmFsbEFnZW5jaWVzKTsK</text>
       </register>
       <register name=":" type="4">
         <text>7094</text>
