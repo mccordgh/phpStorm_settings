@@ -254,9 +254,9 @@
         <mark key="[" line="9" column="12" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/GeneralAgencies/GeneralAgencyController.php" timestamp="1513187329757">
-        <mark key="[" line="23" column="43" />
-        <mark key="]" line="49" column="44" />
-        <mark key="." line="49" column="44" />
+        <mark key="[" line="28" column="43" />
+        <mark key="]" line="54" column="44" />
+        <mark key="." line="54" column="44" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/Time/PeriodsController.php" timestamp="1505929956281">
         <mark key="[" line="56" column="67" />
@@ -441,12 +441,6 @@
         <mark key="]" line="6" column="16" />
         <mark key="." line="6" column="16" />
       </file>
-      <file name="$USER_HOME$/bernieportal/legacy/BrokerPortalModule.php" timestamp="1513272629630">
-        <mark key="[" line="7094" column="29" />
-        <mark key="]" line="7094" column="29" />
-        <mark key="^" line="7094" column="28" />
-        <mark key="." line="7094" column="29" />
-      </file>
       <file name="$USER_HOME$/bernieportal/app/Brokerage/ServiceTeamMember.php" timestamp="1513183509908">
         <mark key="[" line="53" column="34" />
       </file>
@@ -462,7 +456,7 @@
       <file name="$USER_HOME$/bernieportal/tests/app/Api/Transformers/GeneralAgencies/GeneralAgencyAgencyListTransformerTest.php" timestamp="1513188149133">
         <mark key="[" line="12" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1513194439963">
+      <file name="/PHP Console" timestamp="1513273619567">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/views/employees/election-data.blade.php" timestamp="1506440738197">
