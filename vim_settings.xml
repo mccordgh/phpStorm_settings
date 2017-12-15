@@ -108,9 +108,11 @@
       <file name="$USER_HOME$/workspace/php/testProject/app/Http/Controllers/mySampleResourceController.php" timestamp="1503082068737">
         <mark key="[" line="0" column="1" />
       </file>
+      <file name="$USER_HOME$/bernieportal/legacy/Air/Views/AirGeneratePdfDrupalForm.php" timestamp="1513366899665" />
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/tiles/wall-blue.js" timestamp="1503354559657">
         <mark key="[" line="3" column="17" />
       </file>
+      <file name="$USER_HOME$/bernieportal/public/sites/all/modules/air_report/air_report.module" timestamp="1513366073082" />
       <file name="$USER_HOME$/bernieportal/resources/views/dashboards/sidebar/employer-employee-items.blade.php" timestamp="1502480216885">
         <mark key="[" line="3" column="43" />
       </file>
@@ -198,7 +200,7 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="/fragment.php" timestamp="1513187000453">
+      <file name="/fragment.php" timestamp="1513367093650">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="^" line="0" column="8" />
@@ -281,10 +283,10 @@
       <file name="$USER_HOME$/workspace/portfolio_os/src/js/main.js" timestamp="1508693809881">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Listeners/Aca/Generate1095CsPdfMailerZipFile.php" timestamp="1510868641438">
-        <mark key="[" line="73" column="0" />
-        <mark key="]" line="73" column="0" />
-        <mark key="." line="73" column="0" />
+      <file name="$USER_HOME$/bernieportal/app/Listeners/Aca/Generate1095CsPdfMailerZipFile.php" timestamp="1513367192194">
+        <mark key="[" line="262" column="8" />
+        <mark key="]" line="262" column="8" />
+        <mark key="." line="262" column="8" />
       </file>
       <file name="$USER_HOME$/bernieportal/legacy/PayrollModule.php" timestamp="1511982041893">
         <mark key="[" line="150" column="61" />
@@ -460,11 +462,14 @@
         <mark key="." line="34" column="42" />
         <mark key="^" line="20" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1513273619567">
+      <file name="/PHP Console" timestamp="1513367007819">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/views/employees/election-data.blade.php" timestamp="1506440738197">
         <mark key="[" line="113" column="56" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1513366723327">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Time/SubgroupSettings.php" timestamp="1506357820036">
         <mark key="[" line="7" column="1" />
@@ -490,7 +495,7 @@
       <file name="$USER_HOME$/workspace/soundbox_js_playground/index.html" timestamp="1504056226018">
         <mark key="[" line="6" column="8" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513293374115">
+      <file name="/Dummy.txt" timestamp="1513366075035">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -642,13 +647,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>created</text>
+        <text>$a = 'foo';</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>created</text>
+        <text>$a = 'foo';</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxva1w+</text>
@@ -657,12 +662,15 @@
         <text encoding="base64">CiAgICAgICAgJA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="3" type="4">
         <text>[&quot;error&quot;, {
           &quot;props&quot;: true,
           &quot;ignorePropertyModificationsFor&quot;: [
@@ -678,16 +686,16 @@
           ]
         }]</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">Q1JFQVRFX0ZFRURCQUNLOiBmdW5jdGlvbiAoeyBjb21taXQgfSkgewogICAgICBjb25zdCByZXF1ZXN0ID0gbmV3IEFwaVJlcXVlc3QoJy9hcGkvam9icy9jYW5kaWRhdGUvZmVlZGJhY2snLAogICAgICAgICgpID0+IHsKICAgICAgICAgIHRoaXMuc2hvd0ZlZWRiYWNrTW9kYWwgPSBmYWxzZTsKICAgICAgICAgIHRoaXMuJGRpc3BhdGNoKCdyZWxvYWQtYXBwbGljYW50Jyk7CiAgICAgICAgICBDS0VESVRPUi5pbnN0YW5jZXMuZmVlZGJhY2tFZGl0b3Iuc2V0RGF0YSgnJyk7CiAgICAgICAgfSwgY29uc29sZS53YXJuLAogICAgICApOwoKICAgICAgcmVxdWVzdC5wb3N0KHsKICAgICAgICBlbXBsb3llcklkOiB0aGlzLmFwcGxpY2FudC5lbXBsb3llcklkLAogICAgICAgIGFwcGxpY2F0aW9uSWQ6IHRoaXMuYXBwbGljYW50LmFwcGxpY2F0aW9uSWQsCiAgICAgICAgZmVlZGJhY2s6IHRoaXMuZmVlZGJhY2ssCiAgICAgICAgam9iOiB0aGlzLmpvYlNlbGVjdGVkLAogICAgICAgIGNhbmRpZGF0ZUlkOiB0aGlzLmFwcGxpY2FudC5pZCwKICAgICAgfSk7CiAgICB9</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgPGgxPmNoZWNrY2hlY2toY2hrYWxqZmxhaztqZGZqYVs4OTA0dWYwOGF1NG9pO2ZqYWtvO2Q8L2gxPgo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>import Vue from 'vue';
 import Vuex from 'vuex';
 import createLogger from 'vuex/dist/logger';
@@ -708,14 +716,11 @@ export default new Vuex.Store({
   plugins: debug ? [creatdeLogger()] : [],
 });</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAvLyB0ZW1wbGF0ZTogJzxyb3V0ZXItdmlldz48L3JvdXRlci12aWV3PicsCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">bXBvYWRmCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
+        <text encoding="base64">bXBvYWRmCg==</text>
       </register>
       <register name=":" type="4">
         <text>7094</text>
