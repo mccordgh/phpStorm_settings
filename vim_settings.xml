@@ -9,6 +9,7 @@
       <file name="$USER_HOME$/workspace/php/testProject/app/Http/Controllers/ContactController.php" timestamp="1503087041690">
         <mark key="[" line="8" column="6" />
       </file>
+      <file name="$USER_HOME$/bernieportal/public/sites/all/modules/payroll/payroll.module" timestamp="1513637657139" />
       <file name="$USER_HOME$/bernieportal/app/Carriers/Billing/LifeChildSummaryLineItem.php" timestamp="1508429199353">
         <mark key="[" line="39" column="6" />
       </file>
@@ -129,6 +130,12 @@
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/tiles/wall-blue.js" timestamp="1503354559657">
         <mark key="[" line="3" column="17" />
       </file>
+      <file name="$USER_HOME$/bernieportal/legacy/ClientRegModule.php" timestamp="1513639266316">
+        <mark key="[" line="2444" column="27" />
+        <mark key="]" line="2444" column="27" />
+        <mark key="." line="2444" column="27" />
+        <mark key="^" line="2444" column="35" />
+      </file>
       <file name="$USER_HOME$/bernieportal/resources/views/dashboards/sidebar/employer-employee-items.blade.php" timestamp="1502480216885">
         <mark key="[" line="3" column="43" />
       </file>
@@ -223,7 +230,7 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="/fragment.php" timestamp="1513631145323">
+      <file name="/fragment.php" timestamp="1513639371056">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="^" line="0" column="8" />
@@ -294,7 +301,7 @@
       <file name="$USER_HOME$/bernieportal/public/css/app.css" timestamp="1509557536927">
         <mark key="[" line="4124" column="26" />
       </file>
-      <file name="/fragment.js" timestamp="1513183207106">
+      <file name="/fragment.js" timestamp="1513638673437">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/public/sites/all/modules/emp_pto/emp_pto.module" timestamp="1507320519182">
@@ -306,9 +313,13 @@
       <file name="$USER_HOME$/workspace/portfolio_os/src/js/main.js" timestamp="1508693809881">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/bernieportal/legacy/PayrollModule.php" timestamp="1511982041893">
-        <mark key="[" line="150" column="61" />
+      <file name="$USER_HOME$/bernieportal/legacy/PayrollModule.php" timestamp="1513639687459">
+        <mark key="[" line="338" column="70" />
+        <mark key="]" line="338" column="12" />
+        <mark key="^" line="338" column="12" />
+        <mark key="." line="338" column="12" />
       </file>
+      <file name="$USER_HOME$/bernieportal/legacy/CrIntegration/Forms.php" timestamp="1513639012004" />
       <file name="$USER_HOME$/bernieportal/resources/assets/components/onboarding/personal-info.vue" timestamp="1508525254571">
         <mark key="[" line="175" column="22" />
       </file>
@@ -368,11 +379,7 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/quaternary-nav-for-vue.vue" timestamp="1498594361234">
         <mark key="[" line="15" column="23" />
       </file>
-      <file name="$USER_HOME$/bernieportal/public/sites/all/modules/payroll/templates/integration.parent.tpl.php" timestamp="1511982188663">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
+      <file name="$USER_HOME$/bernieportal/public/sites/all/modules/payroll/templates/integration.parent.tpl.php" timestamp="1513637649714" />
       <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/candidate/job-applications-list.vue" timestamp="1493315731584">
         <mark key="[" line="46" column="67" />
       </file>
@@ -383,12 +390,15 @@
         <mark key="[" line="188" column="88" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Carriers/Billing/BillingRepository.php" timestamp="1513631112366" />
+      <file name="$USER_HOME$/bernieportal/public/sites/all/themes/bernard/template.php" timestamp="1513638806792" />
       <file name="$USER_HOME$/bernieportal/public/sites/all/modules/clientele/js/clientele_user_login_block.js" timestamp="1505318597961">
         <mark key="[" line="19" column="46" />
       </file>
       <file name="$USER_HOME$/workspace/php/testProject/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesUsers.php" timestamp="1504817286923">
         <mark key="[" line="75" column="67" />
       </file>
+      <file name="$USER_HOME$/bernieportal/public/sites/all/modules/client_reg/client_reg.module" timestamp="1513636727593" />
+      <file name="$USER_HOME$/bernieportal/legacy/EmployerProfile/EmployerProfile.php" timestamp="1513636811160" />
       <file name="$USER_HOME$/bernieportal/resources/assets/components/account-settings/change-password.vue" timestamp="1508528918510">
         <mark key="[" line="60" column="21" />
       </file>
@@ -484,7 +494,7 @@
         <mark key="." line="34" column="42" />
         <mark key="^" line="20" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1513631701756">
+      <file name="/PHP Console" timestamp="1513639287854">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/views/employees/election-data.blade.php" timestamp="1506440738197">
@@ -517,7 +527,7 @@
       <file name="$USER_HOME$/workspace/soundbox_js_playground/index.html" timestamp="1504056226018">
         <mark key="[" line="6" column="8" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513631557872">
+      <file name="/Dummy.txt" timestamp="1513639537888">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -669,33 +679,36 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>\Illuminate\Database\Eloquent\</text>
+        <text encoding="base64">Q29sbGVjdGlvbjo6bWFrZSgkcHJvdmlkZXJzKS0+ZmlsdGVyKGZ1bmN0aW9uICgkcHJvdmlkZXIpKTs=</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>\Illuminate\Database\Eloquent\</text>
+        <text>HEHEHEHE</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxva1w+</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">CiAgICAgICAgJA==</text>
+        <text encoding="base64">Q29sbGVjdGlvbjo6bWFrZSgkcHJvdmlkZXJzKS0+ZmlsdGVyKGZ1bmN0aW9uICgkcHJvdmlkZXIpKTs=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">WwogICAgICAgICAgICAgICAgJyN0eXBlJyA9PiAnY2hlY2tib3gnLAogICAgICAgICAgICAgICAgJyNkZWZhdWx0X3ZhbHVlJyA9PiAkZGVmdF92YWxbJ2NsaWVudF9wYXlyb2xsJ10sCiAgICAgICAgICAgICAgICAnI3RpdGxlJyA9PiB0KCdQQVlST0xMJyksCiAgICAgICAgICAgICAgICAnI2F0dHJpYnV0ZXMnID0+IFsnY2xhc3MnID0+ICd0b2dnbGUtY29udHJvbCddLAogICAgICAgICAgICAgICAgJyNwcmVmaXgnID0+ICc8ZGl2IGNsYXNzPSJmb3JtLXJvdyByb3ctYm9yZGVyIj48ZGl2IGNsYXNzPSJmb3JtLWNvbnRyb2wgdGV4dC0tbGFyZ2UiPicsCiAgICAgICAgICAgICAgICAnI3N1ZmZpeCcgPT4gJzwvZGl2PjwvZGl2PicKICAgICAgICAgICAgXTs=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>[&quot;error&quot;, {
           &quot;props&quot;: true,
           &quot;ignorePropertyModificationsFor&quot;: [
@@ -711,16 +724,16 @@
           ]
         }]</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">Q1JFQVRFX0ZFRURCQUNLOiBmdW5jdGlvbiAoeyBjb21taXQgfSkgewogICAgICBjb25zdCByZXF1ZXN0ID0gbmV3IEFwaVJlcXVlc3QoJy9hcGkvam9icy9jYW5kaWRhdGUvZmVlZGJhY2snLAogICAgICAgICgpID0+IHsKICAgICAgICAgIHRoaXMuc2hvd0ZlZWRiYWNrTW9kYWwgPSBmYWxzZTsKICAgICAgICAgIHRoaXMuJGRpc3BhdGNoKCdyZWxvYWQtYXBwbGljYW50Jyk7CiAgICAgICAgICBDS0VESVRPUi5pbnN0YW5jZXMuZmVlZGJhY2tFZGl0b3Iuc2V0RGF0YSgnJyk7CiAgICAgICAgfSwgY29uc29sZS53YXJuLAogICAgICApOwoKICAgICAgcmVxdWVzdC5wb3N0KHsKICAgICAgICBlbXBsb3llcklkOiB0aGlzLmFwcGxpY2FudC5lbXBsb3llcklkLAogICAgICAgIGFwcGxpY2F0aW9uSWQ6IHRoaXMuYXBwbGljYW50LmFwcGxpY2F0aW9uSWQsCiAgICAgICAgZmVlZGJhY2s6IHRoaXMuZmVlZGJhY2ssCiAgICAgICAgam9iOiB0aGlzLmpvYlNlbGVjdGVkLAogICAgICAgIGNhbmRpZGF0ZUlkOiB0aGlzLmFwcGxpY2FudC5pZCwKICAgICAgfSk7CiAgICB9</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgPGgxPmNoZWNrY2hlY2toY2hrYWxqZmxhaztqZGZqYVs4OTA0dWYwOGF1NG9pO2ZqYWtvO2Q8L2gxPgo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>import Vue from 'vue';
 import Vuex from 'vuex';
 import createLogger from 'vuex/dist/logger';
@@ -741,11 +754,8 @@ export default new Vuex.Store({
   plugins: debug ? [creatdeLogger()] : [],
 });</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAvLyB0ZW1wbGF0ZTogJzxyb3V0ZXItdmlldz48L3JvdXRlci12aWV3PicsCg==</text>
-      </register>
       <register name=":" type="4">
-        <text>7094</text>
+        <text>87</text>
       </register>
     </registers>
     <search>
@@ -781,7 +791,6 @@ export default new Vuex.Store({
         <entry encoding="base64">XDxva1w+</entry>
       </history-search>
       <history-cmd>
-        <entry>1419</entry>
         <entry>1498</entry>
         <entry>1647</entry>
         <entry>249</entry>
@@ -801,6 +810,7 @@ export default new Vuex.Store({
         <entry>1672</entry>
         <entry>1732</entry>
         <entry>7094</entry>
+        <entry>87</entry>
       </history-cmd>
       <history-expr />
       <history-input />
