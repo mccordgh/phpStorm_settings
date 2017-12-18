@@ -12,6 +12,11 @@
       <file name="$USER_HOME$/bernieportal/app/Carriers/Billing/LifeChildSummaryLineItem.php" timestamp="1508429199353">
         <mark key="[" line="39" column="6" />
       </file>
+      <file name="$USER_HOME$/mastiff/mastiff/laravel/app/models/Provider.php" timestamp="1513635790453">
+        <mark key="[" line="6" column="8" />
+        <mark key="]" line="6" column="8" />
+        <mark key="." line="6" column="8" />
+      </file>
       <file name="/a.dummy" timestamp="1512595079623">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="14" />
@@ -168,9 +173,7 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/routers/job-routing.vue" timestamp="1513293594479">
         <mark key="[" line="1" column="7" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/views/billing/base-guardian-bill.blade.php" timestamp="1513627993865">
-        <mark key="[" line="77" column="51" />
-      </file>
+      <file name="$USER_HOME$/bernieportal/resources/views/billing/base-guardian-bill.blade.php" timestamp="1513627993865" />
       <file name="$USER_HOME$/bernieportal/resources/assets/components/loading-popup.vue" timestamp="1498514478199">
         <mark key="[" line="8" column="27" />
       </file>
@@ -665,14 +668,14 @@
       <jump line="55" column="32" filename="$USER_HOME$/bernieportal/resources/assets/components/general-agency/agency-list.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>\Illuminate\Database\Eloquent\</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>14</text>
+        <text>\Illuminate\Database\Eloquent\</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxva1w+</text>
