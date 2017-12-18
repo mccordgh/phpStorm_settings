@@ -40,7 +40,7 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/applications/application.vue" timestamp="1505482376533">
         <mark key="[" line="79" column="7" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Carriers/Billing/BillingPdfRepository.php" timestamp="1513623032952" />
+      <file name="$USER_HOME$/bernieportal/app/Carriers/Billing/BillingPdfRepository.php" timestamp="1513627453849" />
       <file name="$USER_HOME$/bernieportal/app/Ats/Candidate.php" timestamp="1502737804653">
         <mark key="[" line="32" column="86" />
       </file>
@@ -83,8 +83,10 @@
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/states/game-state.js" timestamp="1504396334526">
         <mark key="[" line="5" column="38" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Console/Commands/RegenerateSpecificBillPdfForEmployer.php" timestamp="1513622962672">
-        <mark key="[" line="49" column="83" />
+      <file name="$USER_HOME$/bernieportal/app/Console/Commands/RegenerateSpecificBillPdfForEmployer.php" timestamp="1513627405225">
+        <mark key="[" line="52" column="21" />
+        <mark key="]" line="52" column="21" />
+        <mark key="." line="52" column="21" />
       </file>
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/worlds/world.js" timestamp="1506610094234">
         <mark key="[" line="15" column="50" />
@@ -133,6 +135,9 @@
       <file name="$USER_HOME$/bernieportal/app/Api/Transformers/Time/TimesheetTransformer.php" timestamp="1499884159706">
         <mark key="[" line="32" column="27" />
       </file>
+      <file name="$USER_HOME$/bernieportal/resources/views/billing/base-allstate-bill.blade.php" timestamp="1513626662073">
+        <mark key="[" line="77" column="51" />
+      </file>
       <file name="$USER_HOME$/bernieportal/legacy/EmployeeRegModule.php" timestamp="1513107825416">
         <mark key="[" line="5102" column="13" />
       </file>
@@ -161,6 +166,9 @@
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/routers/job-routing.vue" timestamp="1513293594479">
         <mark key="[" line="1" column="7" />
+      </file>
+      <file name="$USER_HOME$/bernieportal/resources/views/billing/base-guardian-bill.blade.php" timestamp="1513627993865">
+        <mark key="[" line="77" column="51" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/loading-popup.vue" timestamp="1498514478199">
         <mark key="[" line="8" column="27" />
@@ -310,6 +318,9 @@
       </file>
       <file name="$USER_HOME$/workspace/php/testProject/app/Http/Controllers/AboutController.php" timestamp="1503412371066">
         <mark key="[" line="8" column="50" />
+      </file>
+      <file name="$USER_HOME$/bernieportal/resources/views/billing/base-superior-vision-bill.blade.php" timestamp="1513628001063">
+        <mark key="[" line="76" column="51" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/BenefitProvider/EmployersController.php" timestamp="1501534972247">
         <mark key="[" line="30" column="91" />
@@ -465,7 +476,7 @@
         <mark key="." line="34" column="42" />
         <mark key="^" line="20" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1513622971178">
+      <file name="/PHP Console" timestamp="1513627960758">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/views/employees/election-data.blade.php" timestamp="1506440738197">
@@ -650,13 +661,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>$a = 'foo';</text>
+        <text>14</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>$a = 'foo';</text>
+        <text>14</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxva1w+</text>
