@@ -83,10 +83,11 @@
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/states/game-state.js" timestamp="1504396334526">
         <mark key="[" line="5" column="38" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Console/Commands/RegenerateSpecificBillPdfForEmployer.php" timestamp="1513627405225">
-        <mark key="[" line="52" column="21" />
-        <mark key="]" line="52" column="21" />
-        <mark key="." line="52" column="21" />
+      <file name="$USER_HOME$/bernieportal/app/Console/Commands/RegenerateSpecificBillPdfForEmployer.php" timestamp="1513632001576">
+        <mark key="[" line="52" column="23" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
+        <mark key="^" line="55" column="7" />
       </file>
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/worlds/world.js" timestamp="1506610094234">
         <mark key="[" line="15" column="50" />
@@ -114,11 +115,11 @@
       <file name="$USER_HOME$/workspace/php/testProject/app/Http/Controllers/mySampleResourceController.php" timestamp="1503082068737">
         <mark key="[" line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Console/Commands/GenerateSingleBillForEmployer.php" timestamp="1513622940172">
-        <mark key="[" line="49" column="21" />
-        <mark key="]" line="49" column="19" />
-        <mark key="^" line="49" column="19" />
-        <mark key="." line="49" column="19" />
+      <file name="$USER_HOME$/bernieportal/app/Console/Commands/GenerateSingleBillForEmployer.php" timestamp="1513630725697">
+        <mark key="[" line="51" column="8" />
+        <mark key="]" line="54" column="7" />
+        <mark key="^" line="54" column="7" />
+        <mark key="." line="54" column="7" />
       </file>
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/tiles/wall-blue.js" timestamp="1503354559657">
         <mark key="[" line="3" column="17" />
@@ -202,6 +203,9 @@
       <file name="$USER_HOME$/bernieportal/public/sites/all/modules/employee_reg/employee_reg.module" timestamp="1513108312178">
         <mark key="[" line="83" column="24" />
       </file>
+      <file name="$USER_HOME$/bernieportal/resources/views/billing/base-unum-bill.blade.php" timestamp="1513631599844">
+        <mark key="[" line="77" column="51" />
+      </file>
       <file name="$USER_HOME$/bernieportal/app/Views/Composers/Sidebar/Sidebar.php" timestamp="1495661096600">
         <mark key="[" line="46" column="10" />
       </file>
@@ -216,7 +220,7 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="/fragment.php" timestamp="1513368236883">
+      <file name="/fragment.php" timestamp="1513631145323">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="^" line="0" column="8" />
@@ -319,7 +323,7 @@
       <file name="$USER_HOME$/workspace/php/testProject/app/Http/Controllers/AboutController.php" timestamp="1503412371066">
         <mark key="[" line="8" column="50" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/views/billing/base-superior-vision-bill.blade.php" timestamp="1513628001063">
+      <file name="$USER_HOME$/bernieportal/resources/views/billing/base-superior-vision-bill.blade.php" timestamp="1513630280583">
         <mark key="[" line="76" column="51" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/BenefitProvider/EmployersController.php" timestamp="1501534972247">
@@ -375,6 +379,7 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/job/job-candidates-list.vue" timestamp="1502727847016">
         <mark key="[" line="188" column="88" />
       </file>
+      <file name="$USER_HOME$/bernieportal/app/Carriers/Billing/BillingRepository.php" timestamp="1513631112366" />
       <file name="$USER_HOME$/bernieportal/public/sites/all/modules/clientele/js/clientele_user_login_block.js" timestamp="1505318597961">
         <mark key="[" line="19" column="46" />
       </file>
@@ -476,7 +481,7 @@
         <mark key="." line="34" column="42" />
         <mark key="^" line="20" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1513627960758">
+      <file name="/PHP Console" timestamp="1513631701756">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/views/employees/election-data.blade.php" timestamp="1506440738197">
@@ -509,7 +514,7 @@
       <file name="$USER_HOME$/workspace/soundbox_js_playground/index.html" timestamp="1504056226018">
         <mark key="[" line="6" column="8" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513623033677">
+      <file name="/Dummy.txt" timestamp="1513631557872">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -660,8 +665,8 @@
       <jump line="55" column="32" filename="$USER_HOME$/bernieportal/resources/assets/components/general-agency/agency-list.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>14</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <text />
@@ -676,15 +681,18 @@
         <text encoding="base64">CiAgICAgICAgJA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>[&quot;error&quot;, {
           &quot;props&quot;: true,
           &quot;ignorePropertyModificationsFor&quot;: [
@@ -700,16 +708,16 @@
           ]
         }]</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">Q1JFQVRFX0ZFRURCQUNLOiBmdW5jdGlvbiAoeyBjb21taXQgfSkgewogICAgICBjb25zdCByZXF1ZXN0ID0gbmV3IEFwaVJlcXVlc3QoJy9hcGkvam9icy9jYW5kaWRhdGUvZmVlZGJhY2snLAogICAgICAgICgpID0+IHsKICAgICAgICAgIHRoaXMuc2hvd0ZlZWRiYWNrTW9kYWwgPSBmYWxzZTsKICAgICAgICAgIHRoaXMuJGRpc3BhdGNoKCdyZWxvYWQtYXBwbGljYW50Jyk7CiAgICAgICAgICBDS0VESVRPUi5pbnN0YW5jZXMuZmVlZGJhY2tFZGl0b3Iuc2V0RGF0YSgnJyk7CiAgICAgICAgfSwgY29uc29sZS53YXJuLAogICAgICApOwoKICAgICAgcmVxdWVzdC5wb3N0KHsKICAgICAgICBlbXBsb3llcklkOiB0aGlzLmFwcGxpY2FudC5lbXBsb3llcklkLAogICAgICAgIGFwcGxpY2F0aW9uSWQ6IHRoaXMuYXBwbGljYW50LmFwcGxpY2F0aW9uSWQsCiAgICAgICAgZmVlZGJhY2s6IHRoaXMuZmVlZGJhY2ssCiAgICAgICAgam9iOiB0aGlzLmpvYlNlbGVjdGVkLAogICAgICAgIGNhbmRpZGF0ZUlkOiB0aGlzLmFwcGxpY2FudC5pZCwKICAgICAgfSk7CiAgICB9</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgPGgxPmNoZWNrY2hlY2toY2hrYWxqZmxhaztqZGZqYVs4OTA0dWYwOGF1NG9pO2ZqYWtvO2Q8L2gxPgo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>import Vue from 'vue';
 import Vuex from 'vuex';
 import createLogger from 'vuex/dist/logger';
@@ -730,11 +738,8 @@ export default new Vuex.Store({
   plugins: debug ? [creatdeLogger()] : [],
 });</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAvLyB0ZW1wbGF0ZTogJzxyb3V0ZXItdmlldz48L3JvdXRlci12aWV3PicsCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">bXBvYWRmCg==</text>
+        <text encoding="base64">ICAvLyB0ZW1wbGF0ZTogJzxyb3V0ZXItdmlldz48L3JvdXRlci12aWV3PicsCg==</text>
       </register>
       <register name=":" type="4">
         <text>7094</text>
