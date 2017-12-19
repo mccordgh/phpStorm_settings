@@ -230,7 +230,7 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="/fragment.php" timestamp="1513639371056">
+      <file name="/fragment.php" timestamp="1513641690290">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="^" line="0" column="8" />
@@ -313,11 +313,11 @@
       <file name="$USER_HOME$/workspace/portfolio_os/src/js/main.js" timestamp="1508693809881">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/bernieportal/legacy/PayrollModule.php" timestamp="1513639687459">
-        <mark key="[" line="338" column="70" />
-        <mark key="]" line="338" column="12" />
-        <mark key="^" line="338" column="12" />
-        <mark key="." line="338" column="12" />
+      <file name="$USER_HOME$/bernieportal/legacy/PayrollModule.php" timestamp="1513642123971">
+        <mark key="[" line="338" column="15" />
+        <mark key="]" line="338" column="14" />
+        <mark key="^" line="338" column="14" />
+        <mark key="." line="338" column="14" />
       </file>
       <file name="$USER_HOME$/bernieportal/legacy/CrIntegration/Forms.php" timestamp="1513639012004" />
       <file name="$USER_HOME$/bernieportal/resources/assets/components/onboarding/personal-info.vue" timestamp="1508525254571">
@@ -494,7 +494,7 @@
         <mark key="." line="34" column="42" />
         <mark key="^" line="20" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1513639287854">
+      <file name="/PHP Console" timestamp="1513641772189">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/views/employees/election-data.blade.php" timestamp="1506440738197">
@@ -527,7 +527,7 @@
       <file name="$USER_HOME$/workspace/soundbox_js_playground/index.html" timestamp="1504056226018">
         <mark key="[" line="6" column="8" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513639537888">
+      <file name="/Dummy.txt" timestamp="1513641697287">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -679,13 +679,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Q29sbGVjdGlvbjo6bWFrZSgkcHJvdmlkZXJzKS0+ZmlsdGVyKGZ1bmN0aW9uICgkcHJvdmlkZXIpKTs=</text>
+        <text encoding="base64">JGEgPSA=</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>HEHEHEHE</text>
+        <text encoding="base64">JGEgPSA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxva1w+</text>
