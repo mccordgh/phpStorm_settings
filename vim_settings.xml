@@ -128,6 +128,9 @@
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/tiles/wall-blue.js" timestamp="1503354559657">
         <mark key="[" line="3" column="17" />
       </file>
+      <file name="$USER_HOME$/bernieportal/legacy/ClientRegModule.php" timestamp="1513724297983">
+        <mark key="[" line="2439" column="36" />
+      </file>
       <file name="$USER_HOME$/bernieportal/resources/views/dashboards/sidebar/employer-employee-items.blade.php" timestamp="1502480216885">
         <mark key="[" line="3" column="43" />
       </file>
@@ -493,7 +496,7 @@
         <mark key="." line="34" column="42" />
         <mark key="^" line="20" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1513721650017">
+      <file name="/PHP Console" timestamp="1513724429737">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/views/employees/election-data.blade.php" timestamp="1506440738197">
@@ -537,6 +540,7 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/benefit-provider/client-bills.vue" timestamp="1510596330385">
         <mark key="[" line="101" column="29" />
       </file>
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/general-agency/agency-list.vue" timestamp="1513724261150" />
       <file name="$USER_HOME$/bernieportal/resources/assets/sass/_modal.scss" timestamp="1500415612390">
         <mark key="[" line="16" column="30" />
       </file>
@@ -729,7 +733,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>87</text>
+        <text>2440</text>
       </register>
     </registers>
     <search>
@@ -765,8 +769,6 @@
         <entry encoding="base64">XDxva1w+</entry>
       </history-search>
       <history-cmd>
-        <entry>1498</entry>
-        <entry>1647</entry>
         <entry>249</entry>
         <entry>585</entry>
         <entry>53</entry>
@@ -785,6 +787,8 @@
         <entry>1732</entry>
         <entry>7094</entry>
         <entry>87</entry>
+        <entry>24440</entry>
+        <entry>2440</entry>
       </history-cmd>
       <history-expr />
       <history-input />
