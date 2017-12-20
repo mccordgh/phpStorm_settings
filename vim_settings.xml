@@ -164,9 +164,7 @@
       <file name="$USER_HOME$/bernieportal/app/Subgroups/PTO/PTOSubgroupSetting.php" timestamp="1507829125307">
         <mark key="[" line="9" column="6" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/views/ats/job-postings/job.blade.php" timestamp="1513784125043">
-        <mark key="[" line="195" column="60" />
-      </file>
+      <file name="$USER_HOME$/bernieportal/resources/views/ats/job-postings/job.blade.php" timestamp="1513787929704" />
       <file name="$USER_HOME$/bernieportal/database/migrations/2017_12_01_181700_add_feature_toggle_cs_team_member_tier_v4.php" timestamp="1512170279029">
         <mark key="[" line="17" column="30" />
         <mark key="]" line="17" column="30" />
@@ -688,13 +686,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">YXJyYXlfa2V5X2V4aXN0cygnb3JpZ2luJywgJF9SRVFVRVNUKQogICAgICAgICAgICAmJiAkX1JFUVVFU1RbJ29yaWdpbiddID09PSAnYWdlbmN5TGlzdCc=</text>
+        <text encoding="base64">IGFsdD0iQnVzaW5lc3MgTG9nbyI=</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">KCktPmdldCgp</text>
+        <text encoding="base64">IGFsdD0iQnVzaW5lc3MgTG9nbyI=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxva1w+</text>
