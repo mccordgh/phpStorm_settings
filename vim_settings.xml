@@ -164,11 +164,6 @@
       <file name="$USER_HOME$/bernieportal/app/Subgroups/PTO/PTOSubgroupSetting.php" timestamp="1507829125307">
         <mark key="[" line="9" column="6" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/views/ats/job-postings/job.blade.php" timestamp="1513788677445">
-        <mark key="[" line="35" column="33" />
-        <mark key="]" line="35" column="33" />
-        <mark key="." line="35" column="33" />
-      </file>
       <file name="$USER_HOME$/bernieportal/database/migrations/2017_12_01_181700_add_feature_toggle_cs_team_member_tier_v4.php" timestamp="1512170279029">
         <mark key="[" line="17" column="30" />
         <mark key="]" line="17" column="30" />
@@ -501,7 +496,7 @@
         <mark key="." line="34" column="42" />
         <mark key="^" line="20" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1513789316886">
+      <file name="/PHP Console" timestamp="1513791913492">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/views/employees/election-data.blade.php" timestamp="1506440738197">
