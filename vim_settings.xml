@@ -157,11 +157,11 @@
         <mark key="]" line="17" column="30" />
         <mark key="." line="17" column="30" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/routers/job-candidate-router.vue" timestamp="1513798441005">
-        <mark key="[" line="29" column="4" />
-        <mark key="]" line="29" column="4" />
-        <mark key="." line="29" column="4" />
-        <mark key="^" line="39" column="11" />
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/routers/job-candidate-router.vue" timestamp="1513802195144">
+        <mark key="[" line="22" column="26" />
+        <mark key="]" line="22" column="26" />
+        <mark key="." line="22" column="26" />
+        <mark key="^" line="22" column="25" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/routers/job-routing.vue" timestamp="1513293594479">
         <mark key="[" line="1" column="7" />
@@ -209,10 +209,11 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/js/current-user-id.js" timestamp="1499278658594">
         <mark key="[" line="2" column="63" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/candidate/job-candidate-feedback.vue" timestamp="1513799544121">
-        <mark key="]" line="95" column="15" />
-        <mark key="^" line="95" column="15" />
-        <mark key="." line="95" column="15" />
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/candidate/job-candidate-feedback.vue" timestamp="1513802140362">
+        <mark key="[" line="185" column="13" />
+        <mark key="]" line="185" column="13" />
+        <mark key="^" line="179" column="40" />
+        <mark key="." line="185" column="13" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/Agency/GeneralAgencyController.php" timestamp="1512498736112">
         <mark key="[" line="12" column="0" />
@@ -459,11 +460,13 @@
       <file name="$USER_HOME$/bernieportal/tests/app/Api/Transformers/GeneralAgencies/GeneralAgencyAgencyListTransformerTest.php" timestamp="1513188149133">
         <mark key="[" line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/store/index.js" timestamp="1513796822884">
-        <mark key="[" line="32" column="46" />
-        <mark key="^" line="20" column="0" />
+      <file name="$USER_HOME$/bernieportal/resources/assets/store/index.js" timestamp="1513802122576">
+        <mark key="[" line="19" column="15" />
+        <mark key="]" line="21" column="23" />
+        <mark key="^" line="21" column="23" />
+        <mark key="." line="21" column="23" />
       </file>
-      <file name="/PHP Console" timestamp="1513799238828">
+      <file name="/PHP Console" timestamp="1513801303562">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/views/employees/election-data.blade.php" timestamp="1506440738197">
@@ -658,13 +661,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ready</text>
+        <text encoding="base64">IGZ1bmN0aW9uICgpIA==</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>ready</text>
+        <text encoding="base64">IGZ1bmN0aW9uICgpIA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxva1w+</text>
@@ -673,36 +676,36 @@
         <text encoding="base64">Q29sbGVjdGlvbjo6bWFrZSgkcHJvdmlkZXJzKS0+ZmlsdGVyKGZ1bmN0aW9uICgkcHJvdmlkZXIpKTs=</text>
       </register>
       <register name="1" type="4">
-        <text>mapState([
-      'applicant',
-    ]),</text>
+        <text encoding="base64">IGNvbnNvbGUubG9nKCdyb3V0ZXIgfj4gZ2V0IEFwcGxpY2FudCBtZXRob2QgY2FsbGVkJyk7CiAgICAgICAgLy8gY29uc3QgcmVxdWVzdCA9IG5ldyBBcGlSZXF1ZXN0KGAvYXBpL2pvYnMvJHt0aGlzLmdldEpvYklkKCl9L2NhbmRpZGF0ZXMvJHt0aGlzLmdldEFwcGxpY2F0aW9uSWQoKX1gLAogICAgICAgIC8vICAgKGFwcGxpY2FudCkgPT4gewogICAgICAgIC8vICAgICB0aGlzLmFwcGxpY2FudCA9IGFwcGxpY2FudDsKICAgICAgICAvLyAgICAgdGhpcy5hcHBsaWNhbnQuYW5zd2VyZWRRdWVzdGlvbnMgPSB0aGlzLmFwcGxpY2FudC5hbnN3ZXJlZFF1ZXN0aW9ucy5tYXAoCiAgICAgICAgLy8gICAgICAgcXVlc3Rpb24gPT4gT2JqZWN0LmFzc2lnbihxdWVzdGlvbiwgeyBhbnN3ZXI6IHF1ZXN0aW9uLmFuc3dlcnNbMF0uYW5zd2VyIH0pLAogICAgICAgIC8vICAgICApOwogICAgICAgIC8vICAgICB0aGlzLiRicm9hZGNhc3QoJ2FwcGxpY2FudC1yZWFkeScsIHRoaXMuYXBwbGljYW50KTsKICAgICAgICAvLyAgIH0sIGNvbnNvbGUud2FybiwKICAgICAgICAvLyApOwogICAgICAgIC8vCiAgICAgICAgLy8gcmVxdWU=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
+        <text>mapState([
+      'applicant',
+    ]),</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">YXJyYXlfa2V5X2V4aXN0cygnb3JpZ2luJywgJF9SRVFVRVNUKQogICAgICAgICAgICAmJiAkX1JFUVVFU1RbJ29yaWdpbiddID09PSAnYWdlbmN5TGlzdCc=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">CiAgICAgICAgJGl0ZW1zW10gPSBbCiAgICAgICAgICAgICdwYXRoJyA9PiAkcmVkaXJlY3QgLiAnL2VkaXQtbW9kZS1tYXNxdWVyYWRlJywKICAgICAgICAgICAgJ3RpdGxlJyA9PiB0KCdFZGl0IG1vZGUnKSwKICAgICAgICAgICAgJ2NhbGxiYWNrJyA9PiAnZHJ1cGFsX2dldF9mb3JtJywKICAgICAgICAgICAgJ2FjY2VzcycgPT4gYnJva2VyX3BvcnRhbF9tb2R1bGVfY2xhc3MoKS0+aXNVc2VyQnJva2VyT3JBYm92ZSgkdXNlciksCiAgICAgICAgICAgICdjYWxsYmFjayBhcmd1bWVudHMnID0+IFsnZWRpdF9tb2RlX2VtcGxveWVyJ10sCiAgICAgICAgICAgICd0eXBlJyA9PiBNRU5VX0NBTExCQUNLCiAgICAgICAgXTs=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">cmV0dXJuICR0aGlzLT5iZWxvbmdzVG9NYW55KEVtcGxveWVyOjpjbGFzcywgJ3VzZXJzX2hpZXJhcmNoeScsICdwYXJlbnQnLCAndWlkJykKICAgICAgICAgICAgLT53aGVyZUhhcygncm9sZXMnLCBmdW5jdGlvbiAoJHF1ZXJ5KSB7CiAgICAgICAgICAgICAgICAkcXVlcnktPndoZXJlKCdyb2xlLnJpZCcsIFtSb2xlOjpFTVBMT1lFUl0pOwogICAgICAgICAgICB9KTs=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">Zm9yZWFjaCAoJGVtcGxveWVycyBhcyAkZW1wbG95ZXIpIHsKICAgICAgICAgICAgJGNsaWVudExpc3RbKHN0cmluZykgJGVtcGxveWVyLT51c2VySWQoKV0gPSAkZW1wbG95ZXItPm5hbWUoKTsKICAgICAgICB9Cg==</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">WwogICAgICAgICAgICAgICAgJyN0eXBlJyA9PiAnY2hlY2tib3gnLAogICAgICAgICAgICAgICAgJyNkZWZhdWx0X3ZhbHVlJyA9PiAkZGVmdF92YWxbJ2NsaWVudF9wYXlyb2xsJ10sCiAgICAgICAgICAgICAgICAnI3RpdGxlJyA9PiB0KCdQQVlST0xMJyksCiAgICAgICAgICAgICAgICAnI2F0dHJpYnV0ZXMnID0+IFsnY2xhc3MnID0+ICd0b2dnbGUtY29udHJvbCddLAogICAgICAgICAgICAgICAgJyNwcmVmaXgnID0+ICc8ZGl2IGNsYXNzPSJmb3JtLXJvdyByb3ctYm9yZGVyIj48ZGl2IGNsYXNzPSJmb3JtLWNvbnRyb2wgdGV4dC0tbGFyZ2UiPicsCiAgICAgICAgICAgICAgICAnI3N1ZmZpeCcgPT4gJzwvZGl2PjwvZGl2PicKICAgICAgICAgICAgXTs=</text>
+        <text encoding="base64">Zm9yZWFjaCAoJGVtcGxveWVycyBhcyAkZW1wbG95ZXIpIHsKICAgICAgICAgICAgJGNsaWVudExpc3RbKHN0cmluZykgJGVtcGxveWVyLT51c2VySWQoKV0gPSAkZW1wbG95ZXItPm5hbWUoKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>2440</text>
