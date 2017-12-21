@@ -291,11 +291,11 @@
       <file name="$USER_HOME$/workspace/php/testProject/app/Http/Kernel.php" timestamp="1504817441978">
         <mark key="[" line="32" column="13" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/billing/billing-table.vue" timestamp="1513886139975">
-        <mark key="[" line="205" column="8" />
-        <mark key="]" line="207" column="24" />
-        <mark key="^" line="207" column="24" />
-        <mark key="." line="207" column="24" />
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/billing/billing-table.vue" timestamp="1513888271868">
+        <mark key="[" line="21" column="8" />
+        <mark key="]" line="21" column="10" />
+        <mark key="^" line="21" column="10" />
+        <mark key="." line="21" column="10" />
       </file>
       <file name="$USER_HOME$/bernieportal/legacy/UserManagementModule.php" timestamp="1508444607673">
         <mark key="[" line="505" column="30" />
@@ -350,7 +350,6 @@
       <file name="$USER_HOME$/bernieportal/app/Onboarding/EmployeesImport.php" timestamp="1506355596605">
         <mark key="[" line="5" column="1" />
       </file>
-      <file name="$USER_HOME$/bernieportal/legacy/ClientPortalModule.php" timestamp="1513713451216" />
       <file name="$USER_HOME$/workspace/emoji_rogue_like/css/main.css" timestamp="1506373068544">
         <mark key="[" line="0" column="0" />
       </file>
@@ -521,7 +520,7 @@
         <mark key="]" line="13" column="7" />
         <mark key="." line="13" column="7" />
       </file>
-      <file name="/PHP Console" timestamp="1513886181714">
+      <file name="/PHP Console" timestamp="1513888019833">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/views/employees/election-data.blade.php" timestamp="1506440738197">
@@ -568,7 +567,6 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/benefit-provider/client-bills.vue" timestamp="1510596330385">
         <mark key="[" line="101" column="29" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/general-agency/agency-list.vue" timestamp="1513724261150" />
       <file name="$USER_HOME$/bernieportal/resources/assets/sass/_modal.scss" timestamp="1500415612390">
         <mark key="[" line="16" column="30" />
       </file>
@@ -590,7 +588,6 @@
       <file name="$USER_HOME$/bernieportal/resources/views/dashboards/sidebar/onboarding.blade.php" timestamp="1499974681229">
         <mark key="[" line="4" column="39" />
       </file>
-      <file name="$USER_HOME$/bernieportal/public/sites/all/modules/client_portal/client_portal.module" timestamp="1513714284316" />
       <file name="$USER_HOME$/bernieportal/resources/assets/components/masquerade-modal.vue" timestamp="1513712191305">
         <mark key="[" line="16" column="38" />
         <mark key="]" line="16" column="38" />
@@ -611,12 +608,7 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/benefit-eoi/pending-buttons.vue" timestamp="1498596940985">
         <mark key="[" line="2" column="10" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/billing/employee-row.vue" timestamp="1513886710101">
-        <mark key="[" line="55" column="45" />
-        <mark key="]" line="55" column="43" />
-        <mark key="." line="55" column="43" />
-        <mark key="^" line="55" column="43" />
-      </file>
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/billing/employee-row.vue" timestamp="1513888132646" />
     </filemarks>
     <jumps>
       <jump line="103" column="3" filename="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/worlds/world.js" />
@@ -722,13 +714,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>: this.changeEffectiveDateClick,</text>
+        <text encoding="base64">PC9zcGFuPg==</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>: this.changeEffectiveDateClick,</text>
+        <text encoding="base64">PC9zcGFuPg==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxva1w+</text>
@@ -737,36 +729,36 @@
         <text encoding="base64">Q29sbGVjdGlvbjo6bWFrZSgkcHJvdmlkZXJzKS0+ZmlsdGVyKGZ1bmN0aW9uICgkcHJvdmlkZXIpKTs=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
+      </register>
+      <register name="5" type="4">
         <text>(this.groupHeader)
           ? groupBy(filteredData, this.groupHeader)
           : filteredData;</text>
       </register>
-      <register name="3" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJyoqKiBCSUxMSU5HLUNVUlJFTlQgUkVBRFkgKioqJyk7Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJyoqKiBFTVBMT1lFRS1ST1cgUkVBRFkgKioqJyk7Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">LnRoZW4oKGRhdGEpID0+IHsKICAgICAgICAgIGNvbnNvbGUubG9nKCdQT1NUIEFORCBUSEVOTk4nKQogICAgICAgIH0pOw==</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">IGNvbnNvbGUubG9nKCdyb3V0ZXIgfj4gZ2V0IEFwcGxpY2FudCBtZXRob2QgY2FsbGVkJyk7CiAgICAgICAgLy8gY29uc3QgcmVxdWVzdCA9IG5ldyBBcGlSZXF1ZXN0KGAvYXBpL2pvYnMvJHt0aGlzLmdldEpvYklkKCl9L2NhbmRpZGF0ZXMvJHt0aGlzLmdldEFwcGxpY2F0aW9uSWQoKX1gLAogICAgICAgIC8vICAgKGFwcGxpY2FudCkgPT4gewogICAgICAgIC8vICAgICB0aGlzLmFwcGxpY2FudCA9IGFwcGxpY2FudDsKICAgICAgICAvLyAgICAgdGhpcy5hcHBsaWNhbnQuYW5zd2VyZWRRdWVzdGlvbnMgPSB0aGlzLmFwcGxpY2FudC5hbnN3ZXJlZFF1ZXN0aW9ucy5tYXAoCiAgICAgICAgLy8gICAgICAgcXVlc3Rpb24gPT4gT2JqZWN0LmFzc2lnbihxdWVzdGlvbiwgeyBhbnN3ZXI6IHF1ZXN0aW9uLmFuc3dlcnNbMF0uYW5zd2VyIH0pLAogICAgICAgIC8vICAgICApOwogICAgICAgIC8vICAgICB0aGlzLiRicm9hZGNhc3QoJ2FwcGxpY2FudC1yZWFkeScsIHRoaXMuYXBwbGljYW50KTsKICAgICAgICAvLyAgIH0sIGNvbnNvbGUud2FybiwKICAgICAgICAvLyApOwogICAgICAgIC8vCiAgICAgICAgLy8gcmVxdWU=</text>
       </register>
       <register name=":" type="4">
         <text>2440</text>
