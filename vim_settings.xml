@@ -189,11 +189,11 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/loading-popup.vue" timestamp="1498514478199">
         <mark key="[" line="8" column="27" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/billing/benefit-billing-past.vue" timestamp="1513976539774">
-        <mark key="[" line="130" column="22" />
-        <mark key="]" line="130" column="22" />
-        <mark key="." line="130" column="22" />
-        <mark key="^" line="374" column="18" />
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/billing/benefit-billing-past.vue" timestamp="1513985056225">
+        <mark key="[" line="275" column="13" />
+        <mark key="]" line="274" column="0" />
+        <mark key="^" line="274" column="0" />
+        <mark key="." line="274" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/portfolio_os/.eslintrc.js" timestamp="1513291435082">
         <mark key="[" line="46" column="36" />
@@ -298,7 +298,7 @@
       <file name="$USER_HOME$/workspace/php/testProject/app/Http/Kernel.php" timestamp="1504817441978">
         <mark key="[" line="32" column="13" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/billing/billing-table.vue" timestamp="1513975165359">
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/billing/billing-table.vue" timestamp="1513984093314">
         <mark key="d" line="19" column="14" />
       </file>
       <file name="$USER_HOME$/bernieportal/legacy/UserManagementModule.php" timestamp="1508444607673">
@@ -391,6 +391,9 @@
       </file>
       <file name="$USER_HOME$/bernieportal/legacy/CmsMiscModule.php" timestamp="1508444603150">
         <mark key="[" line="1169" column="12" />
+      </file>
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/billing/billing-adjustment-table.vue" timestamp="1513984765746">
+        <mark key="[" line="12" column="11" />
       </file>
       <file name="$USER_HOME$/workspace/gamepad_api_demo/index.html" timestamp="1501271743681">
         <mark key="[" line="3" column="0" />
@@ -524,7 +527,7 @@
         <mark key="]" line="13" column="7" />
         <mark key="." line="13" column="7" />
       </file>
-      <file name="/PHP Console" timestamp="1513972703790">
+      <file name="/PHP Console" timestamp="1513984886409">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/views/employees/election-data.blade.php" timestamp="1506440738197">
@@ -722,13 +725,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>else</text>
+        <text>changeEffectiveDateClick</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>else</text>
+        <text>changeEffectiveDateClick</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxva1w+</text>
