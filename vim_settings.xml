@@ -230,7 +230,7 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/js/current-user-id.js" timestamp="1499278658594">
         <mark key="[" line="2" column="63" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/billing/benefit-billing-current.vue" timestamp="1513895171055">
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/billing/benefit-billing-current.vue" timestamp="1513973214112">
         <mark key="[" line="326" column="23" />
         <mark key="]" line="250" column="0" />
         <mark key="." line="250" column="0" />
@@ -292,12 +292,11 @@
       <file name="$USER_HOME$/workspace/php/testProject/app/Http/Kernel.php" timestamp="1504817441978">
         <mark key="[" line="32" column="13" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/billing/billing-table.vue" timestamp="1513964820080">
-        <mark key="d" line="20" column="14" />
-        <mark key="[" line="132" column="13" />
-        <mark key="]" line="132" column="13" />
-        <mark key="." line="132" column="13" />
-        <mark key="^" line="35" column="16" />
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/billing/billing-table.vue" timestamp="1513975165359">
+        <mark key="d" line="19" column="14" />
+        <mark key="[" line="38" column="27" />
+        <mark key="]" line="38" column="27" />
+        <mark key="." line="38" column="27" />
       </file>
       <file name="$USER_HOME$/bernieportal/legacy/UserManagementModule.php" timestamp="1508444607673">
         <mark key="[" line="505" column="30" />
@@ -522,7 +521,7 @@
         <mark key="]" line="13" column="7" />
         <mark key="." line="13" column="7" />
       </file>
-      <file name="/PHP Console" timestamp="1513962709812">
+      <file name="/PHP Console" timestamp="1513972703790">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/views/employees/election-data.blade.php" timestamp="1506440738197">
@@ -610,7 +609,7 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/benefit-eoi/pending-buttons.vue" timestamp="1498596940985">
         <mark key="[" line="2" column="10" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/billing/employee-row.vue" timestamp="1513893352259">
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/billing/employee-row.vue" timestamp="1513973132121">
         <mark key="[" line="41" column="17" />
         <mark key="]" line="41" column="17" />
         <mark key="." line="41" column="17" />
@@ -720,13 +719,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>changeEffectiveDateClick</text>
+        <text>terminateClickFunc</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>changeEffectiveDateClick</text>
+        <text>terminateClickFunc</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxva1w+</text>
