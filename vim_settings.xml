@@ -292,12 +292,12 @@
       <file name="$USER_HOME$/workspace/php/testProject/app/Http/Kernel.php" timestamp="1504817441978">
         <mark key="[" line="32" column="13" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/billing/billing-table.vue" timestamp="1513896955385">
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/billing/billing-table.vue" timestamp="1513964820080">
         <mark key="d" line="20" column="14" />
-        <mark key="[" line="136" column="13" />
-        <mark key="]" line="136" column="13" />
-        <mark key="." line="136" column="13" />
-        <mark key="^" line="37" column="16" />
+        <mark key="[" line="132" column="13" />
+        <mark key="]" line="132" column="13" />
+        <mark key="." line="132" column="13" />
+        <mark key="^" line="35" column="16" />
       </file>
       <file name="$USER_HOME$/bernieportal/legacy/UserManagementModule.php" timestamp="1508444607673">
         <mark key="[" line="505" column="30" />
@@ -522,7 +522,7 @@
         <mark key="]" line="13" column="7" />
         <mark key="." line="13" column="7" />
       </file>
-      <file name="/PHP Console" timestamp="1513962505508">
+      <file name="/PHP Console" timestamp="1513962709812">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/views/employees/election-data.blade.php" timestamp="1506440738197">
