@@ -189,6 +189,12 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/loading-popup.vue" timestamp="1498514478199">
         <mark key="[" line="8" column="27" />
       </file>
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/billing/benefit-billing-past.vue" timestamp="1513976539774">
+        <mark key="[" line="130" column="22" />
+        <mark key="]" line="130" column="22" />
+        <mark key="." line="130" column="22" />
+        <mark key="^" line="374" column="18" />
+      </file>
       <file name="$USER_HOME$/workspace/portfolio_os/.eslintrc.js" timestamp="1513291435082">
         <mark key="[" line="46" column="36" />
         <mark key="]" line="46" column="35" />
@@ -294,9 +300,6 @@
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/billing/billing-table.vue" timestamp="1513975165359">
         <mark key="d" line="19" column="14" />
-        <mark key="[" line="38" column="27" />
-        <mark key="]" line="38" column="27" />
-        <mark key="." line="38" column="27" />
       </file>
       <file name="$USER_HOME$/bernieportal/legacy/UserManagementModule.php" timestamp="1508444607673">
         <mark key="[" line="505" column="30" />
@@ -610,9 +613,9 @@
         <mark key="[" line="2" column="10" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/billing/employee-row.vue" timestamp="1513973132121">
-        <mark key="[" line="41" column="17" />
-        <mark key="]" line="41" column="17" />
-        <mark key="." line="41" column="17" />
+        <mark key="[" line="1" column="17" />
+        <mark key="]" line="1" column="17" />
+        <mark key="." line="1" column="17" />
       </file>
     </filemarks>
     <jumps>
@@ -719,13 +722,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>terminateClickFunc</text>
+        <text>else</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>terminateClickFunc</text>
+        <text>else</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxva1w+</text>
@@ -733,17 +736,17 @@
       <register name="0" type="4">
         <text encoding="base64">Q29sbGVjdGlvbjo6bWFrZSgkcHJvdmlkZXJzKS0+ZmlsdGVyKGZ1bmN0aW9uICgkcHJvdmlkZXIpKTs=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IGNvbnNvbGUubG9nKCdmaWx0ZXJlZDogJywgKHRoaXMuZ3JvdXBIZWFkZXIpCiAgICAgICAgICA/IGdyb3VwQnkoZmlsdGVyZWREYXRhLCB0aGlzLmdyb3VwSGVhZGVyKQogICAgICAgICAgOiBmaWx0ZXJlZERhdGEpOw==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhpbnB1dCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">IGNvbnNvbGUubG9nKCdmaWx0ZXJlZDogJywgKHRoaXMuZ3JvdXBIZWFkZXIpCiAgICAgICAgICA/IGdyb3VwQnkoZmlsdGVyZWREYXRhLCB0aGlzLmdyb3VwSGVhZGVyKQogICAgICAgICAgOiBmaWx0ZXJlZERhdGEpOw==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgIAo=</text>
@@ -751,19 +754,19 @@
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
+      </register>
+      <register name="7" type="4">
         <text>(this.groupHeader)
           ? groupBy(filteredData, this.groupHeader)
           : filteredData;</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJyoqKiBCSUxMSU5HLUNVUlJFTlQgUkVBRFkgKioqJyk7Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJyoqKiBFTVBMT1lFRS1ST1cgUkVBRFkgKioqJyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>2440</text>
