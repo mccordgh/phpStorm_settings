@@ -348,6 +348,11 @@
         <mark key="^" line="338" column="14" />
         <mark key="." line="338" column="14" />
       </file>
+      <file name="$USER_HOME$/workspace/miniverse_frontend/app/app.js" timestamp="1514838814768">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/onboarding/personal-info.vue" timestamp="1508525254571">
         <mark key="[" line="175" column="22" />
       </file>
@@ -725,13 +730,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>changeEffectiveDateClick</text>
+        <text>var</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>changeEffectiveDateClick</text>
+        <text>var</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxva1w+</text>
