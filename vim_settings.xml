@@ -111,6 +111,7 @@
       <file name="$USER_HOME$/bernieportal/app/PTO/PTOSubgroupSettings.php" timestamp="1507832474318">
         <mark key="[" line="2" column="33" />
       </file>
+      <file name="$USER_HOME$/workspace/miniverse_frontend/app/controllers/HomeCtrl.js" timestamp="1514839857721" />
       <file name="$USER_HOME$/bernieportal/legacy/ClienteleModule.php" timestamp="1497635912389">
         <mark key="[" line="2" column="17" />
       </file>
@@ -349,7 +350,10 @@
         <mark key="^" line="338" column="14" />
         <mark key="." line="338" column="14" />
       </file>
-      <file name="$USER_HOME$/workspace/miniverse_frontend/app/app.js" timestamp="1514839457699">
+      <file name="$USER_HOME$/workspace/miniverse_frontend/index.html" timestamp="1514841676049">
+        <mark key="[" line="17" column="10" />
+      </file>
+      <file name="$USER_HOME$/workspace/miniverse_frontend/app/app.js" timestamp="1514841797249">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
@@ -570,7 +574,7 @@
       <file name="$USER_HOME$/workspace/soundbox_js_playground/index.html" timestamp="1504056226018">
         <mark key="[" line="6" column="8" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513886058566">
+      <file name="/Dummy.txt" timestamp="1514841757119">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -602,6 +606,7 @@
       <file name="$USER_HOME$/bernieportal/resources/views/dashboards/sidebar/onboarding.blade.php" timestamp="1499974681229">
         <mark key="[" line="4" column="39" />
       </file>
+      <file name="$USER_HOME$/workspace/miniverse_frontend/app/controllers/PlayCtrl.js" timestamp="1514841285934" />
       <file name="$USER_HOME$/bernieportal/resources/assets/components/masquerade-modal.vue" timestamp="1513712191305">
         <mark key="[" line="16" column="38" />
         <mark key="]" line="16" column="38" />
