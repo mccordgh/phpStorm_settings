@@ -67,6 +67,7 @@
       <file name="$USER_HOME$/bernieportal/public/sites/all/modules/clientele/clientele_user.module" timestamp="1509390769159">
         <mark key="[" line="46" column="40" />
       </file>
+      <file name="$USER_HOME$/workspace/miniverse_frontend/app/controllers/AdventureCtrl.js" timestamp="1514839354568" />
       <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/Edi/SchedulersController.php" timestamp="1494362868134">
         <mark key="[" line="32" column="44" />
       </file>
@@ -348,10 +349,10 @@
         <mark key="^" line="338" column="14" />
         <mark key="." line="338" column="14" />
       </file>
-      <file name="$USER_HOME$/workspace/miniverse_frontend/app/app.js" timestamp="1514838814768">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/workspace/miniverse_frontend/app/app.js" timestamp="1514839457699">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/onboarding/personal-info.vue" timestamp="1508525254571">
         <mark key="[" line="175" column="22" />
@@ -397,6 +398,7 @@
       <file name="$USER_HOME$/bernieportal/legacy/CmsMiscModule.php" timestamp="1508444603150">
         <mark key="[" line="1169" column="12" />
       </file>
+      <file name="$USER_HOME$/workspace/miniverse_frontend/app/partials/home.html" timestamp="1514839254885" />
       <file name="$USER_HOME$/bernieportal/resources/assets/components/billing/billing-adjustment-table.vue" timestamp="1513984765746">
         <mark key="[" line="12" column="11" />
       </file>
@@ -730,7 +732,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>var</text>
+        <text encoding="base64">ZnVuY3Rpb24gYWRkVHdvKHgsIHkpIHsKICByZXR1cm4geCArIHk7Cn0KCmNvbnN0IHN1YlR3byA9ICh4LCB5KSA9PiB7CiAgcmV0dXJuIHggLSB5Owp9OwoKYWRkVHdvKDIsIDMpOwpzdWJUd28oNCwgMik7Cg==</text>
       </register>
       <register name="d" type="4">
         <text />
@@ -744,20 +746,20 @@
       <register name="0" type="4">
         <text encoding="base64">Q29sbGVjdGlvbjo6bWFrZSgkcHJvdmlkZXJzKS0+ZmlsdGVyKGZ1bmN0aW9uICgkcHJvdmlkZXIpKTs=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhpbnB1dCk7Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">ZnVuY3Rpb24gYWRkVHdvKHgsIHkpIHsKICByZXR1cm4geCArIHk7Cn0KCmNvbnN0IHN1YlR3byA9ICh4LCB5KSA9PiB7CiAgcmV0dXJuIHggLSB5Owp9OwoKYWRkVHdvKDIsIDMpOwpzdWJUd28oNCwgMik7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhpbnB1dCk7Cg==</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">IGNvbnNvbGUubG9nKCdmaWx0ZXJlZDogJywgKHRoaXMuZ3JvdXBIZWFkZXIpCiAgICAgICAgICA/IGdyb3VwQnkoZmlsdGVyZWREYXRhLCB0aGlzLmdyb3VwSGVhZGVyKQogICAgICAgICAgOiBmaWx0ZXJlZERhdGEpOw==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgIAo=</text>
@@ -765,16 +767,16 @@
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
+      </register>
+      <register name="8" type="4">
         <text>(this.groupHeader)
           ? groupBy(filteredData, this.groupHeader)
           : filteredData;</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJyoqKiBCSUxMSU5HLUNVUlJFTlQgUkVBRFkgKioqJyk7Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJyoqKiBCSUxMSU5HLUNVUlJFTlQgUkVBRFkgKioqJyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>2440</text>
