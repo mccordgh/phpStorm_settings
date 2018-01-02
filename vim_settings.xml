@@ -133,7 +133,13 @@
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/tiles/wall-blue.js" timestamp="1503354559657">
         <mark key="[" line="3" column="17" />
       </file>
-      <file name="$USER_HOME$/bernieportal/legacy/ClientRegModule.php" timestamp="1514918397025" />
+      <file name="$USER_HOME$/bernieportal/legacy/ClientRegModule.php" timestamp="1514933919881">
+        <mark key="'" line="2472" column="17" />
+        <mark key="[" line="2477" column="8" />
+        <mark key="]" line="2461" column="13" />
+        <mark key="^" line="2461" column="13" />
+        <mark key="." line="2461" column="13" />
+      </file>
       <file name="$USER_HOME$/bernieportal/resources/views/dashboards/sidebar/employer-employee-items.blade.php" timestamp="1502480216885">
         <mark key="[" line="3" column="43" />
       </file>
@@ -253,8 +259,10 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="/fragment.php" timestamp="1514923481920">
-        <mark key="[" line="0" column="0" />
+      <file name="/fragment.php" timestamp="1514933589113">
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="8" />
+        <mark key="." line="0" column="8" />
       </file>
       <file name="$USER_HOME$/workspace/gamepad_api_demo/main.css" timestamp="1501271749114">
         <mark key="[" line="5" column="10" />
@@ -346,10 +354,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/legacy/PayrollModule.php" timestamp="1514923486935">
-        <mark key="[" line="349" column="0" />
-        <mark key="]" line="349" column="0" />
         <mark key="^" line="358" column="7" />
-        <mark key="." line="349" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/miniverse_frontend/index.html" timestamp="1514843064405">
         <mark key="[" line="17" column="10" />
@@ -542,7 +547,7 @@
         <mark key="]" line="13" column="7" />
         <mark key="." line="13" column="7" />
       </file>
-      <file name="/PHP Console" timestamp="1514923557465">
+      <file name="/PHP Console" timestamp="1514933745938">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/views/employees/election-data.blade.php" timestamp="1506440738197">
@@ -639,8 +644,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="58" column="44" filename="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/worlds/world.js" />
-      <jump line="0" column="21" filename="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/gfx/game-camera.js" />
       <jump line="68" column="6" filename="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/worlds/maze-generator.js" />
       <jump line="5" column="28" filename="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/worlds/maze-generator.js" />
       <jump line="940" column="27" filename="$USER_HOME$/bernieportal/legacy/BenefitAttachModule.php" />
@@ -739,16 +742,18 @@
       <jump line="378" column="0" filename="$USER_HOME$/bernieportal/resources/assets/components/ats/candidate/job-candidate.vue" />
       <jump line="4" column="72" filename="$USER_HOME$/bernieportal/resources/assets/components/billing/employee-row.vue" />
       <jump line="341" column="45" filename="$USER_HOME$/bernieportal/legacy/PayrollModule.php" />
+      <jump line="2463" column="45" filename="$USER_HOME$/bernieportal/legacy/ClientRegModule.php" />
+      <jump line="2473" column="17" filename="$USER_HOME$/bernieportal/legacy/ClientRegModule.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtIGFycmF5ICRwcm92aWRlcnMKICAgICAqIEByZXR1cm4gYXJyYXkKICAgICAqLw==</text>
+        <text>Outdated</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LT5pZA==</text>
+        <text>Outdated</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxva1w+</text>
@@ -757,39 +762,45 @@
         <text encoding="base64">Q29sbGVjdGlvbjo6bWFrZSgkcHJvdmlkZXJzKS0+ZmlsdGVyKGZ1bmN0aW9uICgkcHJvdmlkZXIpKTs=</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtIGFycmF5ICRwcm92aWRlcnMKICAgICAqIEByZXR1cm4gYXJyYXkKICAgICAqLw==</text>
+        <text>(
+            $currentProviderId == static::PAYROLL_PROVIDER_NONE
+            || $currentProviderId == static::PAYROLL_PROVIDER_ADP
+       )</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ZnVuY3Rpb24gYWRkVHdvKHgsIHkpIHsKICByZXR1cm4geCArIHk7Cn0KCmNvbnN0IHN1YlR3byA9ICh4LCB5KSA9PiB7CiAgcmV0dXJuIHggLSB5Owp9OwoKYWRkVHdvKDIsIDMpOwpzdWJUd28oNCwgMik7Cg==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IFBBWVJPTExfUFJPVklERVJfUEFZTE9DSVRZID0gMzsK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgY29uc3QgUEFZUk9MTF9QUk9WSURFUl9QQVlDSEVYID0gMTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IFBBWVJPTExfUFJPVklERVJfQURQID0gMjsKICAgIGNvbnN0IFBBWVJPTExfUFJPVklERVJfUEFZTE9DSVRZID0gMzsK</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">IHJldHVybiAnQURQJzsKICAgICAgICB9</text>
+      </register>
+      <register name="6" type="4">
+        <text>if (
+            $currentProviderId == static::PAYROLL_PROVIDER_PAYCHEX
+            || $currentProviderId == static::PAYROLL_PROVIDER_PAYLOCITY
+        ) {
+            return 'Payroll';
+        }</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtIGFycmF5ICRwcm92aWRlcnMKICAgICAqIEByZXR1cm4gYXJyYXkKICAgICAqLw==</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">ZnVuY3Rpb24gYWRkVHdvKHgsIHkpIHsKICByZXR1cm4geCArIHk7Cn0KCmNvbnN0IHN1YlR3byA9ICh4LCB5KSA9PiB7CiAgcmV0dXJuIHggLSB5Owp9OwoKYWRkVHdvKDIsIDMpOwpzdWJUd28oNCwgMik7Cg==</text>
+      </register>
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhpbnB1dCk7Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">IGNvbnNvbGUubG9nKCdmaWx0ZXJlZDogJywgKHRoaXMuZ3JvdXBIZWFkZXIpCiAgICAgICAgICA/IGdyb3VwQnkoZmlsdGVyZWREYXRhLCB0aGlzLmdyb3VwSGVhZGVyKQogICAgICAgICAgOiBmaWx0ZXJlZERhdGEpOw==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
-      </register>
-      <register name="9" type="4">
-        <text>(this.groupHeader)
-          ? groupBy(filteredData, this.groupHeader)
-          : filteredData;</text>
-      </register>
       <register name=":" type="4">
-        <text>87</text>
+        <text>2485</text>
       </register>
     </registers>
     <search>
@@ -825,9 +836,6 @@
         <entry encoding="base64">XDxva1w+</entry>
       </history-search>
       <history-cmd>
-        <entry>249</entry>
-        <entry>585</entry>
-        <entry>53</entry>
         <entry>1727</entry>
         <entry>275</entry>
         <entry>375</entry>
@@ -845,6 +853,9 @@
         <entry>24440</entry>
         <entry>2440</entry>
         <entry>87</entry>
+        <entry>2466</entry>
+        <entry>2463</entry>
+        <entry>2485</entry>
       </history-cmd>
       <history-expr />
       <history-input />
