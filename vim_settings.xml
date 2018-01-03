@@ -357,11 +357,10 @@
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/tiles/wall-blue.js" timestamp="1503354559657">
         <mark key="[" line="3" column="17" />
       </file>
-      <file name="$USER_HOME$/bernieportal/legacy/ClientRegModule.php" timestamp="1515002235592">
-        <mark key="[" line="2458" column="14" />
-        <mark key="]" line="2458" column="14" />
-        <mark key="^" line="2484" column="9" />
-        <mark key="." line="2458" column="14" />
+      <file name="$USER_HOME$/bernieportal/legacy/ClientRegModule.php" timestamp="1515002854501">
+        <mark key="[" line="2441" column="43" />
+        <mark key="]" line="2441" column="43" />
+        <mark key="." line="2441" column="43" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/views/dashboards/sidebar/employer-employee-items.blade.php" timestamp="1502480216885">
         <mark key="[" line="3" column="43" />
@@ -519,7 +518,7 @@
       <file name="$USER_HOME$/workspace/php/testProject/public/css/main.css" timestamp="1504813753200">
         <mark key="[" line="34" column="23" />
       </file>
-      <file name="/PHP Console" timestamp="1515002113684">
+      <file name="/PHP Console" timestamp="1515002646375">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/JavaScript Console" timestamp="1513366723327">
@@ -674,7 +673,9 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>string</text>
+        <text>,
+                (int) $form['payroll_provider']['#default_value'] ?? 0
+            );</text>
       </register>
       <register name="d" type="4">
         <text />
@@ -688,8 +689,10 @@
       <register name="0" type="4">
         <text encoding="base64">Q29sbGVjdGlvbjo6bWFrZSgkcHJvdmlkZXJzKS0+ZmlsdGVyKGZ1bmN0aW9uICgkcHJvdmlkZXIpKTs=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>,
+                (int) $form['payroll_provider']['#default_value'] ?? 0
+            );</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -698,28 +701,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAkbmV3Rm9ybS0+Zm9ybWF0Rm9yMTA5NU1haWxlclppcCgxKTsK</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">Zm9yICgkcGFnZU51bWJlciA9IDE7ICRwYWdlTnVtYmVyIDw9ICR0b3RhbE51bWJlck9mUGFnZXM7ICRwYWdlTnVtYmVyKyspIHsKICAgICAgICAgICAgJHJvdGF0aW9uQ2VudGVyWCA9IDE0NDsKICAgICAgICAgICAgJHJvdGF0aW9uQ2VudGVyWSA9IDE0NjsKICAgICAgICAgICAgJGRlZ3JlZXMgPSA5MDsKCiAgICAgICAgICAgICRuZXdGb3JtLT5hZGRQYWdlKCdQJyk7CiAgICAgICAgICAgICRuZXdGb3JtLT5Sb3RhdGUoJGRlZ3JlZXMsICRyb3RhdGlvbkNlbnRlclgsICRyb3RhdGlvbkNlbnRlclkpOwogICAgICAgICAgICAkdGVtcGxhdGUgPSAkbmV3Rm9ybS0+aW1wb3J0UGFnZSgkcGFnZU51bWJlcik7CiAgICAgICAgICAgICRuZXdGb3JtLT51c2VUZW1wbGF0ZSgkdGVtcGxhdGUpOwogICAgICAgIH0=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgCg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">IAogICAgcHJpdmF0ZSBmdW5jdGlvbiAoQWlyRlBESSAkbmV3Rm9ybSkKICAgIHsKICAgICAgICAKICAgIH0=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>(
             $currentProviderId == static::PAYROLL_PROVIDER_NONE
             || $currentProviderId == static::PAYROLL_PROVIDER_ADP
        )</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IFBBWVJPTExfUFJPVklERVJfUEFZTE9DSVRZID0gMzsK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgY29uc3QgUEFZUk9MTF9QUk9WSURFUl9QQVlDSEVYID0gMTsK</text>
+        <text encoding="base64">ICAgIGNvbnN0IFBBWVJPTExfUFJPVklERVJfUEFZTE9DSVRZID0gMzsK</text>
       </register>
       <register name=":" type="4">
         <text>2461</text>
