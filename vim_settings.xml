@@ -149,10 +149,7 @@
       <file name="$USER_HOME$/bernieportal/legacy/PayrollModule.php" timestamp="1514923486935">
         <mark key="^" line="358" column="7" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Listeners/Aca/Generate1095CsPdfMailerZipFile.php" timestamp="1514936291639">
-        <mark key="]" line="140" column="0" />
-        <mark key="." line="140" column="0" />
-      </file>
+      <file name="$USER_HOME$/bernieportal/app/Listeners/Aca/Generate1095CsPdfMailerZipFile.php" timestamp="1515000878651" />
       <file name="$USER_HOME$/workspace/miniverse_frontend/index.html" timestamp="1514843064405">
         <mark key="[" line="17" column="10" />
       </file>
@@ -274,7 +271,7 @@
       <file name="$USER_HOME$/workspace/soundbox_js_playground/index.html" timestamp="1504056226018">
         <mark key="[" line="6" column="8" />
       </file>
-      <file name="/Dummy.txt" timestamp="1514948642521">
+      <file name="/Dummy.txt" timestamp="1515002100650">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -360,6 +357,12 @@
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/tiles/wall-blue.js" timestamp="1503354559657">
         <mark key="[" line="3" column="17" />
       </file>
+      <file name="$USER_HOME$/bernieportal/legacy/ClientRegModule.php" timestamp="1515002235592">
+        <mark key="[" line="2458" column="14" />
+        <mark key="]" line="2458" column="14" />
+        <mark key="^" line="2484" column="9" />
+        <mark key="." line="2458" column="14" />
+      </file>
       <file name="$USER_HOME$/bernieportal/resources/views/dashboards/sidebar/employer-employee-items.blade.php" timestamp="1502480216885">
         <mark key="[" line="3" column="43" />
       </file>
@@ -410,11 +413,6 @@
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
-      </file>
-      <file name="/fragment.php" timestamp="1514936846739">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="8" />
-        <mark key="." line="0" column="8" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/views/components/dashboard-tabs-template.blade.php" timestamp="1502478886901">
         <mark key="[" line="1" column="17" />
@@ -493,7 +491,7 @@
         <mark key="[" line="19" column="46" />
       </file>
       <file name="$USER_HOME$/workspace/miniverse_frontend/app/partials/play.html" timestamp="1514852557604" />
-      <file name="$USER_HOME$/bernieportal/legacy/EmployerProfile/EmployerProfile.php" timestamp="1514916945564" />
+      <file name="$USER_HOME$/bernieportal/legacy/EmployerProfile/EmployerProfile.php" timestamp="1515002098527" />
       <file name="$USER_HOME$/bernieportal/resources/assets/components/account-settings/change-password.vue" timestamp="1508528918510">
         <mark key="[" line="60" column="21" />
       </file>
@@ -521,7 +519,7 @@
       <file name="$USER_HOME$/workspace/php/testProject/public/css/main.css" timestamp="1504813753200">
         <mark key="[" line="34" column="23" />
       </file>
-      <file name="/PHP Console" timestamp="1514938035700">
+      <file name="/PHP Console" timestamp="1515002113684">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/JavaScript Console" timestamp="1513366723327">
@@ -532,11 +530,6 @@
       </file>
       <file name="$USER_HOME$/mastiff/mastiff/laravel/app/controllers/api/v1/resources/ProviderController.php" timestamp="1514921576555">
         <mark key="[" line="17" column="26" />
-      </file>
-      <file name="$USER_HOME$/bernieportal/legacy/Air/Models/AirFPDI.php" timestamp="1514937972248">
-        <mark key="[" line="61" column="4" />
-        <mark key="]" line="61" column="4" />
-        <mark key="." line="61" column="4" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/benefit-provider/client-bills.vue" timestamp="1510596330385">
         <mark key="[" line="101" column="29" />
@@ -681,13 +674,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>AddPortraitModePagesAndRotateContent</text>
+        <text>string</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>AddPortraitModePagesAndRotateContent</text>
+        <text>string</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxva1w+</text>
@@ -729,7 +722,7 @@
         <text encoding="base64">ICAgY29uc3QgUEFZUk9MTF9QUk9WSURFUl9QQVlDSEVYID0gMTsK</text>
       </register>
       <register name=":" type="4">
-        <text>53</text>
+        <text>2461</text>
       </register>
     </registers>
     <search>
@@ -765,8 +758,6 @@
         <entry encoding="base64">XDxva1w+</entry>
       </history-search>
       <history-cmd>
-        <entry>375</entry>
-        <entry>1658</entry>
         <entry>1739</entry>
         <entry>105</entry>
         <entry>187</entry>
@@ -785,6 +776,8 @@
         <entry>2485</entry>
         <entry>102</entry>
         <entry>53</entry>
+        <entry>2484</entry>
+        <entry>2461</entry>
       </history-cmd>
       <history-expr />
       <history-input />
