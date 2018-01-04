@@ -530,6 +530,13 @@
       <file name="$USER_HOME$/workspace/portfolio_os/src/js/main.js" timestamp="1508693809881">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/benefit-provider/edi/file.vue" timestamp="1515097260924">
+        <mark key="'" line="512" column="8" />
+        <mark key="[" line="513" column="31" />
+        <mark key="]" line="513" column="31" />
+        <mark key="." line="513" column="31" />
+        <mark key="^" line="512" column="78" />
+      </file>
       <file name="$USER_HOME$/bernieportal/app/Onboarding/EmployeesImport.php" timestamp="1506355596605">
         <mark key="[" line="5" column="1" />
       </file>
@@ -615,7 +622,7 @@
       <file name="$USER_HOME$/workspace/php/testProject/public/css/main.css" timestamp="1504813753200">
         <mark key="[" line="34" column="23" />
       </file>
-      <file name="/PHP Console" timestamp="1515026079518">
+      <file name="/PHP Console" timestamp="1515097035421">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/JavaScript Console" timestamp="1513366723327">
@@ -668,8 +675,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="28" filename="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/worlds/maze-generator.js" />
-      <jump line="940" column="27" filename="$USER_HOME$/bernieportal/legacy/BenefitAttachModule.php" />
       <jump line="0" column="0" filename="$USER_HOME$/bernieportal/resources/views/forgot-password.blade.php" />
       <jump line="27" column="0" filename="$USER_HOME$/bernieportal/resources/views/forgot-password.blade.php" />
       <jump line="9" column="8" filename="$USER_HOME$/bernieportal/resources/views/forgot-password.blade.php" />
@@ -768,16 +773,18 @@
       <jump line="2463" column="45" filename="$USER_HOME$/bernieportal/legacy/ClientRegModule.php" />
       <jump line="2473" column="17" filename="$USER_HOME$/bernieportal/legacy/ClientRegModule.php" />
       <jump line="2823" column="46" filename="$USER_HOME$/bernieportal/legacy/OnboardingModule.php" />
+      <jump line="523" column="41" filename="$USER_HOME$/bernieportal/resources/assets/components/benefit-provider/edi/file.vue" />
+      <jump line="521" column="8" filename="$USER_HOME$/bernieportal/resources/assets/components/benefit-provider/edi/file.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZGl2LndlbGNvbWUtYXJlYV9fcmlnaHQK</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>button</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxva1w+</text>
