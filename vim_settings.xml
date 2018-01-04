@@ -81,6 +81,7 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/routers/job-routing.vue" timestamp="1513293594479">
         <mark key="[" line="1" column="7" />
       </file>
+      <file name="$USER_HOME$/bernieportal/legacy/Air/Models/AirEmployer.php" timestamp="1515098813781" />
       <file name="$USER_HOME$/bernieportal/app/Ats/Repositories/JobCandidateRepository.php" timestamp="1505347656980">
         <mark key="[" line="36" column="25" />
       </file>
@@ -307,7 +308,7 @@
       <file name="$USER_HOME$/workspace/soundbox_js_playground/index.html" timestamp="1504056226018">
         <mark key="[" line="6" column="8" />
       </file>
-      <file name="/Dummy.txt" timestamp="1515026007671">
+      <file name="/Dummy.txt" timestamp="1515099531070">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -417,6 +418,7 @@
         <mark key="[" line="3" column="17" />
       </file>
       <file name="$USER_HOME$/bernieportal/legacy/ClientRegModule.php" timestamp="1515008533787" />
+      <file name="$USER_HOME$/bernieportal/public/sites/all/modules/air_report/air_report.module" timestamp="1515098380349" />
       <file name="$USER_HOME$/bernieportal/resources/views/dashboards/sidebar/employer-employee-items.blade.php" timestamp="1502480216885">
         <mark key="[" line="3" column="43" />
       </file>
@@ -492,7 +494,7 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="/fragment.php" timestamp="1515025281201">
+      <file name="/fragment.php" timestamp="1515099957671">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/views/components/dashboard-tabs-template.blade.php" timestamp="1502478886901">
@@ -500,6 +502,9 @@
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/components/candidate-header.vue" timestamp="1493220732358">
         <mark key="[" line="41" column="54" />
+      </file>
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/aca/subgroups/list-1094.vue" timestamp="1515098246310">
+        <mark key="[" line="69" column="79" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Api/Transformers/BenefitProvider/EmployerTransformer.php" timestamp="1501534288275">
         <mark key="[" line="17" column="52" />
@@ -529,13 +534,6 @@
       </file>
       <file name="$USER_HOME$/workspace/portfolio_os/src/js/main.js" timestamp="1508693809881">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/benefit-provider/edi/file.vue" timestamp="1515097260924">
-        <mark key="'" line="512" column="8" />
-        <mark key="[" line="513" column="31" />
-        <mark key="]" line="513" column="31" />
-        <mark key="." line="513" column="31" />
-        <mark key="^" line="512" column="78" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Onboarding/EmployeesImport.php" timestamp="1506355596605">
         <mark key="[" line="5" column="1" />
@@ -570,6 +568,7 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/quaternary-nav-for-vue.vue" timestamp="1498594361234">
         <mark key="[" line="15" column="23" />
       </file>
+      <file name="$USER_HOME$/bernieportal/legacy/Air/Views/Air1094SettingsDrupalForm.php" timestamp="1515100611118" />
       <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/job/job-candidates-list.vue" timestamp="1502727847016">
         <mark key="[" line="188" column="88" />
       </file>
@@ -622,7 +621,7 @@
       <file name="$USER_HOME$/workspace/php/testProject/public/css/main.css" timestamp="1504813753200">
         <mark key="[" line="34" column="23" />
       </file>
-      <file name="/PHP Console" timestamp="1515097035421">
+      <file name="/PHP Console" timestamp="1515100247393">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/JavaScript Console" timestamp="1513366723327">
@@ -823,7 +822,7 @@
         <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg</text>
       </register>
       <register name=":" type="4">
-        <text>1053</text>
+        <text>89</text>
       </register>
     </registers>
     <search>
@@ -859,7 +858,6 @@
         <entry encoding="base64">XDxva1w+</entry>
       </history-search>
       <history-cmd>
-        <entry>87</entry>
         <entry>2466</entry>
         <entry>2463</entry>
         <entry>2485</entry>
@@ -879,6 +877,7 @@
         <entry>588</entry>
         <entry>587</entry>
         <entry>1053</entry>
+        <entry>89</entry>
       </history-cmd>
       <history-expr />
       <history-input />
