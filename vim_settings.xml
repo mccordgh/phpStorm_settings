@@ -56,7 +56,6 @@
         <mark key="]" line="2" column="40" />
         <mark key="." line="2" column="40" />
       </file>
-      <file name="$USER_HOME$/workspace/miniverse_frontend/app/controllers/HomeCtrl.js" timestamp="1514839857721" />
       <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/Time/TimesheetsController.php" timestamp="1506635792834">
         <mark key="[" line="60" column="83" />
       </file>
@@ -78,7 +77,6 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/routers/job-routing.vue" timestamp="1513293594479">
         <mark key="[" line="1" column="7" />
       </file>
-      <file name="$USER_HOME$/bernieportal/legacy/Air/Models/AirEmployer.php" timestamp="1515098813781" />
       <file name="$USER_HOME$/bernieportal/app/Ats/Repositories/JobCandidateRepository.php" timestamp="1505347656980">
         <mark key="[" line="36" column="25" />
       </file>
@@ -156,7 +154,6 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/thread/candidate-job-message-modal.vue" timestamp="1493229583139">
         <mark key="[" line="13" column="61" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Listeners/Aca/Generate1095CsPdfMailerZipFile.php" timestamp="1515000878651" />
       <file name="$USER_HOME$/workspace/miniverse_frontend/index.html" timestamp="1514843064405">
         <mark key="[" line="17" column="10" />
       </file>
@@ -242,7 +239,6 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/time/timesheet.vue" timestamp="1506624726560">
         <mark key="[" line="442" column="29" />
       </file>
-      <file name="$USER_HOME$/workspace/miniverse_frontend/app/factories/gameFactory.js" timestamp="1514844718403" />
       <file name="$USER_HOME$/bernieportal/resources/assets/components/time/employees/timesheet.vue" timestamp="1496866552323">
         <mark key="[" line="3" column="37" />
       </file>
@@ -297,7 +293,6 @@
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
       </file>
-      <file name="$USER_HOME$/mastiff/mastiff/laravel/app/routes.php" timestamp="1514921680284" />
       <file name="$USER_HOME$/bernieportal/resources/assets/components/popover.vue" timestamp="1492636708489">
         <mark key="[" line="13" column="26" />
       </file>
@@ -313,8 +308,6 @@
       <file name="$USER_HOME$/bernieportal/resources/views/dashboards/sidebar/onboarding.blade.php" timestamp="1499974681229">
         <mark key="[" line="4" column="39" />
       </file>
-      <file name="$USER_HOME$/bernieportal/public/sites/all/modules/onboarding/onboarding.module" timestamp="1515012320276" />
-      <file name="$USER_HOME$/bernieportal/legacy/CrIntegration/EmployerCarriersConfigure.php" timestamp="1515103320764" />
       <file name="$USER_HOME$/bernieportal/app/Api/Transformers/Bills/UnumPdfBillTransformer.php" timestamp="1515109277581">
         <mark key="[" line="53" column="73" />
       </file>
@@ -361,7 +354,6 @@
       <file name="$USER_HOME$/bernieportal/public/sites/all/modules/clientele/clientele_user.module" timestamp="1509390769159">
         <mark key="[" line="46" column="40" />
       </file>
-      <file name="$USER_HOME$/workspace/miniverse_frontend/app/controllers/AdventureCtrl.js" timestamp="1514855208869" />
       <file name="$USER_HOME$/bernieportal/public/sites/all/modules/payroll/js/compensation_adjust_salary.js" timestamp="1505762159211">
         <mark key="[" line="55" column="86" />
       </file>
@@ -388,15 +380,12 @@
       <file name="$USER_HOME$/bernieportal/legacy/ClienteleModule.php" timestamp="1497635912389">
         <mark key="[" line="2" column="17" />
       </file>
-      <file name="$USER_HOME$/bernieportal/legacy/Air/Views/AirGeneratePdfDrupalForm.php" timestamp="1514937870454" />
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/tiles/wall-blue.js" timestamp="1503354559657">
         <mark key="[" line="3" column="17" />
       </file>
-      <file name="$USER_HOME$/bernieportal/public/sites/all/modules/air_report/air_report.module" timestamp="1515098380349" />
       <file name="$USER_HOME$/bernieportal/app/Carriers/Billing/LegacyBill.php" timestamp="1515108074401">
         <mark key="[" line="171" column="5" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Carriers/Billing/GuardianRules.php" timestamp="1515101206343" />
       <file name="$USER_HOME$/bernieportal/resources/views/dashboards/sidebar/employer-employee-items.blade.php" timestamp="1502480216885">
         <mark key="[" line="3" column="43" />
       </file>
@@ -424,7 +413,6 @@
       <file name="$USER_HOME$/bernieportal/app/Subgroups/PTO/PTOSubgroupSetting.php" timestamp="1507829125307">
         <mark key="[" line="9" column="6" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Carriers/Edi/GroupRepository.php" timestamp="1515104840441" />
       <file name="$USER_HOME$/bernieportal/database/migrations/2017_12_01_181700_add_feature_toggle_cs_team_member_tier_v4.php" timestamp="1512170279029">
         <mark key="[" line="17" column="30" />
         <mark key="]" line="17" column="30" />
@@ -529,14 +517,12 @@
       <file name="$USER_HOME$/bernieportal/legacy/ClienteleUserModule.php" timestamp="1515025250301">
         <mark key="[" line="1862" column="18" />
       </file>
-      <file name="$USER_HOME$/workspace/miniverse_frontend/app/partials/home.html" timestamp="1514854580495" />
       <file name="$USER_HOME$/bernieportal/resources/assets/components/billing/billing-adjustment-table.vue" timestamp="1513984765746">
         <mark key="[" line="12" column="11" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/quaternary-nav-for-vue.vue" timestamp="1498594361234">
         <mark key="[" line="15" column="23" />
       </file>
-      <file name="$USER_HOME$/bernieportal/legacy/Air/Views/Air1094SettingsDrupalForm.php" timestamp="1515100611118" />
       <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/job/job-candidates-list.vue" timestamp="1502727847016">
         <mark key="[" line="188" column="88" />
       </file>
@@ -546,21 +532,17 @@
         <mark key="^" line="24" column="35" />
         <mark key="." line="24" column="35" />
       </file>
-      <file name="$USER_HOME$/bernieportal/public/sites/all/modules/client_reg/client_reg.module" timestamp="1515102495088" />
-      <file name="$USER_HOME$/workspace/miniverse_frontend/app/partials/play.html" timestamp="1514852557604" />
-      <file name="$USER_HOME$/bernieportal/legacy/EmployerProfile/EmployerProfile.php" timestamp="1515102488630" />
       <file name="$USER_HOME$/bernieportal/resources/assets/components/account-settings/change-password.vue" timestamp="1508528918510">
         <mark key="[" line="60" column="21" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Carriers/Billing/CarrierBill.php" timestamp="1515108051971">
-        <mark key="[" line="196" column="35" />
+      <file name="$USER_HOME$/bernieportal/app/Carriers/Billing/CarrierBill.php" timestamp="1515169846951">
+        <mark key="[" line="198" column="45" />
         <mark key="]" line="196" column="35" />
         <mark key="." line="196" column="35" />
       </file>
       <file name="$USER_HOME$/bernieportal/storage/framework/views/241e2393e69edc8bff247d70c53e0872b31b741a.php" timestamp="1506372251594">
         <mark key="[" line="4" column="57" />
       </file>
-      <file name="$USER_HOME$/bernieportal/legacy/BhReportsModule.php" timestamp="1515015036282" />
       <file name="$USER_HOME$/bernieportal/app/Http/Requests/User/ShowUserRequest.php" timestamp="1496853931288">
         <mark key="[" line="21" column="49" />
       </file>
@@ -588,7 +570,7 @@
       <file name="$USER_HOME$/workspace/php/testProject/public/css/main.css" timestamp="1504813753200">
         <mark key="[" line="34" column="23" />
       </file>
-      <file name="/PHP Console" timestamp="1515109631428">
+      <file name="/PHP Console" timestamp="1515169940013">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/JavaScript Console" timestamp="1513366723327">
@@ -615,8 +597,6 @@
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/tiles/path-blue.js" timestamp="1503356614590">
         <mark key="[" line="3" column="17" />
       </file>
-      <file name="$USER_HOME$/workspace/miniverse_frontend/app/controllers/PlayCtrl.js" timestamp="1514841285934" />
-      <file name="$USER_HOME$/bernieportal/resources/assets/sass/app.scss" timestamp="1515020026750" />
       <file name="$USER_HOME$/bernieportal/resources/assets/components/masquerade-modal.vue" timestamp="1513712191305">
         <mark key="[" line="16" column="38" />
         <mark key="]" line="16" column="38" />
@@ -634,7 +614,6 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/modal.vue" timestamp="1512429426533">
         <mark key="[" line="16" column="19" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Api/Transformers/Bills/GuardianPdfBillTransformer.php" timestamp="1515109134103" />
       <file name="$USER_HOME$/bernieportal/resources/assets/components/billing/employee-row.vue" timestamp="1513973132121">
         <mark key="[" line="1" column="17" />
         <mark key="]" line="1" column="17" />
