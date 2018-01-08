@@ -48,6 +48,9 @@
       <file name="$USER_HOME$/bernieportal/app/Agencies/GeneralAgency.php" timestamp="1512746987081">
         <mark key="[" line="19" column="31" />
       </file>
+      <file name="$USER_HOME$/bernieportal/resources/assets/js/bernie-portal.js" timestamp="1515439708195">
+        <mark key="[" line="8" column="27" />
+      </file>
       <file name="$USER_HOME$/bernieportal/app/Carriers/Billing/BillingPdfRepository.php" timestamp="1515171802876">
         <mark key="^" line="38" column="7" />
       </file>
@@ -231,7 +234,6 @@
       <file name="$USER_HOME$/bernieportal/app/Views/Composers/Sidebar/Sidebar.php" timestamp="1495661096600">
         <mark key="[" line="46" column="10" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Time/Timesheet.php" timestamp="1515432507866" />
       <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/candidate/individual-application.vue" timestamp="1493136831791">
         <mark key="[" line="70" column="120" />
       </file>
@@ -515,7 +517,7 @@
         <mark key="]" line="13" column="7" />
         <mark key="." line="13" column="7" />
       </file>
-      <file name="/PHP Console" timestamp="1515435365657">
+      <file name="/PHP Console" timestamp="1515438887145">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/views/employees/election-data.blade.php" timestamp="1506440738197">
