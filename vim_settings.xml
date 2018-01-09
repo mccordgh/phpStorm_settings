@@ -225,10 +225,11 @@
       <file name="$USER_HOME$/bernieportal/app/Views/Composers/Sidebar/Sidebar.php" timestamp="1495661096600">
         <mark key="[" line="46" column="10" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Time/Timesheet.php" timestamp="1515458187279">
-        <mark key="[" line="291" column="0" />
-        <mark key="]" line="291" column="0" />
-        <mark key="." line="291" column="0" />
+      <file name="$USER_HOME$/bernieportal/app/Time/Timesheet.php" timestamp="1515533159250">
+        <mark key="'" line="280" column="62" />
+        <mark key="[" line="280" column="62" />
+        <mark key="]" line="284" column="0" />
+        <mark key="." line="284" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/candidate/individual-application.vue" timestamp="1493136831791">
         <mark key="[" line="70" column="120" />
@@ -241,7 +242,7 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="/fragment.php" timestamp="1515530146474">
+      <file name="/fragment.php" timestamp="1515533771210">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="15" />
         <mark key="." line="0" column="15" />
@@ -504,7 +505,7 @@
         <mark key="]" line="13" column="7" />
         <mark key="." line="13" column="7" />
       </file>
-      <file name="/PHP Console" timestamp="1515530529676">
+      <file name="/PHP Console" timestamp="1515533730125">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/views/employees/election-data.blade.php" timestamp="1506440738197">
@@ -611,7 +612,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/bernieportal/resources/views/forgot-password.blade.php" />
       <jump line="27" column="0" filename="$USER_HOME$/bernieportal/resources/views/forgot-password.blade.php" />
       <jump line="9" column="8" filename="$USER_HOME$/bernieportal/resources/views/forgot-password.blade.php" />
       <jump line="33" column="0" filename="$USER_HOME$/bernieportal/resources/views/forgot-password.blade.php" />
@@ -711,6 +711,7 @@
       <jump line="2823" column="46" filename="$USER_HOME$/bernieportal/legacy/OnboardingModule.php" />
       <jump line="523" column="41" filename="$USER_HOME$/bernieportal/resources/assets/components/benefit-provider/edi/file.vue" />
       <jump line="521" column="8" filename="$USER_HOME$/bernieportal/resources/assets/components/benefit-provider/edi/file.vue" />
+      <jump line="282" column="62" filename="$USER_HOME$/bernieportal/app/Time/Timesheet.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
