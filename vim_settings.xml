@@ -225,11 +225,8 @@
       <file name="$USER_HOME$/bernieportal/app/Views/Composers/Sidebar/Sidebar.php" timestamp="1495661096600">
         <mark key="[" line="46" column="10" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Time/Timesheet.php" timestamp="1515533159250">
+      <file name="$USER_HOME$/bernieportal/app/Time/Timesheet.php" timestamp="1515536364892">
         <mark key="'" line="280" column="62" />
-        <mark key="[" line="280" column="62" />
-        <mark key="]" line="284" column="0" />
-        <mark key="." line="284" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/candidate/individual-application.vue" timestamp="1493136831791">
         <mark key="[" line="70" column="120" />
@@ -718,13 +715,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>id()</text>
+        <text>public static</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>id()</text>
+        <text>public static</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxva1w+</text>
