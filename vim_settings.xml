@@ -152,12 +152,12 @@
       <file name="$APPLICATION_CONFIG_DIR$/phpstorm.vmoptions" timestamp="1509555962101">
         <mark key="[" line="0" column="7" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/carrier-forms/view.vue" timestamp="1515688987173">
-        <mark key="'" line="77" column="29" />
-        <mark key="[" line="27" column="24" />
-        <mark key="]" line="14" column="22" />
-        <mark key="^" line="176" column="9" />
-        <mark key="." line="14" column="22" />
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/carrier-forms/view.vue" timestamp="1515703586732">
+        <mark key="'" line="123" column="29" />
+        <mark key="[" line="29" column="32" />
+        <mark key="]" line="29" column="22" />
+        <mark key="^" line="29" column="22" />
+        <mark key="." line="29" column="22" />
       </file>
       <file name="$USER_HOME$/workspace/Defend_The_Castle/.gitignore" timestamp="1506608558146">
         <mark key="[" line="0" column="0" />
@@ -507,7 +507,7 @@
         <mark key="]" line="13" column="7" />
         <mark key="." line="13" column="7" />
       </file>
-      <file name="/PHP Console" timestamp="1515692052223">
+      <file name="/PHP Console" timestamp="1515703089591">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/views/employees/election-data.blade.php" timestamp="1506440738197">
@@ -717,14 +717,14 @@
       <jump line="72" column="29" filename="$USER_HOME$/bernieportal/resources/assets/components/carrier-forms/view.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>dddddddddddddddddddddd</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text />
+        <text>dddddddddddddddddddddd</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwzMDMwMzBcPg==</text>
