@@ -152,12 +152,12 @@
       <file name="$APPLICATION_CONFIG_DIR$/phpstorm.vmoptions" timestamp="1509555962101">
         <mark key="[" line="0" column="7" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/carrier-forms/view.vue" timestamp="1515704508674">
-        <mark key="'" line="129" column="29" />
-        <mark key="[" line="35" column="32" />
-        <mark key="]" line="35" column="22" />
-        <mark key="^" line="35" column="22" />
-        <mark key="." line="35" column="22" />
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/carrier-forms/view.vue" timestamp="1515710845323">
+        <mark key="'" line="125" column="0" />
+        <mark key="[" line="137" column="17" />
+        <mark key="]" line="137" column="17" />
+        <mark key="^" line="155" column="33" />
+        <mark key="." line="137" column="17" />
       </file>
       <file name="$USER_HOME$/workspace/Defend_The_Castle/.gitignore" timestamp="1506608558146">
         <mark key="[" line="0" column="0" />
@@ -507,7 +507,7 @@
         <mark key="]" line="13" column="7" />
         <mark key="." line="13" column="7" />
       </file>
-      <file name="/PHP Console" timestamp="1515704298602">
+      <file name="/PHP Console" timestamp="1515710707746">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/views/employees/election-data.blade.php" timestamp="1506440738197">
@@ -615,7 +615,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="8" filename="$USER_HOME$/bernieportal/resources/views/forgot-password.blade.php" />
       <jump line="33" column="0" filename="$USER_HOME$/bernieportal/resources/views/forgot-password.blade.php" />
       <jump line="14" column="23" filename="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/menus/main-menu.js" />
       <jump line="44" column="16" filename="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/entities/entity.js" />
@@ -715,16 +714,17 @@
       <jump line="521" column="8" filename="$USER_HOME$/bernieportal/resources/assets/components/benefit-provider/edi/file.vue" />
       <jump line="282" column="62" filename="$USER_HOME$/bernieportal/app/Time/Timesheet.php" />
       <jump line="72" column="29" filename="$USER_HOME$/bernieportal/resources/assets/components/carrier-forms/view.vue" />
+      <jump line="113" column="0" filename="$USER_HOME$/bernieportal/resources/assets/components/carrier-forms/view.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>dddddddddddddddddddddd</text>
+        <text>[_v-5cd137bc]</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>dddddddddddddddddddddd</text>
+        <text>[_v-5cd137bc]</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwzMDMwMzBcPg==</text>
@@ -733,34 +733,34 @@
         <text encoding="base64">Q29sbGVjdGlvbjo6bWFrZSgkcHJvdmlkZXJzKS0+ZmlsdGVyKGZ1bmN0aW9uICgkcHJvdmlkZXIpKTs=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZsb2F0OiByaWdodDsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBOZXcgRmllbGQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ3JlYXRlIEN1c3RvbSBGaWVsZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBOZXcgRmllbGQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQ3JlYXRlIEN1c3RvbSBGaWVsZAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLmZvcm1fX3NpZGViYXItaXRlbSB7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwYWRkaW5nLWxlZnQ6IDAuNXJlbTsK</text>
+        <text encoding="base64">ICAgICAgLmZvcm1fX3NpZGViYXItaXRlbSB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBwYWRkaW5nLWxlZnQ6IDAuNXJlbTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHdpZHRoOiAzNHJlbTsK</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">JGR1ZURhdGVzLT5zb3J0KCktPm1hcChmdW5jdGlvbiAoJGR1ZURhdGUpIHVzZSAoJiRwcmV2aW91cykgewogICAgICAgICAgICAgICAgJHRpbWVzaGVldCA9IG5ldyBUaW1lc2hlZXQ7CiAgICAgICAgICAgICAgICAkdGltZXNoZWV0LT5zdGFydCA9ICRwcmV2aW91cyA/ICRwcmV2aW91cy0+YWRkRGF5KCktPnN0YXJ0T2ZEYXkoKSA6ICRkdWVEYXRlOwogICAgICAgICAgICAgICAgJHRpbWVzaGVldC0+ZW5kID0gJGR1ZURhdGUtPmVuZE9mRGF5KCk7CgogICAgICAgICAgICAgICAgJHByZXZpb3VzID0gJGR1ZURhdGU7CgogICAgICAgICAgICAgICAgcmV0dXJuICR0aW1lc2hlZXQ7CiAgICAgICAgICAgIH0pLT5hbGwoKSk7</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHdpZHRoOiAzNHJlbTsK</text>
       </register>
       <register name=":" type="4">
         <text>303</text>
