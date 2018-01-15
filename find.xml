@@ -16,7 +16,6 @@
       <mask>*.html</mask>
       <mask>*</mask>
       <mask>c</mask>
-      <mask>*.c</mask>
       <mask>*.blad</mask>
       <mask>*.blade</mask>
       <mask>*.blade.</mask>
@@ -26,14 +25,15 @@
       <mask>*.vue</mask>
       <mask>*.vu</mask>
       <mask>*.v</mask>
-      <mask>*.j</mask>
-      <mask>*.js</mask>
       <mask>*.php</mask>
       <mask>*.ph</mask>
       <mask>*.p</mask>
-      <mask>*.</mask>
-      <mask>*.cs</mask>
       <mask>*.css</mask>
+      <mask>*.cs</mask>
+      <mask>*.c</mask>
+      <mask>*.</mask>
+      <mask>*.j</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
