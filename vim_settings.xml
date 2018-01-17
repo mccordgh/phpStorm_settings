@@ -84,10 +84,10 @@
       <file name="$USER_HOME$/workspace/php/testProject/app/Http/Controllers/mySampleResourceController.php" timestamp="1503082068737">
         <mark key="[" line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/feature-toggle-selector.vue" timestamp="1516213688436">
-        <mark key="[" line="6" column="18" />
-        <mark key="]" line="6" column="18" />
-        <mark key="." line="6" column="18" />
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/feature-toggle-selector.vue" timestamp="1516219104403">
+        <mark key="[" line="3" column="18" />
+        <mark key="]" line="3" column="18" />
+        <mark key="." line="3" column="18" />
         <mark key="^" line="22" column="13" />
       </file>
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/tiles/wall-blue.js" timestamp="1503354559657">
@@ -123,8 +123,8 @@
       <file name="$APPLICATION_CONFIG_DIR$/phpstorm.vmoptions" timestamp="1509555962101">
         <mark key="[" line="0" column="7" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/carrier-forms/view.vue" timestamp="1516214017178">
-        <mark key="[" line="2" column="0" />
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/carrier-forms/view.vue" timestamp="1516219114596">
+        <mark key="[" line="5" column="28" />
         <mark key="]" line="2" column="4" />
         <mark key="." line="2" column="4" />
         <mark key="^" line="4" column="12" />
@@ -207,11 +207,11 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/aca/subgroups/list-1094.vue" timestamp="1515098246310">
         <mark key="[" line="69" column="79" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/save-pdf-preview-banner.vue" timestamp="1516217236581">
-        <mark key="[" line="48" column="82" />
-        <mark key="]" line="48" column="82" />
-        <mark key="." line="48" column="82" />
-        <mark key="^" line="31" column="1" />
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/save-pdf-preview-banner.vue" timestamp="1516220131921">
+        <mark key="[" line="71" column="54" />
+        <mark key="]" line="71" column="78" />
+        <mark key="." line="71" column="78" />
+        <mark key="^" line="71" column="68" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/views/layout/masquerade-notice.blade.php" timestamp="1502139682624">
         <mark key="[" line="1" column="30" />
@@ -422,7 +422,7 @@
       <file name="$USER_HOME$/bernieportal/tests/app/Api/Transformers/GeneralAgencies/GeneralAgencyAgencyListTransformerTest.php" timestamp="1513188149133">
         <mark key="[" line="12" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1516217403617">
+      <file name="/PHP Console" timestamp="1516220135128">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/views/employees/election-data.blade.php" timestamp="1506440738197">
@@ -626,13 +626,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>location.href='/en/benefits/forms'</text>
+        <text encoding="base64">ICsgJw==</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>location.href='/en/benefits/forms'</text>
+        <text encoding="base64">ICsgJw==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwzMDMwMzBcPg==</text>
