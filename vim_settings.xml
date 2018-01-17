@@ -264,12 +264,6 @@
       <file name="/fragment.js" timestamp="1515432179327">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/carrier-forms/form-view-new.vue" timestamp="1516217361502">
-        <mark key="[" line="155" column="33" />
-        <mark key="]" line="157" column="11" />
-        <mark key="." line="157" column="11" />
-        <mark key="^" line="157" column="11" />
-      </file>
       <file name="$USER_HOME$/bernieportal/public/sites/all/modules/emp_pto/emp_pto.module" timestamp="1507320519182">
         <mark key="[" line="86" column="5" />
       </file>
@@ -428,7 +422,7 @@
       <file name="$USER_HOME$/bernieportal/tests/app/Api/Transformers/GeneralAgencies/GeneralAgencyAgencyListTransformerTest.php" timestamp="1513188149133">
         <mark key="[" line="12" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1516217309146">
+      <file name="/PHP Console" timestamp="1516217403617">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/views/employees/election-data.blade.php" timestamp="1506440738197">
