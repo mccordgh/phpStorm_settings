@@ -9,7 +9,7 @@
       <file name="$USER_HOME$/workspace/php/testProject/app/Http/Controllers/ContactController.php" timestamp="1503087041690">
         <mark key="[" line="8" column="6" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Carriers/Billing/CarrierRegeneratedBill.php" timestamp="1516398777979">
+      <file name="$USER_HOME$/bernieportal/app/Carriers/Billing/CarrierRegeneratedBill.php" timestamp="1516399637270">
         <mark key="[" line="220" column="8" />
         <mark key="]" line="220" column="8" />
         <mark key="." line="220" column="8" />
@@ -104,7 +104,7 @@
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/tiles/wall-blue.js" timestamp="1503354559657">
         <mark key="[" line="3" column="17" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Carriers/Billing/LegacyBill.php" timestamp="1516398744925">
+      <file name="$USER_HOME$/bernieportal/app/Carriers/Billing/LegacyBill.php" timestamp="1516399630689">
         <mark key="[" line="172" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/views/dashboards/sidebar/employer-employee-items.blade.php" timestamp="1502480216885">
@@ -385,11 +385,11 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/account-settings/change-password.vue" timestamp="1508528918510">
         <mark key="[" line="60" column="21" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Carriers/Billing/CarrierBill.php" timestamp="1516398789251">
-        <mark key="[" line="200" column="5" />
-        <mark key="]" line="210" column="0" />
-        <mark key="^" line="210" column="0" />
-        <mark key="." line="210" column="0" />
+      <file name="$USER_HOME$/bernieportal/app/Carriers/Billing/CarrierBill.php" timestamp="1516399626494">
+        <mark key="[" line="203" column="8" />
+        <mark key="]" line="203" column="8" />
+        <mark key="^" line="205" column="0" />
+        <mark key="." line="203" column="8" />
       </file>
       <file name="$USER_HOME$/workspace/emoji_rogue_like/js/main.js" timestamp="1506373361728">
         <mark key="[" line="0" column="0" />
@@ -458,7 +458,7 @@
       <file name="$USER_HOME$/bernieportal/tests/app/Api/Transformers/GeneralAgencies/GeneralAgencyAgencyListTransformerTest.php" timestamp="1513188149133">
         <mark key="[" line="12" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1516397014262">
+      <file name="/PHP Console" timestamp="1516399577715">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/views/employees/election-data.blade.php" timestamp="1506440738197">
@@ -497,7 +497,7 @@
       <file name="$USER_HOME$/workspace/soundbox_js_playground/index.html" timestamp="1504056226018">
         <mark key="[" line="6" column="8" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516395530873">
+      <file name="/Dummy.txt" timestamp="1516399601208">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -662,13 +662,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>return</text>
+        <text>if ($employer) {</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>return</text>
+        <text>if ($employer) {</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwzMDMwMzBcPg==</text>
