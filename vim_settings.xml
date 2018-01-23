@@ -162,12 +162,12 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/loading-popup.vue" timestamp="1498514478199">
         <mark key="[" line="8" column="27" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/bubble-menu.vue" timestamp="1516738084838">
-        <mark key="'" line="157" column="7" />
-        <mark key="[" line="152" column="38" />
-        <mark key="]" line="148" column="55" />
-        <mark key="^" line="148" column="55" />
-        <mark key="." line="148" column="55" />
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/bubble-menu.vue" timestamp="1516740668057">
+        <mark key="'" line="151" column="7" />
+        <mark key="[" line="66" column="17" />
+        <mark key="]" line="68" column="6" />
+        <mark key="^" line="68" column="6" />
+        <mark key="." line="68" column="6" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Ats/Repositories/JobCandidateRepository.php" timestamp="1505347656980">
         <mark key="[" line="36" column="25" />
@@ -309,8 +309,8 @@
       <file name="$USER_HOME$/workspace/emoji_rogue_like/css/main.css" timestamp="1506373068544">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/form-field-circle.vue" timestamp="1516737733807">
-        <mark key="[" line="134" column="18" />
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/form-field-circle.vue" timestamp="1516740506565">
+        <mark key="[" line="55" column="73" />
         <mark key="]" line="48" column="0" />
         <mark key="^" line="48" column="0" />
         <mark key="." line="48" column="0" />
@@ -464,7 +464,7 @@
         <mark key="." line="194" column="16" />
         <mark key="^" line="194" column="16" />
       </file>
-      <file name="/PHP Console" timestamp="1516738726046">
+      <file name="/PHP Console" timestamp="1516740613790">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/views/employees/election-data.blade.php" timestamp="1506440738197">
@@ -671,13 +671,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">QnBBY3Rpb24sIEJwQWN0aW9ucywg</text>
+        <text>minWidth</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">QnBBY3Rpb24sIEJwQWN0aW9ucywg</text>
+        <text>minWidth</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwzMDMwMzBcPg==</text>
