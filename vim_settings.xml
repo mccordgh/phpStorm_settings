@@ -30,8 +30,10 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/applications/application.vue" timestamp="1505482376533">
         <mark key="[" line="79" column="7" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Employment/Employer.php" timestamp="1516913508733">
-        <mark key="[" line="69" column="5" />
+      <file name="$USER_HOME$/bernieportal/app/Employment/Employer.php" timestamp="1516914167938">
+        <mark key="[" line="73" column="44" />
+        <mark key="]" line="73" column="44" />
+        <mark key="." line="73" column="44" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Ats/Candidate.php" timestamp="1502737804653">
         <mark key="[" line="32" column="86" />
@@ -191,11 +193,11 @@
       <file name="$USER_HOME$/bernieportal/resources/views/billing/base-unum-bill.blade.php" timestamp="1515108477474">
         <mark key="[" line="77" column="51" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Console/Commands/PlanTeamChallenge.php" timestamp="1516913483141">
-        <mark key="[" line="118" column="17" />
-        <mark key="]" line="118" column="17" />
-        <mark key="^" line="123" column="10" />
-        <mark key="." line="118" column="17" />
+      <file name="$USER_HOME$/bernieportal/app/Console/Commands/PlanTeamChallenge.php" timestamp="1516914774918">
+        <mark key="[" line="118" column="49" />
+        <mark key="]" line="118" column="49" />
+        <mark key="^" line="118" column="48" />
+        <mark key="." line="118" column="49" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Views/Composers/Sidebar/Sidebar.php" timestamp="1495661096600">
         <mark key="[" line="46" column="10" />
@@ -668,13 +670,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">UGxhbjo6ZmluZEJ5RW1wbG95ZXIoJGVtcGxveWVyKS0+Z2V0KCk7</text>
+        <text encoding="base64">LT5wbGFucygpLT4=</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">UGxhbjo6ZmluZEJ5RW1wbG95ZXIoJGVtcGxveWVyKS0+Z2V0KCk7</text>
+        <text encoding="base64">LT5wbGFucygpLT4=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwzMDMwMzBcPg==</text>
