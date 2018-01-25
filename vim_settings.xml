@@ -144,9 +144,12 @@
       <file name="$USER_HOME$/bernieportal/app/Subgroups/PTO/PTOSubgroupSetting.php" timestamp="1507829125307">
         <mark key="[" line="9" column="6" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/team_challenge.php" timestamp="1516811225416">
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/team_challenge.php" timestamp="1516901010970">
         <mark key="'" line="14" column="36" />
-        <mark key="[" line="16" column="3" />
+        <mark key="[" line="64" column="3" />
+        <mark key="]" line="66" column="3" />
+        <mark key="^" line="66" column="3" />
+        <mark key="." line="66" column="3" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/routers/job-routing.vue" timestamp="1513293594479">
         <mark key="[" line="1" column="7" />
@@ -438,7 +441,7 @@
         <mark key="." line="194" column="16" />
         <mark key="^" line="194" column="16" />
       </file>
-      <file name="/PHP Console" timestamp="1516763615795">
+      <file name="/PHP Console" timestamp="1516900965296">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/views/employees/election-data.blade.php" timestamp="1506440738197">
@@ -477,7 +480,7 @@
       <file name="$USER_HOME$/workspace/soundbox_js_playground/index.html" timestamp="1504056226018">
         <mark key="[" line="6" column="8" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516810502148">
+      <file name="/Dummy.txt" timestamp="1516900766068">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -666,13 +669,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>false</text>
+        <text encoding="base64">UGxhbiBmcm9tIA==</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text encoding="base64">UGxhbiBmcm9tIA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwzMDMwMzBcPg==</text>
@@ -681,37 +684,37 @@
         <text>parseInt(</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBnYW1lU3RhdHVzID0gJ1lPVSAhJzt9Cg==</text>
+        <text encoding="base64">ICAgICdDYW5jZXInLCAnTG9uZyBUZXJtIERpc2FiaWxpdHknLCAnU2hvcnQgVGVybSBEaXNhYmlsaXR5Jwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGFsZXJ0ICgiWW91IFdpbiEhIik7Cg==</text>
+        <text encoding="base64">ICBnYW1lU3RhdHVzID0gJ1lPVSAhJzt9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGFsZXJ0ICgiWW91IFdpbiEhIik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy4kZGlzcGF0Y2goJ2FsZXJ0JywgJ1RoZXJlIHdhcyBhIHByb2JsZW0gdXBkYXRpbmcgdGhlIGZpZWxkLiBQbGVhc2UgdHJ5IGFnYWluLicpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy4kZGlzcGF0Y2goJ2FsZXJ0JywgJ1RoZXJlIHdhcyBhIHByb2JsZW0gdXBkYXRpbmcgdGhlIGZpZWxkLiBQbGVhc2UgdHJ5IGFnYWluLicpOwo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdGhpcy4kZGlzcGF0Y2goJ3N1Y2Nlc3MnLCAnRmllbGQgdXBkYXRlZCBzdWNjZXNzZnVsbHkuJyk7Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>menuTop: ,
           menuHeight,
         });</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>transition: all 600ms;
     transform: translateY(0px);</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgLmFjdGlvbnMgewogICAgcG9zaXRpb246IHJlbGF0aXZlOwogIH0KCiAgLmFjdGlvbnNfX2xpbmssIC5hY3Rpb25zX19saW5rOmZvY3VzLCAuYWN0aW9uc19fbGluazpob3ZlciB7CiAgICBjb2xvcjogaW5oZXJpdDsKICB9CgogIC5hY3Rpb25zX19saW5rIGkgewogICAgbWFyZ2luLXJpZ2h0OiAwOwogIH0KCiAgLmFjdGlvbl9fY29udGFpbmVyIHsKICAgIGJvcmRlci1yYWRpdXM6IDAuNXJlbTsKICAgIGJhY2tncm91bmQtY29sb3I6ICNmZmY7CiAgICBib3JkZXI6IDFweCBzb2xpZCAjZWRlZGVkOwogICAgYm94LXNoYWRvdzogMnB4IDJweCAycHggMHB4IHJnYmEoMCwgMCwgMCwgMC40KTsKICAgIHotaW5kZXg6IDg4ODg7CiAgICBwYWRkaW5nOiA0cHggMDsKICAgIHBvc2l0aW9uOiBhYnNvbHV0ZTsKICAgIHRvcDogMTc1JTsKICAgIGxlZnQ6IDUwJTs=</text>
       </register>
       <register name=":" type="4">
         <text>201</text>
