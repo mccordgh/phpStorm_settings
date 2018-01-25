@@ -144,12 +144,6 @@
       <file name="$USER_HOME$/bernieportal/app/Subgroups/PTO/PTOSubgroupSetting.php" timestamp="1507829125307">
         <mark key="[" line="9" column="6" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/team_challenge.php" timestamp="1516910966867">
-        <mark key="[" line="74" column="20" />
-        <mark key="]" line="74" column="20" />
-        <mark key="." line="74" column="20" />
-        <mark key="^" line="74" column="89" />
-      </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/routers/job-routing.vue" timestamp="1513293594479">
         <mark key="[" line="1" column="7" />
       </file>
@@ -189,6 +183,12 @@
       </file>
       <file name="$USER_HOME$/bernieportal/resources/views/billing/base-unum-bill.blade.php" timestamp="1515108477474">
         <mark key="[" line="77" column="51" />
+      </file>
+      <file name="$USER_HOME$/bernieportal/app/Console/Commands/PlanTeamChallenge.php" timestamp="1516912654686">
+        <mark key="[" line="13" column="28" />
+        <mark key="]" line="13" column="28" />
+        <mark key="." line="13" column="28" />
+        <mark key="^" line="110" column="11" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Views/Composers/Sidebar/Sidebar.php" timestamp="1495661096600">
         <mark key="[" line="46" column="10" />
@@ -234,6 +234,7 @@
       <file name="$USER_HOME$/bernieportal/resources/views/dashboards/panel/hsa-balance.blade.php" timestamp="1516053548965">
         <mark key="[" line="1" column="8" />
       </file>
+      <file name="$USER_HOME$/bernieportal/app/Console/Commands/ClearDrupalCache.php" timestamp="1516912622882" />
       <file name="$USER_HOME$/bernieportal/app/Http/Kernel.php" timestamp="1497988660759">
         <mark key="[" line="5" column="55" />
       </file>
@@ -243,6 +244,7 @@
       <file name="$USER_HOME$/workspace/php/testProject/app/Http/Kernel.php" timestamp="1504817441978">
         <mark key="[" line="32" column="13" />
       </file>
+      <file name="$USER_HOME$/bernieportal/app/Console/Commands/ClearElectionData.php" timestamp="1516912563492" />
       <file name="$USER_HOME$/bernieportal/legacy/UserManagementModule.php" timestamp="1508444607673">
         <mark key="[" line="505" column="30" />
       </file>
@@ -480,7 +482,7 @@
       <file name="$USER_HOME$/workspace/soundbox_js_playground/index.html" timestamp="1504056226018">
         <mark key="[" line="6" column="8" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516900766068">
+      <file name="/Dummy.txt" timestamp="1516912660926">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -669,13 +671,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>return</text>
+        <text>command</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>return</text>
+        <text>command</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwzMDMwMzBcPg==</text>
@@ -683,32 +685,32 @@
       <register name="0" type="4">
         <text>parseInt(</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgLyoqCiAgICAgKiBAcGFyYW0gJGVtcGxveWVyCiAgICAgKiBAcGFyYW0gJGJlbmVmaXRUeXBlTGlzdAogICAgICov</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly9lbmQgcmVzdWx0IGFuIGFycmF5IG9mIGVtcGxveWVyIGFycmF5cyBZTyBEQVdHRwo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICdDYW5jZXInLCAnTG9uZyBUZXJtIERpc2FiaWxpdHknLCAnU2hvcnQgVGVybSBEaXNhYmlsaXR5Jwo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgLyoqCiAgICAgKiBAcGFyYW0gJGVtcGxveWVyCiAgICAgKiBAcGFyYW0gJGJlbmVmaXRUeXBlTGlzdAogICAgICov</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBnYW1lU3RhdHVzID0gJ1lPVSAhJzt9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGFsZXJ0ICgiWW91IFdpbiEhIik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgIAo=</text>
