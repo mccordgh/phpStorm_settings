@@ -525,11 +525,17 @@
       <file name="$USER_HOME$/bernieportal/resources/views/dashboards/sidebar/onboarding.blade.php" timestamp="1499974681229">
         <mark key="[" line="4" column="39" />
       </file>
-      <file name="$USER_HOME$/workspace/javascript/phaser_simple_tutorial/game.js" timestamp="1516836545194">
+      <file name="$USER_HOME$/workspace/javascript/phaser_simple_tutorial/game.js" timestamp="1516838167851">
         <mark key="[" line="77" column="2" />
         <mark key="]" line="77" column="2" />
         <mark key="^" line="76" column="1" />
         <mark key="." line="77" column="2" />
+      </file>
+      <file name="$USER_HOME$/workspace/javascript/phaser_remake/game.js" timestamp="1516838245407">
+        <mark key="[" line="26" column="31" />
+        <mark key="]" line="24" column="35" />
+        <mark key="^" line="24" column="35" />
+        <mark key="." line="24" column="35" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/components/hiring-team.vue" timestamp="1493220766505">
         <mark key="[" line="77" column="56" />
@@ -660,13 +666,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Title</text>
+        <text>true</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>Title</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwzMDMwMzBcPg==</text>
