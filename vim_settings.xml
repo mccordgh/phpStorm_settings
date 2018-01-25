@@ -144,11 +144,11 @@
       <file name="$USER_HOME$/bernieportal/app/Subgroups/PTO/PTOSubgroupSetting.php" timestamp="1507829125307">
         <mark key="[" line="9" column="6" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/team_challenge.php" timestamp="1516910101795">
-        <mark key="[" line="117" column="27" />
-        <mark key="]" line="117" column="27" />
-        <mark key="." line="117" column="27" />
-        <mark key="^" line="71" column="0" />
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/team_challenge.php" timestamp="1516910966867">
+        <mark key="[" line="74" column="20" />
+        <mark key="]" line="74" column="20" />
+        <mark key="." line="74" column="20" />
+        <mark key="^" line="74" column="89" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/routers/job-routing.vue" timestamp="1513293594479">
         <mark key="[" line="1" column="7" />
@@ -669,13 +669,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>first</text>
+        <text>return</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>first</text>
+        <text>return</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwzMDMwMzBcPg==</text>
