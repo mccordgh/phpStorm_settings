@@ -159,13 +159,6 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/loading-popup.vue" timestamp="1498514478199">
         <mark key="[" line="8" column="27" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/bubble-menu.vue" timestamp="1516765157243">
-        <mark key="'" line="151" column="7" />
-        <mark key="[" line="66" column="17" />
-        <mark key="]" line="68" column="6" />
-        <mark key="^" line="68" column="6" />
-        <mark key="." line="68" column="6" />
-      </file>
       <file name="$USER_HOME$/bernieportal/app/Ats/Repositories/JobCandidateRepository.php" timestamp="1505347656980">
         <mark key="[" line="36" column="25" />
       </file>
@@ -193,11 +186,11 @@
       <file name="$USER_HOME$/bernieportal/resources/views/billing/base-unum-bill.blade.php" timestamp="1515108477474">
         <mark key="[" line="77" column="51" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Console/Commands/PlanTeamChallenge.php" timestamp="1516987555873">
-        <mark key="[" line="119" column="61" />
-        <mark key="]" line="119" column="61" />
-        <mark key="^" line="119" column="63" />
-        <mark key="." line="119" column="61" />
+      <file name="$USER_HOME$/bernieportal/app/Console/Commands/PlanTeamChallenge.php" timestamp="1516996682990">
+        <mark key="[" line="103" column="12" />
+        <mark key="]" line="103" column="12" />
+        <mark key="." line="103" column="12" />
+        <mark key="^" line="101" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Views/Composers/Sidebar/Sidebar.php" timestamp="1495661096600">
         <mark key="[" line="46" column="10" />
@@ -207,6 +200,9 @@
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/js/current-user-id.js" timestamp="1499278658594">
         <mark key="[" line="2" column="63" />
+      </file>
+      <file name="/fragment.php" timestamp="1516996269717">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/gamepad_api_demo/main.css" timestamp="1501271749114">
         <mark key="[" line="5" column="10" />
@@ -446,7 +442,7 @@
         <mark key="." line="194" column="16" />
         <mark key="^" line="194" column="16" />
       </file>
-      <file name="/PHP Console" timestamp="1516918681474">
+      <file name="/PHP Console" timestamp="1516996651573">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/views/employees/election-data.blade.php" timestamp="1506440738197">
@@ -674,13 +670,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">JiYgJHVzZXItPnJvbGVzKCktPmdldCgp</text>
+        <text>array_push(</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JiYgJHVzZXItPnJvbGVzKCktPmdldCgp</text>
+        <text>array_push(</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwzMDMwMzBcPg==</text>
@@ -689,38 +685,38 @@
         <text>parseInt(</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgIC8qKgogICAgICogRmluYWwgb2JqZWN0IHRvIGhvbGQgYWxsIGVtcGxveWVycyBpbmZvCiAgICAgKgogICAgICogQHZhciBhcnJheQogICAgICovCiAgICBwcm90ZWN0ZWQgJGFsbEVtcGxveWVyc0xpc3QgPSBbXTs=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="5" type="4">
         <text>/**
      * @param $employer
      * @param $benefitTypeList
      * @return Collection
      */</text>
       </register>
-      <register name="3" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtICRlbXBsb3llcgogICAgICogQHBhcmFtICRiZW5lZml0VHlwZUxpc3QKICAgICAqIEByZXR1cm4gQ29sbGVjdGlvbgogICAgICov</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA0LiBHZXQgYWdlbmN5IHRpZWQgdG8gZWFjaCBlbXBsb3llciB3aXRoIG90aGVyIGluZm8K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAzLiBJbmZvIGlzIGJyb2tlbiBkb3duIGJ5IGVtcGxveWVyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA0LiBHZXQgYWdlbmN5IHRpZWQgdG8gZWFjaCBlbXBsb3llciB3aXRoIG90aGVyIGluZm8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAxLiBSdW4gdGhyb3VnaCBhbGwgZW1wbG95ZXJzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>70</text>
