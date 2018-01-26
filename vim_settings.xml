@@ -193,11 +193,11 @@
       <file name="$USER_HOME$/bernieportal/resources/views/billing/base-unum-bill.blade.php" timestamp="1515108477474">
         <mark key="[" line="77" column="51" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Console/Commands/PlanTeamChallenge.php" timestamp="1516983713296">
-        <mark key="[" line="89" column="56" />
-        <mark key="]" line="91" column="1" />
-        <mark key="^" line="91" column="1" />
-        <mark key="." line="91" column="1" />
+      <file name="$USER_HOME$/bernieportal/app/Console/Commands/PlanTeamChallenge.php" timestamp="1516987555873">
+        <mark key="[" line="119" column="61" />
+        <mark key="]" line="119" column="61" />
+        <mark key="^" line="119" column="63" />
+        <mark key="." line="119" column="61" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Views/Composers/Sidebar/Sidebar.php" timestamp="1495661096600">
         <mark key="[" line="46" column="10" />
@@ -348,6 +348,7 @@
       <file name="$USER_HOME$/workspace/gamepad_api_demo/index.html" timestamp="1501271743681">
         <mark key="[" line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/bernieportal/app/Data/AccessObjects/Benefits/Plans/EffectiveDate.php" timestamp="1516986435397" />
       <file name="$USER_HOME$/bernieportal/resources/assets/components/time/summary-table.vue" timestamp="1496776949409">
         <mark key="[" line="39" column="46" />
       </file>
@@ -673,13 +674,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>CARRIER</text>
+        <text encoding="base64">JiYgJHVzZXItPnJvbGVzKCktPmdldCgp</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>CARRIER</text>
+        <text encoding="base64">JiYgJHVzZXItPnJvbGVzKCktPmdldCgp</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwzMDMwMzBcPg==</text>
