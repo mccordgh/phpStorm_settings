@@ -193,11 +193,11 @@
       <file name="$USER_HOME$/bernieportal/resources/views/billing/base-unum-bill.blade.php" timestamp="1515108477474">
         <mark key="[" line="77" column="51" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Console/Commands/PlanTeamChallenge.php" timestamp="1516920560944">
-        <mark key="[" line="93" column="68" />
-        <mark key="]" line="93" column="68" />
-        <mark key="." line="93" column="68" />
-        <mark key="^" line="122" column="40" />
+      <file name="$USER_HOME$/bernieportal/app/Console/Commands/PlanTeamChallenge.php" timestamp="1516983713296">
+        <mark key="[" line="89" column="56" />
+        <mark key="]" line="91" column="1" />
+        <mark key="^" line="91" column="1" />
+        <mark key="." line="91" column="1" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Views/Composers/Sidebar/Sidebar.php" timestamp="1495661096600">
         <mark key="[" line="46" column="10" />
@@ -673,13 +673,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>$benefitTypeList</text>
+        <text>CARRIER</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>$benefitTypeList</text>
+        <text>CARRIER</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwzMDMwMzBcPg==</text>
