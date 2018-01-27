@@ -89,11 +89,11 @@
       <file name="$USER_HOME$/bernieportal/legacy/ClienteleModule.php" timestamp="1497635912389">
         <mark key="[" line="2" column="17" />
       </file>
-      <file name="$USER_HOME$/workspace/javascript/GGJ2018_last_electrician/game.js" timestamp="1517068101451">
-        <mark key="[" line="24" column="65" />
-        <mark key="]" line="27" column="0" />
-        <mark key="^" line="27" column="0" />
-        <mark key="." line="27" column="0" />
+      <file name="$USER_HOME$/workspace/javascript/GGJ2018_last_electrician/game.js" timestamp="1517080028568">
+        <mark key="[" line="103" column="68" />
+        <mark key="]" line="104" column="36" />
+        <mark key="^" line="104" column="36" />
+        <mark key="." line="104" column="36" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/Time/TimesheetsController.php" timestamp="1516051530042">
         <mark key="[" line="60" column="83" />
@@ -506,10 +506,11 @@
       <file name="$USER_HOME$/mastiff/mastiff/laravel/app/controllers/api/v1/resources/ProviderController.php" timestamp="1514921576555">
         <mark key="[" line="17" column="26" />
       </file>
-      <file name="$USER_HOME$/workspace/javascript/GGJ2018_last_electrician/world-manager.js" timestamp="1517068114877">
-        <mark key="[" line="4" column="6" />
-        <mark key="]" line="4" column="6" />
-        <mark key="." line="4" column="6" />
+      <file name="$USER_HOME$/workspace/javascript/GGJ2018_last_electrician/world-manager.js" timestamp="1517079878918">
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="65" column="3" />
+        <mark key="^" line="65" column="3" />
+        <mark key="." line="65" column="3" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/popover.vue" timestamp="1492636708489">
         <mark key="[" line="13" column="26" />
@@ -688,8 +689,8 @@
       <jump line="13" column="36" filename="$USER_HOME$/bernieportal/resources/assets/components/team_challenge.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>let</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CiAK</text>
       </register>
       <register name="d" type="4">
         <text />
@@ -703,13 +704,25 @@
       <register name="0" type="4">
         <text>parseInt(</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICB3YWxscyA9IGdhbWUuYWRkLmdyb3VwKCk7CiAgd2FsbHMuZW5hYmxlQm9keSA9IHRydWU7CgogIGxldCB3YWxsID0gd2FsbHMuY3JlYXRlKDY0LCA2NCwgJ3dhbGwnKTsKICB3YWxsLmJvZHkuaW1tb3ZhYmxlID0gdHJ1ZTsKCiAgbGV0IHdhbGwgPSB3YWxscy5jcmVhdGUoMzIsIDMyLCAnd2FsbCcpOwogIHdhbGwuYm9keS5pbW1vdmFibGUgPSB0cnVlOwoKICBwYXRocyA9IGdhbWUuYWRkLmdyb3VwKCk7CiAgcGF0aHMuZW5hYmxlQm9keSA9IHRydWU7CgogIGxldCBwYXRoID0gcGF0aHMuY3JlYXRlKDMyLCA2NCwgJ3BhdGgnKTsKICBwYXRoLmJvZHkuaW1tb3ZhYmxlID0gdHJ1ZTsKCiAgbGV0IHBhdGggPSBwYXRocy5jcmVhdGUoNjQsIDMyLCAncGF0aCcpOwogIHBhdGguYm9keS5pbW1vdmFibGUgPSB0cnVlOwo=</text>
+      <register name="1" type="2">
+        <text encoding="base64">CiAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Y29uc3QgZ2FtZSA9IG5ldyBQaGFzZXIuR2FtZSgxMjgwLCA3MjAsIFBoYXNlci5BVVRPLCAnJywgewo=</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">ICB3YWxscyA9IGdhbWUuYWRkLmdyb3VwKCk7CiAgd2FsbHMuZW5hYmxlQm9keSA9IHRydWU7CgogIGxldCB3YWxsID0gd2FsbHMuY3JlYXRlKDY0LCA2NCwgJ3dhbGwnKTsKICB3YWxsLmJvZHkuaW1tb3ZhYmxlID0gdHJ1ZTsKCiAgbGV0IHdhbGwgPSB3YWxscy5jcmVhdGUoMzIsIDMyLCAnd2FsbCcpOwogIHdhbGwuYm9keS5pbW1vdmFibGUgPSB0cnVlOwoKICBwYXRocyA9IGdhbWUuYWRkLmdyb3VwKCk7CiAgcGF0aHMuZW5hYmxlQm9keSA9IHRydWU7CgogIGxldCBwYXRoID0gcGF0aHMuY3JlYXRlKDMyLCA2NCwgJ3BhdGgnKTsKICBwYXRoLmJvZHkuaW1tb3ZhYmxlID0gdHJ1ZTsKCiAgbGV0IHBhdGggPSBwYXRocy5jcmVhdGUoNjQsIDMyLCAncGF0aCcpOwogIHBhdGguYm9keS5pbW1vdmFibGUgPSB0cnVlOwo=</text>
+      </register>
+      <register name="6" type="4">
         <text>1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
       1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,
       1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,
@@ -735,26 +748,14 @@
       1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,
       1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,</text>
       </register>
-      <register name="3" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgXQo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgIC8qKgogICAgICogRmluYWwgb2JqZWN0IHRvIGhvbGQgYWxsIGVtcGxveWVycyBpbmZvCiAgICAgKgogICAgICogQHZhciBhcnJheQogICAgICovCiAgICBwcm90ZWN0ZWQgJGFsbEVtcGxveWVyc0xpc3QgPSBbXTs=</text>
       </register>
       <register name=":" type="4">
         <text>70</text>
