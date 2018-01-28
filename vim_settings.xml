@@ -49,6 +49,7 @@
       <file name="$USER_HOME$/bernieportal/public/sites/all/modules/clientele/clientele_user.module" timestamp="1509390769159">
         <mark key="[" line="46" column="40" />
       </file>
+      <file name="/game.js" timestamp="1517157159027" />
       <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/Edi/SchedulersController.php" timestamp="1494362868134">
         <mark key="[" line="32" column="44" />
       </file>
@@ -91,11 +92,11 @@
       <file name="$USER_HOME$/bernieportal/legacy/ClienteleModule.php" timestamp="1497635912389">
         <mark key="[" line="2" column="17" />
       </file>
-      <file name="$USER_HOME$/workspace/javascript/GGJ2018_last_electrician/game.js" timestamp="1517154724033">
-        <mark key="[" line="39" column="54" />
-        <mark key="]" line="39" column="50" />
-        <mark key="^" line="39" column="50" />
-        <mark key="." line="39" column="50" />
+      <file name="$USER_HOME$/workspace/javascript/GGJ2018_last_electrician/game.js" timestamp="1517158080065">
+        <mark key="[" line="308" column="26" />
+        <mark key="]" line="284" column="26" />
+        <mark key="^" line="284" column="26" />
+        <mark key="." line="284" column="27" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/Time/TimesheetsController.php" timestamp="1516051530042">
         <mark key="[" line="60" column="83" />
@@ -268,7 +269,6 @@
       <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/Time/PeriodsController.php" timestamp="1505929956281">
         <mark key="[" line="56" column="67" />
       </file>
-      <file name="$USER_HOME$/workspace/javascript/GGJ2018_last_electrician/switch-manager.js" timestamp="1517153848415" />
       <file name="$USER_HOME$/bernieportal/resources/assets/components/aca/employees/employees-list.vue" timestamp="1498596747533">
         <mark key="[" line="46" column="10" />
       </file>
@@ -698,7 +698,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">IGQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <text />
@@ -713,37 +713,37 @@
         <text>parseInt(</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IGQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">fTsKICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cmV0dXJuIGluRmxhc2hMaWdodFZpZXc7Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">Cgpjb25zdCBpc1Zpc2libGUgPSAocG9zaXRpb24sIHBsYXllclBvc2l0aW9uKSA9PiB7CiAgbGV0IHBsYXllckRpciA9IHBsYXllci5hbmdsZTsKCiAgbGV0IGlzSG9yaXpvbnRhbCA9IChwbGF5ZXJEaXIgKyAxODApJTE4MCA9PT0gMDsKICBsZXQgaXNWZXJ0aWNhbCA9ICFpc0hvcml6b250YWw7CiAgbGV0IGlzSW5Gcm9udE9mUGxheWVyID0gaXNIb3Jpem9udGFsID8KICAgIE1hdGguc2lnbihwb3NpdGlvbi54IC0gcGxheWVyUG9zaXRpb24ueCkgPT09IE1hdGguc2lnbihwbGF5ZXJEaXIgKyAxKSA6CiAgICBNYXRoLnNpZ24ocG9zaXRpb24ueSAtIHBsYXllclBvc2l0aW9uLnkpID09PSBNYXRoLnNpZ24ocGxheWVyRGlyKTsKCiAgaWYgKGlzSW5Gcm9udE9mUGxheWVyKSB7CiAgICBsZXQgZHggPSBNYXRoLmFicyhwb3NpdGlvbi54IC0gcGxheWVyUG9zaXRpb24ueCk7CiAgICBsZXQgZHkgPSBNYXRoLmFicyhwb3NpdGlvbi55IC0gcGxheWVyUG9zaXRpb24ueSk7CiAgICBsZXQgdGhldGEgPSBNYXRoLmF0YW4yKGR5LCBkeCk7CiAgICBsZXQgZGVncmVlcyA9IHRoZXRhICogMTgwL01hdGguUEk7CgogICAgbGV0IGluRmxhc2hMaWdodFZpZXcgPSBpc0hvcml6b250YWwgPwogICAgICBkZWdyZWVzIDwgNTAgOiBkZWdyZWVzID4gNDA7CiAgICA=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICA7Cg==</text>
+        <text encoding="base64">IGQK</text>
       </register>
       <register name="8" type="2">
+        <text encoding="base64">Cgo=</text>
+      </register>
+      <register name="9" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAg</text>
-      </register>
       <register name=":" type="4">
-        <text>70</text>
+        <text>2109</text>
       </register>
     </registers>
     <search>
@@ -779,8 +779,6 @@
         <entry>deliverObjec</entry>
       </history-search>
       <history-cmd>
-        <entry>1416</entry>
-        <entry>1864</entry>
         <entry>1853</entry>
         <entry>588</entry>
         <entry>587</entry>
@@ -799,6 +797,8 @@
         <entry>201</entry>
         <entry>47</entry>
         <entry>70</entry>
+        <entry>45</entry>
+        <entry>2109</entry>
       </history-cmd>
       <history-expr />
       <history-input />
