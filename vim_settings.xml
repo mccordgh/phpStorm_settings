@@ -90,8 +90,11 @@
       <file name="$USER_HOME$/bernieportal/legacy/ClienteleModule.php" timestamp="1497635912389">
         <mark key="[" line="2" column="17" />
       </file>
-      <file name="$USER_HOME$/workspace/javascript/GGJ2018_last_electrician/game.js" timestamp="1517101772939">
+      <file name="$USER_HOME$/workspace/javascript/GGJ2018_last_electrician/game.js" timestamp="1517107140529">
         <mark key="'" line="331" column="19" />
+        <mark key="[" line="26" column="15" />
+        <mark key="]" line="26" column="15" />
+        <mark key="." line="26" column="15" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/Time/TimesheetsController.php" timestamp="1516051530042">
         <mark key="[" line="60" column="83" />
@@ -696,13 +699,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>battery</text>
+        <text>true</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>battery</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>deliverObjec</text>
