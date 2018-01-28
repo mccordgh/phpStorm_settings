@@ -91,12 +91,11 @@
       <file name="$USER_HOME$/bernieportal/legacy/ClienteleModule.php" timestamp="1497635912389">
         <mark key="[" line="2" column="17" />
       </file>
-      <file name="$USER_HOME$/workspace/javascript/GGJ2018_last_electrician/game.js" timestamp="1517114311938">
-        <mark key="'" line="331" column="19" />
-        <mark key="[" line="17" column="48" />
-        <mark key="]" line="17" column="48" />
-        <mark key="." line="17" column="48" />
-        <mark key="^" line="17" column="45" />
+      <file name="$USER_HOME$/workspace/javascript/GGJ2018_last_electrician/game.js" timestamp="1517154724033">
+        <mark key="[" line="39" column="54" />
+        <mark key="]" line="39" column="50" />
+        <mark key="^" line="39" column="50" />
+        <mark key="." line="39" column="50" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/Time/TimesheetsController.php" timestamp="1516051530042">
         <mark key="[" line="60" column="83" />
@@ -269,6 +268,7 @@
       <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/Time/PeriodsController.php" timestamp="1505929956281">
         <mark key="[" line="56" column="67" />
       </file>
+      <file name="$USER_HOME$/workspace/javascript/GGJ2018_last_electrician/switch-manager.js" timestamp="1517153848415" />
       <file name="$USER_HOME$/bernieportal/resources/assets/components/aca/employees/employees-list.vue" timestamp="1498596747533">
         <mark key="[" line="46" column="10" />
       </file>
@@ -697,14 +697,14 @@
       <jump line="264" column="19" filename="$USER_HOME$/workspace/javascript/GGJ2018_last_electrician/game.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>auto</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IGQK</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>auto</text>
+        <text>battery2</text>
       </register>
       <register name="/" type="4">
         <text>deliverObjec</text>
@@ -713,34 +713,34 @@
         <text>parseInt(</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">IGQK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICA7Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAg</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRlcm1pbmFsLmxvYWRUZXh0dXJlKCd0ZXJtaW5hbE9uJyk7Cg==</text>
+        <text encoding="base64">ICA7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">CiAK</text>
+      <register name="9" type="4">
+        <text encoding="base64">CiAg</text>
       </register>
       <register name=":" type="4">
         <text>70</text>
