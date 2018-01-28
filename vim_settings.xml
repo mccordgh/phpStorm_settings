@@ -92,11 +92,11 @@
       <file name="$USER_HOME$/bernieportal/legacy/ClienteleModule.php" timestamp="1497635912389">
         <mark key="[" line="2" column="17" />
       </file>
-      <file name="$USER_HOME$/workspace/javascript/GGJ2018_last_electrician/game.js" timestamp="1517159645762">
-        <mark key="[" line="487" column="0" />
-        <mark key="]" line="487" column="4" />
-        <mark key="^" line="299" column="0" />
-        <mark key="." line="487" column="4" />
+      <file name="$USER_HOME$/workspace/javascript/GGJ2018_last_electrician/game.js" timestamp="1517162271775">
+        <mark key="[" line="314" column="24" />
+        <mark key="]" line="313" column="3" />
+        <mark key="^" line="313" column="3" />
+        <mark key="." line="313" column="3" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/Time/TimesheetsController.php" timestamp="1516051530042">
         <mark key="[" line="60" column="83" />
@@ -698,13 +698,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>LEFT</text>
+        <text>false</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>LEFT</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>deliverObjec</text>
@@ -749,7 +749,7 @@
         <text encoding="base64">Cgo=</text>
       </register>
       <register name=":" type="4">
-        <text>2109</text>
+        <text>417</text>
       </register>
     </registers>
     <search>
@@ -785,7 +785,6 @@
         <entry>deliverObjec</entry>
       </history-search>
       <history-cmd>
-        <entry>1853</entry>
         <entry>588</entry>
         <entry>587</entry>
         <entry>1053</entry>
@@ -805,6 +804,7 @@
         <entry>70</entry>
         <entry>45</entry>
         <entry>2109</entry>
+        <entry>417</entry>
       </history-cmd>
       <history-expr />
       <history-input />
