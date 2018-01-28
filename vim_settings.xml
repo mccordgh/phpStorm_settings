@@ -90,8 +90,12 @@
       <file name="$USER_HOME$/bernieportal/legacy/ClienteleModule.php" timestamp="1497635912389">
         <mark key="[" line="2" column="17" />
       </file>
-      <file name="$USER_HOME$/workspace/javascript/GGJ2018_last_electrician/game.js" timestamp="1517098310939">
-        <mark key="'" line="256" column="19" />
+      <file name="$USER_HOME$/workspace/javascript/GGJ2018_last_electrician/game.js" timestamp="1517101772939">
+        <mark key="'" line="302" column="19" />
+        <mark key="[" line="35" column="26" />
+        <mark key="]" line="110" column="5" />
+        <mark key="^" line="110" column="5" />
+        <mark key="." line="110" column="5" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/Time/TimesheetsController.php" timestamp="1516051530042">
         <mark key="[" line="60" column="83" />
@@ -278,6 +282,12 @@
         <mark key="]" line="487" column="21" />
         <mark key="^" line="487" column="25" />
         <mark key="." line="487" column="21" />
+      </file>
+      <file name="$USER_HOME$/workspace/javascript/GGJ2018_last_electrician/player-manager.js" timestamp="1517100283735">
+        <mark key="[" line="7" column="23" />
+        <mark key="]" line="7" column="23" />
+        <mark key="^" line="1" column="11" />
+        <mark key="." line="7" column="23" />
       </file>
       <file name="$USER_HOME$/bernieportal/public/sites/all/modules/emp_pto/emp_pto.module" timestamp="1507320519182">
         <mark key="[" line="86" column="5" />
@@ -509,6 +519,9 @@
       <file name="$USER_HOME$/mastiff/mastiff/laravel/app/controllers/api/v1/resources/ProviderController.php" timestamp="1514921576555">
         <mark key="[" line="17" column="26" />
       </file>
+      <file name="$USER_HOME$/workspace/javascript/GGJ2018_last_electrician/world-manager.js" timestamp="1517101472923">
+        <mark key="[" line="75" column="18" />
+      </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/popover.vue" timestamp="1492636708489">
         <mark key="[" line="13" column="26" />
       </file>
@@ -687,13 +700,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>player</text>
+        <text>battery</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>player</text>
+        <text>battery</text>
       </register>
       <register name="/" type="4">
         <text>deliverObjec</text>
