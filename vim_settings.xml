@@ -90,12 +90,8 @@
       <file name="$USER_HOME$/bernieportal/legacy/ClienteleModule.php" timestamp="1497635912389">
         <mark key="[" line="2" column="17" />
       </file>
-      <file name="$USER_HOME$/workspace/javascript/GGJ2018_last_electrician/game.js" timestamp="1517090525888">
-        <mark key="'" line="264" column="19" />
-        <mark key="[" line="106" column="26" />
-        <mark key="]" line="106" column="26" />
-        <mark key="." line="106" column="26" />
-        <mark key="^" line="107" column="0" />
+      <file name="$USER_HOME$/workspace/javascript/GGJ2018_last_electrician/game.js" timestamp="1517098310939">
+        <mark key="'" line="256" column="19" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/Time/TimesheetsController.php" timestamp="1516051530042">
         <mark key="[" line="60" column="83" />
@@ -247,6 +243,9 @@
       <file name="$USER_HOME$/workspace/php/testProject/app/User.php" timestamp="1504812311688">
         <mark key="[" line="17" column="36" />
       </file>
+      <file name="$USER_HOME$/workspace/javascript/GGJ2018_last_electrician/js/world-manager.js" timestamp="1517098990138">
+        <mark key="[" line="75" column="48" />
+      </file>
       <file name="$USER_HOME$/workspace/php/testProject/app/Http/Kernel.php" timestamp="1504817441978">
         <mark key="[" line="32" column="13" />
       </file>
@@ -285,6 +284,9 @@
       </file>
       <file name="$USER_HOME$/bernieportal/app/Benefits/Plan.php" timestamp="1516920632427">
         <mark key="[" line="170" column="5" />
+      </file>
+      <file name="$USER_HOME$/workspace/javascript/GGJ2018_last_electrician/js/game.js" timestamp="1517099097219">
+        <mark key="[" line="163" column="19" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/thread/candidate-job-message-modal.vue" timestamp="1493229583139">
         <mark key="[" line="13" column="61" />
@@ -422,7 +424,6 @@
         <mark key="[" line="4" column="16" />
         <mark key="]" line="4" column="16" />
         <mark key="." line="4" column="16" />
-        <mark key="^" line="9" column="6" />
       </file>
       <file name="$USER_HOME$/bernieportal/_ide_helper.php" timestamp="1516053957578">
         <mark key="[" line="14" column="9" />
@@ -507,11 +508,6 @@
       </file>
       <file name="$USER_HOME$/mastiff/mastiff/laravel/app/controllers/api/v1/resources/ProviderController.php" timestamp="1514921576555">
         <mark key="[" line="17" column="26" />
-      </file>
-      <file name="$USER_HOME$/workspace/javascript/GGJ2018_last_electrician/world-manager.js" timestamp="1517081563771">
-        <mark key="[" line="6" column="20" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/popover.vue" timestamp="1492636708489">
         <mark key="[" line="13" column="26" />
@@ -691,13 +687,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>walk</text>
+        <text>player</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>walk</text>
+        <text>player</text>
       </register>
       <register name="/" type="4">
         <text>deliverObjec</text>
