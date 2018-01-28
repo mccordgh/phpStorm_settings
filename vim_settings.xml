@@ -31,11 +31,6 @@
         <mark key="[" line="79" column="7" />
       </file>
       <file name="$USER_HOME$/workspace/Defend_The_Castle/js/app/classes/display/Display.js" timestamp="1517088630676" />
-      <file name="$USER_HOME$/bernieportal/app/Employment/Employer.php" timestamp="1516914167938">
-        <mark key="[" line="5" column="44" />
-        <mark key="]" line="5" column="44" />
-        <mark key="." line="5" column="44" />
-      </file>
       <file name="$USER_HOME$/bernieportal/app/Ats/Candidate.php" timestamp="1502737804653">
         <mark key="[" line="32" column="86" />
       </file>
@@ -56,6 +51,12 @@
       </file>
       <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/Edi/SchedulersController.php" timestamp="1494362868134">
         <mark key="[" line="32" column="44" />
+      </file>
+      <file name="$USER_HOME$/workspace/javascript/GGJ2018_last_electrician/styles.css" timestamp="1517114161052">
+        <mark key="[" line="15" column="19" />
+        <mark key="]" line="15" column="19" />
+        <mark key="^" line="15" column="13" />
+        <mark key="." line="15" column="19" />
       </file>
       <file name="$USER_HOME$/bernieportal/public/sites/all/modules/payroll/js/compensation_adjust_salary.js" timestamp="1505762159211">
         <mark key="[" line="55" column="86" />
@@ -90,11 +91,12 @@
       <file name="$USER_HOME$/bernieportal/legacy/ClienteleModule.php" timestamp="1497635912389">
         <mark key="[" line="2" column="17" />
       </file>
-      <file name="$USER_HOME$/workspace/javascript/GGJ2018_last_electrician/game.js" timestamp="1517107140529">
+      <file name="$USER_HOME$/workspace/javascript/GGJ2018_last_electrician/game.js" timestamp="1517114311938">
         <mark key="'" line="331" column="19" />
-        <mark key="[" line="26" column="15" />
-        <mark key="]" line="26" column="15" />
-        <mark key="." line="26" column="15" />
+        <mark key="[" line="17" column="48" />
+        <mark key="]" line="17" column="48" />
+        <mark key="." line="17" column="48" />
+        <mark key="^" line="17" column="45" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/Time/TimesheetsController.php" timestamp="1516051530042">
         <mark key="[" line="60" column="83" />
@@ -429,10 +431,10 @@
       <file name="$USER_HOME$/bernieportal/app/Views/Composers/Layout/Nav/BackLinkNavComposer.php" timestamp="1494879351196">
         <mark key="[" line="46" column="26" />
       </file>
-      <file name="$USER_HOME$/workspace/javascript/GGJ2018_last_electrician/index.html" timestamp="1517027313021">
-        <mark key="[" line="4" column="16" />
-        <mark key="]" line="4" column="16" />
-        <mark key="." line="4" column="16" />
+      <file name="$USER_HOME$/workspace/javascript/GGJ2018_last_electrician/index.html" timestamp="1517113641017">
+        <mark key="[" line="5" column="47" />
+        <mark key="]" line="5" column="47" />
+        <mark key="." line="5" column="47" />
       </file>
       <file name="$USER_HOME$/bernieportal/_ide_helper.php" timestamp="1516053957578">
         <mark key="[" line="14" column="9" />
@@ -509,7 +511,7 @@
       <file name="$USER_HOME$/workspace/soundbox_js_playground/index.html" timestamp="1504056226018">
         <mark key="[" line="6" column="8" />
       </file>
-      <file name="/Dummy.txt" timestamp="1517088432690">
+      <file name="/Dummy.txt" timestamp="1517113620909">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -517,9 +519,6 @@
       </file>
       <file name="$USER_HOME$/mastiff/mastiff/laravel/app/controllers/api/v1/resources/ProviderController.php" timestamp="1514921576555">
         <mark key="[" line="17" column="26" />
-      </file>
-      <file name="$USER_HOME$/workspace/javascript/GGJ2018_last_electrician/world-manager.js" timestamp="1517101472923">
-        <mark key="[" line="75" column="18" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/popover.vue" timestamp="1492636708489">
         <mark key="[" line="13" column="26" />
@@ -560,7 +559,7 @@
       <file name="$USER_HOME$/bernieportal/resources/views/dashboards/sidebar/onboarding.blade.php" timestamp="1499974681229">
         <mark key="[" line="4" column="39" />
       </file>
-      <file name="$USER_HOME$/workspace/javascript/phaser_simple_tutorial/game.js" timestamp="1517074901211" />
+      <file name="$USER_HOME$/workspace/javascript/phaser_simple_tutorial/game.js" timestamp="1517110408533" />
       <file name="$USER_HOME$/workspace/javascript/phaser_remake/game.js" timestamp="1516841452671">
         <mark key="[" line="29" column="25" />
         <mark key="]" line="29" column="25" />
@@ -699,13 +698,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>true</text>
+        <text>auto</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>auto</text>
       </register>
       <register name="/" type="4">
         <text>deliverObjec</text>
@@ -719,29 +718,29 @@
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAg</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRlcm1pbmFsLmxvYWRUZXh0dXJlKCd0ZXJtaW5hbE9uJyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICA7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAK</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">CiAg</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRlcm1pbmFsLmxvYWRUZXh0dXJlKCd0ZXJtaW5hbE9uJyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgZ2FtZSA9IG5ldyBQaGFzZXIuR2FtZSgxMjgwLCA3MjAsIFBoYXNlci5BVVRPLCAnJywgewo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICB3YWxscyA9IGdhbWUuYWRkLmdyb3VwKCk7CiAgd2FsbHMuZW5hYmxlQm9keSA9IHRydWU7CgogIGxldCB3YWxsID0gd2FsbHMuY3JlYXRlKDY0LCA2NCwgJ3dhbGwnKTsKICB3YWxsLmJvZHkuaW1tb3ZhYmxlID0gdHJ1ZTsKCiAgbGV0IHdhbGwgPSB3YWxscy5jcmVhdGUoMzIsIDMyLCAnd2FsbCcpOwogIHdhbGwuYm9keS5pbW1vdmFibGUgPSB0cnVlOwoKICBwYXRocyA9IGdhbWUuYWRkLmdyb3VwKCk7CiAgcGF0aHMuZW5hYmxlQm9keSA9IHRydWU7CgogIGxldCBwYXRoID0gcGF0aHMuY3JlYXRlKDMyLCA2NCwgJ3BhdGgnKTsKICBwYXRoLmJvZHkuaW1tb3ZhYmxlID0gdHJ1ZTsKCiAgbGV0IHBhdGggPSBwYXRocy5jcmVhdGUoNjQsIDMyLCAncGF0aCcpOwogIHBhdGguYm9keS5pbW1vdmFibGUgPSB0cnVlOwo=</text>
+      <register name="9" type="2">
+        <text encoding="base64">CiAK</text>
       </register>
       <register name=":" type="4">
         <text>70</text>
