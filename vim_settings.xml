@@ -292,7 +292,7 @@
       <file name="$USER_HOME$/workspace/soundbox_js_playground/index.html" timestamp="1504056226018">
         <mark key="[" line="6" column="8" />
       </file>
-      <file name="/Dummy.txt" timestamp="1517262909503">
+      <file name="/Dummy.txt" timestamp="1517269605899">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -342,12 +342,6 @@
       </file>
       <file name="$USER_HOME$/bernieportal/app/Ats/Candidate.php" timestamp="1502737804653">
         <mark key="[" line="32" column="86" />
-      </file>
-      <file name="$USER_HOME$/bernieportal/app/Api/Transformers/Brokerage/BrokerAgencyListTransformer.php" timestamp="1517263865267">
-        <mark key="[" line="31" column="13" />
-        <mark key="]" line="31" column="9" />
-        <mark key="." line="31" column="9" />
-        <mark key="^" line="31" column="9" />
       </file>
       <file name="$USER_HOME$/bernieportal/public/sites/all/modules/clientele/clientele_user.module" timestamp="1509390769159">
         <mark key="[" line="46" column="40" />
@@ -439,12 +433,6 @@
       <file name="/fragment.php" timestamp="1517263328878">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Brokerage/Broker.php" timestamp="1517263546814">
-        <mark key="[" line="47" column="7" />
-        <mark key="]" line="47" column="7" />
-        <mark key="." line="47" column="7" />
-        <mark key="^" line="47" column="15" />
-      </file>
       <file name="$USER_HOME$/bernieportal/resources/views/components/dashboard-tabs-template.blade.php" timestamp="1502478886901">
         <mark key="[" line="1" column="17" />
       </file>
@@ -472,11 +460,6 @@
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/gfx/shapes/rectangle.js" timestamp="1504707160607">
         <mark key="[" line="9" column="12" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/GeneralAgencies/GeneralAgencyController.php" timestamp="1517263585369">
-        <mark key="[" line="62" column="51" />
-        <mark key="]" line="62" column="51" />
-        <mark key="." line="62" column="51" />
-      </file>
       <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/Time/PeriodsController.php" timestamp="1505929956281">
         <mark key="[" line="56" column="67" />
       </file>
@@ -501,6 +484,7 @@
       <file name="$USER_HOME$/workspace/portfolio_os/src/js/main.js" timestamp="1508693809881">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/job-candidates-listing.vue" timestamp="1517269621180" />
       <file name="$USER_HOME$/bernieportal/app/Onboarding/EmployeesImport.php" timestamp="1506355596605">
         <mark key="[" line="5" column="1" />
       </file>
@@ -578,7 +562,7 @@
       <file name="$USER_HOME$/workspace/php/testProject/public/css/main.css" timestamp="1504813753200">
         <mark key="[" line="34" column="23" />
       </file>
-      <file name="/PHP Console" timestamp="1517263929976">
+      <file name="/PHP Console" timestamp="1517270109982">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/JavaScript Console" timestamp="1515445040472">
@@ -594,8 +578,12 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/benefit-provider/client-bills.vue" timestamp="1510596330385">
         <mark key="[" line="101" column="29" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/general-agency/agency-list.vue" timestamp="1517264022891">
-        <mark key="[" line="158" column="67" />
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/general-agency/agency-list.vue" timestamp="1517270303868">
+        <mark key="'" line="230" column="8" />
+        <mark key="[" line="198" column="74" />
+        <mark key="]" line="198" column="74" />
+        <mark key="." line="198" column="74" />
+        <mark key="^" line="195" column="53" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/sass/_modal.scss" timestamp="1500415612390">
         <mark key="[" line="16" column="30" />
@@ -644,7 +632,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="87" column="0" filename="$USER_HOME$/bernieportal/resources/assets/components/billing/benefit-billing-past.vue" />
       <jump line="4" column="23" filename="$USER_HOME$/bernieportal/resources/assets/js/bernie-portal.js" />
       <jump line="491" column="0" filename="$USER_HOME$/bernieportal/resources/assets/js/bernie-portal.js" />
       <jump line="14" column="14477" filename="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/dist/index.html" />
@@ -744,16 +731,17 @@
       <jump line="63" column="30" filename="$USER_HOME$/workspace/javascript/GGJ2018_last_electrician/game.js" />
       <jump line="264" column="19" filename="$USER_HOME$/workspace/javascript/GGJ2018_last_electrician/game.js" />
       <jump line="391" column="35" filename="$USER_HOME$/workspace/javascript/GGJ2018_last_electrician/game.js" />
+      <jump line="223" column="8" filename="$USER_HOME$/bernieportal/resources/assets/components/general-agency/agency-list.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>$agency</text>
+        <text>brokerExpand</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>$agency</text>
+        <text>brokerExpand</text>
       </register>
       <register name="/" type="4">
         <text>deliverObjec</text>
@@ -762,34 +750,34 @@
         <text>parseInt(</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">ICRhID0gJHRoaXMtPmhhc01hbnkoU2VydmljZVRlYW1NZW1iZXI6OmNsYXNzLCAndWlkJywgJ3BhcmVudCcsICd1c2Vyc19oaWVyYXJjaHknKTsKCiAgICAgICAgcmV0dXJuICRhOw==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBhYWEgPSBmbGF0TWFwKGRhdGEsIChpdGVtKSA9PiB7CiAgICAgICAgICByZXR1cm4gZmxhdE1hcChpdGVtLCAoaWl0ZW0pID0+IHsKICAgICAgICAgICAgcmV0dXJuIGlpdGVtOwogICAgICAgICAgfSk7CiAgICAgICAgfSk7</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
+        <text encoding="base64">ICRhID0gJHRoaXMtPmhhc01hbnkoU2VydmljZVRlYW1NZW1iZXI6OmNsYXNzLCAndWlkJywgJ3BhcmVudCcsICd1c2Vyc19oaWVyYXJjaHknKTsKCiAgICAgICAgcmV0dXJuICRhOw==</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">JHRoaXMtPmhhc01hbnkoQWdlbmN5OjpjbGFzcywgJ3VzZXJzX2hpZXJhcmNoeScsICd1aWQnLCAncGFyZW50JykKICAgICAgICAgICAgLT53aGVyZUhhcygncm9sZXMnLCBmdW5jdGlvbiAoJHF1ZXJ5KSB7CiAgICAgICAgICAgICAgICAkcXVlcnktPndoZXJlKCdyb2xlLnJpZCcsIFJvbGU6OkFHRU5DWSk7CiAgICAgICAgICAgIH0pdms=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAkYSA9ICR0aGlzLT5oYXNNYW55KDo6Y2xhc3MsICd1c2Vyc19oaWVyYXJjaHknLCAndWlkJywgJ3BhcmVudCcpCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICApOwo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPnNlcnZpY2VUZWFtTWVtYmVyVHJhbnNmb3JtZXIK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>348</text>
