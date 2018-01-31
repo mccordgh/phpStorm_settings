@@ -171,12 +171,6 @@
       <file name="$USER_HOME$/bernieportal/resources/views/billing/base-superior-vision-bill.blade.php" timestamp="1515108465502">
         <mark key="[" line="79" column="14" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Brokerage/Agency.php" timestamp="1517426511338">
-        <mark key="[" line="58" column="15" />
-        <mark key="]" line="58" column="15" />
-        <mark key="." line="58" column="15" />
-        <mark key="^" line="67" column="13" />
-      </file>
       <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/BenefitProvider/EmployersController.php" timestamp="1501534972247">
         <mark key="[" line="30" column="91" />
       </file>
@@ -432,11 +426,8 @@
       <file name="/fragment.php" timestamp="1517357161207">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Brokerage/Broker.php" timestamp="1517428777101">
-        <mark key="[" line="53" column="97" />
-        <mark key="]" line="53" column="97" />
-        <mark key="^" line="53" column="80" />
-        <mark key="." line="53" column="97" />
+      <file name="$USER_HOME$/bernieportal/app/Brokerage/Broker.php" timestamp="1517429545747">
+        <mark key="[" line="49" column="54" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/views/components/dashboard-tabs-template.blade.php" timestamp="1502478886901">
         <mark key="[" line="1" column="17" />
@@ -575,7 +566,7 @@
       <file name="$USER_HOME$/workspace/php/testProject/public/css/main.css" timestamp="1504813753200">
         <mark key="[" line="34" column="23" />
       </file>
-      <file name="/PHP Console" timestamp="1517426798534">
+      <file name="/PHP Console" timestamp="1517429600304">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/JavaScript Console" timestamp="1515445040472">
@@ -746,7 +737,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text encoding="base64">aGVyZUhhcygncm9sZXMnLCBmdW5jdGlvbiAoJHF1ZXJ5KSB7CiAgICAgICAgICAgICAgICAkcXVlcnktPndoZXJlKCdyb2xlLnJpZCcsIFJvbGU6OlNFUlZJQ0VfVEVBTV9NRU1CRVIpOwogICAgICAgICAgICB9KTs=</text>
       </register>
       <register name="d" type="4">
         <text />
@@ -760,35 +751,35 @@
       <register name="0" type="4">
         <text>parseInt(</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXMtPmhhc01hbnkoU2VydmljZVRlYW1NZW1iZXI6OmNsYXNzLCAndWlkJywgJ3BhcmVudCcsICd1c2Vyc19oaWVyYXJjaHknKQo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">aGVyZUhhcygncm9sZXMnLCBmdW5jdGlvbiAoJHF1ZXJ5KSB7CiAgICAgICAgICAgICAgICAkcXVlcnktPndoZXJlKCdyb2xlLnJpZCcsIFJvbGU6OlNFUlZJQ0VfVEVBTV9NRU1CRVIpOwogICAgICAgICAgICB9KTs=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXMtPmhhc01hbnkoU2VydmljZVRlYW1NZW1iZXI6OmNsYXNzLCAndWlkJywgJ3BhcmVudCcsICd1c2Vyc19oaWVyYXJjaHknKQo=</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">ICAgICAgICAgIGFnZW5jeS5icm9rZXJzLm1hcCgoYnJva2VyKSA9PiB7CiAgICAgICAgICAKICAgICAgICAgIH0p</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gJGE7Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ICAgIC8qKgogICAgICogUmV0dXJuIENvbGxlY3Rpb24gb2YgYXR0YWNoZWQgYWdlbmNpZXMKICAgICAqCiAgICAgKiBAcGFyYW0gR2VuZXJhbEFnZW5jeSAkZ2VuZXJhbEFnZW5jeQogICAgICogQHJldHVybiBDb2xsZWN0aW9uCiAgICAgKi8=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">ICAgICAgJGEgPSAnZm9vJzsKCi8vICAgICAgICAkYWdlbmNpZXMgPSAkZ2VuZXJhbEFnZW5jeS0+YWdlbmNpZXMoKS0+Z2V0KCk7Ci8vCi8vICAgICAgICAkYWdlbmNpZXMtPm1hcChmdW5jdGlvbiAoJGFnZW5jeSkgewovLyAgICAgICAgICAgICRhZ2VuY3ktPmJyb2tlckxpc3QgPSAkYWdlbmN5LT5icm9rZXJzKCk7Ci8vCi8vICAgICAgICAgICAgJGFnZW5jeVNlcnZpY2VUZWFtTWVtYmVycyA9ICRhZ2VuY3ktPnNlcnZpY2VUZWFtTWVtYmVycygpLT5nZXQoKTsKLy8KLy8gICAgICAgICAgICAkYnJva2VyU2VydmljZVRlYW1NZW1iZXJzID0gJGFnZW5jeS0+YnJva2VyTGlzdC0+bWFwKGZ1bmN0aW9uICgkYnJva2VyKSB7Ci8vICAgICAgICAgICAgICAgIHJldHVybiAkYnJva2VyLT5zZXJ2aWNlVGVhbU1lbWJlcnMoKS0+Z2V0KCk7Ci8vICAgICAgICAgICAgfSk7Ci8vCi8vICAgICAgICAgICAgJGFnZW5jeS0+c2VydmljZVRlYW1NZW1iZXJMaXN0ID0gJGFnZW5jeVNlcnZpY2VUZWFtTWVtYmVycy0+bWVyZ2UoJGJyb2tlclNlcnZpY2VUZWFtTWVtYmVycyk7Ci8vCi8vICAgICAgICAgICAgcmV0dXJuICRhZ2VuY3k7Ci8vICAgICAgICB9KTsKLy8KLy8gICAgICAgIHJldHVybiAkYWdlbmNpZXM7</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAtPmdldCgpOwo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">JGFnZW5jaWVzLT5tYXAoZnVuY3Rpb24gKCRhZ2VuY3kpIHsKICAgICAgICAgICAgICAgIHJldHVybiA=</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">YWdlbmNpZXMtPm1hcChmdW5jdGlvbiAoJGFnZW5jeSkgewogICAgICAgICAgICAgICAgcmV0dXJuICRhZ2VuY3ktPmJyb2tlcnMoKTsKICAgICAgICAgICAgfSk7</text>
+        <text encoding="base64">JGFnZW5jaWVzLT5tYXAoZnVuY3Rpb24gKCRhZ2VuY3kpIHsKICAgICAgICAgICAgICAgIHJldHVybiA=</text>
       </register>
       <register name=":" type="4">
         <text>348</text>
