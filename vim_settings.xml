@@ -12,7 +12,6 @@
       <file name="$USER_HOME$/workspace/portfolio_os/src/main.js" timestamp="1513121557636">
         <mark key="[" line="4" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/Defend_The_Castle/js/app/classes/display/Display.js" timestamp="1517088630676" />
       <file name="$USER_HOME$/bernieportal/.eslintrc.json" timestamp="1513809304847">
         <mark key="[" line="10" column="54" />
       </file>
@@ -70,7 +69,6 @@
       <file name="$USER_HOME$/workspace/javascript/phaser_simple_tutorial/Gruntfile.js" timestamp="1516749870592">
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/views/ats/job-postings/job.blade.php" timestamp="1517248643356" />
       <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/routers/job-routing.vue" timestamp="1513293594479">
         <mark key="[" line="1" column="7" />
       </file>
@@ -173,7 +171,7 @@
       <file name="$USER_HOME$/bernieportal/resources/views/billing/base-superior-vision-bill.blade.php" timestamp="1515108465502">
         <mark key="[" line="79" column="14" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Brokerage/Agency.php" timestamp="1517358570289">
+      <file name="$USER_HOME$/bernieportal/app/Brokerage/Agency.php" timestamp="1517426511338">
         <mark key="[" line="58" column="15" />
         <mark key="]" line="58" column="15" />
         <mark key="." line="58" column="15" />
@@ -254,8 +252,8 @@
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/worlds/levels/level.js" timestamp="1504391486114">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/bernieportal/tests/app/Api/Transformers/GeneralAgencies/GeneralAgencyAgencyListTransformerTest.php" timestamp="1517358132905">
-        <mark key="[" line="43" column="39" />
+      <file name="$USER_HOME$/bernieportal/tests/app/Api/Transformers/GeneralAgencies/GeneralAgencyAgencyListTransformerTest.php" timestamp="1517426203735">
+        <mark key="[" line="46" column="5" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/carrier-forms/form-view.vue" timestamp="1516732847189">
         <mark key="[" line="194" column="18" />
@@ -293,7 +291,7 @@
       <file name="$USER_HOME$/workspace/soundbox_js_playground/index.html" timestamp="1504056226018">
         <mark key="[" line="6" column="8" />
       </file>
-      <file name="/Dummy.txt" timestamp="1517352595199">
+      <file name="/Dummy.txt" timestamp="1517427511171">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -350,8 +348,6 @@
       <file name="$USER_HOME$/bernieportal/public/sites/all/modules/clientele/clientele_user.module" timestamp="1509390769159">
         <mark key="[" line="46" column="40" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/add-approver.vue" timestamp="1517272293889" />
-      <file name="/game.js" timestamp="1517157159027" />
       <file name="$USER_HOME$/bernieportal/public/sites/all/modules/payroll/js/compensation_adjust_salary.js" timestamp="1505762159211">
         <mark key="[" line="55" column="86" />
       </file>
@@ -370,7 +366,6 @@
         <mark key="^" line="50" column="11" />
         <mark key="." line="50" column="11" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Navigation/Items.php" timestamp="1517259141822" />
       <file name="$USER_HOME$/bernieportal/resources/assets/components/benefit-provider/client-policy-numbers.vue" timestamp="1509661444709">
         <mark key="[" line="7" column="7" />
       </file>
@@ -413,7 +408,6 @@
       <file name="$USER_HOME$/bernieportal/app/Subgroups/PTO/PTOSubgroupSetting.php" timestamp="1507829125307">
         <mark key="[" line="9" column="6" />
       </file>
-      <file name="$USER_HOME$/bernieportal/public/sites/all/modules/broker_portal/broker_portal.module" timestamp="1517262877796" />
       <file name="$USER_HOME$/bernieportal/resources/assets/components/loading-popup.vue" timestamp="1498514478199">
         <mark key="[" line="8" column="27" />
       </file>
@@ -437,6 +431,11 @@
       </file>
       <file name="/fragment.php" timestamp="1517357161207">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/bernieportal/app/Brokerage/Broker.php" timestamp="1517427067457">
+        <mark key="[" line="55" column="48" />
+        <mark key="]" line="55" column="48" />
+        <mark key="." line="55" column="48" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/views/components/dashboard-tabs-template.blade.php" timestamp="1502478886901">
         <mark key="[" line="1" column="17" />
@@ -495,11 +494,9 @@
       <file name="$USER_HOME$/workspace/portfolio_os/src/js/main.js" timestamp="1508693809881">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/job-candidates-listing.vue" timestamp="1517269621180" />
       <file name="$USER_HOME$/bernieportal/app/Onboarding/EmployeesImport.php" timestamp="1506355596605">
         <mark key="[" line="5" column="1" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Http/routes.php" timestamp="1517259185423" />
       <file name="$USER_HOME$/workspace/php/testProject/app/Http/Controllers/AboutController.php" timestamp="1503412371066">
         <mark key="[" line="8" column="50" />
       </file>
@@ -545,7 +542,13 @@
       <file name="$USER_HOME$/bernieportal/resources/views/employees/get-employee-previous-imported-elections.blade.php" timestamp="1509144383101">
         <mark key="[" line="10" column="32" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Api/Transformers/GeneralAgencies/GeneralAgencyAgencyListTransformer.php" timestamp="1517358127615" />
+      <file name="$USER_HOME$/bernieportal/app/Api/Transformers/GeneralAgencies/GeneralAgencyAgencyListTransformer.php" timestamp="1517426113487">
+        <mark key="'" line="68" column="0" />
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="62" column="0" />
+        <mark key="^" line="62" column="0" />
+        <mark key="." line="62" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/javascript/GGJ2018_last_electrician/README.md" timestamp="1517068328643">
         <mark key="[" line="0" column="0" />
       </file>
@@ -571,7 +574,7 @@
       <file name="$USER_HOME$/workspace/php/testProject/public/css/main.css" timestamp="1504813753200">
         <mark key="[" line="34" column="23" />
       </file>
-      <file name="/PHP Console" timestamp="1517358583179">
+      <file name="/PHP Console" timestamp="1517426798534">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/JavaScript Console" timestamp="1515445040472">
@@ -583,7 +586,6 @@
       <file name="$USER_HOME$/mastiff/mastiff/laravel/app/controllers/api/v1/resources/ProviderController.php" timestamp="1514921576555">
         <mark key="[" line="17" column="26" />
       </file>
-      <file name="$USER_HOME$/workspace/javascript/GGJ2018_last_electrician/world-manager.js" timestamp="1517173511609" />
       <file name="$USER_HOME$/bernieportal/resources/assets/components/benefit-provider/client-bills.vue" timestamp="1510596330385">
         <mark key="[" line="101" column="29" />
       </file>
@@ -640,7 +642,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="0" filename="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/dist/index.html" />
       <jump line="88" column="46" filename="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/entities/entity.js" />
       <jump line="16" column="827" filename="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/sounds/sound-manager.js" />
       <jump line="79" column="44" filename="$USER_HOME$/bernieportal/app/Http/Controllers/Api/Ats/Candidate/CandidateApplicationController.php" />
@@ -740,16 +741,17 @@
       <jump line="171" column="12" filename="$USER_HOME$/bernieportal/resources/assets/components/general-agency/agency-list.vue" />
       <jump line="162" column="90" filename="$USER_HOME$/bernieportal/resources/assets/components/general-agency/agency-list.vue" />
       <jump line="70" column="63" filename="$USER_HOME$/bernieportal/app/Api/Transformers/GeneralAgencies/GeneralAgencyAgencyListTransformer.php" />
+      <jump line="63" column="0" filename="$USER_HOME$/bernieportal/app/Api/Transformers/GeneralAgencies/GeneralAgencyAgencyListTransformer.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>mixed</text>
+        <text>AGENCY</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>mixed</text>
+        <text>AGENCY</text>
       </register>
       <register name="/" type="4">
         <text>deliverObjec</text>
