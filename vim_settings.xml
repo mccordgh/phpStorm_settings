@@ -268,6 +268,9 @@
       <file name="$USER_HOME$/bernieportal/resources/views/employees/election-data.blade.php" timestamp="1506440738197">
         <mark key="[" line="113" column="56" />
       </file>
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/candidate/job-candidate.vue" timestamp="1518112218853">
+        <mark key="[" line="185" column="42" />
+      </file>
       <file name="$USER_HOME$/bernieportal/app/Time/SubgroupSettings.php" timestamp="1506357820036">
         <mark key="[" line="7" column="1" />
       </file>
@@ -527,11 +530,8 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/quaternary-nav-for-vue.vue" timestamp="1498594361234">
         <mark key="[" line="15" column="23" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/job/job-candidates-list.vue" timestamp="1518109324468">
-        <mark key="'" line="570" column="0" />
-        <mark key="]" line="349" column="9" />
-        <mark key="^" line="349" column="9" />
-        <mark key="." line="349" column="9" />
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/job/job-candidates-list.vue" timestamp="1518111475416">
+        <mark key="'" line="568" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/account-settings/change-password.vue" timestamp="1508528918510">
         <mark key="[" line="60" column="21" />
@@ -566,7 +566,7 @@
       <file name="$USER_HOME$/workspace/php/testProject/public/css/main.css" timestamp="1504813753200">
         <mark key="[" line="34" column="23" />
       </file>
-      <file name="/PHP Console" timestamp="1518108122174">
+      <file name="/PHP Console" timestamp="1518112609521">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/JavaScript Console" timestamp="1515445040472">
@@ -731,13 +731,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>box-shadow: 0 0 0 8px rgba(0, 0, 0, 0.2); width: 95%; margin: auto;</text>
+        <text>Declined</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>box-shadow: 0 0 0 8px rgba(0, 0, 0, 0.2); width: 95%; margin: auto;</text>
+        <text>Declined</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkaXZcPg==</text>
