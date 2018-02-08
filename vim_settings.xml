@@ -268,8 +268,12 @@
       <file name="$USER_HOME$/bernieportal/resources/views/employees/election-data.blade.php" timestamp="1506440738197">
         <mark key="[" line="113" column="56" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/candidate/job-candidate.vue" timestamp="1518112218853">
-        <mark key="[" line="185" column="42" />
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/candidate/job-candidate.vue" timestamp="1518123711467">
+        <mark key="'" line="189" column="78" />
+        <mark key="[" line="189" column="26" />
+        <mark key="]" line="189" column="26" />
+        <mark key="^" line="155" column="23" />
+        <mark key="." line="189" column="26" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Time/SubgroupSettings.php" timestamp="1506357820036">
         <mark key="[" line="7" column="1" />
@@ -496,6 +500,13 @@
       <file name="$USER_HOME$/workspace/portfolio_os/src/js/main.js" timestamp="1508693809881">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/job-candidates-listing.vue" timestamp="1518122455450">
+        <mark key="'" line="379" column="0" />
+        <mark key="[" line="87" column="13" />
+        <mark key="]" line="87" column="13" />
+        <mark key="." line="87" column="13" />
+        <mark key="^" line="87" column="68" />
+      </file>
       <file name="$USER_HOME$/bernieportal/app/Onboarding/EmployeesImport.php" timestamp="1506355596605">
         <mark key="[" line="5" column="1" />
       </file>
@@ -530,8 +541,12 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/quaternary-nav-for-vue.vue" timestamp="1498594361234">
         <mark key="[" line="15" column="23" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/job/job-candidates-list.vue" timestamp="1518111475416">
-        <mark key="'" line="568" column="0" />
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/job/job-candidates-list.vue" timestamp="1518121883852">
+        <mark key="'" line="602" column="0" />
+        <mark key="[" line="238" column="58" />
+        <mark key="]" line="238" column="58" />
+        <mark key="." line="238" column="58" />
+        <mark key="^" line="215" column="102" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/account-settings/change-password.vue" timestamp="1508528918510">
         <mark key="[" line="60" column="21" />
@@ -566,7 +581,7 @@
       <file name="$USER_HOME$/workspace/php/testProject/public/css/main.css" timestamp="1504813753200">
         <mark key="[" line="34" column="23" />
       </file>
-      <file name="/PHP Console" timestamp="1518113330314">
+      <file name="/PHP Console" timestamp="1518123840553">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/JavaScript Console" timestamp="1515445040472">
@@ -628,7 +643,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="2" filename="$USER_HOME$/bernieportal/resources/assets/components/billing/benefit-billing-past-new.vue" />
       <jump line="6889" column="4" filename="$USER_HOME$/bernieportal/legacy/ClienteleUserModule.php" />
       <jump line="6655" column="30" filename="$USER_HOME$/bernieportal/legacy/ClienteleUserModule.php" />
       <jump line="6707" column="11" filename="$USER_HOME$/bernieportal/legacy/ClienteleUserModule.php" />
@@ -728,16 +742,17 @@
       <jump line="557" column="0" filename="$USER_HOME$/bernieportal/resources/assets/components/ats/job/job-candidates-list.vue" />
       <jump line="159" column="32" filename="$USER_HOME$/bernieportal/resources/assets/components/ats/job-candidates-listing.vue" />
       <jump line="367" column="0" filename="$USER_HOME$/bernieportal/resources/assets/components/ats/job-candidates-listing.vue" />
+      <jump line="189" column="78" filename="$USER_HOME$/bernieportal/resources/assets/components/ats/candidate/job-candidate.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Declined</text>
+        <text>isDeclined</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>Declined</text>
+        <text>isDeclined</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkaXZcPg==</text>
