@@ -12,6 +12,7 @@
       <file name="$USER_HOME$/workspace/portfolio_os/src/main.js" timestamp="1513121557636">
         <mark key="[" line="4" column="30" />
       </file>
+      <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/Aca/Forms1095Controller.php" timestamp="1518201558258" />
       <file name="$USER_HOME$/bernieportal/.eslintrc.json" timestamp="1513809304847">
         <mark key="[" line="10" column="54" />
       </file>
@@ -142,7 +143,7 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/create-job/hiring.vue" timestamp="1493221091097">
         <mark key="[" line="11" column="23" />
       </file>
-      <file name="$USER_HOME$/bernieportal/legacy/Air/Controllers/AirFormsSaver.php" timestamp="1518199236365" />
+      <file name="$USER_HOME$/bernieportal/legacy/Air/Controllers/AirFormsSaver.php" timestamp="1518202730051" />
       <file name="$USER_HOME$/bernieportal/resources/assets/components/aca/employees/employees-list.vue" timestamp="1518199099766">
         <mark key="[" line="47" column="34" />
       </file>
@@ -293,7 +294,7 @@
       <file name="$USER_HOME$/workspace/soundbox_js_playground/index.html" timestamp="1504056226018">
         <mark key="[" line="6" column="8" />
       </file>
-      <file name="/Dummy.txt" timestamp="1518199304707">
+      <file name="/Dummy.txt" timestamp="1518200622504">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -429,8 +430,11 @@
         <mark key="." line="178" column="0" />
         <mark key="^" line="178" column="5" />
       </file>
-      <file name="/fragment.php" timestamp="1518198022657">
+      <file name="/fragment.php" timestamp="1518203254003">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="11" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/views/components/dashboard-tabs-template.blade.php" timestamp="1502478886901">
         <mark key="[" line="1" column="17" />
@@ -499,6 +503,7 @@
       <file name="$USER_HOME$/bernieportal/app/Onboarding/EmployeesImport.php" timestamp="1506355596605">
         <mark key="[" line="5" column="1" />
       </file>
+      <file name="$USER_HOME$/bernieportal/app/Http/routes.php" timestamp="1518200552177" />
       <file name="$USER_HOME$/bernieportal/resources/assets/components/aca/employees/spreadsheet-import.vue" timestamp="1518199114514">
         <mark key="[" line="3" column="30" />
       </file>
@@ -574,7 +579,7 @@
       <file name="$USER_HOME$/workspace/php/testProject/public/css/main.css" timestamp="1504813753200">
         <mark key="[" line="34" column="23" />
       </file>
-      <file name="/PHP Console" timestamp="1518199155831">
+      <file name="/PHP Console" timestamp="1518203115214">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/JavaScript Console" timestamp="1518196496746">
@@ -619,6 +624,7 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/create-job/questions.vue" timestamp="1493221319530">
         <mark key="[" line="71" column="10" />
       </file>
+      <file name="$USER_HOME$/bernieportal/app/Aca/EmployeesImport/AirEmployeesSpreadsheetParser.php" timestamp="1518201846298" />
       <file name="$USER_HOME$/bernieportal/resources/assets/components/aca/subgroups/list-1095.vue" timestamp="1493071790826">
         <mark key="[" line="32" column="28" />
       </file>
@@ -738,14 +744,14 @@
       <jump line="189" column="78" filename="$USER_HOME$/bernieportal/resources/assets/components/ats/candidate/job-candidate.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICYmICEkd2F2aWVk</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">JHdvcmtzaGVldC0+dG9BcnJheSgpCg==</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICYmICEkd2F2aWVk</text>
+        <text>$phpExcel</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkaXZcPg==</text>
@@ -754,7 +760,7 @@
         <text>parseInt(</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">JHdvcmtzaGVldC0+dG9BcnJheSgpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -763,25 +769,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0sCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbXBzc3RlZDogewo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIH0sCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGNvbXBzc3RlZDogewo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHUK</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICA8L3Rib2R5Pgo=</text>
+        <text encoding="base64">ICAgIHUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICA8L3Rib2R5PgogICAgICA8dGJvZHk+Cg==</text>
+        <text encoding="base64">ICAgICA8L3Rib2R5Pgo=</text>
       </register>
       <register name=":" type="4">
         <text>18</text>
