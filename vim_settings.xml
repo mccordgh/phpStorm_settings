@@ -34,7 +34,7 @@
         <mark key="^" line="15" column="13" />
         <mark key="." line="15" column="19" />
       </file>
-      <file name="$USER_HOME$/bernieportal/legacy/Air/Models/AirForm1095.php" timestamp="1518204232645" />
+      <file name="$USER_HOME$/bernieportal/legacy/Air/Models/AirForm1095.php" timestamp="1518210029199" />
       <file name="$USER_HOME$/workspace/php/testProject/resources/views/dashboard.blade.php" timestamp="1504811117559">
         <mark key="[" line="63" column="26" />
       </file>
@@ -74,6 +74,7 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/routers/job-routing.vue" timestamp="1513293594479">
         <mark key="[" line="1" column="7" />
       </file>
+      <file name="$USER_HOME$/bernieportal/legacy/Air/Models/AirEmployer.php" timestamp="1518210168024" />
       <file name="$USER_HOME$/bernieportal/app/Ats/Repositories/JobCandidateRepository.php" timestamp="1505347656980">
         <mark key="[" line="36" column="25" />
       </file>
@@ -162,7 +163,7 @@
         <mark key="^" line="121" column="32" />
         <mark key="." line="121" column="32" />
       </file>
-      <file name="$USER_HOME$/bernieportal/legacy/Air/Models/AirEnrollMatrix.php" timestamp="1518209692489">
+      <file name="$USER_HOME$/bernieportal/legacy/Air/Models/AirEnrollMatrix.php" timestamp="1518211931457">
         <mark key="[" line="73" column="4" />
         <mark key="]" line="75" column="3" />
         <mark key="^" line="75" column="3" />
@@ -214,6 +215,7 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/benefit-booklets/configure-booklet.vue" timestamp="1512424950606">
         <mark key="[" line="183" column="98" />
       </file>
+      <file name="$USER_HOME$/bernieportal/legacy/Air/Models/AirForm1094.php" timestamp="1518210129122" />
       <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/candidate/job-applications-list.vue" timestamp="1493315731584">
         <mark key="[" line="46" column="67" />
       </file>
@@ -223,6 +225,7 @@
       <file name="$USER_HOME$/workspace/php/testProject/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesUsers.php" timestamp="1504817286923">
         <mark key="[" line="75" column="67" />
       </file>
+      <file name="$USER_HOME$/bernieportal/legacy/Air/Models/AirEmployerBenefitSubgroup.php" timestamp="1518210381102" />
       <file name="$USER_HOME$/workspace/emoji_rogue_like/js/main.js" timestamp="1506373361728">
         <mark key="[" line="0" column="0" />
       </file>
@@ -359,6 +362,7 @@
       <file name="$USER_HOME$/bernieportal/public/sites/all/modules/clientele/clientele_user.module" timestamp="1517955198876">
         <mark key="[" line="46" column="40" />
       </file>
+      <file name="$USER_HOME$/bernieportal/legacy/Air/Models/AirEnrollToCoverageMapper.php" timestamp="1518210427895" />
       <file name="$USER_HOME$/bernieportal/public/sites/all/modules/payroll/js/compensation_adjust_salary.js" timestamp="1505762159211">
         <mark key="[" line="55" column="86" />
       </file>
@@ -438,7 +442,7 @@
         <mark key="." line="178" column="0" />
         <mark key="^" line="178" column="5" />
       </file>
-      <file name="/fragment.php" timestamp="1518204132994">
+      <file name="/fragment.php" timestamp="1518212029639">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -501,13 +505,6 @@
       <file name="$USER_HOME$/workspace/portfolio_os/src/js/main.js" timestamp="1508693809881">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/job-candidates-listing.vue" timestamp="1518122455450">
-        <mark key="'" line="379" column="0" />
-        <mark key="[" line="87" column="13" />
-        <mark key="]" line="87" column="13" />
-        <mark key="." line="87" column="13" />
-        <mark key="^" line="87" column="68" />
-      </file>
       <file name="$USER_HOME$/bernieportal/app/Onboarding/EmployeesImport.php" timestamp="1506355596605">
         <mark key="[" line="5" column="1" />
       </file>
@@ -547,13 +544,6 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/quaternary-nav-for-vue.vue" timestamp="1498594361234">
         <mark key="[" line="15" column="23" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/job/job-candidates-list.vue" timestamp="1518121883852">
-        <mark key="'" line="602" column="0" />
-        <mark key="[" line="238" column="58" />
-        <mark key="]" line="238" column="58" />
-        <mark key="." line="238" column="58" />
-        <mark key="^" line="215" column="102" />
-      </file>
       <file name="$USER_HOME$/bernieportal/legacy/Air/Views/AirAddUserDrupalForm.php" timestamp="1518209452197" />
       <file name="$USER_HOME$/bernieportal/resources/assets/components/account-settings/change-password.vue" timestamp="1508528918510">
         <mark key="[" line="60" column="21" />
@@ -588,7 +578,7 @@
       <file name="$USER_HOME$/workspace/php/testProject/public/css/main.css" timestamp="1504813753200">
         <mark key="[" line="34" column="23" />
       </file>
-      <file name="/PHP Console" timestamp="1518209476965">
+      <file name="/PHP Console" timestamp="1518210883032">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/JavaScript Console" timestamp="1518196496746">
@@ -753,14 +743,14 @@
       <jump line="189" column="78" filename="$USER_HOME$/bernieportal/resources/assets/components/ats/candidate/job-candidate.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">JHdvcmtzaGVldC0+dG9BcnJheSgpCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">JGZyZWV6ZUhpc3RvcnktPmdldEZpcnN0TmFtZSgp</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>$phpExcel</text>
+        <text encoding="base64">JGZyZWV6ZUhpc3RvcnktPmdldEZpcnN0TmFtZSgp</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkaXZcPg==</text>
