@@ -336,6 +336,12 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.php" timestamp="1517344312125">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/benefits/plans/shells/shell.vue" timestamp="1518543244513">
+        <mark key="[" line="103" column="7" />
+        <mark key="]" line="106" column="6" />
+        <mark key="^" line="106" column="6" />
+        <mark key="." line="106" column="6" />
+      </file>
       <file name="$USER_HOME$/bernieportal/app/Api/Transformers/Bills/UnumPdfBillTransformer.php" timestamp="1515109277581">
         <mark key="[" line="53" column="73" />
       </file>
@@ -594,7 +600,7 @@
       <file name="$USER_HOME$/workspace/php/testProject/public/css/main.css" timestamp="1504813753200">
         <mark key="[" line="34" column="23" />
       </file>
-      <file name="/PHP Console" timestamp="1518475204148">
+      <file name="/PHP Console" timestamp="1518543746634">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/JavaScript Console" timestamp="1518461207304">
@@ -804,7 +810,7 @@
         <text encoding="base64">ICAgICAK</text>
       </register>
       <register name=":" type="4">
-        <text>206</text>
+        <text>38</text>
       </register>
     </registers>
     <search>
@@ -840,7 +846,6 @@
         <entry encoding="base64">XDxkaXZcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>291</entry>
         <entry>201</entry>
         <entry>47</entry>
         <entry>70</entry>
@@ -860,6 +865,7 @@
         <entry>198</entry>
         <entry>vsp</entry>
         <entry>206</entry>
+        <entry>38</entry>
       </history-cmd>
       <history-expr />
       <history-input />
