@@ -1,9 +1,0 @@
-<application>
-  <component name="WebServers">
-    <option name="servers">
-      <webServer id="133481f0-a988-4e47-9270-84906ac46577" name="BerniePortal" url="http://bernieportal.dev">
-        <fileTransfer accessType="LOCAL" />
-      </webServer>
-    </option>
-  </component>
-</application>
