@@ -131,7 +131,6 @@
       <file name="$USER_HOME$/bernieportal/storage/ats/jobs/60898-secondbestjobI'veeverseen.html" timestamp="1513789027052">
         <mark key="[" line="213" column="32" />
       </file>
-      <file name="$USER_HOME$/bernieportal/legacy/Air/Models/AirEmployeeFreezeHistory.php" timestamp="1518468588190" />
       <file name="$USER_HOME$/bernieportal/app/Http/Kernel.php" timestamp="1497988660759">
         <mark key="[" line="5" column="55" />
       </file>
@@ -223,7 +222,6 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/benefit-booklets/configure-booklet.vue" timestamp="1512424950606">
         <mark key="[" line="183" column="98" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Http/Requests/GeneralAgencies/GeneralAgencyRequest.php" timestamp="1518478847992" />
       <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/candidate/job-applications-list.vue" timestamp="1493315731584">
         <mark key="[" line="46" column="67" />
       </file>
@@ -239,7 +237,6 @@
       <file name="$USER_HOME$/bernieportal/app/Api/Transformers/Bills/CommonPdfBillTransformer.php" timestamp="1515109282808">
         <mark key="[" line="40" column="69" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Benefits/Plans/Shells/Shell.php" timestamp="1518636212229" />
       <file name="$USER_HOME$/bernieportal/resources/assets/components/sidebar-toggle.vue" timestamp="1496247983712">
         <mark key="[" line="12" column="13" />
       </file>
@@ -282,7 +279,6 @@
         <mark key="." line="194" column="16" />
         <mark key="^" line="194" column="16" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/store/index.js" timestamp="1518477872290" />
       <file name="$USER_HOME$/bernieportal/resources/views/employees/election-data.blade.php" timestamp="1506440738197">
         <mark key="[" line="113" column="56" />
       </file>
@@ -343,11 +339,11 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.php" timestamp="1517344312125">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/benefits/plans/shells/shell.vue" timestamp="1518644926657">
-        <mark key="[" line="82" column="16" />
-        <mark key="]" line="82" column="40" />
-        <mark key="^" line="82" column="40" />
-        <mark key="." line="82" column="40" />
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/benefits/plans/shells/shell.vue" timestamp="1518646311816">
+        <mark key="[" line="130" column="27" />
+        <mark key="]" line="128" column="49" />
+        <mark key="^" line="128" column="49" />
+        <mark key="." line="128" column="49" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Api/Transformers/Bills/UnumPdfBillTransformer.php" timestamp="1515109277581">
         <mark key="[" line="53" column="73" />
@@ -779,13 +775,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>style=&quot;display: block;&quot;</text>
+        <text encoding="base64">IHZhbHVlPSIxIiA=</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>style=&quot;display: block;&quot;</text>
+        <text encoding="base64">IHZhbHVlPSIxIiA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkaXZcPg==</text>
@@ -793,37 +789,37 @@
       <register name="0" type="4">
         <text>'2015-06-01'</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">cmV0dXJuIE9iamVjdC5rZXlzKGJlbmVmaXRUeXBlcykubWFwKChiZW5lZml0VHlwZSkgPT4gewogICAgICAgICAgcmV0dXJuCiAgICAgICAgfSk7</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgQGNsaWNrPSIiCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">cmV0dXJuIE9iamVjdC5rZXlzKGJlbmVmaXRUeXBlcykubWFwKChiZW5lZml0VHlwZSkgPT4gewogICAgICAgICAgcmV0dXJuCiAgICAgICAgfSk7</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">CiAgc3RhdGljIGdldCAoKSB7CiAgICByZXR1cm4gOwogIH0KCiAg</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>static get constant2() {
     return constant2;
   }</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">cHVibGljIHN0YXRpYyBmdW5jdGlvbiBnZXRDb25zdGFudHMoKQp7CiAgJG1lID0gbmV3IFxSZWZsZWN0aW9uQ2xhc3MoX19DTEFTU19fKTsKCiAgcmV0dXJuIGFycmF5X2ZsaXAoJG1lLT5nZXRDb25zdGFudHMoKSk7Cn0=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
