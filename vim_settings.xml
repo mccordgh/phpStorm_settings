@@ -152,12 +152,12 @@
       <file name="$USER_HOME$/bernieportal/legacy/Air/Controllers/AirFormsSaver.php" timestamp="1518454486241">
         <mark key="[" line="171" column="20" />
       </file>
-      <file name="$USER_HOME$/workspace/css/css_3d_essentials/index.html" timestamp="1518450798960">
-        <mark key="'" line="116" column="14" />
-        <mark key="[" line="110" column="6" />
-        <mark key="]" line="110" column="6" />
-        <mark key="^" line="133" column="13" />
-        <mark key="." line="110" column="6" />
+      <file name="$USER_HOME$/workspace/css/css_3d_essentials/index.html" timestamp="1518659434839">
+        <mark key="'" line="165" column="14" />
+        <mark key="[" line="38" column="17" />
+        <mark key="]" line="37" column="25" />
+        <mark key="^" line="37" column="25" />
+        <mark key="." line="37" column="25" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/aca/employees/employees-list.vue" timestamp="1518199099766">
         <mark key="[" line="47" column="34" />
@@ -312,7 +312,7 @@
       <file name="$USER_HOME$/workspace/soundbox_js_playground/index.html" timestamp="1504056226018">
         <mark key="[" line="6" column="8" />
       </file>
-      <file name="/Dummy.txt" timestamp="1518639329906">
+      <file name="/Dummy.txt" timestamp="1518661792318">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -577,6 +577,12 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/quaternary-nav-for-vue.vue" timestamp="1498594361234">
         <mark key="[" line="15" column="23" />
       </file>
+      <file name="$USER_HOME$/workspace/css/css_3d_essentials/3dcube.html" timestamp="1518661776715">
+        <mark key="[" line="10" column="22" />
+        <mark key="]" line="125" column="28" />
+        <mark key="^" line="125" column="28" />
+        <mark key="." line="125" column="28" />
+      </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/account-settings/change-password.vue" timestamp="1508528918510">
         <mark key="[" line="60" column="21" />
       </file>
@@ -642,6 +648,12 @@
       </file>
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/tiles/path-blue.js" timestamp="1503356614590">
         <mark key="[" line="3" column="17" />
+      </file>
+      <file name="$USER_HOME$/workspace/css/css_3d_essentials/carousel.html" timestamp="1518661596529">
+        <mark key="[" line="130" column="61" />
+        <mark key="]" line="132" column="24" />
+        <mark key="." line="132" column="24" />
+        <mark key="^" line="132" column="24" />
       </file>
       <file name="$USER_HOME$/workspace/javascript/phaser_remake/game.js" timestamp="1516841452671">
         <mark key="[" line="29" column="25" />
@@ -775,13 +787,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>usedTobaccoInLastYear</text>
+        <text>aliceblue</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>usedTobaccoInLastYear</text>
+        <text>aliceblue</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkaXZcPg==</text>
@@ -790,36 +802,34 @@
         <text>'2015-06-01'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDx0aXRsZT5UaXRsZTwvdGl0bGU+Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWFyZ2luLXRvcDogLTEwcmVtOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgQGNsaWNrPSIiCg==</text>
+        <text encoding="base64">ICAgIDx0aXRsZT5UaXRsZTwvdGl0bGU+Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">cmV0dXJuIE9iamVjdC5rZXlzKGJlbmVmaXRUeXBlcykubWFwKChiZW5lZml0VHlwZSkgPT4gewogICAgICAgICAgcmV0dXJuCiAgICAgICAgfSk7</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgQGNsaWNrPSIiCg==</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">CiAgc3RhdGljIGdldCAoKSB7CiAgICByZXR1cm4gOwogIH0KCiAg</text>
+        <text encoding="base64">cmV0dXJuIE9iamVjdC5rZXlzKGJlbmVmaXRUeXBlcykubWFwKChiZW5lZml0VHlwZSkgPT4gewogICAgICAgICAgcmV0dXJuCiAgICAgICAgfSk7</text>
       </register>
-      <register name="8" type="4">
-        <text>static get constant2() {
-    return constant2;
-  }</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
