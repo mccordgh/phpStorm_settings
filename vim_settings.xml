@@ -39,6 +39,7 @@
       <file name="$USER_HOME$/workspace/php/testProject/resources/views/dashboard.blade.php" timestamp="1504811117559">
         <mark key="[" line="63" column="26" />
       </file>
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/jobs-listing.vue" timestamp="1518713014683" />
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/worlds/world.js" timestamp="1506610094234">
         <mark key="[" line="15" column="50" />
       </file>
@@ -312,7 +313,7 @@
       <file name="$USER_HOME$/workspace/soundbox_js_playground/index.html" timestamp="1504056226018">
         <mark key="[" line="6" column="8" />
       </file>
-      <file name="/Dummy.txt" timestamp="1518661792318">
+      <file name="/Dummy.txt" timestamp="1518713392241">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -339,11 +340,11 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.php" timestamp="1517344312125">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/benefits/plans/shells/shell.vue" timestamp="1518711886257">
-        <mark key="[" line="341" column="8" />
-        <mark key="]" line="341" column="8" />
-        <mark key="^" line="341" column="7" />
-        <mark key="." line="341" column="8" />
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/benefits/plans/shells/shell.vue" timestamp="1518713126493">
+        <mark key="[" line="171" column="87" />
+        <mark key="]" line="171" column="87" />
+        <mark key="." line="171" column="87" />
+        <mark key="^" line="166" column="133" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Api/Transformers/Bills/UnumPdfBillTransformer.php" timestamp="1515109277581">
         <mark key="[" line="53" column="73" />
@@ -616,7 +617,7 @@
       <file name="$USER_HOME$/workspace/php/testProject/public/css/main.css" timestamp="1504813753200">
         <mark key="[" line="34" column="23" />
       </file>
-      <file name="/PHP Console" timestamp="1518711509062">
+      <file name="/PHP Console" timestamp="1518712563559">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/JavaScript Console" timestamp="1518461207304">
@@ -787,13 +788,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>const</text>
+        <text>Cancel</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>const</text>
+        <text>Cancel</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkaXZcPg==</text>
