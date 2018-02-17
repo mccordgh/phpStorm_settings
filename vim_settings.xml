@@ -64,6 +64,9 @@
         <mark key="." line="16" column="34" />
         <mark key="^" line="16" column="34" />
       </file>
+      <file name="$USER_HOME$/workspace/javascript/emoji_rogue_like/src/js/classes/game.js" timestamp="1518909473534">
+        <mark key="[" line="87" column="24" />
+      </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/thread/candidate-message-modal.vue" timestamp="1493229628959">
         <mark key="[" line="55" column="58" />
       </file>
@@ -102,11 +105,6 @@
       </file>
       <file name="$USER_HOME$/bernieportal/legacy/Mastiff/Api/Api.php" timestamp="1514923432580">
         <mark key="[" line="248" column="66" />
-      </file>
-      <file name="$USER_HOME$/workspace/javascript/emoji_rogue_like/src/js/classes/worlds/world.js" timestamp="1518895967671">
-        <mark key="[" line="54" column="31" />
-        <mark key="]" line="54" column="31" />
-        <mark key="." line="54" column="31" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Views/Composers/Sidebar/Sidebar.php" timestamp="1495661096600">
         <mark key="[" line="46" column="10" />
@@ -323,7 +321,7 @@
       <file name="$USER_HOME$/workspace/soundbox_js_playground/index.html" timestamp="1504056226018">
         <mark key="[" line="6" column="8" />
       </file>
-      <file name="/Dummy.txt" timestamp="1518895998908">
+      <file name="/Dummy.txt" timestamp="1518909380854">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -546,11 +544,6 @@
       <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/Time/PeriodsController.php" timestamp="1505929956281">
         <mark key="[" line="56" column="67" />
       </file>
-      <file name="$USER_HOME$/workspace/javascript/emoji_rogue_like/src/js/classes/worlds/maze-generator.js" timestamp="1518895020355">
-        <mark key="[" line="16" column="29" />
-        <mark key="]" line="16" column="29" />
-        <mark key="." line="16" column="29" />
-      </file>
       <file name="/fragment.js" timestamp="1518196523037">
         <mark key="[" line="0" column="0" />
       </file>
@@ -636,6 +629,9 @@
       <file name="$USER_HOME$/bernieportal/resources/views/employees/get-employee-previous-imported-elections.blade.php" timestamp="1509144383101">
         <mark key="[" line="10" column="32" />
       </file>
+      <file name="$USER_HOME$/workspace/javascript/emoji_rogue_like/.gitignore" timestamp="1518908271935">
+        <mark key="[" line="1" column="6" />
+      </file>
       <file name="$USER_HOME$/workspace/javascript/GGJ2018_last_electrician/README.md" timestamp="1517068328643">
         <mark key="[" line="0" column="0" />
       </file>
@@ -662,6 +658,12 @@
       </file>
       <file name="$USER_HOME$/workspace/php/testProject/app/Console/Kernel.php" timestamp="1504282888931">
         <mark key="[" line="16" column="10" />
+      </file>
+      <file name="$USER_HOME$/workspace/javascript/emoji_rogue_like/src/index.html" timestamp="1518909387555">
+        <mark key="[" line="8" column="33" />
+        <mark key="]" line="8" column="19" />
+        <mark key="^" line="8" column="19" />
+        <mark key="." line="8" column="19" />
       </file>
       <file name="$USER_HOME$/mastiff/mastiff/laravel/app/controllers/api/v1/resources/ProviderController.php" timestamp="1514921576555">
         <mark key="[" line="17" column="26" />
