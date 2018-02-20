@@ -346,12 +346,12 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.php" timestamp="1517344312125">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/benefits/plans/shells/shell.vue" timestamp="1519149008705">
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/benefits/plans/shells/shell.vue" timestamp="1519150600183">
         <mark key="'" line="326" column="6" />
-        <mark key="[" line="342" column="23" />
-        <mark key="]" line="347" column="8" />
+        <mark key="[" line="380" column="54" />
+        <mark key="]" line="380" column="54" />
         <mark key="^" line="347" column="8" />
-        <mark key="." line="347" column="8" />
+        <mark key="." line="380" column="54" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Api/Transformers/Bills/UnumPdfBillTransformer.php" timestamp="1515109277581">
         <mark key="[" line="53" column="73" />
@@ -810,13 +810,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>testy</text>
+        <text>updated</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>testy</text>
+        <text>updated</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkaXZcPg==</text>
