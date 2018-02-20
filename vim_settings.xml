@@ -346,12 +346,12 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.php" timestamp="1517344312125">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/benefits/plans/shells/shell.vue" timestamp="1519146266616">
-        <mark key="'" line="330" column="6" />
-        <mark key="[" line="218" column="53" />
-        <mark key="]" line="218" column="53" />
-        <mark key="." line="218" column="53" />
-        <mark key="^" line="218" column="76" />
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/benefits/plans/shells/shell.vue" timestamp="1519149008705">
+        <mark key="'" line="326" column="6" />
+        <mark key="[" line="342" column="23" />
+        <mark key="]" line="347" column="8" />
+        <mark key="^" line="347" column="8" />
+        <mark key="." line="347" column="8" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Api/Transformers/Bills/UnumPdfBillTransformer.php" timestamp="1515109277581">
         <mark key="[" line="53" column="73" />
@@ -461,12 +461,9 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/routers/job-candidate-router.vue" timestamp="1517448531676">
         <mark key="[" line="9" column="14" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/benefits/plans/shells/attach-form-shells-table.vue" timestamp="1519146233960">
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/benefits/plans/shells/attach-form-shells-table.vue" timestamp="1519148062216">
         <mark key="'" line="81" column="30" />
-        <mark key="[" line="76" column="15" />
-        <mark key="]" line="15" column="7" />
-        <mark key="^" line="15" column="6" />
-        <mark key="." line="15" column="7" />
+        <mark key="^" line="101" column="3" />
       </file>
       <file name="$USER_HOME$/bernieportal/public/sites/all/modules/broker_portal/broker_portal.module" timestamp="1518728682995" />
       <file name="$USER_HOME$/bernieportal/resources/assets/components/loading-popup.vue" timestamp="1498514478199">
@@ -631,7 +628,7 @@
       <file name="$USER_HOME$/workspace/php/testProject/public/css/main.css" timestamp="1504813753200">
         <mark key="[" line="34" column="23" />
       </file>
-      <file name="/PHP Console" timestamp="1519146418319">
+      <file name="/PHP Console" timestamp="1519148641961">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/JavaScript Console" timestamp="1518461207304">
@@ -813,13 +810,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>v-on=&quot;</text>
+        <text>testy</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>v-on=&quot;</text>
+        <text>testy</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkaXZcPg==</text>
