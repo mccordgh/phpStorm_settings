@@ -163,13 +163,6 @@
       <file name="$USER_HOME$/bernieportal/legacy/Air/Controllers/AirFormsSaver.php" timestamp="1518454486241">
         <mark key="[" line="171" column="20" />
       </file>
-      <file name="$USER_HOME$/workspace/css/css_3d_essentials/index.html" timestamp="1518659434839">
-        <mark key="'" line="165" column="14" />
-        <mark key="[" line="38" column="17" />
-        <mark key="]" line="37" column="25" />
-        <mark key="^" line="37" column="25" />
-        <mark key="." line="37" column="25" />
-      </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/aca/employees/employees-list.vue" timestamp="1518199099766">
         <mark key="[" line="47" column="34" />
       </file>
@@ -325,7 +318,7 @@
       <file name="$USER_HOME$/workspace/soundbox_js_playground/index.html" timestamp="1504056226018">
         <mark key="[" line="6" column="8" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519144201552">
+      <file name="/Dummy.txt" timestamp="1519146727569">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -353,12 +346,12 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.php" timestamp="1517344312125">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/benefits/plans/shells/shell.vue" timestamp="1519144528693">
-        <mark key="'" line="324" column="6" />
-        <mark key="[" line="504" column="15" />
-        <mark key="]" line="219" column="31" />
-        <mark key="." line="219" column="31" />
-        <mark key="^" line="219" column="31" />
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/benefits/plans/shells/shell.vue" timestamp="1519146266616">
+        <mark key="'" line="330" column="6" />
+        <mark key="[" line="218" column="53" />
+        <mark key="]" line="218" column="53" />
+        <mark key="." line="218" column="53" />
+        <mark key="^" line="218" column="76" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Api/Transformers/Bills/UnumPdfBillTransformer.php" timestamp="1515109277581">
         <mark key="[" line="53" column="73" />
@@ -392,25 +385,11 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/applications/application.vue" timestamp="1505482376533">
         <mark key="[" line="79" column="7" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/js/benefits/benefit-types.js" timestamp="1518642613390">
-        <mark key="'" line="183" column="20" />
-        <mark key="[" line="182" column="2" />
-        <mark key="]" line="229" column="2" />
-        <mark key="." line="229" column="2" />
-        <mark key="^" line="229" column="2" />
-      </file>
       <file name="$USER_HOME$/bernieportal/app/Ats/Candidate.php" timestamp="1502737804653">
         <mark key="[" line="32" column="86" />
       </file>
       <file name="$USER_HOME$/bernieportal/public/sites/all/modules/clientele/clientele_user.module" timestamp="1518474587820">
         <mark key="[" line="46" column="40" />
-      </file>
-      <file name="$USER_HOME$/bernieportal/legacy/Air/Models/AirEnrollToCoverageMapper.php" timestamp="1518476346388">
-        <mark key="'" line="133" column="0" />
-        <mark key="[" line="57" column="61" />
-        <mark key="]" line="70" column="38" />
-        <mark key="^" line="70" column="38" />
-        <mark key="." line="70" column="38" />
       </file>
       <file name="$USER_HOME$/bernieportal/public/sites/all/modules/payroll/js/compensation_adjust_salary.js" timestamp="1505762159211">
         <mark key="[" line="55" column="86" />
@@ -482,7 +461,7 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/routers/job-candidate-router.vue" timestamp="1517448531676">
         <mark key="[" line="9" column="14" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/benefits/plans/shells/attach-form-shells-table.vue" timestamp="1519144522293">
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/benefits/plans/shells/attach-form-shells-table.vue" timestamp="1519146233960">
         <mark key="'" line="81" column="30" />
         <mark key="[" line="76" column="15" />
         <mark key="]" line="15" column="7" />
@@ -652,7 +631,7 @@
       <file name="$USER_HOME$/workspace/php/testProject/public/css/main.css" timestamp="1504813753200">
         <mark key="[" line="34" column="23" />
       </file>
-      <file name="/PHP Console" timestamp="1519144167994">
+      <file name="/PHP Console" timestamp="1519146418319">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/JavaScript Console" timestamp="1518461207304">
@@ -834,13 +813,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">PC9kaXY+</text>
+        <text>v-on=&quot;</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PC9kaXY+</text>
+        <text>v-on=&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkaXZcPg==</text>
