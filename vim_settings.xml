@@ -12,18 +12,7 @@
       <file name="$USER_HOME$/workspace/portfolio_os/src/main.js" timestamp="1513121557636">
         <mark key="[" line="4" column="30" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/benefits/plans/shells/library.vue" timestamp="1519151519783">
-        <mark key="[" line="102" column="20" />
-        <mark key="]" line="99" column="9" />
-        <mark key="^" line="99" column="9" />
-        <mark key="." line="99" column="9" />
-      </file>
-      <file name="$USER_HOME$/workspace/javascript/boardgame_number_tracker/src/components/player-stats.vue" timestamp="1518849605445">
-        <mark key="[" line="75" column="4" />
-        <mark key="]" line="75" column="4" />
-        <mark key="." line="75" column="4" />
-        <mark key="^" line="9" column="13" />
-      </file>
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/benefits/plans/shells/library.vue" timestamp="1519151519783" />
       <file name="$USER_HOME$/bernieportal/.eslintrc.json" timestamp="1513809304847">
         <mark key="[" line="10" column="54" />
       </file>
@@ -78,12 +67,6 @@
       </file>
       <file name="$USER_HOME$/bernieportal/resources/views/billing/base-allstate-bill.blade.php" timestamp="1515598366588">
         <mark key="[" line="81" column="37" />
-      </file>
-      <file name="$USER_HOME$/workspace/javascript/js13kgames_2017/js13k-webpack-starter/src/index.html" timestamp="1518910501272">
-        <mark key="[" line="10" column="8" />
-        <mark key="]" line="10" column="12" />
-        <mark key="." line="10" column="12" />
-        <mark key="^" line="10" column="12" />
       </file>
       <file name="$USER_HOME$/bernieportal/legacy/EmployeeRegModule.php" timestamp="1513107825416">
         <mark key="[" line="5102" column="13" />
@@ -334,7 +317,7 @@
       <file name="$USER_HOME$/workspace/soundbox_js_playground/index.html" timestamp="1504056226018">
         <mark key="[" line="6" column="8" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519146727569">
+      <file name="/Dummy.txt" timestamp="1519161718709">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -434,6 +417,7 @@
       <file name="$USER_HOME$/bernieportal/legacy/ClienteleModule.php" timestamp="1497635912389">
         <mark key="[" line="2" column="17" />
       </file>
+      <file name="$USER_HOME$/bernieportal/legacy/Air/Views/AirGeneratePdfDrupalForm.php" timestamp="1519161784646" />
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/tiles/wall-blue.js" timestamp="1503354559657">
         <mark key="[" line="3" column="17" />
       </file>
@@ -569,19 +553,8 @@
       <file name="$USER_HOME$/bernieportal/app/Onboarding/EmployeesImport.php" timestamp="1506355596605">
         <mark key="[" line="5" column="1" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Http/routes.php" timestamp="1519154704196">
-        <mark key="[" line="599" column="27" />
-        <mark key="]" line="599" column="27" />
-        <mark key="." line="599" column="27" />
-      </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/aca/employees/spreadsheet-import.vue" timestamp="1518199114514">
         <mark key="[" line="3" column="30" />
-      </file>
-      <file name="$USER_HOME$/workspace/javascript/boardgame_number_tracker/dist/index.html" timestamp="1518890777828">
-        <mark key="[" line="0" column="91" />
-        <mark key="]" line="0" column="231" />
-        <mark key="^" line="0" column="231" />
-        <mark key="." line="0" column="231" />
       </file>
       <file name="$USER_HOME$/workspace/php/testProject/app/Http/Controllers/AboutController.php" timestamp="1503412371066">
         <mark key="[" line="8" column="50" />
@@ -658,12 +631,6 @@
       </file>
       <file name="$USER_HOME$/workspace/php/testProject/app/Console/Kernel.php" timestamp="1504282888931">
         <mark key="[" line="16" column="10" />
-      </file>
-      <file name="$USER_HOME$/workspace/javascript/emoji_rogue_like/src/index.html" timestamp="1518909387555">
-        <mark key="[" line="8" column="33" />
-        <mark key="]" line="8" column="19" />
-        <mark key="^" line="8" column="19" />
-        <mark key="." line="8" column="19" />
       </file>
       <file name="$USER_HOME$/workspace/javascript/javascript_game_engine/node_modules/webpack/bin/webpack.js" timestamp="1519056777742" />
       <file name="$USER_HOME$/mastiff/mastiff/laravel/app/controllers/api/v1/resources/ProviderController.php" timestamp="1514921576555">
