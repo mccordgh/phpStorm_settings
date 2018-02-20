@@ -12,6 +12,12 @@
       <file name="$USER_HOME$/workspace/portfolio_os/src/main.js" timestamp="1513121557636">
         <mark key="[" line="4" column="30" />
       </file>
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/benefits/plans/shells/library.vue" timestamp="1519151519783">
+        <mark key="[" line="102" column="20" />
+        <mark key="]" line="99" column="9" />
+        <mark key="^" line="99" column="9" />
+        <mark key="." line="99" column="9" />
+      </file>
       <file name="$USER_HOME$/workspace/javascript/boardgame_number_tracker/src/components/player-stats.vue" timestamp="1518849605445">
         <mark key="[" line="75" column="4" />
         <mark key="]" line="75" column="4" />
@@ -346,12 +352,12 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.php" timestamp="1517344312125">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/benefits/plans/shells/shell.vue" timestamp="1519150600183">
-        <mark key="'" line="326" column="6" />
-        <mark key="[" line="380" column="54" />
-        <mark key="]" line="380" column="54" />
-        <mark key="^" line="347" column="8" />
-        <mark key="." line="380" column="54" />
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/benefits/plans/shells/shell.vue" timestamp="1519151846310">
+        <mark key="'" line="325" column="6" />
+        <mark key="[" line="382" column="22" />
+        <mark key="]" line="382" column="22" />
+        <mark key="^" line="346" column="8" />
+        <mark key="." line="382" column="22" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Api/Transformers/Bills/UnumPdfBillTransformer.php" timestamp="1515109277581">
         <mark key="[" line="53" column="73" />
@@ -628,7 +634,7 @@
       <file name="$USER_HOME$/workspace/php/testProject/public/css/main.css" timestamp="1504813753200">
         <mark key="[" line="34" column="23" />
       </file>
-      <file name="/PHP Console" timestamp="1519148641961">
+      <file name="/PHP Console" timestamp="1519151969740">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/JavaScript Console" timestamp="1518461207304">
@@ -810,7 +816,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>updated</text>
+        <text encoding="base64">CiAgICAgICAgICAgIC0gICAgICAgICAgICA=</text>
       </register>
       <register name="d" type="4">
         <text />
@@ -824,35 +830,35 @@
       <register name="0" type="4">
         <text>'2015-06-01'</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9KTsK</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgIC0gICAgICAgICAgICA=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICB9KTsK</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">IGVsc2UgewogICAgICAgICAgY29uc29sZS5sb2coJyVjIGZvcm0gbm90IGZvdW5kJywgJ2JhY2tncm91bmQ6ICNmMDA7IGNvbG9yOiAjZmZmJyk7CiAgICAgICAgfQ==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICA8dGl0bGU+VGl0bGU8L3RpdGxlPgo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">ICAgIDxkaXYgaWQ9ImRpYWxvZ3VlIiBjbGFzcz0ic3BlZWNoIj4KICAgICAgCiAgICA8L2Rpdj4=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">L2Rpc3QK</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">Cj4=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">CiAgICBuYW1lOiAnYXBwJywKCiAgICBkYXRhKCkgewogICAgICByZXR1cm4gewogICAgICAgIHBsYXllcnM6IFtdLAogICAgICB9OwogICAgfSwKCiAgICBtZXRob2RzOiB7CiAgICAgIGFkZFBsYXllcigpIHsKICAgICAgfQogICAgfSwKCiAgICBjb21wb25lbnRzOiB7IE1vZGFsLCBOYXZpZ2F0aW9uIH0sCiAg</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>77</text>
