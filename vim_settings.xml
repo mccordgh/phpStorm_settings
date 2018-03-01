@@ -301,11 +301,11 @@
       <file name="$USER_HOME$/bernieportal/app/Api/Transformers/Bills/CommonPdfBillTransformer.php" timestamp="1515109282808">
         <mark key="[" line="40" column="69" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Benefits/Plans/Shells/Shell.php" timestamp="1519928863089">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="33" column="3" />
-        <mark key="^" line="33" column="3" />
-        <mark key="." line="33" column="3" />
+      <file name="$USER_HOME$/bernieportal/app/Benefits/Plans/Shells/Shell.php" timestamp="1519935215671">
+        <mark key="[" line="187" column="41" />
+        <mark key="]" line="187" column="58" />
+        <mark key="^" line="187" column="58" />
+        <mark key="." line="187" column="58" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/sidebar-toggle.vue" timestamp="1496247983712">
         <mark key="[" line="12" column="13" />
@@ -410,12 +410,6 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.php" timestamp="1517344312125">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/benefits/plans/shells/shell.vue" timestamp="1519934095469">
-        <mark key="[" line="487" column="50" />
-        <mark key="]" line="487" column="50" />
-        <mark key="^" line="741" column="5" />
-        <mark key="." line="487" column="50" />
-      </file>
       <file name="$USER_HOME$/bernieportal/app/Api/Transformers/Benefits/Plans/Shells/ShellPdfTransformer.php" timestamp="1519917366587">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -451,12 +445,6 @@
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/applications/application.vue" timestamp="1519842932092">
         <mark key="[" line="79" column="7" />
-      </file>
-      <file name="$USER_HOME$/bernieportal/tests/app/Benefits/Plans/Shells/ShellRepositoryTest.php" timestamp="1519933534430">
-        <mark key="[" line="72" column="34" />
-        <mark key="]" line="72" column="31" />
-        <mark key="^" line="72" column="31" />
-        <mark key="." line="72" column="31" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Ats/Candidate.php" timestamp="1502737804653">
         <mark key="[" line="32" column="86" />
@@ -752,13 +740,6 @@
       </file>
       <file name="/JavaScript Console" timestamp="1518461207304">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/bernieportal/app/Benefits/Plans/Shells/ShellRepository.php" timestamp="1519933540697">
-        <mark key="'" line="235" column="47" />
-        <mark key="[" line="189" column="68" />
-        <mark key="]" line="151" column="29" />
-        <mark key="." line="151" column="29" />
-        <mark key="^" line="151" column="29" />
       </file>
       <file name="$USER_HOME$/workspace/php/testProject/app/Console/Kernel.php" timestamp="1504282888931">
         <mark key="[" line="16" column="10" />
