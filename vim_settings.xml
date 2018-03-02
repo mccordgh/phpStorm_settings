@@ -18,10 +18,10 @@
       <file name="$USER_HOME$/workspace/portfolio_os/src/main.js" timestamp="1513121557636">
         <mark key="[" line="4" column="30" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/benefits/plans/shells/library.vue" timestamp="1520027181457">
-        <mark key="[" line="136" column="67" />
-        <mark key="]" line="138" column="11" />
-        <mark key="." line="138" column="11" />
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/benefits/plans/shells/library.vue" timestamp="1520029805884">
+        <mark key="[" line="182" column="25" />
+        <mark key="]" line="182" column="25" />
+        <mark key="." line="182" column="25" />
         <mark key="^" line="138" column="11" />
       </file>
       <file name="/a.dummy" timestamp="1520010655682">
@@ -87,7 +87,6 @@
       <file name="$USER_HOME$/bernieportal/legacy/EmployeeRegModule.php" timestamp="1513107825416">
         <mark key="[" line="5102" column="13" />
       </file>
-      <file name="$USER_HOME$/bernieportal/vendor/laravel/framework/src/Illuminate/Support/Facades/Storage.php" timestamp="1519928028642" />
       <file name="$USER_HOME$/bernieportal/resources/assets/components/form-field.vue" timestamp="1516300410620">
         <mark key="[" line="40" column="14" />
       </file>
@@ -109,7 +108,6 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/routers/job-routing.vue" timestamp="1513293594479">
         <mark key="[" line="1" column="7" />
       </file>
-      <file name="$USER_HOME$/bernieportal/public/includes/common.inc" timestamp="1520006460359" />
       <file name="$USER_HOME$/bernieportal/app/Ats/Repositories/JobCandidateRepository.php" timestamp="1505347656980">
         <mark key="[" line="36" column="25" />
       </file>
@@ -278,7 +276,6 @@
       <file name="$USER_HOME$/bernieportal/app/GeneralAgencies/GeneralAgency.php" timestamp="1517343299436">
         <mark key="[" line="20" column="5" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Api/ResponseFactory.php" timestamp="1519920560643" />
       <file name="$USER_HOME$/bernieportal/resources/views/layout/nav/user.blade.php" timestamp="1494275620716">
         <mark key="[" line="62" column="74" />
       </file>
@@ -345,7 +342,6 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.php" timestamp="1517344312125">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/benefits/plans/shells/shell.vue" timestamp="1520026560515" />
       <file name="$USER_HOME$/bernieportal/app/Api/Transformers/Benefits/Plans/Shells/ShellPdfTransformer.php" timestamp="1519917366587">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -539,7 +535,6 @@
         <mark key="." line="87" column="14" />
         <mark key="^" line="112" column="77" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/benefit-provider/edi/file.vue" timestamp="1519940237076" />
       <file name="$USER_HOME$/bernieportal/app/Http/Requests/Plans/Shells/ShellsImportRequest.php" timestamp="1520010738252">
         <mark key="[" line="11" column="15" />
         <mark key="]" line="11" column="15" />
@@ -600,7 +595,6 @@
       <file name="$USER_HOME$/workspace/javascript/emoji_rogue_like/.gitignore" timestamp="1518908271935">
         <mark key="[" line="1" column="6" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/Bills/RegeneratedBillsController.php" timestamp="1519921038978" />
       <file name="$USER_HOME$/workspace/javascript/GGJ2018_last_electrician/README.md" timestamp="1517068328643">
         <mark key="[" line="0" column="0" />
       </file>
@@ -621,20 +615,18 @@
       <file name="$USER_HOME$/workspace/php/testProject/public/css/main.css" timestamp="1504813753200">
         <mark key="[" line="34" column="23" />
       </file>
-      <file name="/PHP Console" timestamp="1520027330694">
+      <file name="/PHP Console" timestamp="1520029797892">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/JavaScript Console" timestamp="1518461207304">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Benefits/Plans/Shells/ShellRepository.php" timestamp="1520022080876" />
       <file name="$USER_HOME$/workspace/php/testProject/app/Console/Kernel.php" timestamp="1504282888931">
         <mark key="[" line="16" column="10" />
       </file>
       <file name="$USER_HOME$/mastiff/mastiff/laravel/app/controllers/api/v1/resources/ProviderController.php" timestamp="1514921576555">
         <mark key="[" line="17" column="26" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/individual-candidate/individual-application.vue" timestamp="1519921490359" />
       <file name="$USER_HOME$/bernieportal/resources/assets/components/benefit-provider/client-bills.vue" timestamp="1510596330385">
         <mark key="[" line="101" column="29" />
       </file>
@@ -776,13 +768,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>false</text>
+        <text>true</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhXD4=</text>
