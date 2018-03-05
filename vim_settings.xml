@@ -413,6 +413,12 @@
       <file name="$USER_HOME$/bernieportal/legacy/ClienteleModule.php" timestamp="1497635912389">
         <mark key="[" line="2" column="17" />
       </file>
+      <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/Plans/Shells/ShellsImportsController.php" timestamp="1520285698206">
+        <mark key="[" line="56" column="24" />
+        <mark key="]" line="56" column="24" />
+        <mark key="." line="56" column="24" />
+        <mark key="^" line="58" column="82" />
+      </file>
       <file name="$USER_HOME$/bernieportal/public/sites/all/modules/clientele/js/clientele_plan_node_form.js" timestamp="1519773253950">
         <mark key="[" line="317" column="19" />
       </file>
@@ -421,12 +427,6 @@
       </file>
       <file name="$USER_HOME$/bernieportal/app/Carriers/Billing/LegacyBill.php" timestamp="1516399630689">
         <mark key="[" line="172" column="0" />
-      </file>
-      <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/Plans/Shells/ShellsPdfController.php" timestamp="1520283400633">
-        <mark key="[" line="95" column="45" />
-        <mark key="]" line="95" column="45" />
-        <mark key="." line="95" column="45" />
-        <mark key="^" line="95" column="44" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/views/dashboards/sidebar/employer-employee-items.blade.php" timestamp="1502480216885">
         <mark key="[" line="3" column="43" />
@@ -550,7 +550,7 @@
       <file name="$USER_HOME$/bernieportal/app/Onboarding/EmployeesImport.php" timestamp="1506355596605">
         <mark key="[" line="5" column="1" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Http/routes.php" timestamp="1520279974670">
+      <file name="$USER_HOME$/bernieportal/app/Http/routes.php" timestamp="1520284947439">
         <mark key="[" line="87" column="119" />
         <mark key="]" line="70" column="0" />
         <mark key="." line="70" column="0" />
@@ -620,11 +620,17 @@
       <file name="$USER_HOME$/workspace/php/testProject/public/css/main.css" timestamp="1504813753200">
         <mark key="[" line="34" column="23" />
       </file>
-      <file name="/PHP Console" timestamp="1520283843280">
+      <file name="/PHP Console" timestamp="1520285169653">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/JavaScript Console" timestamp="1518461207304">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/bernieportal/app/Benefits/Plans/Shells/ShellRepository.php" timestamp="1520285746988">
+        <mark key="[" line="269" column="0" />
+        <mark key="]" line="327" column="0" />
+        <mark key="^" line="327" column="0" />
+        <mark key="." line="327" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/php/testProject/app/Console/Kernel.php" timestamp="1504282888931">
         <mark key="[" line="16" column="10" />
@@ -773,13 +779,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>, )</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>, )</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhXD4=</text>
@@ -787,32 +793,32 @@
       <register name="0" type="4">
         <text />
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtIFNoZWxsc1JlcXVlc3QgJHJlcXVlc3QKICAgICAqIEByZXR1cm4gYm9vbAogICAgICov</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAqIEByZXR1cm4gYm9vbAogICAgICovCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtICRwZGYKICAgICAqIEBwYXJhbSAkcGFyZW50U2hlbGxJZAogICAgICogQHJldHVybiBTaGVsbFBkZgogICAgICov</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtIFNoZWxsc0ltcG9ydFJlcXVlc3QgJHJlcXVlc3QK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">ICAvKioKICAgICAqIEBwYXJhbSBTaGVsbHNSZXF1ZXN0ICRyZXF1ZXN0CiAgICAgKi8=</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtIFNoZWxsc1JlcXVlc3QgJHJlcXVlc3QKICAgICAqIEByZXR1cm4gQ29sbGVjdGlvbgogICAgICov</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtIFNoZWxsc1JlcXVlc3QgJHJlcXVlc3QKICAgICAqIEByZXR1cm4gYm9vbAogICAgICov</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtIFNoZWxsc1JlcXVlc3QgJHJlcXVlc3QKICAgICAqIEByZXR1cm4gXFN5bWZvbnlcQ29tcG9uZW50XEh0dHBGb3VuZGF0aW9uXEJpbmFyeUZpbGVSZXNwb25zZQogICAgICov</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtICRwZGYKICAgICAqIEBwYXJhbSAkcGFyZW50U2hlbGxJZAogICAgICogQHJldHVybiBTaGVsbFBkZgogICAgICov</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
