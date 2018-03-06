@@ -3,8 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.gitignore" />
     <recentFileMasks>
-      <mask>*bla.</mask>
       <mask>*bl.</mask>
       <mask>*b.</mask>
       <mask>*.blade.ph</mask>
@@ -34,6 +34,7 @@
       <mask>*.js</mask>
       <mask>*.php</mask>
       <mask>*.vue</mask>
+      <mask>*.gitignore</mask>
     </recentFileMasks>
   </component>
 </application>
