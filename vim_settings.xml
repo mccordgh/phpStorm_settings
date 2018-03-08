@@ -27,11 +27,11 @@
       <file name="/a.dummy" timestamp="1520525358512">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/benefits/plans/shells/library.vue" timestamp="1520530045808">
-        <mark key="[" line="144" column="50" />
-        <mark key="]" line="198" column="31" />
-        <mark key="." line="198" column="31" />
-        <mark key="^" line="198" column="29" />
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/benefits/plans/shells/library.vue" timestamp="1520530796291">
+        <mark key="[" line="144" column="93" />
+        <mark key="]" line="144" column="66" />
+        <mark key="." line="144" column="66" />
+        <mark key="^" line="144" column="66" />
       </file>
       <file name="$USER_HOME$/bernieportal/tests/app/Api/Transformers/Benefits/Plans/Shells/ShellPdfTransformerTest.php" timestamp="1520526862025">
         <mark key="[" line="77" column="68" />
@@ -671,7 +671,7 @@
       <file name="$USER_HOME$/workspace/php/testProject/public/css/main.css" timestamp="1504813753200">
         <mark key="[" line="34" column="23" />
       </file>
-      <file name="/PHP Console" timestamp="1520527824351">
+      <file name="/PHP Console" timestamp="1520530672667">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/JavaScript Console" timestamp="1518461207304">
@@ -837,13 +837,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Matt McCord is Cool</text>
+        <text>title</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>Matt McCord is Cool</text>
+        <text>title</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhXD4=</text>
