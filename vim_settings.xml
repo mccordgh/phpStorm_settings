@@ -455,10 +455,11 @@
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/tiles/wall-blue.js" timestamp="1503354559657">
         <mark key="[" line="3" column="17" />
       </file>
-      <file name="$USER_HOME$/bernieportal/tests/app/Data/AccessObjects/Benefits/Plans/Shells/ShellHierarchyTest.php" timestamp="1520462332605">
+      <file name="$USER_HOME$/bernieportal/tests/app/Data/AccessObjects/Benefits/Plans/Shells/ShellHierarchyTest.php" timestamp="1520524447273">
         <mark key="[" line="22" column="15" />
-        <mark key="]" line="22" column="15" />
-        <mark key="." line="22" column="15" />
+        <mark key="]" line="23" column="3" />
+        <mark key="." line="23" column="3" />
+        <mark key="^" line="23" column="3" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Carriers/Billing/LegacyBill.php" timestamp="1516399630689">
         <mark key="[" line="172" column="0" />
@@ -884,7 +885,7 @@
         <text encoding="base64">ICAgICAgICAgICAgdGhpcy5zaGVsbEltcG9ydHNBdmFpbGFibGUucHVzaChzaGVsbCk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>498</text>
+        <text>vsp</text>
       </register>
     </registers>
     <search>
@@ -920,7 +921,6 @@
         <entry encoding="base64">XDxhXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>17</entry>
         <entry>148</entry>
         <entry>737</entry>
         <entry>3</entry>
@@ -940,6 +940,7 @@
         <entry>50</entry>
         <entry>457</entry>
         <entry>498</entry>
+        <entry>vsp</entry>
       </history-cmd>
       <history-expr />
       <history-input />
