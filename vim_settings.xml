@@ -27,11 +27,9 @@
       <file name="/a.dummy" timestamp="1520525358512">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/bernieportal/tests/app/Api/Transformers/Benefits/Plans/Shells/ShellPdfTransformerTest.php" timestamp="1520547113134">
-        <mark key="[" line="61" column="59" />
-        <mark key="]" line="61" column="59" />
-        <mark key="^" line="61" column="34" />
-        <mark key="." line="61" column="59" />
+      <file name="$USER_HOME$/bernieportal/tests/app/Api/Transformers/Benefits/Plans/Shells/ShellPdfTransformerTest.php" timestamp="1520565757466">
+        <mark key="'" line="20" column="4" />
+        <mark key="^" line="48" column="26" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Employment/Employer.php" timestamp="1519945786620">
         <mark key="[" line="70" column="39" />
@@ -369,8 +367,8 @@
         <mark key="]" line="556" column="9" />
         <mark key="." line="556" column="9" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Api/Transformers/Benefits/Plans/Shells/ShellPdfTransformer.php" timestamp="1520547086518">
-        <mark key="[" line="20" column="73" />
+      <file name="$USER_HOME$/bernieportal/app/Api/Transformers/Benefits/Plans/Shells/ShellPdfTransformer.php" timestamp="1520564394319">
+        <mark key="[" line="20" column="21" />
         <mark key="]" line="20" column="33" />
         <mark key="^" line="20" column="33" />
         <mark key="." line="20" column="33" />
@@ -688,7 +686,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="341" column="45" filename="$USER_HOME$/bernieportal/legacy/PayrollModule.php" />
       <jump line="2463" column="45" filename="$USER_HOME$/bernieportal/legacy/ClientRegModule.php" />
       <jump line="2473" column="17" filename="$USER_HOME$/bernieportal/legacy/ClientRegModule.php" />
       <jump line="2823" column="46" filename="$USER_HOME$/bernieportal/legacy/OnboardingModule.php" />
@@ -788,16 +785,17 @@
       <jump line="193" column="0" filename="$USER_HOME$/bernieportal/resources/assets/components/benefits/plans/shells/attach-pdf-shells-table.vue" />
       <jump line="84" column="31" filename="$USER_HOME$/bernieportal/app/Data/AccessObjects/Benefits/Plans/Shells/ShellHierarchy.php" />
       <jump line="70" column="10" filename="$USER_HOME$/bernieportal/app/Benefits/Plans/Shells/ShellRepository.php" />
+      <jump line="22" column="4" filename="$USER_HOME$/bernieportal/tests/app/Api/Transformers/Benefits/Plans/Shells/ShellPdfTransformerTest.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">eyRwZGYtPmlkKCl9</text>
+        <text>createApplication</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">eyRwZGYtPmlkKCl9</text>
+        <text>createApplication</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhXD4=</text>
@@ -806,38 +804,35 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgXQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IHB1YmxpYyBmdW5jdGlvbiBzYXZlQW5kQXR0YWNoUGRmVG9TaGVsbChTaGVsbCAkcGFyZW50U2hlbGwsIFVwbG9hZGVkRmlsZSAkcGRmLCBVc2VyICR1c2VyKQogICAgewogICAgICAgICRwYXJlbnRTaGVsbElkID0gJHBhcmVudFNoZWxsLT5nZXRTaGVsbElkKCk7CgogICAgICAgICRzaGVsbFBkZiA9ICR0aGlzLT5jcmVhdGVOZXdTaGVsbFBkZldpdGhJbmZvKCRwYXJlbnRTaGVsbElkLCAkcGRmKTsKCiAgICAgICAgU3RvcmFnZTo6ZGlzaygnc3RvcmFnZScpLT5wdXRGaWxlQXMoJHNoZWxsUGRmLT5maWxlUGF0aCgpLCAkcGRmLCAkc2hlbGxQZGYtPmZpbGVOYW1lKCkpOwoKICAgICAgICAkc2hlbGxIaWVyYXJjaHlGb3JDdXJyZW50VXNlciA9ICR1c2VyLT5nZXRIaWVyYXJjaHlCeVNoZWxsKCRwYXJlbnRTaGVsbCktPmZpcnN0KCk7CgogICAgICAgICRzaGVsbFBkZi0+c2hlbGxIaWVyYXJjaHkoKS0+YXNzb2NpYXRlKCRzaGVsbEhpZXJhcmNoeUZvckN1cnJlbnRVc2VyKTsKICAgICAgICAkc2hlbGxQZGYtPnNhdmUoKTsKICAgIH0K</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAK</text>
+      <register name="3" type="4">
+        <text>[
+                $firstPdf,</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="6" type="4">
-        <text>if (!this.shell.pdfsToBeAttached.length) {
-              this.successRedirect();
-            } else {
-              this.saveNextPdf();
-            }</text>
+        <text encoding="base64">IHB1YmxpYyBmdW5jdGlvbiBzYXZlQW5kQXR0YWNoUGRmVG9TaGVsbChTaGVsbCAkcGFyZW50U2hlbGwsIFVwbG9hZGVkRmlsZSAkcGRmLCBVc2VyICR1c2VyKQogICAgewogICAgICAgICRwYXJlbnRTaGVsbElkID0gJHBhcmVudFNoZWxsLT5nZXRTaGVsbElkKCk7CgogICAgICAgICRzaGVsbFBkZiA9ICR0aGlzLT5jcmVhdGVOZXdTaGVsbFBkZldpdGhJbmZvKCRwYXJlbnRTaGVsbElkLCAkcGRmKTsKCiAgICAgICAgU3RvcmFnZTo6ZGlzaygnc3RvcmFnZScpLT5wdXRGaWxlQXMoJHNoZWxsUGRmLT5maWxlUGF0aCgpLCAkcGRmLCAkc2hlbGxQZGYtPmZpbGVOYW1lKCkpOwoKICAgICAgICAkc2hlbGxIaWVyYXJjaHlGb3JDdXJyZW50VXNlciA9ICR1c2VyLT5nZXRIaWVyYXJjaHlCeVNoZWxsKCRwYXJlbnRTaGVsbCktPmZpcnN0KCk7CgogICAgICAgICRzaGVsbFBkZi0+c2hlbGxIaWVyYXJjaHkoKS0+YXNzb2NpYXRlKCRzaGVsbEhpZXJhcmNoeUZvckN1cnJlbnRVc2VyKTsKICAgICAgICAkc2hlbGxQZGYtPnNhdmUoKTsKICAgIH0K</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAvKioKICAgICAqIEBwYXJhbSBcQmVybmllUG9ydGFsXEJlbmVmaXRzXFBsYW5zXFNoZWxsc1xTaGVsbCAkc2hlbGwKICAgICAqLw==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
