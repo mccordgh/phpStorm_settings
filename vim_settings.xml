@@ -556,11 +556,11 @@
         <mark key="." line="30" column="32" />
         <mark key="^" line="30" column="32" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/benefits/plans/shells/attach-pdf-shells-table.vue" timestamp="1520616273455">
-        <mark key="[" line="83" column="70" />
-        <mark key="]" line="89" column="0" />
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/benefits/plans/shells/attach-pdf-shells-table.vue" timestamp="1520616928566">
+        <mark key="[" line="76" column="14" />
+        <mark key="]" line="76" column="14" />
         <mark key="^" line="82" column="7" />
-        <mark key="." line="89" column="0" />
+        <mark key="." line="76" column="14" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Onboarding/EmployeesImport.php" timestamp="1506355596605">
         <mark key="[" line="5" column="1" />
@@ -791,14 +791,14 @@
       <jump line="22" column="4" filename="$USER_HOME$/bernieportal/tests/app/Api/Transformers/Benefits/Plans/Shells/ShellPdfTransformerTest.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">PGkgY2xhc3M9ImZhLWV4Y2xhbWF0aW9uIiB2LWlmPSJpY29uIj48L2k+</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>th</text>
+        <text encoding="base64">PGkgY2xhc3M9ImZhLWV4Y2xhbWF0aW9uIiB2LWlmPSJpY29uIj48L2k+</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhXD4=</text>
