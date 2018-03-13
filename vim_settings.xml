@@ -21,7 +21,7 @@
       <file name="/a.dummy" timestamp="1520525358512">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/benefits/plans/shells/library.vue" timestamp="1520622090302">
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/benefits/plans/shells/library.vue" timestamp="1520955351715">
         <mark key="[" line="129" column="17" />
         <mark key="]" line="115" column="18" />
         <mark key="." line="115" column="18" />
@@ -307,10 +307,10 @@
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/tiles/path-yellow.js" timestamp="1503356619147">
         <mark key="[" line="3" column="17" />
       </file>
-      <file name="$USER_HOME$/bernieportal/legacy/Benefits/BenefitLibrary.php" timestamp="1520952128769">
-        <mark key="[" line="164" column="81" />
-        <mark key="]" line="164" column="81" />
-        <mark key="." line="164" column="81" />
+      <file name="$USER_HOME$/bernieportal/legacy/Benefits/BenefitLibrary.php" timestamp="1520954814035">
+        <mark key="[" line="164" column="62" />
+        <mark key="]" line="164" column="62" />
+        <mark key="." line="164" column="62" />
         <mark key="^" line="164" column="79" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/time/employees/timesheet.vue" timestamp="1496866552323">
@@ -662,7 +662,7 @@
       <file name="$USER_HOME$/workspace/php/testProject/public/css/main.css" timestamp="1504813753200">
         <mark key="[" line="34" column="23" />
       </file>
-      <file name="/PHP Console" timestamp="1520952185068">
+      <file name="/PHP Console" timestamp="1520955267148">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/JavaScript Console" timestamp="1518461207304">
@@ -696,8 +696,11 @@
         <mark key="[" line="9" column="19" />
       </file>
       <file name="$USER_HOME$/bernieportal/public/modules/node/node.module" timestamp="1520878510519" />
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/benefits/plans/shells/create-plan-modal.vue" timestamp="1520952135272">
-        <mark key="^" line="12" column="23" />
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/benefits/plans/shells/create-plan-modal.vue" timestamp="1520955478257">
+        <mark key="[" line="41" column="24" />
+        <mark key="]" line="41" column="24" />
+        <mark key="^" line="74" column="21" />
+        <mark key="." line="41" column="24" />
       </file>
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/hello.js" timestamp="1502755160022">
         <mark key="[" line="0" column="34" />
@@ -833,14 +836,14 @@
       <jump line="335" column="62" filename="$USER_HOME$/bernieportal/app/Benefits/Plans/Shells/ShellRepository.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>true</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHYtb246aGlkZS1tb2RhbD0iaGlkZUNyZWF0ZVBsYW5Nb2RhbCI=</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhXD4=</text>
@@ -848,8 +851,13 @@
       <register name="0" type="4">
         <text />
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>const shells = this.parseShells(data);
+
+            this.shells = this.shells.concat(shells);
+            this.getBenefitTypesFromShells(shells);
+
+            this.status = '';</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -860,27 +868,27 @@
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgIHZhciB2bSA9IGRvY3VtZW50OwogICAgICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygidHdvIik7CiAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCJ0aHJlZSIpOyAgICAKICAgICAgICAgICAgICAgICAgICAgICAgJwoKICAgICAgICAgICAgICAgIF0KLy8gICAgICAgICAgICAgICAgICAgICdvbmNsaWNrJyA9PiAnKCkgPT4geyB2bS4kcmVmcy5jcmVhdGVQbGFuUG9wdXAuc2hvd01vZGFsKCk7IH0n</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgIHZhciB2bSA9IGRvY3VtZW50OwogICAgICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygidHdvIik7CiAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCJ0aHJlZSIpOyAgICAKICAgICAgICAgICAgICAgICAgICAgICAgJwoKICAgICAgICAgICAgICAgIF0KLy8gICAgICAgICAgICAgICAgICAgICdvbmNsaWNrJyA9PiAnKCkgPT4geyB2bS4kcmVmcy5jcmVhdGVQbGFuUG9wdXAuc2hvd01vZGFsKCk7IH0n</text>
+      </register>
+      <register name="6" type="4">
         <text>h1 {
     background-color: orangered;
     color: gold;
   }</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>created() {
   },</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>24</text>
