@@ -21,7 +21,7 @@
       <file name="/a.dummy" timestamp="1520525358512">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/benefits/plans/shells/library.vue" timestamp="1520959079333">
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/benefits/plans/shells/library.vue" timestamp="1520964548906">
         <mark key="[" line="129" column="17" />
         <mark key="]" line="115" column="18" />
         <mark key="." line="115" column="18" />
@@ -601,6 +601,7 @@
       <file name="$USER_HOME$/bernieportal/app/Onboarding/EmployeesImport.php" timestamp="1506355596605">
         <mark key="[" line="5" column="1" />
       </file>
+      <file name="$USER_HOME$/bernieportal/app/Http/routes.php" timestamp="1520967046907" />
       <file name="$USER_HOME$/bernieportal/resources/assets/components/aca/employees/spreadsheet-import.vue" timestamp="1519842480935">
         <mark key="[" line="3" column="30" />
       </file>
@@ -622,6 +623,12 @@
         <mark key="]" line="21" column="34" />
         <mark key="^" line="21" column="33" />
         <mark key="." line="21" column="34" />
+      </file>
+      <file name="$USER_HOME$/bernieportal/app/Jobs/Benefits/Plans/Shells/CreatePlanFromShell.php" timestamp="1520967920420">
+        <mark key="[" line="24" column="8" />
+        <mark key="]" line="22" column="55" />
+        <mark key="^" line="22" column="55" />
+        <mark key="." line="22" column="55" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/status-message.vue" timestamp="1517335031979">
         <mark key="[" line="20" column="70" />
@@ -662,7 +669,7 @@
       <file name="$USER_HOME$/workspace/php/testProject/public/css/main.css" timestamp="1504813753200">
         <mark key="[" line="34" column="23" />
       </file>
-      <file name="/PHP Console" timestamp="1520958844668">
+      <file name="/PHP Console" timestamp="1520966544083">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/JavaScript Console" timestamp="1518461207304">
@@ -696,11 +703,11 @@
         <mark key="[" line="9" column="19" />
       </file>
       <file name="$USER_HOME$/bernieportal/public/modules/node/node.module" timestamp="1520878510519" />
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/benefits/plans/shells/create-plan-modal.vue" timestamp="1520959135301">
-        <mark key="[" line="71" column="14" />
-        <mark key="]" line="73" column="24" />
-        <mark key="." line="73" column="24" />
-        <mark key="^" line="73" column="24" />
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/benefits/plans/shells/create-plan-modal.vue" timestamp="1520966638595">
+        <mark key="[" line="132" column="40" />
+        <mark key="]" line="132" column="26" />
+        <mark key="." line="132" column="26" />
+        <mark key="^" line="132" column="26" />
       </file>
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/hello.js" timestamp="1502755160022">
         <mark key="[" line="0" column="34" />
@@ -837,13 +844,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IHRvIHU=</text>
+        <text>plan</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHRvIHU=</text>
+        <text>plan</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhXD4=</text>
@@ -852,27 +859,33 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgUGxlYXNlIHNlbGVjdCBhIHNoZWxsLgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">PGRpdiBjbGFzcz0ibW9kYWxfX3RleHRfd3JhcHBlciI+CiAgICAgICAgICA8cCBjbGFzcz0idGV4dC1ib2xkIj5DcmVhdGUgYSBQbGFuIGZyLjwvcD4KICAgICAgICA8L2Rpdj4=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdubyBzaGVsbCBzZWxlY3RlZCcpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5pbXBvcnRTaGVsbEVycm9yID0gdHJ1ZTsKICAgICAgICAgICAgdGhpcy5pbXBvcnRFcnJvck1zZyA9ICdUaGVyZSB3YXMgYSBwcm9ibGVtIGxvYWRpbmcgYXZhaWxhYmxlIHNoZWxsIGltcG9ydHMuJzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="4">
+        <text encoding="base64">PGRpdiBjbGFzcz0ibW9kYWxfX3RleHRfd3JhcHBlciI+CiAgICAgICAgICA8cCBjbGFzcz0idGV4dC1ib2xkIj5DcmVhdGUgYSBQbGFuIGZyLjwvcD4KICAgICAgICA8L2Rpdj4=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5pbXBvcnRTaGVsbEVycm9yID0gdHJ1ZTsKICAgICAgICAgICAgdGhpcy5pbXBvcnRFcnJvck1zZyA9ICdUaGVyZSB3YXMgYSBwcm9ibGVtIGxvYWRpbmcgYXZhaWxhYmxlIHNoZWxsIGltcG9ydHMuJzsK</text>
+      </register>
+      <register name="6" type="4">
         <text encoding="base64">bSBsb2FkaW5nIGF2YWlsYWJsZSBzaGVsbCBpbXBvcnRzLic7CiAgICAgICAgICB9LAogICAgICAgICk7CgogICAgICAgIHJlcXVlc3QuZ2V0KCk7CiAgICAgIH0sCgogICAgICBmZXRjaEF2YWlsYWJsZVNoZWxscygpIHsKICAgICAgICBjb25zdCByZXF1ZXN0ID0gbmV3IEFwaVJlcXVlc3QoJy9hcGkvc2hlbGxzJywKICAgICAgICAgIChkYXRhKSA9PiB7CiAgICAgICAgICAgIGNvbnNvbGUubG9nKHs6IGRhdGF9</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>this.parseShellImportsData(data);
             this.getBenefitTypesFromShells(this.shells);
 
             this.status = '';</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>const shells = this.parseShells(data);
 
             this.shells = this.shells.concat(shells);
@@ -880,17 +893,11 @@
 
             this.status = '';</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>24</text>
+        <text>55</text>
       </register>
     </registers>
     <search>
@@ -926,7 +933,6 @@
         <entry encoding="base64">XDxhXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>395</entry>
         <entry>84</entry>
         <entry>53</entry>
         <entry>114</entry>
@@ -946,6 +952,7 @@
         <entry>1408</entry>
         <entry>31</entry>
         <entry>24</entry>
+        <entry>55</entry>
       </history-cmd>
       <history-expr />
       <history-input />
