@@ -21,11 +21,11 @@
       <file name="/a.dummy" timestamp="1520525358512">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/benefits/plans/shells/library.vue" timestamp="1520964548906">
-        <mark key="[" line="129" column="17" />
-        <mark key="]" line="115" column="18" />
-        <mark key="." line="115" column="18" />
-        <mark key="^" line="115" column="18" />
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/benefits/plans/shells/library.vue" timestamp="1521128918652">
+        <mark key="[" line="22" column="40" />
+        <mark key="]" line="31" column="19" />
+        <mark key="." line="31" column="19" />
+        <mark key="^" line="31" column="19" />
       </file>
       <file name="$USER_HOME$/bernieportal/tests/app/Api/Transformers/Benefits/Plans/Shells/ShellPdfTransformerTest.php" timestamp="1521060907145">
         <mark key="[" line="0" column="5" />
@@ -395,6 +395,9 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.php" timestamp="1517344312125">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/benefits/plans/shells/shell.vue" timestamp="1521128930915">
+        <mark key="[" line="535" column="12" />
+      </file>
       <file name="$USER_HOME$/bernieportal/app/Api/Transformers/Bills/UnumPdfBillTransformer.php" timestamp="1515109277581">
         <mark key="[" line="53" column="73" />
       </file>
@@ -439,6 +442,11 @@
       </file>
       <file name="$USER_HOME$/bernieportal/app/Views/Composers/Sidebar/TimeComposer.php" timestamp="1496787657266">
         <mark key="[" line="41" column="11" />
+      </file>
+      <file name="$USER_HOME$/bernieportal/database/migrations/2018_03_05_175219_add_override_columns_for_name_and_message_to_shell_hierarchy_table.php" timestamp="1521128816354">
+        <mark key="[" line="16" column="20" />
+        <mark key="]" line="16" column="20" />
+        <mark key="." line="16" column="20" />
       </file>
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/states/game-state.js" timestamp="1504396334526">
         <mark key="[" line="5" column="38" />
@@ -594,6 +602,9 @@
         <mark key="]" line="30" column="32" />
         <mark key="." line="30" column="32" />
         <mark key="^" line="30" column="32" />
+      </file>
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/benefits/plans/shells/attach-pdf-shells-table.vue" timestamp="1521128864676">
+        <mark key="[" line="83" column="50" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Onboarding/EmployeesImport.php" timestamp="1506355596605">
         <mark key="[" line="5" column="1" />
@@ -844,13 +855,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>$user</text>
+        <text>x</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>$user</text>
+        <text>x</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhXD4=</text>
@@ -894,7 +905,7 @@
      */</text>
       </register>
       <register name=":" type="4">
-        <text>149</text>
+        <text>536</text>
       </register>
     </registers>
     <search>
@@ -930,8 +941,6 @@
         <entry encoding="base64">XDxhXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>114</entry>
-        <entry>50</entry>
         <entry>457</entry>
         <entry>498</entry>
         <entry>233</entry>
@@ -950,6 +959,8 @@
         <entry>55</entry>
         <entry>2779</entry>
         <entry>149</entry>
+        <entry>84</entry>
+        <entry>536</entry>
       </history-cmd>
       <history-expr />
       <history-input />
