@@ -172,7 +172,6 @@
       <file name="$USER_HOME$/bernieportal/storage/ats/jobs/60898-secondbestjobI'veeverseen.html" timestamp="1513789027052">
         <mark key="[" line="213" column="32" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Benefits/Plans/Shells/ShellPdf.php" timestamp="1521141005286" />
       <file name="$USER_HOME$/bernieportal/app/Http/Kernel.php" timestamp="1497988660759">
         <mark key="[" line="5" column="55" />
       </file>
@@ -288,9 +287,6 @@
       <file name="$USER_HOME$/bernieportal/app/Api/Transformers/Bills/CommonPdfBillTransformer.php" timestamp="1515109282808">
         <mark key="[" line="40" column="69" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Benefits/Plans/Shells/Shell.php" timestamp="1521132661642">
-        <mark key="[" line="76" column="5" />
-      </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/sidebar-toggle.vue" timestamp="1496247983712">
         <mark key="[" line="12" column="13" />
       </file>
@@ -393,9 +389,6 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.php" timestamp="1517344312125">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/benefits/plans/shells/shell.vue" timestamp="1521128930915">
-        <mark key="[" line="535" column="12" />
-      </file>
       <file name="$USER_HOME$/bernieportal/app/Api/Transformers/Bills/UnumPdfBillTransformer.php" timestamp="1515109277581">
         <mark key="[" line="53" column="73" />
       </file>
@@ -424,9 +417,6 @@
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/applications/application.vue" timestamp="1519842932092">
         <mark key="[" line="79" column="7" />
-      </file>
-      <file name="$USER_HOME$/bernieportal/tests/app/Benefits/Plans/Shells/ShellRepositoryTest.php" timestamp="1521155164441">
-        <mark key="[" line="108" column="47" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Ats/Candidate.php" timestamp="1502737804653">
         <mark key="[" line="32" column="86" />
@@ -631,12 +621,6 @@
         <mark key="^" line="1920" column="28" />
         <mark key="." line="2172" column="108" />
       </file>
-      <file name="$USER_HOME$/bernieportal/legacy/Benefits/PlanMessages/PlanMessage.php" timestamp="1521154225894">
-        <mark key="[" line="279" column="3" />
-        <mark key="]" line="278" column="93" />
-        <mark key="^" line="278" column="93" />
-        <mark key="." line="278" column="93" />
-      </file>
       <file name="$USER_HOME$/bernieportal/database/migrations/2018_03_02_110822_create_shell_hierarchy_table.php" timestamp="1520360641101">
         <mark key="[" line="21" column="34" />
         <mark key="]" line="21" column="34" />
@@ -706,12 +690,6 @@
         <mark key="]" line="49" column="0" />
         <mark key="." line="49" column="0" />
         <mark key="^" line="49" column="0" />
-      </file>
-      <file name="$USER_HOME$/bernieportal/app/Benefits/Plans/Shells/ShellRepository.php" timestamp="1521155179011">
-        <mark key="[" line="461" column="37" />
-        <mark key="]" line="461" column="11" />
-        <mark key="^" line="461" column="11" />
-        <mark key="." line="461" column="11" />
       </file>
       <file name="$USER_HOME$/workspace/php/testProject/app/Console/Kernel.php" timestamp="1504282888931">
         <mark key="[" line="16" column="10" />
@@ -874,15 +852,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>else {
-                        $a = &quot;we shouldn't end up here :/&quot;;
-                    }</text>
+        <text>setIsImportedForShellAndOverrideFields</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>$</text>
+        <text>setIsImportedForShellAndOverrideFields</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhXD4=</text>
@@ -890,40 +866,40 @@
       <register name="0" type="4">
         <text />
       </register>
-      <register name="1" type="4">
-        <text>else {
-                        $a = &quot;we shouldn't end up here :/&quot;;
-                    }</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJGF2YWlsYWJsZVNoZWxsczsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgICAgICAgJGhpZXJhcmNoeSA9ICAgICAgICAg</text>
-      </register>
-      <register name="3" type="2">
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="3" type="4">
+        <text>else {
+                        $a = &quot;we shouldn't end up here :/&quot;;
+                    }</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgICAgICAgJGhpZXJhcmNoeSA9ICAgICAgICAg</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAqIEB2YXIgaW50Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8qKgo=</text>
+        <text encoding="base64">ICAgICAqLwo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAvKioKICAgICAqIEB2YXIgaW50CiAgICAgKi8=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAqIEB2YXIgaW50Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>177</text>
+        <text>347</text>
       </register>
     </registers>
     <search>
@@ -959,8 +935,6 @@
         <entry encoding="base64">XDxhXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>544</entry>
-        <entry>vsp</entry>
         <entry>366</entry>
         <entry>380</entry>
         <entry>81</entry>
@@ -979,6 +953,8 @@
         <entry>448</entry>
         <entry>161</entry>
         <entry>177</entry>
+        <entry>351</entry>
+        <entry>347</entry>
       </history-cmd>
       <history-expr />
       <history-input />
