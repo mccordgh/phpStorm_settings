@@ -528,8 +528,12 @@
         <mark key="^" line="32" column="34" />
         <mark key="." line="32" column="34" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/billing/benefit-billing-current.vue" timestamp="1521743662291">
-        <mark key="[" line="2" column="22" />
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/billing/benefit-billing-current.vue" timestamp="1521745177105">
+        <mark key="'" line="189" column="45" />
+        <mark key="[" line="189" column="25" />
+        <mark key="]" line="193" column="17" />
+        <mark key="^" line="193" column="17" />
+        <mark key="." line="193" column="17" />
       </file>
       <file name="/fragment.php" timestamp="1521739873756">
         <mark key="[" line="0" column="0" />
@@ -767,7 +771,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="86" column="63" filename="$USER_HOME$/bernieportal/resources/assets/components/bubble-menu.vue" />
       <jump line="127" column="7" filename="$USER_HOME$/bernieportal/resources/assets/components/bubble-menu.vue" />
       <jump line="13" column="36" filename="$USER_HOME$/bernieportal/resources/assets/components/team_challenge.php" />
       <jump line="69" column="0" filename="$USER_HOME$/workspace/javascript/GGJ2018_last_electrician/game.js" />
@@ -867,6 +870,7 @@
       <jump line="269" column="13" filename="$USER_HOME$/bernieportal/legacy/ClienteleUserModule.php" />
       <jump line="507" column="0" filename="$USER_HOME$/bernieportal/app/Benefits/Plans/Shells/ShellRepository.php" />
       <jump line="442" column="14" filename="$USER_HOME$/bernieportal/app/Benefits/Plans/Shells/ShellRepository.php" />
+      <jump line="189" column="45" filename="$USER_HOME$/bernieportal/resources/assets/components/billing/benefit-billing-current.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
