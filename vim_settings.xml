@@ -263,8 +263,9 @@
       <file name="$USER_HOME$/bernieportal/app/Data/AccessObjects/Benefits/Plans/BrokerForm.php" timestamp="1519419348678">
         <mark key="[" line="55" column="23" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Benefits/Plans/PlanRepository.php" timestamp="1521655846849">
-        <mark key="[" line="35" column="14" />
+      <file name="$USER_HOME$/bernieportal/app/Benefits/Plans/PlanRepository.php" timestamp="1521747165069">
+        <mark key="'" line="42" column="0" />
+        <mark key="[" line="42" column="1" />
         <mark key="]" line="35" column="14" />
         <mark key="." line="35" column="14" />
       </file>
@@ -277,11 +278,11 @@
       <file name="$USER_HOME$/workspace/javascript/javascript_game_engine/.gitignore" timestamp="1518911828575">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/bernieportal/public/sites/all/themes/bernard/template.php" timestamp="1521742904322">
-        <mark key="[" line="611" column="22" />
-        <mark key="]" line="611" column="22" />
+      <file name="$USER_HOME$/bernieportal/public/sites/all/themes/bernard/template.php" timestamp="1521746554928">
+        <mark key="[" line="610" column="40" />
+        <mark key="]" line="610" column="40" />
         <mark key="^" line="608" column="3" />
-        <mark key="." line="611" column="22" />
+        <mark key="." line="610" column="40" />
       </file>
       <file name="$USER_HOME$/workspace/php/testProject/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesUsers.php" timestamp="1504817286923">
         <mark key="[" line="75" column="67" />
@@ -381,6 +382,9 @@
       </file>
       <file name="$USER_HOME$/workspace/javascript/phaser_simple_tutorial/.gitignore" timestamp="1516748476826">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/bernieportal/tests/legacy/ClienteleUserModuleTest.php" timestamp="1521747187884">
+        <mark key="[" line="65" column="54" />
       </file>
       <file name="$USER_HOME$/BerniePortalWiki/FooterBackup.html" timestamp="1502825749665">
         <mark key="[" line="20" column="47" />
@@ -529,11 +533,11 @@
         <mark key="." line="32" column="34" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/billing/benefit-billing-current.vue" timestamp="1521745177105">
-        <mark key="'" line="189" column="45" />
-        <mark key="[" line="189" column="25" />
-        <mark key="]" line="193" column="17" />
-        <mark key="^" line="193" column="17" />
-        <mark key="." line="193" column="17" />
+        <mark key="'" line="30" column="45" />
+        <mark key="[" line="30" column="25" />
+        <mark key="]" line="189" column="17" />
+        <mark key="^" line="189" column="17" />
+        <mark key="." line="189" column="17" />
       </file>
       <file name="/fragment.php" timestamp="1521739873756">
         <mark key="[" line="0" column="0" />
@@ -697,7 +701,7 @@
       <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/Plans/Shells/ShellsPlansController.php" timestamp="1521665079182">
         <mark key="'" line="58" column="32" />
       </file>
-      <file name="/PHP Console" timestamp="1521743951533">
+      <file name="/PHP Console" timestamp="1521746560256">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Api/Transformers/Benefits/Plans/Shells/RatesPageLinkTransformer.php" timestamp="1521637075969">
@@ -771,8 +775,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="127" column="7" filename="$USER_HOME$/bernieportal/resources/assets/components/bubble-menu.vue" />
-      <jump line="13" column="36" filename="$USER_HOME$/bernieportal/resources/assets/components/team_challenge.php" />
       <jump line="69" column="0" filename="$USER_HOME$/workspace/javascript/GGJ2018_last_electrician/game.js" />
       <jump line="63" column="30" filename="$USER_HOME$/workspace/javascript/GGJ2018_last_electrician/game.js" />
       <jump line="264" column="19" filename="$USER_HOME$/workspace/javascript/GGJ2018_last_electrician/game.js" />
@@ -871,16 +873,18 @@
       <jump line="507" column="0" filename="$USER_HOME$/bernieportal/app/Benefits/Plans/Shells/ShellRepository.php" />
       <jump line="442" column="14" filename="$USER_HOME$/bernieportal/app/Benefits/Plans/Shells/ShellRepository.php" />
       <jump line="189" column="45" filename="$USER_HOME$/bernieportal/resources/assets/components/billing/benefit-billing-current.vue" />
+      <jump line="33" column="0" filename="$USER_HOME$/bernieportal/app/Benefits/Plans/PlanRepository.php" />
+      <jump line="42" column="0" filename="$USER_HOME$/bernieportal/app/Benefits/Plans/PlanRepository.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtIGFycmF5ICRmb3JtCiAgICAgKiBAcGFyYW0gc3RyaW5nICRmaWVsZAogICAgICogQHBhcmFtIHN0cmluZyAka2V5CiAgICAgKiBAcmV0dXJuIGFycmF5CiAgICAgKi8=</text>
+        <text>Shell</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PGJyIC8+</text>
+        <text>Shell</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhXD4=</text>
@@ -919,7 +923,7 @@
         <text encoding="base64">ICAgLyoqCiAgICAgKiBAcGFyYW0gVXBkYXRlU2hlbGxSZXF1ZXN0ICRyZXF1ZXN0CiAgICAgKiBAcmV0dXJuIE1vZGVsfFNoZWxsCiAgICAgKi8=</text>
       </register>
       <register name=":" type="4">
-        <text>323</text>
+        <text>114</text>
       </register>
     </registers>
     <search>
@@ -955,7 +959,6 @@
         <entry encoding="base64">XDxhXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>24</entry>
         <entry>55</entry>
         <entry>2779</entry>
         <entry>149</entry>
@@ -975,6 +978,7 @@
         <entry>2171</entry>
         <entry>92</entry>
         <entry>323</entry>
+        <entry>114</entry>
       </history-cmd>
       <history-expr />
       <history-input />
