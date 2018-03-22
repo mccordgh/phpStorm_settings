@@ -528,7 +528,7 @@
         <mark key="^" line="32" column="34" />
         <mark key="." line="32" column="34" />
       </file>
-      <file name="/fragment.php" timestamp="1521732605909">
+      <file name="/fragment.php" timestamp="1521734338102">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -593,7 +593,7 @@
         <mark key="^" line="51" column="4" />
         <mark key="." line="23" column="28" />
       </file>
-      <file name="/fragment.js" timestamp="1521643409748">
+      <file name="/fragment.js" timestamp="1521734249264">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Api/Transformers/Benefits/Plans/Shells/ShellPlanTransformer.php" timestamp="1521571069052">
@@ -629,12 +629,11 @@
       <file name="$USER_HOME$/bernieportal/resources/views/dashboards/sidebar/benefits.blade.php" timestamp="1499974671996">
         <mark key="[" line="5" column="31" />
       </file>
-      <file name="$USER_HOME$/bernieportal/legacy/ClienteleUserModule.php" timestamp="1521732585883">
+      <file name="$USER_HOME$/bernieportal/legacy/ClienteleUserModule.php" timestamp="1521734301731">
         <mark key="'" line="269" column="13" />
-        <mark key="[" line="1595" column="46" />
-        <mark key="]" line="1595" column="45" />
-        <mark key="^" line="1595" column="45" />
-        <mark key="." line="1595" column="45" />
+        <mark key="[" line="1873" column="41" />
+        <mark key="]" line="1579" column="0" />
+        <mark key="." line="1579" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/database/migrations/2018_03_02_110822_create_shell_hierarchy_table.php" timestamp="1521644564922">
         <mark key="[" line="21" column="34" />
@@ -690,7 +689,7 @@
       <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/Plans/Shells/ShellsPlansController.php" timestamp="1521665079182">
         <mark key="'" line="58" column="32" />
       </file>
-      <file name="/PHP Console" timestamp="1521732321461">
+      <file name="/PHP Console" timestamp="1521734322829">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Api/Transformers/Benefits/Plans/Shells/RatesPageLinkTransformer.php" timestamp="1521637075969">
@@ -871,8 +870,8 @@
       <jump line="442" column="14" filename="$USER_HOME$/bernieportal/app/Benefits/Plans/Shells/ShellRepository.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <text />
@@ -887,34 +886,34 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAqIEB2YXIgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAqIEB2YXIgCg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiB1cGRhdGVTaGVsbEZyb21SZXF1ZXN0KFVwZGF0ZVNoZWxsUmVxdWVzdCAkcmVxdWVzdCkgOiBib29sCg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text encoding="base64">ICAgLyoqCiAgICAgKiBAcGFyYW0gVXBkYXRlU2hlbGxSZXF1ZXN0ICRyZXF1ZXN0CiAgICAgKiBAcmV0dXJuIE1vZGVsfFNoZWxsCiAgICAgKi8=</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtIFVwZGF0ZVNoZWxsUmVxdWVzdCAkcmVxdWVzdAogICAgICogQHJldHVybiBNb2RlbHxTaGVsbAogICAgICov</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text encoding="base64">ICAgLyoqCiAgICAgKiBAcGFyYW0gXEJlcm5pZVBvcnRhbFxIdHRwXFJlcXVlc3RzXFBsYW5zXFNoZWxsc1xVcGRhdGVTaGVsbFJlcXVlc3QgJHJlcXVlc3QKICAgICAqIEByZXR1cm4gTW9kZWx8U2hlbGwKICAgICAqLw==</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text encoding="base64">fFNoZWxsICRzaGVsbAogICAgICogQHBhcmFtIFVzZXIgJHVzZXIKICAgICAqIEByZXR1cm4gSGFzTWFueQogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gZ2V0SGllcmFyY2h5Rm9yVXNlckJ5U2hlbGwoVXNlciAkdXNlciwgU2hlbGwgJHNoZWxsKQogICAgewogICAgICAgICR1c2VySWQgPSAkdXNlci0+dXNlcklkKCktPnRvSW50ZWdlcigpOwoKICAgICAgICAkY3JlYXRlZEhpZXJhcmNoeSA9ICRzaGVsbC0+aGllcmFyY2h5KCkKICAgICAgICAgICAgLT53aGVyZSgnc2hlbGxfaWQnLCAkc2hlbGwtPmdldFNoZWxsSWQoKSkKICAgICAgICAgICAgLQ==</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text encoding="base64">WwogICAgICAgICcnID0+IA==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>323</text>
