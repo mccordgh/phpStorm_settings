@@ -174,7 +174,7 @@
         <mark key="[" line="213" column="32" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Benefits/Plans/Shells/ShellPdf.php" timestamp="1521657742566">
-        <mark key="[" line="111" column="22" />
+        <mark key="[" line="4" column="22" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Http/Kernel.php" timestamp="1497988660759">
         <mark key="[" line="5" column="55" />
@@ -383,9 +383,6 @@
       <file name="$USER_HOME$/workspace/javascript/phaser_simple_tutorial/.gitignore" timestamp="1516748476826">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/bernieportal/tests/legacy/ClienteleUserModuleTest.php" timestamp="1521747187884">
-        <mark key="[" line="65" column="54" />
-      </file>
       <file name="$USER_HOME$/BerniePortalWiki/FooterBackup.html" timestamp="1502825749665">
         <mark key="[" line="20" column="47" />
       </file>
@@ -532,12 +529,11 @@
         <mark key="^" line="32" column="34" />
         <mark key="." line="32" column="34" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/billing/benefit-billing-current.vue" timestamp="1521745177105">
-        <mark key="'" line="30" column="45" />
-        <mark key="[" line="30" column="25" />
-        <mark key="]" line="189" column="17" />
-        <mark key="^" line="189" column="17" />
-        <mark key="." line="189" column="17" />
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/billing/benefit-billing-current.vue" timestamp="1521817221655">
+        <mark key="[" line="29" column="8" />
+        <mark key="]" line="189" column="16" />
+        <mark key="^" line="189" column="16" />
+        <mark key="." line="189" column="16" />
       </file>
       <file name="/fragment.php" timestamp="1521739873756">
         <mark key="[" line="0" column="0" />
