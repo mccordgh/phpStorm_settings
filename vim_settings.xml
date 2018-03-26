@@ -93,10 +93,10 @@
       <file name="$USER_HOME$/workspace/javascript/emoji_rogue_like/src/js/classes/game.js" timestamp="1518909473534">
         <mark key="[" line="87" column="24" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Api/Transformers/Benefits/PlanTransformer.php" timestamp="1521836703026">
-        <mark key="[" line="29" column="26" />
-        <mark key="]" line="29" column="26" />
-        <mark key="." line="29" column="26" />
+      <file name="$USER_HOME$/bernieportal/app/Api/Transformers/Benefits/PlanTransformer.php" timestamp="1522082296460">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/thread/candidate-message-modal.vue" timestamp="1493229628959">
         <mark key="[" line="55" column="58" />
@@ -701,7 +701,7 @@
       <file name="$USER_HOME$/workspace/php/testProject/public/css/main.css" timestamp="1504813753200">
         <mark key="[" line="34" column="23" />
       </file>
-      <file name="/PHP Console" timestamp="1522081202614">
+      <file name="/PHP Console" timestamp="1522082725845">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Api/Transformers/Benefits/Plans/Shells/RatesPageLinkTransformer.php" timestamp="1521637075969">
@@ -729,6 +729,7 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/benefit-provider/client-bills.vue" timestamp="1510596330385">
         <mark key="[" line="101" column="29" />
       </file>
+      <file name="$USER_HOME$/bernieportal/app/Data/AccessObjects/Benefits/Plans/Shells/ShellHierarchy.php" timestamp="1522082284030" />
       <file name="$USER_HOME$/bernieportal/resources/assets/sass/_modal.scss" timestamp="1500415612390">
         <mark key="[" line="16" column="30" />
       </file>
@@ -883,13 +884,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ShellHierarchy</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>ShellHierarchy</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhXD4=</text>
@@ -898,36 +899,36 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">ewogICAgICAgICAgcmV0dXJuIA==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">CiAgICAgICAgICB0aGlzLnNlbGVjdGVkQmVuZWZpdFR5cGUgJiYg</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>);
           classificationsAllowed.push(</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>.push('tax-free');
           classificationsAllowed.push('taxable');</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCJOT1BFIik7Cg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtIGFycmF5ICRmb3JtCiAgICAgKiBAcGFyYW0gc3RyaW5nICRmaWVsZAogICAgICogQHBhcmFtIHN0cmluZyAka2V5CiAgICAgKiBAcmV0dXJuIGFycmF5CiAgICAgKi8=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZnVuY3Rpb24gYWRkRGlzYWJsZWRCeVNoZWxsQ2xhc3NUb0ZpZWxkV2l0aEtleShhcnJheSAkZm9ybSwgc3RyaW5nICRmaWVsZCwgc3RyaW5nICRrZXkpIDogYXJyYXkK</text>
       </register>
       <register name=":" type="4">
         <text>114</text>
