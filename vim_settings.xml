@@ -22,7 +22,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/benefits/plans/shells/library.vue" timestamp="1522179265847">
-        <mark key="[" line="305" column="51" />
+        <mark key="[" line="228" column="51" />
         <mark key="]" line="228" column="57" />
         <mark key="." line="228" column="57" />
         <mark key="^" line="228" column="57" />
@@ -283,8 +283,8 @@
       <file name="$USER_HOME$/workspace/javascript/javascript_game_engine/.gitignore" timestamp="1518911828575">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/bernieportal/public/sites/all/themes/bernard/template.php" timestamp="1521833235999">
-        <mark key="[" line="610" column="4" />
+      <file name="$USER_HOME$/bernieportal/public/sites/all/themes/bernard/template.php" timestamp="1522183420170">
+        <mark key="[" line="613" column="26" />
         <mark key="]" line="610" column="4" />
         <mark key="." line="610" column="4" />
       </file>
@@ -531,11 +531,11 @@
       <file name="$USER_HOME$/bernieportal/tests/app/Api/Transformers/Benefits/Plans/Shells/ShellPlanTransformerTest.php" timestamp="1522108118995">
         <mark key="[" line="61" column="22" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Http/Requests/Plans/Shells/ShellsRequest.php" timestamp="1522179780610">
-        <mark key="[" line="33" column="15" />
-        <mark key="]" line="33" column="15" />
-        <mark key="^" line="23" column="8" />
-        <mark key="." line="33" column="15" />
+      <file name="$USER_HOME$/bernieportal/app/Http/Requests/Plans/Shells/ShellsRequest.php" timestamp="1522182322965">
+        <mark key="[" line="34" column="31" />
+        <mark key="]" line="33" column="38" />
+        <mark key="^" line="33" column="37" />
+        <mark key="." line="33" column="38" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/views/billing/base-unum-bill.blade.php" timestamp="1515108477474">
         <mark key="[" line="77" column="51" />
@@ -661,8 +661,11 @@
       <file name="$USER_HOME$/bernieportal/resources/views/dashboards/sidebar/benefits.blade.php" timestamp="1499974671996">
         <mark key="[" line="5" column="31" />
       </file>
-      <file name="$USER_HOME$/bernieportal/legacy/ClienteleUserModule.php" timestamp="1522102704196">
-        <mark key="[" line="2292" column="72" />
+      <file name="$USER_HOME$/bernieportal/legacy/ClienteleUserModule.php" timestamp="1522183338970">
+        <mark key="[" line="1912" column="24" />
+        <mark key="]" line="1912" column="22" />
+        <mark key="^" line="1912" column="22" />
+        <mark key="." line="1912" column="22" />
       </file>
       <file name="$USER_HOME$/bernieportal/database/migrations/2018_03_02_110822_create_shell_hierarchy_table.php" timestamp="1521644564922">
         <mark key="[" line="21" column="34" />
@@ -721,7 +724,7 @@
       <file name="$USER_HOME$/workspace/php/testProject/public/css/main.css" timestamp="1504813753200">
         <mark key="[" line="34" column="23" />
       </file>
-      <file name="/PHP Console" timestamp="1522179839595">
+      <file name="/PHP Console" timestamp="1522183899248">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Api/Transformers/Benefits/Plans/Shells/RatesPageLinkTransformer.php" timestamp="1521637075969">
@@ -902,14 +905,14 @@
       <jump line="4966" column="0" filename="$USER_HOME$/bernieportal/resources/assets/sass/app.scss" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Broker()</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>each</text>
+        <text>Broker()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhXD4=</text>
@@ -948,7 +951,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>387</text>
+        <text>1913</text>
       </register>
     </registers>
     <search>
@@ -984,7 +987,6 @@
         <entry encoding="base64">XDxhXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>2779</entry>
         <entry>149</entry>
         <entry>84</entry>
         <entry>536</entry>
@@ -1004,6 +1006,7 @@
         <entry>323</entry>
         <entry>114</entry>
         <entry>387</entry>
+        <entry>1913</entry>
       </history-cmd>
       <history-expr />
       <history-input />
