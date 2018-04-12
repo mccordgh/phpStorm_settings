@@ -238,6 +238,9 @@
       <file name="$USER_HOME$/bernieportal/public/sites/all/modules/logintoboggan/logintoboggan.module" timestamp="1515024132752">
         <mark key="[" line="1106" column="1" />
       </file>
+      <file name="$USER_HOME$/bernieportal/tests/app/Benefits/Plans/Shells/ShellPlanAdapterTest.php" timestamp="1523548056968">
+        <mark key="[" line="57" column="5" />
+      </file>
       <file name="$USER_HOME$/workspace/emoji_rogue_like/css/main.css" timestamp="1506373068544">
         <mark key="[" line="0" column="0" />
       </file>
@@ -271,8 +274,8 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/time/summary-table.vue" timestamp="1496776949409">
         <mark key="[" line="39" column="46" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Data/AccessObjects/Benefits/BenefitHierarchy.php" timestamp="1523544835681">
-        <mark key="[" line="83" column="5" />
+      <file name="$USER_HOME$/bernieportal/app/Data/AccessObjects/Benefits/BenefitHierarchy.php" timestamp="1523548838405">
+        <mark key="[" line="71" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/.gitignore" timestamp="1520375272697">
         <mark key="[" line="63" column="22" />
@@ -381,7 +384,7 @@
       <file name="$USER_HOME$/workspace/soundbox_js_playground/index.html" timestamp="1504056226018">
         <mark key="[" line="6" column="8" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522179780932">
+      <file name="/Dummy.txt" timestamp="1523547873722">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
@@ -607,11 +610,11 @@
       <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/Time/PeriodsController.php" timestamp="1505929956281">
         <mark key="[" line="56" column="67" />
       </file>
-      <file name="$USER_HOME$/bernieportal/tests/app/Jobs/Plans/Shells/CreatePlanFromShellTest.php" timestamp="1521585710542">
-        <mark key="[" line="23" column="28" />
-        <mark key="]" line="23" column="28" />
-        <mark key="^" line="51" column="4" />
-        <mark key="." line="23" column="28" />
+      <file name="$USER_HOME$/bernieportal/tests/app/Jobs/Plans/Shells/CreatePlanFromShellTest.php" timestamp="1523548243080">
+        <mark key="[" line="18" column="26" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="41" column="4" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="/fragment.js" timestamp="1521734249264">
         <mark key="[" line="0" column="0" />
@@ -688,11 +691,11 @@
       <file name="$USER_HOME$/bernieportal/app/Http/Requests/User/ShowUserRequest.php" timestamp="1496853931288">
         <mark key="[" line="21" column="49" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Jobs/Plans/Shells/UpdatePlansCreatedFromShell.php" timestamp="1523544975387">
-        <mark key="[" line="74" column="6" />
-        <mark key="]" line="74" column="5" />
-        <mark key="^" line="74" column="5" />
-        <mark key="." line="74" column="5" />
+      <file name="$USER_HOME$/bernieportal/app/Jobs/Plans/Shells/UpdatePlansCreatedFromShell.php" timestamp="1523550005815">
+        <mark key="[" line="81" column="19" />
+        <mark key="]" line="81" column="19" />
+        <mark key="^" line="72" column="5" />
+        <mark key="." line="81" column="19" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/views/employees/get-employee-previous-imported-elections.blade.php" timestamp="1509144383101">
         <mark key="[" line="10" column="32" />
@@ -715,7 +718,7 @@
       <file name="$USER_HOME$/workspace/php/testProject/public/css/main.css" timestamp="1504813753200">
         <mark key="[" line="34" column="23" />
       </file>
-      <file name="/PHP Console" timestamp="1523546536245">
+      <file name="/PHP Console" timestamp="1523550224942">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Api/Transformers/Benefits/Plans/Shells/RatesPageLinkTransformer.php" timestamp="1521637075969">
@@ -733,6 +736,12 @@
         <mark key="." line="49" column="0" />
         <mark key="^" line="49" column="0" />
       </file>
+      <file name="$USER_HOME$/bernieportal/app/Benefits/Plans/Shells/ShellPlanAdapter.php" timestamp="1523549912553">
+        <mark key="[" line="50" column="26" />
+        <mark key="]" line="50" column="26" />
+        <mark key="." line="50" column="26" />
+        <mark key="^" line="50" column="25" />
+      </file>
       <file name="$USER_HOME$/workspace/php/testProject/app/Console/Kernel.php" timestamp="1504282888931">
         <mark key="[" line="16" column="10" />
       </file>
@@ -742,8 +751,8 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/benefit-provider/client-bills.vue" timestamp="1510596330385">
         <mark key="[" line="101" column="29" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Data/AccessObjects/Benefits/Plans/Shells/ShellHierarchy.php" timestamp="1522096047163">
-        <mark key="[" line="22" column="20" />
+      <file name="$USER_HOME$/bernieportal/app/Data/AccessObjects/Benefits/Plans/Shells/ShellHierarchy.php" timestamp="1523549219629">
+        <mark key="[" line="22" column="27" />
         <mark key="]" line="22" column="20" />
         <mark key="." line="22" column="20" />
       </file>
@@ -758,6 +767,12 @@
         <mark key="]" line="70" column="38" />
         <mark key="." line="70" column="38" />
         <mark key="^" line="4" column="61" />
+      </file>
+      <file name="$USER_HOME$/bernieportal/tests/app/Jobs/Plans/Shells/UpdatePlansCreatedFromShell.php" timestamp="1523548228758">
+        <mark key="[" line="18" column="26" />
+        <mark key="]" line="20" column="25" />
+        <mark key="." line="20" column="25" />
+        <mark key="^" line="20" column="25" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/benefits/plans/shells/create-plan-modal.vue" timestamp="1522167869885">
         <mark key="[" line="151" column="51" />
@@ -897,13 +912,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">cGxhbi0+aW1wb3J0cygp</text>
+        <text>Collection::make()</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cGxhbi0+aW1wb3J0cygp</text>
+        <text>Collection::make()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhXD4=</text>
@@ -911,35 +926,35 @@
       <register name="0" type="4">
         <text />
       </register>
-      <register name="1" type="4">
-        <text>first()</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+      <register name="2" type="4">
+        <text>first()</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtIFBsYW4gJHBsYW4K</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAqLwo=</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtIFBsYW4gJHBsYW4K</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAqIEByZXR1cm4gYXJyYXkK</text>
+        <text encoding="base64">ICAgICAqLwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8qKgo=</text>
+        <text encoding="base64">ICAgICAqIEByZXR1cm4gYXJyYXkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8qKgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>1913</text>
