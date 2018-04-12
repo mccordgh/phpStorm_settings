@@ -30,11 +30,6 @@
       <file name="$USER_HOME$/bernieportal/tests/app/Api/Transformers/Benefits/Plans/Shells/ShellPdfTransformerTest.php" timestamp="1521060907145">
         <mark key="[" line="0" column="5" />
       </file>
-      <file name="$USER_HOME$/bernieportal/config/bernieportal/shells_constants.php" timestamp="1521661332730">
-        <mark key="[" line="3" column="29" />
-        <mark key="]" line="3" column="29" />
-        <mark key="." line="3" column="29" />
-      </file>
       <file name="$USER_HOME$/bernieportal/app/Employment/Employer.php" timestamp="1519945786620">
         <mark key="[" line="70" column="39" />
         <mark key="]" line="70" column="39" />
@@ -94,11 +89,6 @@
       </file>
       <file name="$USER_HOME$/workspace/javascript/emoji_rogue_like/src/js/classes/game.js" timestamp="1518909473534">
         <mark key="[" line="87" column="24" />
-      </file>
-      <file name="$USER_HOME$/bernieportal/app/Api/Transformers/Benefits/PlanTransformer.php" timestamp="1522082296460">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/thread/candidate-message-modal.vue" timestamp="1493229628959">
         <mark key="[" line="55" column="58" />
@@ -300,11 +290,6 @@
       <file name="$USER_HOME$/workspace/javascript/javascript_game_engine/.gitignore" timestamp="1518911828575">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/bernieportal/public/sites/all/themes/bernard/template.php" timestamp="1522183420170">
-        <mark key="[" line="613" column="26" />
-        <mark key="]" line="610" column="4" />
-        <mark key="." line="610" column="4" />
-      </file>
       <file name="$USER_HOME$/workspace/php/testProject/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesUsers.php" timestamp="1504817286923">
         <mark key="[" line="75" column="67" />
       </file>
@@ -447,11 +432,6 @@
       <file name="$USER_HOME$/bernieportal/app/Ats/Candidate.php" timestamp="1502737804653">
         <mark key="[" line="32" column="86" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Api/Transformers/Benefits/Plans/Shells/ShellTransformer.php" timestamp="1521659760399">
-        <mark key="[" line="62" column="47" />
-        <mark key="]" line="62" column="47" />
-        <mark key="." line="62" column="47" />
-      </file>
       <file name="$USER_HOME$/bernieportal/public/sites/all/modules/clientele/clientele_user.module" timestamp="1518474587820">
         <mark key="[" line="46" column="40" />
       </file>
@@ -556,11 +536,6 @@
         <mark key="]" line="32" column="34" />
         <mark key="^" line="32" column="34" />
         <mark key="." line="32" column="34" />
-      </file>
-      <file name="/fragment.php" timestamp="1522102710617">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Brokerage/Broker.php" timestamp="1519946584440">
         <mark key="[" line="50" column="5" />
@@ -762,10 +737,10 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/benefit-provider/client-bills.vue" timestamp="1510596330385">
         <mark key="[" line="101" column="29" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Data/AccessObjects/Benefits/Plans/Shells/ShellHierarchy.php" timestamp="1523564367797">
-        <mark key="[" line="160" column="5" />
-        <mark key="]" line="168" column="0" />
-        <mark key="." line="168" column="0" />
+      <file name="$USER_HOME$/bernieportal/app/Data/AccessObjects/Benefits/Plans/Shells/ShellHierarchy.php" timestamp="1523566230198">
+        <mark key="[" line="37" column="15" />
+        <mark key="]" line="37" column="15" />
+        <mark key="." line="37" column="15" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/sass/_modal.scss" timestamp="1500415612390">
         <mark key="[" line="16" column="30" />
@@ -922,14 +897,14 @@
       <jump line="4966" column="0" filename="$USER_HOME$/bernieportal/resources/assets/sass/app.scss" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IAo=</text>
+      <register name="&quot;" type="4">
+        <text>int</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICRxdWVyeS0+</text>
+        <text>int</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhXD4=</text>
