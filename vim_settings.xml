@@ -292,6 +292,7 @@
       <file name="$USER_HOME$/bernieportal/app/Data/AccessObjects/Benefits/Plans/BrokerForm.php" timestamp="1519419348678">
         <mark key="[" line="55" column="23" />
       </file>
+      <file name="$USER_HOME$/bernieportal/app/Benefits/Plans/PlanRepository.php" timestamp="1523652969673" />
       <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/candidate/job-applications-list.vue" timestamp="1493315731584">
         <mark key="[" line="46" column="67" />
       </file>
@@ -660,8 +661,11 @@
       <file name="$USER_HOME$/bernieportal/resources/views/dashboards/sidebar/benefits.blade.php" timestamp="1499974671996">
         <mark key="[" line="5" column="31" />
       </file>
-      <file name="$USER_HOME$/bernieportal/legacy/ClienteleUserModule.php" timestamp="1523641961687">
-        <mark key="'" line="2256" column="92" />
+      <file name="$USER_HOME$/bernieportal/legacy/ClienteleUserModule.php" timestamp="1523652906902">
+        <mark key="[" line="2255" column="108" />
+        <mark key="]" line="2257" column="19" />
+        <mark key="^" line="2257" column="19" />
+        <mark key="." line="2257" column="19" />
       </file>
       <file name="$USER_HOME$/bernieportal/legacy/Benefits/PlanMessages/PlanMessage.php" timestamp="1523640448271">
         <mark key="[" line="277" column="94" />
