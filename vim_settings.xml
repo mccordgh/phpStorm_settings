@@ -232,11 +232,11 @@
       <file name="$USER_HOME$/bernieportal/legacy/CrIntegration/Forms.php" timestamp="1521643388467">
         <mark key="[" line="881" column="10" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Benefits/File.php" timestamp="1523651512903">
-        <mark key="[" line="18" column="22" />
-        <mark key="]" line="18" column="22" />
-        <mark key="." line="18" column="22" />
-        <mark key="^" line="16" column="2" />
+      <file name="$USER_HOME$/bernieportal/app/Benefits/File.php" timestamp="1523657803212">
+        <mark key="[" line="9" column="4" />
+        <mark key="]" line="9" column="4" />
+        <mark key="." line="9" column="4" />
+        <mark key="^" line="10" column="3" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/onboarding/personal-info.vue" timestamp="1518716274524">
         <mark key="[" line="175" column="22" />
@@ -550,8 +550,11 @@
         <mark key="^" line="32" column="34" />
         <mark key="." line="32" column="34" />
       </file>
-      <file name="/fragment.php" timestamp="1523654675852">
+      <file name="/fragment.php" timestamp="1523657856692">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="8" />
+        <mark key="^" line="0" column="8" />
+        <mark key="." line="0" column="8" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Brokerage/Broker.php" timestamp="1519946584440">
         <mark key="[" line="50" column="5" />
@@ -667,8 +670,11 @@
         <mark key="^" line="2257" column="19" />
         <mark key="." line="2257" column="19" />
       </file>
-      <file name="$USER_HOME$/bernieportal/legacy/Benefits/PlanMessages/PlanMessage.php" timestamp="1523655689789">
-        <mark key="[" line="285" column="73" />
+      <file name="$USER_HOME$/bernieportal/legacy/Benefits/PlanMessages/PlanMessage.php" timestamp="1523657879095">
+        <mark key="[" line="325" column="64" />
+        <mark key="]" line="325" column="64" />
+        <mark key="." line="325" column="64" />
+        <mark key="^" line="325" column="65" />
       </file>
       <file name="$USER_HOME$/bernieportal/database/migrations/2018_03_02_110822_create_shell_hierarchy_table.php" timestamp="1521644564922">
         <mark key="[" line="21" column="34" />
@@ -685,6 +691,7 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/billing/billing-adjustment-table.vue" timestamp="1513984765746">
         <mark key="[" line="12" column="11" />
       </file>
+      <file name="$USER_HOME$/bernieportal/resources/queries/employers/save-plan-documents.sql" timestamp="1523656506547" />
       <file name="$USER_HOME$/bernieportal/tests/app/Http/Requests/Plans/Shells/ShellsRequestTest.php" timestamp="1521637985075">
         <mark key="[" line="106" column="40" />
       </file>
@@ -727,7 +734,7 @@
       <file name="$USER_HOME$/workspace/php/testProject/public/css/main.css" timestamp="1504813753200">
         <mark key="[" line="34" column="23" />
       </file>
-      <file name="/PHP Console" timestamp="1523655621658">
+      <file name="/PHP Console" timestamp="1523657816236">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Api/Transformers/Benefits/Plans/Shells/RatesPageLinkTransformer.php" timestamp="1521637075969">
@@ -745,7 +752,7 @@
         <mark key="." line="49" column="0" />
         <mark key="^" line="49" column="0" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Benefits/Plans/Shells/ShellPlanAdapter.php" timestamp="1523642042287">
+      <file name="$USER_HOME$/bernieportal/app/Benefits/Plans/Shells/ShellPlanAdapter.php" timestamp="1523656908910">
         <mark key="[" line="57" column="16" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Benefits/Plans/Shells/ShellRepository.php" timestamp="1523639024618">
@@ -916,13 +923,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>hasManyThrough(ShellPdf::class, BenefitFilesPdfShells::class);</text>
+        <text>protected</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>hasManyThrough(ShellPdf::class, BenefitFilesPdfShells::class);</text>
+        <text>protected</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhXD4=</text>
@@ -931,36 +938,36 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="3" type="4">
         <text>/**
      * @return HasManyThrough
      */</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAqLwo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">YW0gaW50ICRwbGFuSWQK</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">JGggPSAkdGhpcy0+cmVwb3NpdG9yeS0+Z2V0UGFyZW50SGllcmFyY2hpZXNCeVNoZWxsQW5kVXNlcigkc2hlbGwsICR1c2VyKTsKICAgICAgICAkZmlsZXMgPSBDb2xsZWN0aW9uOjptYWtlKCRzaGVsbC0+cGRmcyk7</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSAkdXNlcgogICAgICovCg==</text>
       </register>
       <register name=":" type="4">
         <text>611</text>

@@ -2,40 +2,6 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <recentFileMasks>
-      <mask>*bl.</mask>
-      <mask>*b.</mask>
-      <mask>*.blade.ph</mask>
-      <mask>*html.</mask>
-      <mask>*htm.</mask>
-      <mask>*ht.</mask>
-      <mask>*h.</mask>
-      <mask>*.h</mask>
-      <mask>*.html</mask>
-      <mask>*</mask>
-      <mask>c</mask>
-      <mask>*.blad</mask>
-      <mask>*.blade</mask>
-      <mask>*.blade.</mask>
-      <mask>*.blade.p</mask>
-      <mask>*.blade.php</mask>
-      <mask>*php</mask>
-      <mask>*.vu</mask>
-      <mask>*.v</mask>
-      <mask>*.ph</mask>
-      <mask>*.p</mask>
-      <mask>*.c</mask>
-      <mask>*.</mask>
-      <mask>*.j</mask>
-      <mask>*.cs</mask>
-      <mask>*.css</mask>
-      <mask>*.gitignore</mask>
-      <mask>*.vue</mask>
-      <mask>*.js</mask>
-      <mask>*.php</mask>
-    </recentFileMasks>
   </component>
 </application>
