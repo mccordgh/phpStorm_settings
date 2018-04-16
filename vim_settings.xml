@@ -629,7 +629,7 @@
       <file name="$USER_HOME$/bernieportal/app/Benefits/Plan.php" timestamp="1523660905624">
         <mark key="[" line="4" column="54" />
         <mark key="]" line="4" column="54" />
-        <mark key="^" line="64" column="2" />
+        <mark key="^" line="75" column="2" />
         <mark key="." line="4" column="54" />
       </file>
       <file name="$USER_HOME$/workspace/portfolio_os/src/js/main.js" timestamp="1508693809881">
@@ -694,12 +694,6 @@
       </file>
       <file name="$USER_HOME$/bernieportal/app/Http/Requests/User/ShowUserRequest.php" timestamp="1496853931288">
         <mark key="[" line="21" column="49" />
-      </file>
-      <file name="$USER_HOME$/bernieportal/app/Jobs/Plans/Shells/UpdatePlansCreatedFromShell.php" timestamp="1523655115954">
-        <mark key="[" line="97" column="49" />
-        <mark key="]" line="138" column="35" />
-        <mark key="^" line="138" column="38" />
-        <mark key="." line="138" column="35" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/views/employees/get-employee-previous-imported-elections.blade.php" timestamp="1509144383101">
         <mark key="[" line="10" column="32" />
@@ -769,6 +763,9 @@
         <mark key="]" line="20" column="25" />
         <mark key="." line="20" column="25" />
         <mark key="^" line="20" column="25" />
+      </file>
+      <file name="$USER_HOME$/bernieportal/app/Views/Charts/DoughnutChart.php" timestamp="1523893274027">
+        <mark key="[" line="239" column="33" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/benefits/plans/shells/create-plan-modal.vue" timestamp="1523654356587">
         <mark key="[" line="132" column="81" />
