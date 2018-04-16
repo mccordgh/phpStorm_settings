@@ -42,7 +42,6 @@
       <file name="$USER_HOME$/bernieportal/.eslintrc.json" timestamp="1513809304847">
         <mark key="[" line="10" column="54" />
       </file>
-      <file name="$USER_HOME$/bernieportal/database/migrations/2018_03_21_110219_create_plan_shell_hierarchy_table.php" timestamp="1523640753636" />
       <file name="$USER_HOME$/bernieportal/config/bernieportal/edi.php" timestamp="1521657553709">
         <mark key="[" line="10" column="0" />
       </file>
@@ -190,10 +189,8 @@
         <mark key="[" line="213" column="32" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Benefits/Plans/Shells/ShellPdf.php" timestamp="1523660910156">
-        <mark key="[" line="27" column="76" />
-        <mark key="]" line="23" column="16" />
-        <mark key="^" line="27" column="94" />
-        <mark key="." line="23" column="16" />
+        <mark key="[" line="4" column="76" />
+        <mark key="^" line="4" column="94" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Http/Kernel.php" timestamp="1497988660759">
         <mark key="[" line="5" column="55" />
@@ -414,7 +411,6 @@
       <file name="$USER_HOME$/bernieportal/app/Data/AccessObjects/Benefits/Plans/Shells/BenefitFilesPdfShells.php" timestamp="1523649027060">
         <mark key="[" line="4" column="27" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Api/Transformers/Benefits/Plans/Shells/ShellPdfTransformer.php" timestamp="1523562541140" />
       <file name="$USER_HOME$/bernieportal/app/Api/Transformers/Bills/UnumPdfBillTransformer.php" timestamp="1515109277581">
         <mark key="[" line="53" column="73" />
       </file>
@@ -631,10 +627,10 @@
         <mark key="." line="49" column="33" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Benefits/Plan.php" timestamp="1523660905624">
-        <mark key="[" line="69" column="54" />
-        <mark key="]" line="69" column="54" />
-        <mark key="^" line="75" column="2" />
-        <mark key="." line="69" column="54" />
+        <mark key="[" line="4" column="54" />
+        <mark key="]" line="4" column="54" />
+        <mark key="^" line="64" column="2" />
+        <mark key="." line="4" column="54" />
       </file>
       <file name="$USER_HOME$/workspace/portfolio_os/src/js/main.js" timestamp="1508693809881">
         <mark key="[" line="0" column="0" />
@@ -669,18 +665,6 @@
       <file name="$USER_HOME$/bernieportal/resources/views/dashboards/sidebar/benefits.blade.php" timestamp="1499974671996">
         <mark key="[" line="5" column="31" />
       </file>
-      <file name="$USER_HOME$/bernieportal/legacy/ClienteleUserModule.php" timestamp="1523661150063">
-        <mark key="[" line="2255" column="108" />
-        <mark key="]" line="2256" column="19" />
-        <mark key="^" line="2256" column="19" />
-        <mark key="." line="2256" column="19" />
-      </file>
-      <file name="$USER_HOME$/bernieportal/legacy/Benefits/PlanMessages/PlanMessage.php" timestamp="1523660814161">
-        <mark key="[" line="296" column="51" />
-        <mark key="]" line="296" column="51" />
-        <mark key="^" line="272" column="11" />
-        <mark key="." line="296" column="51" />
-      </file>
       <file name="$USER_HOME$/bernieportal/database/migrations/2018_03_02_110822_create_shell_hierarchy_table.php" timestamp="1521644564922">
         <mark key="[" line="21" column="34" />
         <mark key="]" line="21" column="34" />
@@ -696,14 +680,12 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/billing/billing-adjustment-table.vue" timestamp="1513984765746">
         <mark key="[" line="12" column="11" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/queries/employers/save-plan-documents.sql" timestamp="1523656506547" />
       <file name="$USER_HOME$/bernieportal/tests/app/Http/Requests/Plans/Shells/ShellsRequestTest.php" timestamp="1521637985075">
         <mark key="[" line="106" column="40" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/quaternary-nav-for-vue.vue" timestamp="1498594361234">
         <mark key="[" line="15" column="23" />
       </file>
-      <file name="$USER_HOME$/bernieportal/public/includes/form.inc" timestamp="1523661903070" />
       <file name="$USER_HOME$/bernieportal/resources/assets/components/account-settings/change-password.vue" timestamp="1508528918510">
         <mark key="[" line="60" column="21" />
       </file>
@@ -757,9 +739,6 @@
         <mark key="]" line="49" column="0" />
         <mark key="." line="49" column="0" />
         <mark key="^" line="49" column="0" />
-      </file>
-      <file name="$USER_HOME$/bernieportal/app/Benefits/Plans/Shells/ShellPlanAdapter.php" timestamp="1523656908910">
-        <mark key="[" line="57" column="16" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Benefits/Plans/Shells/ShellRepository.php" timestamp="1523639024618">
         <mark key="[" line="560" column="5" />
