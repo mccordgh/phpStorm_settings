@@ -469,6 +469,11 @@
       <file name="$USER_HOME$/bernieportal/app/Ats/Candidate.php" timestamp="1502737804653">
         <mark key="[" line="32" column="86" />
       </file>
+      <file name="$USER_HOME$/bernieportal/database/migrations/2018_04_13_133200_create_join_table_for_plans_and_shell_pdfs.php" timestamp="1523977880912">
+        <mark key="[" line="6" column="24" />
+        <mark key="]" line="6" column="24" />
+        <mark key="." line="6" column="24" />
+      </file>
       <file name="$USER_HOME$/bernieportal/public/sites/all/modules/clientele/clientele_user.module" timestamp="1523638289834">
         <mark key="[" line="46" column="40" />
       </file>
@@ -770,7 +775,7 @@
       <file name="$USER_HOME$/workspace/php/testProject/public/css/main.css" timestamp="1504813753200">
         <mark key="[" line="34" column="23" />
       </file>
-      <file name="/PHP Console" timestamp="1523976316772">
+      <file name="/PHP Console" timestamp="1523976610806">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Api/Transformers/Benefits/Plans/Shells/RatesPageLinkTransformer.php" timestamp="1521637075969">
