@@ -565,7 +565,7 @@
         <mark key="." line="32" column="34" />
       </file>
       <file name="$USER_HOME$/bernieportal/public/sites/all/modules/cck/optionwidgets.module" timestamp="1524075258494" />
-      <file name="/fragment.php" timestamp="1524077403319">
+      <file name="/fragment.php" timestamp="1524078331116">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Brokerage/Broker.php" timestamp="1523994253123">
@@ -604,7 +604,12 @@
       <file name="$USER_HOME$/bernieportal/resources/views/dashboards/panel/hsa-balance.blade.php" timestamp="1516053548965">
         <mark key="[" line="1" column="8" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Jobs/Plans/Shells/CreatePlanFromShell.php" timestamp="1524075678888" />
+      <file name="$USER_HOME$/bernieportal/app/Jobs/Plans/Shells/CreatePlanFromShell.php" timestamp="1524078569133">
+        <mark key="[" line="120" column="96" />
+        <mark key="]" line="120" column="75" />
+        <mark key="^" line="120" column="75" />
+        <mark key="." line="120" column="75" />
+      </file>
       <file name="$USER_HOME$/workspace/php/testProject/app/User.php" timestamp="1504812311688">
         <mark key="[" line="17" column="36" />
       </file>
@@ -752,7 +757,7 @@
       <file name="$USER_HOME$/workspace/php/testProject/public/css/main.css" timestamp="1504813753200">
         <mark key="[" line="34" column="23" />
       </file>
-      <file name="/PHP Console" timestamp="1524077316511">
+      <file name="/PHP Console" timestamp="1524078632960">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Api/Transformers/Benefits/Plans/Shells/RatesPageLinkTransformer.php" timestamp="1521637075969">
@@ -770,10 +775,11 @@
         <mark key="." line="49" column="0" />
         <mark key="^" line="49" column="0" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Benefits/Plans/Shells/ShellPlanAdapter.php" timestamp="1524077444307">
-        <mark key="[" line="9" column="38" />
-        <mark key="]" line="70" column="64" />
-        <mark key="." line="70" column="64" />
+      <file name="$USER_HOME$/bernieportal/app/Benefits/Plans/Shells/ShellPlanAdapter.php" timestamp="1524078543586">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="25" column="3" />
+        <mark key="." line="25" column="3" />
+        <mark key="^" line="25" column="3" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Benefits/Plans/Shells/ShellRepository.php" timestamp="1524062215370">
         <mark key="[" line="233" column="68" />
