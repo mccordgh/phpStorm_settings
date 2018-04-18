@@ -15,12 +15,11 @@
       <file name="/a.dummy" timestamp="1523659869998">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/benefits/plans/shells/library.vue" timestamp="1524006579143">
-        <mark key="'" line="419" column="0" />
-        <mark key="[" line="228" column="10" />
-        <mark key="]" line="260" column="62" />
-        <mark key="." line="260" column="62" />
-        <mark key="^" line="260" column="62" />
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/benefits/plans/shells/library.vue" timestamp="1524058549908">
+        <mark key="'" line="438" column="0" />
+        <mark key="[" line="216" column="63" />
+        <mark key="]" line="216" column="63" />
+        <mark key="." line="216" column="63" />
       </file>
       <file name="$USER_HOME$/bernieportal/tests/app/Api/Transformers/Benefits/Plans/Shells/ShellPdfTransformerTest.php" timestamp="1521060907145">
         <mark key="[" line="0" column="5" />
@@ -744,13 +743,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>CreatedFrom</text>
+        <text>deleted</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>CreatedFrom</text>
+        <text>deleted</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhXD4=</text>
