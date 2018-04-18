@@ -66,9 +66,7 @@
         <mark key="^" line="52" column="7" />
         <mark key="." line="88" column="4" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Http/Requests/Plans/Shells/ShellsPlansRequest.php" timestamp="1524066881654">
-        <mark key="[" line="35" column="32" />
-      </file>
+      <file name="$USER_HOME$/bernieportal/app/Http/Requests/Plans/Shells/ShellsPlansRequest.php" timestamp="1524066881654" />
       <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/Time/TimesheetsController.php" timestamp="1516051530042">
         <mark key="[" line="60" column="83" />
       </file>
@@ -114,11 +112,11 @@
       <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/PlansController.php" timestamp="1521834739103">
         <mark key="[" line="18" column="5" />
       </file>
-      <file name="$USER_HOME$/bernieportal/tests/app/Api/Transformers/Benefits/Plans/Shells/ShellTransformerTest.php" timestamp="1523997190835">
-        <mark key="[" line="38" column="40" />
-        <mark key="]" line="38" column="40" />
-        <mark key="^" line="65" column="0" />
-        <mark key="." line="38" column="40" />
+      <file name="$USER_HOME$/bernieportal/tests/app/Api/Transformers/Benefits/Plans/Shells/ShellTransformerTest.php" timestamp="1524068406465">
+        <mark key="[" line="43" column="8" />
+        <mark key="]" line="43" column="8" />
+        <mark key="^" line="68" column="0" />
+        <mark key="." line="43" column="8" />
       </file>
       <file name="$USER_HOME$/bernieportal/legacy/Benefits/BenefitTypes.php" timestamp="1523996615918" />
       <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/Plans/Shells/ShellImportsController.php" timestamp="1520010628400">
@@ -565,12 +563,7 @@
       <file name="$USER_HOME$/bernieportal/tests/app/Api/Transformers/Benefits/Plans/Shells/ShellPlanTransformerTest.php" timestamp="1522108118995">
         <mark key="[" line="61" column="22" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Http/Requests/Plans/Shells/ShellsRequest.php" timestamp="1524065675829">
-        <mark key="[" line="38" column="40" />
-        <mark key="]" line="38" column="30" />
-        <mark key="^" line="38" column="30" />
-        <mark key="." line="38" column="30" />
-      </file>
+      <file name="$USER_HOME$/bernieportal/app/Http/Requests/Plans/Shells/ShellsRequest.php" timestamp="1524065675829" />
       <file name="$USER_HOME$/bernieportal/resources/views/billing/base-unum-bill.blade.php" timestamp="1515108477474">
         <mark key="[" line="77" column="51" />
       </file>
@@ -686,6 +679,9 @@
       <file name="$USER_HOME$/bernieportal/app/Http/routes.php" timestamp="1523635454103">
         <mark key="[" line="639" column="36" />
       </file>
+      <file name="$USER_HOME$/bernieportal/tests/app/Api/Transformers/BenefitTypesTransformerTest.php" timestamp="1524068379408">
+        <mark key="[" line="47" column="5" />
+      </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/aca/employees/spreadsheet-import.vue" timestamp="1519842480935">
         <mark key="[" line="3" column="30" />
       </file>
@@ -767,7 +763,7 @@
       <file name="$USER_HOME$/workspace/php/testProject/public/css/main.css" timestamp="1504813753200">
         <mark key="[" line="34" column="23" />
       </file>
-      <file name="/PHP Console" timestamp="1524066576801">
+      <file name="/PHP Console" timestamp="1524067715581">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Api/Transformers/Benefits/Plans/Shells/RatesPageLinkTransformer.php" timestamp="1521637075969">
@@ -973,13 +969,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>\</text>
+        <text>Toggle</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>\</text>
+        <text>Toggle</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhXD4=</text>
