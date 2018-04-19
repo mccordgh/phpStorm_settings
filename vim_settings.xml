@@ -15,6 +15,9 @@
       <file name="/a.dummy" timestamp="1523659869998">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/benefits/plans/shells/library.vue" timestamp="1524171088740">
+        <mark key="[" line="115" column="106" />
+      </file>
       <file name="$USER_HOME$/bernieportal/tests/app/Api/Transformers/Benefits/Plans/Shells/ShellPdfTransformerTest.php" timestamp="1521060907145">
         <mark key="[" line="0" column="5" />
       </file>
@@ -169,7 +172,7 @@
       <file name="$USER_HOME$/bernieportal/legacy/CrIntegration/Forms.php" timestamp="1521643388467">
         <mark key="[" line="881" column="10" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Benefits/File.php" timestamp="1524169085410">
+      <file name="$USER_HOME$/bernieportal/app/Benefits/File.php" timestamp="1524170386021">
         <mark key="[" line="15" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/onboarding/personal-info.vue" timestamp="1518716274524">
@@ -225,6 +228,9 @@
       </file>
       <file name="$USER_HOME$/workspace/javascript/javascript_game_engine/.gitignore" timestamp="1518911828575">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/bernieportal/public/sites/all/themes/bernard/template.php" timestamp="1524171480302">
+        <mark key="[" line="613" column="4" />
       </file>
       <file name="$USER_HOME$/workspace/php/testProject/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesUsers.php" timestamp="1504817286923">
         <mark key="[" line="75" column="67" />
@@ -476,9 +482,6 @@
       <file name="/fragment.js" timestamp="1521734249264">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Benefits/Plan.php" timestamp="1523914195437">
-        <mark key="^" line="64" column="2" />
-      </file>
       <file name="$USER_HOME$/workspace/portfolio_os/src/js/main.js" timestamp="1508693809881">
         <mark key="[" line="0" column="0" />
       </file>
@@ -499,11 +502,6 @@
       </file>
       <file name="$USER_HOME$/bernieportal/resources/views/dashboards/sidebar/benefits.blade.php" timestamp="1499974671996">
         <mark key="[" line="5" column="31" />
-      </file>
-      <file name="$USER_HOME$/bernieportal/legacy/ClienteleUserModule.php" timestamp="1524079818617">
-        <mark key="[" line="1915" column="88" />
-        <mark key="]" line="1994" column="65" />
-        <mark key="." line="1994" column="65" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/billing/billing-adjustment-table.vue" timestamp="1513984765746">
         <mark key="[" line="12" column="11" />
@@ -550,13 +548,13 @@
       <file name="$USER_HOME$/workspace/php/testProject/public/css/main.css" timestamp="1504813753200">
         <mark key="[" line="34" column="23" />
       </file>
-      <file name="/PHP Console" timestamp="1524168444815">
+      <file name="/PHP Console" timestamp="1524170987967">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/JavaScript Console" timestamp="1518461207304">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/bernieportal/public/index.php" timestamp="1524164746752" />
+      <file name="$USER_HOME$/bernieportal/public/index.php" timestamp="1524171076842" />
       <file name="$USER_HOME$/workspace/php/testProject/app/Console/Kernel.php" timestamp="1504282888931">
         <mark key="[" line="16" column="10" />
       </file>
@@ -760,7 +758,7 @@
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
-        <text>148</text>
+        <text>614</text>
       </register>
     </registers>
     <search>
@@ -796,7 +794,6 @@
         <entry encoding="base64">XDxhXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>2204</entry>
         <entry>40</entry>
         <entry>2171</entry>
         <entry>92</entry>
@@ -812,10 +809,11 @@
         <entry>252</entry>
         <entry>593</entry>
         <entry>231</entry>
-        <entry>614</entry>
         <entry>151</entry>
         <entry>98</entry>
         <entry>148</entry>
+        <entry>116</entry>
+        <entry>614</entry>
       </history-cmd>
       <history-expr />
       <history-input />
