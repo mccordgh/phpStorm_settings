@@ -15,9 +15,6 @@
       <file name="/a.dummy" timestamp="1523659869998">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/benefits/plans/shells/library.vue" timestamp="1524171088740">
-        <mark key="[" line="115" column="106" />
-      </file>
       <file name="$USER_HOME$/bernieportal/tests/app/Api/Transformers/Benefits/Plans/Shells/ShellPdfTransformerTest.php" timestamp="1521060907145">
         <mark key="[" line="0" column="5" />
       </file>
@@ -171,9 +168,6 @@
       </file>
       <file name="$USER_HOME$/bernieportal/legacy/CrIntegration/Forms.php" timestamp="1521643388467">
         <mark key="[" line="881" column="10" />
-      </file>
-      <file name="$USER_HOME$/bernieportal/app/Benefits/File.php" timestamp="1524170386021">
-        <mark key="[" line="15" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/onboarding/personal-info.vue" timestamp="1518716274524">
         <mark key="[" line="175" column="22" />
@@ -459,7 +453,7 @@
         <mark key="[" line="1" column="8" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Jobs/Plans/Shells/CreatePlanFromShell.php" timestamp="1524166025667">
-        <mark key="^" line="138" column="4" />
+        <mark key="^" line="125" column="4" />
       </file>
       <file name="$USER_HOME$/workspace/php/testProject/app/User.php" timestamp="1504812311688">
         <mark key="[" line="17" column="36" />
@@ -522,7 +516,6 @@
         <mark key="[" line="21" column="49" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Jobs/Plans/Shells/UpdatePlansCreatedFromShell.php" timestamp="1524166543677">
-        <mark key="[" line="142" column="0" />
         <mark key="]" line="104" column="27" />
         <mark key="." line="104" column="27" />
         <mark key="^" line="104" column="27" />
@@ -548,7 +541,7 @@
       <file name="$USER_HOME$/workspace/php/testProject/public/css/main.css" timestamp="1504813753200">
         <mark key="[" line="34" column="23" />
       </file>
-      <file name="/PHP Console" timestamp="1524170987967">
+      <file name="/PHP Console" timestamp="1524171719989">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/JavaScript Console" timestamp="1518461207304">
