@@ -501,11 +501,11 @@
       <file name="$USER_HOME$/bernieportal/resources/views/dashboards/sidebar/benefits.blade.php" timestamp="1499974671996">
         <mark key="[" line="5" column="31" />
       </file>
-      <file name="$USER_HOME$/bernieportal/legacy/ClienteleUserModule.php" timestamp="1524516062062">
+      <file name="$USER_HOME$/bernieportal/legacy/ClienteleUserModule.php" timestamp="1524516908606">
         <mark key="[" line="1623" column="21" />
-        <mark key="]" line="1623" column="20" />
-        <mark key="^" line="1623" column="20" />
-        <mark key="." line="1623" column="20" />
+        <mark key="]" line="1857" column="35" />
+        <mark key="^" line="1857" column="35" />
+        <mark key="." line="1857" column="35" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/billing/billing-adjustment-table.vue" timestamp="1513984765746">
         <mark key="[" line="12" column="11" />
@@ -557,7 +557,7 @@
       <file name="$USER_HOME$/workspace/php/testProject/public/css/main.css" timestamp="1504813753200">
         <mark key="[" line="34" column="23" />
       </file>
-      <file name="/PHP Console" timestamp="1524516008782">
+      <file name="/PHP Console" timestamp="1524516801249">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/JavaScript Console" timestamp="1518461207304">
