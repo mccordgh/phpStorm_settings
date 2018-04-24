@@ -15,11 +15,11 @@
       <file name="/a.dummy" timestamp="1523659869998">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/benefits/plans/shells/library.vue" timestamp="1524595165252">
-        <mark key="[" line="216" column="12" />
-        <mark key="]" line="216" column="12" />
-        <mark key="." line="216" column="12" />
-        <mark key="^" line="214" column="20" />
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/benefits/plans/shells/library.vue" timestamp="1524597680346">
+        <mark key="[" line="217" column="36" />
+        <mark key="]" line="217" column="36" />
+        <mark key="^" line="215" column="40" />
+        <mark key="." line="217" column="36" />
       </file>
       <file name="$USER_HOME$/bernieportal/tests/app/Api/Transformers/Benefits/Plans/Shells/ShellPdfTransformerTest.php" timestamp="1521060907145">
         <mark key="[" line="0" column="5" />
@@ -253,7 +253,7 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/sortable.vue" timestamp="1494448912691">
         <mark key="[" line="2" column="58" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/Plans/Shells/ShellsController.php" timestamp="1524596192630">
+      <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/Plans/Shells/ShellsController.php" timestamp="1524597207994">
         <mark key="[" line="154" column="70" />
         <mark key="]" line="154" column="70" />
         <mark key="." line="154" column="70" />
@@ -342,7 +342,7 @@
       <file name="$USER_HOME$/bernieportal/app/Data/AccessObjects/Benefits/Plans/Shells/BenefitFilesPdfShells.php" timestamp="1523649027060">
         <mark key="[" line="4" column="27" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/benefits/plans/shells/shell.vue" timestamp="1524499677877">
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/benefits/plans/shells/shell.vue" timestamp="1524597334390">
         <mark key="[" line="603" column="67" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Api/Transformers/Bills/UnumPdfBillTransformer.php" timestamp="1515109277581">
@@ -366,6 +366,7 @@
       <file name="$USER_HOME$/bernieportal/app/Agencies/GeneralAgency.php" timestamp="1512746987081">
         <mark key="[" line="19" column="31" />
       </file>
+      <file name="$USER_HOME$/bernieportal/resources/assets/js/bernie-portal.js" timestamp="1524597406088" />
       <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/applications/application.vue" timestamp="1519842932092">
         <mark key="[" line="79" column="7" />
       </file>
@@ -566,7 +567,7 @@
       <file name="$USER_HOME$/workspace/php/testProject/public/css/main.css" timestamp="1504813753200">
         <mark key="[" line="34" column="23" />
       </file>
-      <file name="/PHP Console" timestamp="1524596103493">
+      <file name="/PHP Console" timestamp="1524597511540">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/JavaScript Console" timestamp="1518461207304">
@@ -601,11 +602,6 @@
       </file>
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/tiles/path-blue.js" timestamp="1503356614590">
         <mark key="[" line="3" column="17" />
-      </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/sass/app.scss" timestamp="1524581616293">
-        <mark key="[" line="210" column="0" />
-        <mark key="]" line="210" column="0" />
-        <mark key="." line="210" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/components/hiring-team.vue" timestamp="1493220766505">
         <mark key="[" line="77" column="56" />
@@ -727,13 +723,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>editUrl</text>
+        <text encoding="base64">CiAgICAgICAgICAgIHRoaXMuJGRpc3BhdGNoKCdhbGVydFN1Y2Nlc3MnLCAnU2hlbGwgc3VjY2Vzc2Z1bGx5IGNsb25lZC4nKTsKICAgICAgICAgICAgdGhpcy4kcm91dGVyLmdvKHsgbmFtZTogJ3NoZWxscy1lZGl0LXNoZWxsJywgcGFyYW1zOiB7IHNoZWxsX2lkOiBjbG9uZWRTaGVsbElkIH0gfSk7CiAgICAgICAgICB9LAogICAgICAgICAgKGVycm9yKSA9PiB7CiAgICAgICAgICAgIHRoaXMuaGlkZUxvYWRpbmdNb2RhbCgpOwogICAgICAgICAgICB0aGlzLiRkaXNwYXRjaCgnYWxlcnRFcnJvcicsIGVycm9yKTsKICAgICAgICAgIH0sCiAgICAgICAgKTs=</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>editUrl</text>
+        <text>library</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhXD4=</text>
@@ -742,37 +738,37 @@
         <text />
       </register>
       <register name="1" type="4">
-        <text encoding="base64">ICAvKioKICAgICAqIEBwYXJhbSBcQmVybmllUG9ydGFsXEh0dHBcUmVxdWVzdHNcUGxhbnNcU2hlbGxzXENsb25lU2hlbGxSZXF1ZXN0ICRyZXF1ZXN0CiAgICAgKiBAcGFyYW0gU2hlbGxUcmFuc2Zvcm1lciAkdHJhbnNmb3JtZXIKICAgICAqIEByZXR1cm4gXElsbHVtaW5hdGVcSHR0cFxSZXNwb25zZQogICAgICov</text>
+        <text encoding="base64">CiAgICAgICAgICAgIHRoaXMuJGRpc3BhdGNoKCdhbGVydFN1Y2Nlc3MnLCAnU2hlbGwgc3VjY2Vzc2Z1bGx5IGNsb25lZC4nKTsKICAgICAgICAgICAgdGhpcy4kcm91dGVyLmdvKHsgbmFtZTogJ3NoZWxscy1lZGl0LXNoZWxsJywgcGFyYW1zOiB7IHNoZWxsX2lkOiBjbG9uZWRTaGVsbElkIH0gfSk7CiAgICAgICAgICB9LAogICAgICAgICAgKGVycm9yKSA9PiB7CiAgICAgICAgICAgIHRoaXMuaGlkZUxvYWRpbmdNb2RhbCgpOwogICAgICAgICAgICB0aGlzLiRkaXNwYXRjaCgnYWxlcnRFcnJvcicsIGVycm9yKTsKICAgICAgICAgIH0sCiAgICAgICAgKTs=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy8gaGVyZWhlcmUK</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAvKioKICAgICAqIEBwYXJhbSBcQmVybmllUG9ydGFsXEh0dHBcUmVxdWVzdHNcUGxhbnNcU2hlbGxzXENsb25lU2hlbGxSZXF1ZXN0ICRyZXF1ZXN0CiAgICAgKiBAcGFyYW0gU2hlbGxUcmFuc2Zvcm1lciAkdHJhbnNmb3JtZXIKICAgICAqIEByZXR1cm4gXElsbHVtaW5hdGVcSHR0cFxSZXNwb25zZQogICAgICov</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy8gaGVyZWhlcmUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="4">
         <text>//.avoid-clicks,
 //.avoid-clicks + label.control-label--checkbox::before,
 //.avoid-clicks + label.control-label--radio::before {
 //  pointer-events: none; }</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBjcmVhdGUgbWlncmF0aW9uIGZvciByZWxhdGlvbnNoaXAgdGFibGUgYmV0d2VlbiBwbGFucyBhbmQgcGRmX3NoZWxscwoK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">PT09PT09PQogICAgICAgICRwbGFuID0gJHRoaXMtPmZpbmRQbGFuQnlJZCgkcGxhbklkKTsK</text>
+        <text encoding="base64">Pj4+Pj4+PiBjcmVhdGUgbWlncmF0aW9uIGZvciByZWxhdGlvbnNoaXAgdGFibGUgYmV0d2VlbiBwbGFucyBhbmQgcGRmX3NoZWxscwoK</text>
       </register>
       <register name=":" type="4">
         <text>100</text>
