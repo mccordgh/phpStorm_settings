@@ -150,8 +150,10 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/aca/employees/employees-list.vue" timestamp="1518199099766">
         <mark key="[" line="47" column="34" />
       </file>
-      <file name="$USER_HOME$/bernieportal/public/css/app.css" timestamp="1509557536927">
-        <mark key="[" line="4124" column="26" />
+      <file name="$USER_HOME$/bernieportal/public/css/app.css" timestamp="1524581522300">
+        <mark key="]" line="2375" column="11" />
+        <mark key="^" line="2375" column="11" />
+        <mark key="." line="2375" column="11" />
       </file>
       <file name="$USER_HOME$/bernieportal/public/sites/all/modules/emp_pto/emp_pto.module" timestamp="1507320519182">
         <mark key="[" line="86" column="5" />
@@ -428,7 +430,7 @@
       <file name="$USER_HOME$/bernieportal/app/Brokerage/Broker.php" timestamp="1523994253123">
         <mark key="[" line="57" column="31" />
       </file>
-      <file name="/fragment.php" timestamp="1524518272785">
+      <file name="/fragment.php" timestamp="1524581060670">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/Plans/Shells/ShellsHierarchyController.php" timestamp="1521657976020">
@@ -504,7 +506,7 @@
       <file name="$USER_HOME$/bernieportal/resources/views/dashboards/sidebar/benefits.blade.php" timestamp="1499974671996">
         <mark key="[" line="5" column="31" />
       </file>
-      <file name="$USER_HOME$/bernieportal/legacy/ClienteleUserModule.php" timestamp="1524579686095">
+      <file name="$USER_HOME$/bernieportal/legacy/ClienteleUserModule.php" timestamp="1524581087826">
         <mark key="[" line="1622" column="82" />
         <mark key="]" line="1622" column="82" />
         <mark key="." line="1622" column="82" />
@@ -554,7 +556,7 @@
       <file name="$USER_HOME$/workspace/php/testProject/public/css/main.css" timestamp="1504813753200">
         <mark key="[" line="34" column="23" />
       </file>
-      <file name="/PHP Console" timestamp="1524579703261">
+      <file name="/PHP Console" timestamp="1524582097046">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/JavaScript Console" timestamp="1518461207304">
@@ -589,8 +591,10 @@
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/tiles/path-blue.js" timestamp="1503356614590">
         <mark key="[" line="3" column="17" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/sass/app.scss" timestamp="1523911392997">
-        <mark key="[" line="4967" column="0" />
+      <file name="$USER_HOME$/bernieportal/resources/assets/sass/app.scss" timestamp="1524581616293">
+        <mark key="[" line="210" column="0" />
+        <mark key="]" line="210" column="0" />
+        <mark key="." line="210" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/components/hiring-team.vue" timestamp="1493220766505">
         <mark key="[" line="77" column="56" />
@@ -711,8 +715,8 @@
       <jump line="400" column="0" filename="$USER_HOME$/bernieportal/resources/assets/components/benefits/plans/shells/library.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>clicks</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <text />
@@ -733,41 +737,34 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBjcmVhdGUgbWlncmF0aW9uIGZvciByZWxhdGlvbnNoaXAgdGFibGUgYmV0d2VlbiBwbGFucyBhbmQgcGRmX3NoZWxscwoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">PT09PT09PQogICAgICAgICRwbGFuID0gJHRoaXMtPmZpbmRQbGFuQnlJZCgkcGxhbklkKTsK</text>
+      <register name="3" type="4">
+        <text>//.avoid-clicks,
+//.avoid-clicks + label.control-label--checkbox::before,
+//.avoid-clicks + label.control-label--radio::before {
+//  pointer-events: none; }</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBjcmVhdGUgbWlncmF0aW9uIGZvciByZWxhdGlvbnNoaXAgdGFibGUgYmV0d2VlbiBwbGFucyBhbmQgcGRmX3NoZWxscwoK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IC8qKgogICAgICogQHBhcmFtIGludCAkcGxhbklkCiAgICAgKiBAcmV0dXJuIFBsYW58TW9kZWx8bnVsbHxzdGF0aWMKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIGZpbmRQbGFuQnlJZChpbnQgJHBsYW5JZCkgOiBNb2RlbAogICAgewogICAgICAgIHJldHVybiAkdGhpcy0+cGxhbk1vZGVsLT5uZXdRdWVyeSgpLT53aGVyZSgnbmlkJywgJHBsYW5JZCktPmZpcnN0KCk7CiAgICB9Cg==</text>
+      <register name="6" type="2">
+        <text encoding="base64">PT09PT09PQogICAgICAgICRwbGFuID0gJHRoaXMtPmZpbmRQbGFuQnlJZCgkcGxhbklkKTsK</text>
       </register>
-      <register name="7" type="4">
-        <text>desc',
-          status: '',
-          importStatus: '',
-          showImportModal: false,
-          importShellError: false,
-          shellImportsAvailable: [],
-          importedShells: [],
-          importErrorMsg: '',
-          checkedShellImports: [],
-        };
-      },</text>
+      <register name="7" type="2">
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIHRoaXMuc2hlbGxzID0gW107CiAgICAgICAgICAgIHRoaXMuZmV0Y2hTaGVsbHMoKTsKICAgICAgICAgICAgdGhpcy5mZXRjaEF2YWlsYWJsZVNoZWxsSW1wb3J0cygpOw==</text>
+        <text encoding="base64">IC8qKgogICAgICogQHBhcmFtIGludCAkcGxhbklkCiAgICAgKiBAcmV0dXJuIFBsYW58TW9kZWx8bnVsbHxzdGF0aWMKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIGZpbmRQbGFuQnlJZChpbnQgJHBsYW5JZCkgOiBNb2RlbAogICAgewogICAgICAgIHJldHVybiAkdGhpcy0+cGxhbk1vZGVsLT5uZXdRdWVyeSgpLT53aGVyZSgnbmlkJywgJHBsYW5JZCktPmZpcnN0KCk7CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>2300</text>
+        <text>483</text>
       </register>
     </registers>
     <search>
@@ -803,7 +800,6 @@
         <entry encoding="base64">XDxhXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>92</entry>
         <entry>323</entry>
         <entry>114</entry>
         <entry>387</entry>
@@ -823,6 +819,7 @@
         <entry>614</entry>
         <entry>656</entry>
         <entry>2300</entry>
+        <entry>483</entry>
       </history-cmd>
       <history-expr />
       <history-input />
