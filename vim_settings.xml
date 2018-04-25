@@ -233,14 +233,23 @@
       <file name="$USER_HOME$/workspace/php/testProject/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesUsers.php" timestamp="1504817286923">
         <mark key="[" line="75" column="67" />
       </file>
+      <file name="$USER_HOME$/bernieportal/app/Http/Requests/Plans/Shells/GetShellFieldsFromRequest.php" timestamp="1524674510771">
+        <mark key="[" line="141" column="4" />
+        <mark key="]" line="147" column="55" />
+        <mark key="^" line="147" column="55" />
+        <mark key="." line="147" column="55" />
+      </file>
       <file name="$USER_HOME$/workspace/emoji_rogue_like/js/main.js" timestamp="1506373361728">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Api/Transformers/Bills/CommonPdfBillTransformer.php" timestamp="1515109282808">
         <mark key="[" line="40" column="69" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Benefits/Plans/Shells/Shell.php" timestamp="1523990940183">
-        <mark key="[" line="36" column="5" />
+      <file name="$USER_HOME$/bernieportal/app/Benefits/Plans/Shells/Shell.php" timestamp="1524673934096">
+        <mark key="[" line="354" column="7" />
+        <mark key="]" line="353" column="25" />
+        <mark key="^" line="353" column="25" />
+        <mark key="." line="353" column="25" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/sidebar-toggle.vue" timestamp="1496247983712">
         <mark key="[" line="12" column="13" />
@@ -257,6 +266,7 @@
       <file name="$USER_HOME$/bernieportal/app/Data/Gateways/Benefits/BenefitGateway.php" timestamp="1500584485332">
         <mark key="[" line="4" column="28" />
       </file>
+      <file name="$USER_HOME$/bernieportal/database/migrations/2017_12_01_142907_create_shells_table.php" timestamp="1524672921575" />
       <file name="$USER_HOME$/bernieportal/app/Views/Composers/Layout/Nav/BackLinkNavComposer.php" timestamp="1494879351196">
         <mark key="[" line="46" column="26" />
       </file>
@@ -265,11 +275,6 @@
       </file>
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/tiles/path-yellow.js" timestamp="1503356619147">
         <mark key="[" line="3" column="17" />
-      </file>
-      <file name="$USER_HOME$/bernieportal/legacy/Benefits/BenefitLibrary.php" timestamp="1524586336464">
-        <mark key="[" line="200" column="4" />
-        <mark key="]" line="200" column="4" />
-        <mark key="." line="200" column="4" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/time/employees/timesheet.vue" timestamp="1496866552323">
         <mark key="[" line="3" column="37" />
@@ -337,11 +342,11 @@
       <file name="$USER_HOME$/bernieportal/app/Data/AccessObjects/Benefits/Plans/Shells/BenefitFilesPdfShells.php" timestamp="1523649027060">
         <mark key="[" line="4" column="27" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/benefits/plans/shells/shell.vue" timestamp="1524605558622">
-        <mark key="[" line="923" column="7" />
-        <mark key="]" line="98" column="15" />
-        <mark key="^" line="98" column="15" />
-        <mark key="." line="98" column="15" />
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/benefits/plans/shells/shell.vue" timestamp="1524675746304">
+        <mark key="[" line="797" column="80" />
+        <mark key="]" line="799" column="31" />
+        <mark key="^" line="799" column="31" />
+        <mark key="." line="799" column="31" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Api/Transformers/Bills/UnumPdfBillTransformer.php" timestamp="1515109277581">
         <mark key="[" line="53" column="73" />
@@ -370,6 +375,9 @@
       </file>
       <file name="$USER_HOME$/bernieportal/app/Ats/Candidate.php" timestamp="1502737804653">
         <mark key="[" line="32" column="86" />
+      </file>
+      <file name="$USER_HOME$/bernieportal/app/Api/Transformers/Benefits/Plans/Shells/ShellTransformer.php" timestamp="1524675100701">
+        <mark key="[" line="61" column="64" />
       </file>
       <file name="$USER_HOME$/bernieportal/public/sites/all/modules/clientele/clientele_user.module" timestamp="1524248414005">
         <mark key="[" line="46" column="40" />
@@ -475,6 +483,12 @@
       <file name="$USER_HOME$/workspace/php/testProject/app/User.php" timestamp="1504812311688">
         <mark key="[" line="17" column="36" />
       </file>
+      <file name="$USER_HOME$/bernieportal/resources/assets/js/api-request.js" timestamp="1524237120344">
+        <mark key="[" line="87" column="18" />
+        <mark key="]" line="87" column="18" />
+        <mark key="." line="87" column="18" />
+        <mark key="^" line="87" column="17" />
+      </file>
       <file name="$USER_HOME$/bernieportal/spec/Benefits/Plans/BrokerFormSpec.php" timestamp="1519418296971">
         <mark key="[" line="44" column="36" />
       </file>
@@ -530,6 +544,18 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/quaternary-nav-for-vue.vue" timestamp="1498594361234">
         <mark key="[" line="15" column="23" />
       </file>
+      <file name="$USER_HOME$/bernieportal/public/includes/form.inc" timestamp="1524518737742">
+        <mark key="[" line="535" column="1" />
+        <mark key="]" line="618" column="69" />
+        <mark key="^" line="618" column="69" />
+        <mark key="." line="618" column="69" />
+      </file>
+      <file name="$USER_HOME$/bernieportal/database/migrations/2018_04_25_121344_add_death_benefit_rider_columns_to_shells_table.php" timestamp="1524673042481">
+        <mark key="[" line="30" column="51" />
+        <mark key="]" line="30" column="11" />
+        <mark key="^" line="30" column="11" />
+        <mark key="." line="30" column="11" />
+      </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/account-settings/change-password.vue" timestamp="1508528918510">
         <mark key="[" line="60" column="21" />
       </file>
@@ -565,11 +591,14 @@
       <file name="$USER_HOME$/workspace/php/testProject/public/css/main.css" timestamp="1504813753200">
         <mark key="[" line="34" column="23" />
       </file>
-      <file name="/PHP Console" timestamp="1524605436137">
+      <file name="/PHP Console" timestamp="1524675724377">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/JavaScript Console" timestamp="1518461207304">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/bernieportal/app/Benefits/Plans/Shells/ShellRepository.php" timestamp="1524674983148">
+        <mark key="[" line="224" column="67" />
       </file>
       <file name="$USER_HOME$/workspace/php/testProject/app/Console/Kernel.php" timestamp="1504282888931">
         <mark key="[" line="16" column="10" />
