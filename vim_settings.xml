@@ -15,6 +15,11 @@
       <file name="/a.dummy" timestamp="1523659869998">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/benefits/plans/shells/library.vue" timestamp="1524754942376">
+        <mark key="[" line="187" column="11" />
+        <mark key="]" line="187" column="11" />
+        <mark key="." line="187" column="11" />
+      </file>
       <file name="$USER_HOME$/bernieportal/tests/app/Api/Transformers/Benefits/Plans/Shells/ShellPdfTransformerTest.php" timestamp="1521060907145">
         <mark key="[" line="0" column="5" />
       </file>
@@ -39,6 +44,7 @@
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/worlds/world.js" timestamp="1506610094234">
         <mark key="[" line="15" column="50" />
       </file>
+      <file name="$USER_HOME$/bernieportal/resources/constants.json" timestamp="1524754919310" />
       <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/Time/TimesheetsController.php" timestamp="1516051530042">
         <mark key="[" line="60" column="83" />
       </file>
@@ -337,9 +343,7 @@
       <file name="$USER_HOME$/bernieportal/app/Data/AccessObjects/Benefits/Plans/Shells/BenefitFilesPdfShells.php" timestamp="1523649027060">
         <mark key="[" line="4" column="27" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/benefits/plans/shells/shell.vue" timestamp="1524753235931">
-        <mark key="[" line="918" column="28" />
-      </file>
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/benefits/plans/shells/shell.vue" timestamp="1524754935208" />
       <file name="$USER_HOME$/bernieportal/app/Api/Transformers/Bills/UnumPdfBillTransformer.php" timestamp="1515109277581">
         <mark key="[" line="53" column="73" />
       </file>
@@ -745,13 +749,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>popups</text>
+        <text>userId</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>popups</text>
+        <text>userId</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhXD4=</text>
