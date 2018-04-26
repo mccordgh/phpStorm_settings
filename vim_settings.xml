@@ -337,11 +337,8 @@
       <file name="$USER_HOME$/bernieportal/app/Data/AccessObjects/Benefits/Plans/Shells/BenefitFilesPdfShells.php" timestamp="1523649027060">
         <mark key="[" line="4" column="27" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/benefits/plans/shells/shell.vue" timestamp="1524675746304">
-        <mark key="[" line="797" column="80" />
-        <mark key="]" line="799" column="31" />
-        <mark key="^" line="799" column="31" />
-        <mark key="." line="799" column="31" />
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/benefits/plans/shells/shell.vue" timestamp="1524753235931">
+        <mark key="[" line="918" column="28" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Api/Transformers/Bills/UnumPdfBillTransformer.php" timestamp="1515109277581">
         <mark key="[" line="53" column="73" />
@@ -439,7 +436,7 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/benefits/plans/shells/attach-form-shells-table.vue" timestamp="1524692119841">
         <mark key="[" line="38" column="83" />
         <mark key="]" line="38" column="83" />
-        <mark key="^" line="42" column="18" />
+        <mark key="^" line="41" column="18" />
         <mark key="." line="38" column="83" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/Bills/BillsController.php" timestamp="1519918457959">
@@ -589,7 +586,7 @@
       <file name="$USER_HOME$/workspace/php/testProject/public/css/main.css" timestamp="1504813753200">
         <mark key="[" line="34" column="23" />
       </file>
-      <file name="/PHP Console" timestamp="1524691042644">
+      <file name="/PHP Console" timestamp="1524692259095">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/JavaScript Console" timestamp="1518461207304">
@@ -796,7 +793,7 @@
         <text encoding="base64">Pj4+Pj4+PiBjcmVhdGUgbWlncmF0aW9uIGZvciByZWxhdGlvbnNoaXAgdGFibGUgYmV0d2VlbiBwbGFucyBhbmQgcGRmX3NoZWxscwoK</text>
       </register>
       <register name=":" type="4">
-        <text>924</text>
+        <text>919</text>
       </register>
     </registers>
     <search>
@@ -832,7 +829,6 @@
         <entry encoding="base64">XDxhXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>260</entry>
         <entry>611</entry>
         <entry>536</entry>
         <entry>164</entry>
@@ -852,6 +848,7 @@
         <entry>120</entry>
         <entry>122</entry>
         <entry>924</entry>
+        <entry>919</entry>
       </history-cmd>
       <history-expr />
       <history-input />
