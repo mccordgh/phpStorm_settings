@@ -501,7 +501,7 @@
       <file name="$USER_HOME$/workspace/portfolio_os/src/js/main.js" timestamp="1508693809881">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/benefits/plans/shells/attach-pdf-shells-table.vue" timestamp="1524777479406">
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/benefits/plans/shells/attach-pdf-shells-table.vue" timestamp="1524840519861">
         <mark key="[" line="144" column="7" />
         <mark key="]" line="242" column="8" />
         <mark key="^" line="242" column="8" />
@@ -569,11 +569,17 @@
       <file name="$USER_HOME$/workspace/php/testProject/public/css/main.css" timestamp="1504813753200">
         <mark key="[" line="34" column="23" />
       </file>
-      <file name="/PHP Console" timestamp="1524777423505">
+      <file name="/PHP Console" timestamp="1524840379038">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/JavaScript Console" timestamp="1518461207304">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/bernieportal/app/Benefits/Plans/Shells/ShellRepository.php" timestamp="1524840084454">
+        <mark key="[" line="134" column="0" />
+        <mark key="]" line="134" column="0" />
+        <mark key="." line="134" column="0" />
+        <mark key="^" line="133" column="13" />
       </file>
       <file name="$USER_HOME$/workspace/php/testProject/app/Console/Kernel.php" timestamp="1504282888931">
         <mark key="[" line="16" column="10" />
@@ -718,14 +724,14 @@
       <jump line="55" column="37" filename="$USER_HOME$/bernieportal/app/Benefits/Plans/Shells/ShellRepository.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>XDEBUG_SESSION_START</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CiAgICAgICAgcmV0dXJuICRhOwo=</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>XDEBUG_SESSION_START</text>
+        <text>$a =</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxVc2VyXD4=</text>
@@ -734,37 +740,37 @@
         <text encoding="base64">JHRoaXMtPnNoZWxsLT5nZXREZWF0aEJlbmVmaXRSaWRlcigp</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coe2xvYWRlZFNoZWxsfSkK</text>
+        <text encoding="base64">CiAgICAgICAgcmV0dXJuICRhOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coe2xvYWRlZFNoZWxsfSkK</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">ICAgICAgICBpZiAodGhpcy5pc1NlcnZpY2VUZWFtTWVtYmVyKSB7CiAgICAgICAgICByZXR1cm47CiAgICAgICAgfQogICAgICAgIA==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICB0eXBlOiBCb29sZWFuLAogICAgICAgIHJlcXVpcmVkOiB0cnVlLAo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">PHNwYW4gdi1pZj0iaXNTaGVsbE93bmVyICYmICghYXZhaWxhYmxlRm9ybUNob2ljZXMubGVuZ3RoICYmICFmZXRjaGluZ0Zvcm1zKSIgY2xhc3M9ImFsbF9mb3Jtc19fYXR0YWNoZWQgdGV4dC1ib2xkIj4KICAgICAgICAgICAgICAgICAgQWxsIGF2YWlsYWJsZSBmb3JtcyBoYXZlIGJlZW4gYXR0YWNoZWQuCiAgICAgICAgICAgICAgICA8L3NwYW4+</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">JHBhcmVudHMtPmZsYXRNYXAoZnVuY3Rpb24gKCRwYXJlbnQpIHVzZSAoJHNoZWxsSWQpIHsKICAgICAgICAgICAgcmV0dXJuICR0aGlzLT5nZXRBbmRQYXJzZVNoZWxsQW5kSW1wb3J0c0Zvck93bmVyT3JJbXBvcnRlcigkc2hlbGxJZCwgJHBhcmVudCk7CiAgICAgICAgfSk7</text>
-      </register>
       <register name=":" type="4">
-        <text>733</text>
+        <text>134</text>
       </register>
     </registers>
     <search>
@@ -800,7 +806,6 @@
         <entry encoding="base64">XDxVc2VyXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>151</entry>
         <entry>98</entry>
         <entry>148</entry>
         <entry>116</entry>
@@ -820,6 +825,7 @@
         <entry>145</entry>
         <entry>581</entry>
         <entry>733</entry>
+        <entry>134</entry>
       </history-cmd>
       <history-expr />
       <history-input />
