@@ -528,7 +528,7 @@
       <file name="$USER_HOME$/bernieportal/resources/views/dashboards/sidebar/benefits.blade.php" timestamp="1499974671996">
         <mark key="[" line="5" column="31" />
       </file>
-      <file name="$USER_HOME$/bernieportal/legacy/ClienteleUserModule.php" timestamp="1524842651433" />
+      <file name="$USER_HOME$/bernieportal/legacy/ClienteleUserModule.php" timestamp="1524856112609" />
       <file name="$USER_HOME$/bernieportal/resources/assets/components/billing/billing-adjustment-table.vue" timestamp="1513984765746">
         <mark key="[" line="12" column="11" />
       </file>
@@ -574,12 +574,16 @@
         <mark key="." line="5723" column="7" />
         <mark key="^" line="5723" column="7" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Brokerage/ServiceTeamMember.php" timestamp="1524853127659" />
+      <file name="$USER_HOME$/bernieportal/app/Brokerage/ServiceTeamMember.php" timestamp="1524856273898">
+        <mark key="[" line="30" column="20" />
+        <mark key="]" line="30" column="20" />
+        <mark key="." line="30" column="20" />
+      </file>
       <file name="$USER_HOME$/workspace/php/testProject/public/css/main.css" timestamp="1504813753200">
         <mark key="[" line="34" column="23" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/Plans/Shells/ShellsPlansController.php" timestamp="1524844566995" />
-      <file name="/PHP Console" timestamp="1524853930376">
+      <file name="/PHP Console" timestamp="1524855456700">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/JavaScript Console" timestamp="1518461207304">
@@ -742,13 +746,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>dunno</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>dunno</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxVc2VyXD4=</text>
