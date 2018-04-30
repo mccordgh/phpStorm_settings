@@ -15,8 +15,11 @@
       <file name="/a.dummy" timestamp="1523659869998">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/benefits/plans/shells/library.vue" timestamp="1525113883621">
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/benefits/plans/shells/library.vue" timestamp="1525125210194">
         <mark key="[" line="213" column="68" />
+        <mark key="]" line="213" column="90" />
+        <mark key="^" line="213" column="90" />
+        <mark key="." line="213" column="90" />
       </file>
       <file name="$USER_HOME$/bernieportal/tests/app/Api/Transformers/Benefits/Plans/Shells/ShellPdfTransformerTest.php" timestamp="1521060907145">
         <mark key="[" line="0" column="5" />
@@ -178,6 +181,7 @@
       <file name="$USER_HOME$/bernieportal/app/Http/Requests/Plans/Shells/DeleteShellRequest.php" timestamp="1524771074253">
         <mark key="[" line="13" column="1" />
       </file>
+      <file name="$USER_HOME$/bernieportal/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Relations/HasManyThrough.php" timestamp="1525122985841" />
       <file name="$USER_HOME$/bernieportal/app/Listeners/Aca/Generate1095CsPdfMailerZipFile.php" timestamp="1519244152643">
         <mark key="[" line="259" column="36" />
       </file>
@@ -348,8 +352,8 @@
       <file name="$USER_HOME$/bernieportal/app/Data/AccessObjects/Benefits/Plans/Shells/BenefitFilesPdfShells.php" timestamp="1523649027060">
         <mark key="[" line="4" column="27" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/benefits/plans/shells/shell.vue" timestamp="1524777535923">
-        <mark key="[" line="417" column="11" />
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/benefits/plans/shells/shell.vue" timestamp="1525126603465">
+        <mark key="[" line="139" column="17" />
         <mark key="]" line="309" column="0" />
         <mark key="^" line="309" column="0" />
         <mark key="." line="309" column="0" />
@@ -468,7 +472,7 @@
       <file name="$USER_HOME$/bernieportal/app/Brokerage/Broker.php" timestamp="1523994253123">
         <mark key="[" line="57" column="31" />
       </file>
-      <file name="/fragment.php" timestamp="1525115151580">
+      <file name="/fragment.php" timestamp="1525125847098">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/Plans/Shells/ShellsHierarchyController.php" timestamp="1521657976020">
@@ -612,17 +616,11 @@
       <file name="$USER_HOME$/workspace/php/testProject/public/css/main.css" timestamp="1504813753200">
         <mark key="[" line="34" column="23" />
       </file>
-      <file name="/PHP Console" timestamp="1525120055020">
+      <file name="/PHP Console" timestamp="1525126511979">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/JavaScript Console" timestamp="1518461207304">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/bernieportal/app/Benefits/Plans/Shells/ShellRepository.php" timestamp="1525120020219">
-        <mark key="[" line="309" column="32" />
-        <mark key="]" line="309" column="32" />
-        <mark key="." line="309" column="32" />
-        <mark key="^" line="322" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/php/testProject/app/Console/Kernel.php" timestamp="1504282888931">
         <mark key="[" line="16" column="10" />
@@ -767,14 +765,14 @@
       <jump line="55" column="37" filename="$USER_HOME$/bernieportal/app/Benefits/Plans/Shells/ShellRepository.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>$newShellId</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>$this</text>
+        <text>$newShellId</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxVc2VyXD4=</text>
@@ -782,17 +780,17 @@
       <register name="0" type="4">
         <text encoding="base64">JHRoaXMtPnNoZWxsLT5nZXREZWF0aEJlbmVmaXRSaWRlcigp</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtIGludCAkc2hlbGxJZAogICAgICogQHBhcmFtIFVzZXIgJHVzZXIKICAgICAqIEByZXR1cm4gU2hlbGwKICAgICAqLw==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text encoding="base64">CiAgICBwdWJsaWMgZnVuY3Rpb24gZ2V0U2hlbGxQZGZGdWxsUGF0aChpbnQgJHBhcmVudFNoZWxsSWQpCiAgICB7CiAgICAgICAgcmV0dXJuICR0aGlzLT5maWxlUGF0aCgpIC4gJHRoaXMtPmZpbGVOYW1lKCk7CiAgICB9</text>
+        <text encoding="base64">Ly8gICAgICAgIGlmIChpc3NldCgkbmV3UGRmLT5zaGVsbF9pZCkpIHsKLy8gICAgICAgICAgICB1bnNldCgkbmV3UGRmLT5zaGVsbF9pZCk7Ci8vICAgICAgICB9</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -800,20 +798,20 @@
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CiAgICAgICAgcmV0dXJuICRhOwo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgICBwdWJsaWMgZnVuY3Rpb24gZ2V0U2hlbGxQZGZGdWxsUGF0aChpbnQgJHBhcmVudFNoZWxsSWQpCiAgICB7CiAgICAgICAgcmV0dXJuICR0aGlzLT5maWxlUGF0aCgpIC4gJHRoaXMtPmZpbGVOYW1lKCk7CiAgICB9</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coe2xvYWRlZFNoZWxsfSkK</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICBpZiAodGhpcy5pc1NlcnZpY2VUZWFtTWVtYmVyKSB7CiAgICAgICAgICByZXR1cm47CiAgICAgICAgfQogICAgICAgIA==</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>37</text>
+        <text>351</text>
       </register>
     </registers>
     <search>
@@ -849,7 +847,6 @@
         <entry encoding="base64">XDxVc2VyXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>614</entry>
         <entry>2300</entry>
         <entry>483</entry>
         <entry>100</entry>
@@ -869,6 +866,7 @@
         <entry>656</entry>
         <entry>73</entry>
         <entry>37</entry>
+        <entry>351</entry>
       </history-cmd>
       <history-expr />
       <history-input />
