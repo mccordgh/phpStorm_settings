@@ -65,6 +65,7 @@
       <file name="$USER_HOME$/workspace/javascript/emoji_rogue_like/src/js/classes/game.js" timestamp="1518909473534">
         <mark key="[" line="87" column="24" />
       </file>
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/feature-toggle-selector.vue" timestamp="1525363303705" />
       <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/thread/candidate-message-modal.vue" timestamp="1493229628959">
         <mark key="[" line="55" column="58" />
       </file>
@@ -104,7 +105,6 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/time/subgroups/settings.vue" timestamp="1515456395716">
         <mark key="[" line="361" column="27" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/BrokerForms/FieldsController.php" timestamp="1525295586271" />
       <file name="$USER_HOME$/bernieportal/app/Benefits/AccidentBenefit.php" timestamp="1507838130495">
         <mark key="[" line="0" column="1" />
       </file>
@@ -422,7 +422,7 @@
       <file name="$USER_HOME$/bernieportal/app/Api/Transformers/UserTransformer.php" timestamp="1495663599299">
         <mark key="[" line="16" column="24" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Data/Repositories/Benefits/Plans/BrokerFieldAccessObjectRepository.php" timestamp="1525293078163" />
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/carrier-forms/view.vue" timestamp="1525363330798" />
       <file name="$USER_HOME$/workspace/Defend_The_Castle/.gitignore" timestamp="1506608558146">
         <mark key="[" line="0" column="0" />
       </file>
@@ -432,7 +432,6 @@
       <file name="$USER_HOME$/bernieportal/app/Subgroups/PTO/PTOSubgroupSetting.php" timestamp="1507829125307">
         <mark key="[" line="9" column="6" />
       </file>
-      <file name="$USER_HOME$/bernieportal/database/migrations/2017_12_01_181700_add_feature_toggle_cs_team_member_tier_v4.php" timestamp="1525294550095" />
       <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/routers/job-candidate-router.vue" timestamp="1517448531676">
         <mark key="[" line="9" column="14" />
       </file>
@@ -523,7 +522,6 @@
       <file name="$USER_HOME$/bernieportal/resources/views/dashboards/sidebar/benefits.blade.php" timestamp="1499974671996">
         <mark key="[" line="5" column="31" />
       </file>
-      <file name="$USER_HOME$/bernieportal/legacy/ClienteleUserModule.php" timestamp="1525361430645" />
       <file name="$USER_HOME$/bernieportal/resources/assets/components/billing/billing-adjustment-table.vue" timestamp="1513984765746">
         <mark key="[" line="12" column="11" />
       </file>
@@ -545,8 +543,10 @@
       <file name="$USER_HOME$/bernieportal/app/Http/Requests/User/ShowUserRequest.php" timestamp="1496853931288">
         <mark key="[" line="21" column="49" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/carrier-forms/broker-form-view.vue" timestamp="1525294067667">
-        <mark key="[" line="398" column="6" />
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/carrier-forms/broker-form-view.vue" timestamp="1525364438343">
+        <mark key="[" line="426" column="22" />
+        <mark key="]" line="474" column="0" />
+        <mark key="." line="474" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Jobs/Plans/Shells/UpdatePlansCreatedFromShell.php" timestamp="1524687153761">
         <mark key="[" line="141" column="108" />
@@ -572,7 +572,7 @@
       <file name="$USER_HOME$/workspace/php/testProject/public/css/main.css" timestamp="1504813753200">
         <mark key="[" line="34" column="23" />
       </file>
-      <file name="/PHP Console" timestamp="1525362638127">
+      <file name="/PHP Console" timestamp="1525363891881">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/JavaScript Console" timestamp="1518461207304">
@@ -593,7 +593,6 @@
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/entities/creatures/player.js" timestamp="1506609965011">
         <mark key="[" line="9" column="19" />
       </file>
-      <file name="$USER_HOME$/bernieportal/public/modules/node/node.module" timestamp="1525360838266" />
       <file name="$USER_HOME$/bernieportal/app/Views/Charts/DoughnutChart.php" timestamp="1523893274027">
         <mark key="[" line="239" column="33" />
       </file>
@@ -615,13 +614,11 @@
       <file name="$USER_HOME$/workspace/javascript/boardgame_number_tracker/src/main.js" timestamp="1518846688203">
         <mark key="[" line="7" column="17" />
       </file>
-      <file name="$USER_HOME$/bernieportal/tests/app/Http/Requests/Plans/Shells/UpdateShellRequestTest.php" timestamp="1525289641114" />
       <file name="$USER_HOME$/workspace/javascript/GGJ2018_last_electrician/.gitignore" timestamp="1517068285329">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="125" column="36" filename="$USER_HOME$/bernieportal/resources/assets/components/ats/candidate/job-candidate-feedback.vue" />
       <jump line="215" column="0" filename="$USER_HOME$/bernieportal/resources/assets/components/ats/candidate/job-candidate-feedback.vue" />
       <jump line="104" column="62" filename="$USER_HOME$/bernieportal/resources/assets/components/ats/candidate/job-candidate-feedback.vue" />
       <jump line="237" column="21" filename="$USER_HOME$/bernieportal/resources/assets/components/ats/candidate/job-candidate-messages.vue" />
@@ -721,16 +718,17 @@
       <jump line="55" column="37" filename="$USER_HOME$/bernieportal/app/Benefits/Plans/Shells/ShellRepository.php" />
       <jump line="561" column="34" filename="$USER_HOME$/bernieportal/resources/assets/components/benefits/plans/shells/shell.vue" />
       <jump line="121" column="62" filename="$USER_HOME$/bernieportal/resources/assets/components/benefits/plans/shells/library.vue" />
+      <jump line="479" column="7" filename="$USER_HOME$/bernieportal/resources/assets/components/carrier-forms/broker-form-view.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">JGJlbmVmaXREYXRhID0gREI6OnRhYmxlKCdiZW5lZml0X2hpZXJhcmNoeScpLT53aGVyZShbCiAgICAgICAgICAgICduaWQnID0+ICRiZW5lZml0SWQsCiAgICAgICAgICAgICdub2RlX3VpZCcgPT4gJHVzZXJJZCwKICAgICAgICBdKS0+Zmlyc3QoKTsKCiAgICAgICAgcmV0dXJuIChhcnJheSkkYmVuZWZpdERhdGE7</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAK</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>$stmId</text>
+        <text>Custom</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxVc2VyXD4=</text>
@@ -738,38 +736,38 @@
       <register name="0" type="4">
         <text encoding="base64">JHRoaXMtPnNoZWxsLT5nZXREZWF0aEJlbmVmaXRSaWRlcigp</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">JGJlbmVmaXREYXRhID0gREI6OnRhYmxlKCdiZW5lZml0X2hpZXJhcmNoeScpLT53aGVyZShbCiAgICAgICAgICAgICduaWQnID0+ICRiZW5lZml0SWQsCiAgICAgICAgICAgICdub2RlX3VpZCcgPT4gJHVzZXJJZCwKICAgICAgICBdKS0+Zmlyc3QoKTsKCiAgICAgICAgcmV0dXJuIChhcnJheSkkYmVuZWZpdERhdGE7</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdjb250ZW50JyA9PiBudWxsLAo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">IHNob3dDdXN0b21PcHRpb25GaWVsZE1vZGFsKCkgewogICAgICAgIHRoaXMuc2hvd0N1c3RvbU9wdGlvbkZpZWxkTW9kYWwgPSAKICAgICAgfQ==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9KTsK</text>
+      <register name="3" type="4">
+        <text encoding="base64">JGJlbmVmaXREYXRhID0gREI6OnRhYmxlKCdiZW5lZml0X2hpZXJhcmNoeScpLT53aGVyZShbCiAgICAgICAgICAgICduaWQnID0+ICRiZW5lZml0SWQsCiAgICAgICAgICAgICdub2RlX3VpZCcgPT4gJHVzZXJJZCwKICAgICAgICBdKS0+Zmlyc3QoKTsKCiAgICAgICAgcmV0dXJuIChhcnJheSkkYmVuZWZpdERhdGE7</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdjb250ZW50JyA9PiBudWxsLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAgICAgcmV0dXJuIGJiYjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICAgICAgY29uc29sZS5sb2coYmJiKQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtIGludCAkc2hlbGxJZAogICAgICogQHBhcmFtIFVzZXIgJHVzZXIKICAgICAqIEByZXR1cm4gU2hlbGwKICAgICAqLw==</text>
+      <register name="8" type="2">
+        <text encoding="base64">CiAgICAgICAgcmV0dXJuIGJiYjsK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">CiAgICAgICAgY29uc29sZS5sb2coYmJiKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>1456</text>
+        <text>vsp</text>
       </register>
     </registers>
     <search>
@@ -805,7 +803,6 @@
         <entry encoding="base64">XDxVc2VyXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>122</entry>
         <entry>924</entry>
         <entry>919</entry>
         <entry>78</entry>
@@ -825,6 +822,7 @@
         <entry>31</entry>
         <entry>10</entry>
         <entry>1456</entry>
+        <entry>vsp</entry>
       </history-cmd>
       <history-expr />
       <history-input />
