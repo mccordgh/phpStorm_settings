@@ -84,11 +84,6 @@
       <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/PlansController.php" timestamp="1521834739103">
         <mark key="[" line="18" column="5" />
       </file>
-      <file name="$USER_HOME$/bernieportal/tests/app/Api/Transformers/Benefits/Plans/Shells/ShellTransformerTest.php" timestamp="1525369877826">
-        <mark key="[" line="46" column="29" />
-        <mark key="]" line="46" column="29" />
-        <mark key="." line="46" column="29" />
-      </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/routers/job-routing.vue" timestamp="1513293594479">
         <mark key="[" line="1" column="7" />
       </file>
@@ -372,11 +367,9 @@
       <file name="$USER_HOME$/bernieportal/app/Ats/Candidate.php" timestamp="1502737804653">
         <mark key="[" line="32" column="86" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Api/Transformers/Benefits/Plans/Shells/ShellTransformer.php" timestamp="1525368684945">
-        <mark key="[" line="48" column="17" />
-        <mark key="]" line="48" column="17" />
-        <mark key="." line="48" column="17" />
-        <mark key="^" line="28" column="3" />
+      <file name="$USER_HOME$/bernieportal/app/Api/Transformers/Benefits/Plans/Shells/ShellTransformer.php" timestamp="1525373472556">
+        <mark key="]" line="6" column="17" />
+        <mark key="." line="6" column="17" />
       </file>
       <file name="$USER_HOME$/bernieportal/public/sites/all/modules/clientele/clientele_user.module" timestamp="1524248414005">
         <mark key="[" line="46" column="40" />
@@ -548,6 +541,12 @@
       <file name="$USER_HOME$/bernieportal/app/Http/Requests/User/ShowUserRequest.php" timestamp="1496853931288">
         <mark key="[" line="21" column="49" />
       </file>
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/carrier-forms/broker-form-view.vue" timestamp="1525374736859">
+        <mark key="[" line="487" column="41" />
+        <mark key="]" line="487" column="41" />
+        <mark key="." line="487" column="41" />
+        <mark key="^" line="487" column="41" />
+      </file>
       <file name="$USER_HOME$/bernieportal/app/Jobs/Plans/Shells/UpdatePlansCreatedFromShell.php" timestamp="1524687153761">
         <mark key="[" line="141" column="108" />
       </file>
@@ -573,18 +572,11 @@
       <file name="$USER_HOME$/workspace/php/testProject/public/css/main.css" timestamp="1504813753200">
         <mark key="[" line="34" column="23" />
       </file>
-      <file name="/PHP Console" timestamp="1525369415018">
+      <file name="/PHP Console" timestamp="1525374262529">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/JavaScript Console" timestamp="1518461207304">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/bernieportal/app/Benefits/Plans/Shells/ShellRepository.php" timestamp="1525370201527">
-        <mark key="'" line="596" column="8" />
-        <mark key="[" line="611" column="15" />
-        <mark key="]" line="611" column="15" />
-        <mark key="^" line="606" column="47" />
-        <mark key="." line="611" column="15" />
       </file>
       <file name="$USER_HOME$/workspace/php/testProject/app/Console/Kernel.php" timestamp="1504282888931">
         <mark key="[" line="16" column="10" />
@@ -730,13 +722,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>mixed</text>
+        <text>color</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>mixed</text>
+        <text>color</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxVc2VyXD4=</text>
@@ -775,7 +767,7 @@
         <text encoding="base64">ICAgICAgICB9KTsK</text>
       </register>
       <register name=":" type="4">
-        <text>vsp</text>
+        <text>605</text>
       </register>
     </registers>
     <search>
@@ -811,7 +803,6 @@
         <entry encoding="base64">XDxVc2VyXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>924</entry>
         <entry>919</entry>
         <entry>78</entry>
         <entry>194</entry>
@@ -831,6 +822,7 @@
         <entry>10</entry>
         <entry>1456</entry>
         <entry>vsp</entry>
+        <entry>605</entry>
       </history-cmd>
       <history-expr />
       <history-input />
