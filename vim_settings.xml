@@ -21,13 +21,6 @@
       <file name="/a.dummy" timestamp="1523659869998">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/benefits/plans/shells/library.vue" timestamp="1525463361601">
-        <mark key="'" line="117" column="56" />
-        <mark key="[" line="222" column="13" />
-        <mark key="]" line="224" column="14" />
-        <mark key="." line="224" column="14" />
-        <mark key="^" line="224" column="14" />
-      </file>
       <file name="$USER_HOME$/bernieportal/tests/app/Api/Transformers/Benefits/Plans/Shells/ShellPdfTransformerTest.php" timestamp="1521060907145">
         <mark key="[" line="0" column="5" />
       </file>
@@ -90,12 +83,6 @@
       </file>
       <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/PlansController.php" timestamp="1521834739103">
         <mark key="[" line="18" column="5" />
-      </file>
-      <file name="$USER_HOME$/bernieportal/tests/app/Api/Transformers/Benefits/Plans/Shells/ShellTransformerTest.php" timestamp="1525464130518">
-        <mark key="[" line="18" column="4" />
-        <mark key="]" line="22" column="30" />
-        <mark key="." line="22" column="30" />
-        <mark key="^" line="22" column="30" />
       </file>
       <file name="$USER_HOME$/bernieportal/legacy/Benefits/BenefitTypes.php" timestamp="1525457540093" />
       <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/routers/job-routing.vue" timestamp="1513293594479">
@@ -283,6 +270,12 @@
       <file name="$USER_HOME$/bernieportal/app/Data/Gateways/Benefits/BenefitGateway.php" timestamp="1500584485332">
         <mark key="[" line="4" column="28" />
       </file>
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/title-pagination-banner.vue" timestamp="1525471615417">
+        <mark key="[" line="54" column="62" />
+        <mark key="]" line="54" column="7" />
+        <mark key="^" line="54" column="7" />
+        <mark key="." line="54" column="7" />
+      </file>
       <file name="$USER_HOME$/bernieportal/app/Views/Composers/Layout/Nav/BackLinkNavComposer.php" timestamp="1494879351196">
         <mark key="[" line="46" column="26" />
       </file>
@@ -393,12 +386,6 @@
       </file>
       <file name="$USER_HOME$/bernieportal/app/Ats/Candidate.php" timestamp="1502737804653">
         <mark key="[" line="32" column="86" />
-      </file>
-      <file name="$USER_HOME$/bernieportal/app/Api/Transformers/Benefits/Plans/Shells/ShellTransformer.php" timestamp="1525464123914">
-        <mark key="[" line="25" column="12" />
-        <mark key="]" line="25" column="12" />
-        <mark key="." line="25" column="12" />
-        <mark key="^" line="27" column="30" />
       </file>
       <file name="$USER_HOME$/bernieportal/public/sites/all/modules/clientele/clientele_user.module" timestamp="1524248414005">
         <mark key="[" line="46" column="40" />
@@ -533,6 +520,7 @@
       <file name="$USER_HOME$/workspace/portfolio_os/src/js/main.js" timestamp="1508693809881">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/benefit-provider/edi/file.vue" timestamp="1525470638156" />
       <file name="$USER_HOME$/bernieportal/app/Api/Transformers/UserBasicsTransformer.php" timestamp="1525464027099">
         <mark key="[" line="27" column="50" />
       </file>
@@ -576,6 +564,13 @@
       <file name="$USER_HOME$/bernieportal/app/Http/Requests/User/ShowUserRequest.php" timestamp="1496853931288">
         <mark key="[" line="21" column="49" />
       </file>
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/carrier-forms/broker-form-view.vue" timestamp="1525471652048">
+        <mark key="'" line="470" column="4" />
+        <mark key="[" line="161" column="23" />
+        <mark key="]" line="161" column="23" />
+        <mark key="^" line="478" column="50" />
+        <mark key="." line="161" column="23" />
+      </file>
       <file name="$USER_HOME$/bernieportal/app/Jobs/Plans/Shells/UpdatePlansCreatedFromShell.php" timestamp="1524687153761">
         <mark key="[" line="141" column="108" />
       </file>
@@ -600,7 +595,7 @@
       <file name="$USER_HOME$/workspace/php/testProject/public/css/main.css" timestamp="1504813753200">
         <mark key="[" line="34" column="23" />
       </file>
-      <file name="/PHP Console" timestamp="1525463444272">
+      <file name="/PHP Console" timestamp="1525471506536">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/JavaScript Console" timestamp="1518461207304">
@@ -647,8 +642,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="234" column="53" filename="$USER_HOME$/bernieportal/resources/assets/components/ats/jobs-listing.vue" />
-      <jump line="401" column="0" filename="$USER_HOME$/bernieportal/resources/assets/components/ats/jobs-listing.vue" />
       <jump line="307" column="33" filename="$USER_HOME$/bernieportal/resources/assets/components/ats/jobs-listing.vue" />
       <jump line="78" column="0" filename="$USER_HOME$/bernieportal/resources/assets/components/ats/job/job-link-sharing.vue" />
       <jump line="215" column="0" filename="$USER_HOME$/bernieportal/resources/assets/components/ats/job/job-link-sharing.vue" />
@@ -747,16 +740,18 @@
       <jump line="12" column="4" filename="$USER_HOME$/bernieportal/app/Benefits/Plans/Shells/Shell.php" />
       <jump line="405" column="0" filename="$USER_HOME$/bernieportal/app/Benefits/Plans/Shells/Shell.php" />
       <jump line="117" column="56" filename="$USER_HOME$/bernieportal/resources/assets/components/benefits/plans/shells/library.vue" />
+      <jump line="470" column="64" filename="$USER_HOME$/bernieportal/resources/assets/components/carrier-forms/broker-form-view.vue" />
+      <jump line="460" column="4" filename="$USER_HOME$/bernieportal/resources/assets/components/carrier-forms/broker-form-view.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>new UserBasicsTransformer()</text>
+        <text>placingMode</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>new UserBasicsTransformer()</text>
+        <text>placingMode</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxVc2VyXD4=</text>
@@ -797,7 +792,7 @@
         <text encoding="base64">ICAgLyoqCiAgICAgKiBAcGFyYW0gXEJlcm5pZVBvcnRhbFxBdXRoXFVzZXJJbnRlcmZhY2UgJHVzZXIKICAgICAqIEBwYXJhbSBcQnJhbmR5XENySW50ZWdyYXRpb25cQ29uZmlndXJlQ2FycmllciAkY2FycmllcgogICAgICogQHBhcmFtIFxCZXJuaWVQb3J0YWxcQmVuZWZpdFByb3ZpZGVyc1xCZW5lZml0UHJvdmlkZXJSZXBvc2l0b3J5ICRiZW5lZml0UHJvdmlkZXJzCiAgICAgKiBAcGFyYW0gXEJlcm5pZVBvcnRhbFxDYXJyaWVyc1xFZGlcR3JvdXBSZXBvc2l0b3J5ICRlZGlHcm91cFJlcG9zaXRvcnkKICAgICAqIEBwYXJhbSBHdWFyZCAkZ3VhcmQ=</text>
       </register>
       <register name=":" type="4">
-        <text>84</text>
+        <text>56</text>
       </register>
     </registers>
     <search>
@@ -833,7 +828,6 @@
         <entry encoding="base64">XDxVc2VyXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>78</entry>
         <entry>194</entry>
         <entry>446</entry>
         <entry>220</entry>
@@ -853,6 +847,7 @@
         <entry>vsp</entry>
         <entry>605</entry>
         <entry>84</entry>
+        <entry>56</entry>
       </history-cmd>
       <history-expr />
       <history-input />
