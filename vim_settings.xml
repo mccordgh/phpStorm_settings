@@ -565,11 +565,11 @@
       <file name="$USER_HOME$/bernieportal/app/Http/Requests/User/ShowUserRequest.php" timestamp="1496853931288">
         <mark key="[" line="21" column="49" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/carrier-forms/broker-form-view.vue" timestamp="1525804946275">
-        <mark key="[" line="562" column="79" />
-        <mark key="]" line="562" column="79" />
-        <mark key="." line="562" column="79" />
-        <mark key="^" line="562" column="78" />
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/carrier-forms/broker-form-view.vue" timestamp="1525805970742">
+        <mark key="[" line="561" column="78" />
+        <mark key="]" line="561" column="54" />
+        <mark key="." line="561" column="54" />
+        <mark key="^" line="561" column="78" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Jobs/Plans/Shells/UpdatePlansCreatedFromShell.php" timestamp="1524687153761">
         <mark key="[" line="141" column="108" />
@@ -595,7 +595,7 @@
       <file name="$USER_HOME$/workspace/php/testProject/public/css/main.css" timestamp="1504813753200">
         <mark key="[" line="34" column="23" />
       </file>
-      <file name="/PHP Console" timestamp="1525804922384">
+      <file name="/PHP Console" timestamp="1525805952959">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/JavaScript Console" timestamp="1518461207304">
@@ -637,7 +637,7 @@
       <file name="$USER_HOME$/workspace/javascript/boardgame_number_tracker/src/main.js" timestamp="1518846688203">
         <mark key="[" line="7" column="17" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/error-message.vue" timestamp="1525804927401">
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/error-message.vue" timestamp="1525805767229">
         <mark key="[" line="26" column="13" />
         <mark key="]" line="26" column="13" />
         <mark key="." line="26" column="13" />
@@ -751,13 +751,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>two</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>two</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxVc2VyXD4=</text>
