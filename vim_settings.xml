@@ -495,6 +495,11 @@
       <file name="$USER_HOME$/bernieportal/resources/views/dashboards/panel/hsa-balance.blade.php" timestamp="1516053548965">
         <mark key="[" line="1" column="8" />
       </file>
+      <file name="$USER_HOME$/bernieportal/app/Jobs/Plans/Shells/CreatePlanFromShell.php" timestamp="1525969938453">
+        <mark key="[" line="98" column="28" />
+        <mark key="]" line="98" column="28" />
+        <mark key="." line="98" column="28" />
+      </file>
       <file name="$USER_HOME$/workspace/php/testProject/app/User.php" timestamp="1504812311688">
         <mark key="[" line="17" column="36" />
       </file>
@@ -596,7 +601,7 @@
       <file name="$USER_HOME$/workspace/php/testProject/public/css/main.css" timestamp="1504813753200">
         <mark key="[" line="34" column="23" />
       </file>
-      <file name="/PHP Console" timestamp="1525965263163">
+      <file name="/PHP Console" timestamp="1525969897026">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/JavaScript Console" timestamp="1518461207304">
@@ -622,6 +627,12 @@
       </file>
       <file name="$USER_HOME$/bernieportal/app/Views/Charts/DoughnutChart.php" timestamp="1523893274027">
         <mark key="[" line="239" column="33" />
+      </file>
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/benefits/plans/shells/create-plan-modal.vue" timestamp="1525969529895">
+        <mark key="[" line="158" column="79" />
+        <mark key="]" line="158" column="78" />
+        <mark key="." line="158" column="78" />
+        <mark key="^" line="158" column="78" />
       </file>
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/hello.js" timestamp="1502755160022">
         <mark key="[" line="0" column="34" />
@@ -755,13 +766,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>shell_hierarchy</text>
+        <text>getOwnerId</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>shell_hierarchy</text>
+        <text>getOwnerId</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxVc2VyXD4=</text>
@@ -778,31 +789,31 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgc2lkZWJhckNvZkZpZWxkcygpIHsKICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnNob3dDdXN0b21PcHRpb25GaWVsZE1vZGFsID0gZmFsc2U7Cg==</text>
+        <text encoding="base64">ICAgICAgc2lkZWJhckNvZkZpZWxkcygpIHsKICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnNlbGVjdGVkQ3VzdG9tT3B0aW9uRmllbGQgPSB7fTsK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnNob3dDdXN0b21PcHRpb25GaWVsZE1vZGFsID0gZmFsc2U7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnNlbGVjdGVkQ3VzdG9tT3B0aW9uRmllbGQgPSB7fTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBvcmlnaW5hbElkCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsYWJlbAo=</text>
+        <text encoding="base64">ICAgICAgICBvcmlnaW5hbElkCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBJZAo=</text>
+        <text encoding="base64">ICAgICAgICBsYWJlbAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICBJZAo=</text>
       </register>
       <register name=":" type="4">
-        <text>564</text>
+        <text>111</text>
       </register>
     </registers>
     <search>
@@ -838,7 +849,6 @@
         <entry encoding="base64">XDxVc2VyXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>581</entry>
         <entry>733</entry>
         <entry>134</entry>
         <entry>638</entry>
@@ -858,6 +868,7 @@
         <entry>355</entry>
         <entry>17</entry>
         <entry>564</entry>
+        <entry>111</entry>
       </history-cmd>
       <history-expr />
       <history-input />
