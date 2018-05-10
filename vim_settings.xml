@@ -9,8 +9,8 @@
       <file name="$USER_HOME$/workspace/php/testProject/app/Http/Controllers/ContactController.php" timestamp="1503087041690">
         <mark key="[" line="8" column="6" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/editable-field.vue" timestamp="1525815051690">
-        <mark key="[" line="29" column="29" />
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/editable-field.vue" timestamp="1525990201939">
+        <mark key="[" line="23" column="8" />
         <mark key="]" line="28" column="25" />
         <mark key="^" line="28" column="24" />
         <mark key="." line="28" column="25" />
@@ -519,13 +519,6 @@
       <file name="$USER_HOME$/bernieportal/tests/app/Http/Requests/Plans/Shells/ShellsRequestTest.php" timestamp="1521637985075">
         <mark key="[" line="106" column="40" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/custom-option-field-circle.vue" timestamp="1525884364124">
-        <mark key="'" line="61" column="12" />
-        <mark key="[" line="147" column="0" />
-        <mark key="]" line="153" column="3" />
-        <mark key="." line="153" column="3" />
-        <mark key="^" line="153" column="3" />
-      </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/quaternary-nav-for-vue.vue" timestamp="1498594361234">
         <mark key="[" line="15" column="23" />
       </file>
@@ -566,7 +559,7 @@
       <file name="$USER_HOME$/workspace/php/testProject/public/css/main.css" timestamp="1504813753200">
         <mark key="[" line="34" column="23" />
       </file>
-      <file name="/PHP Console" timestamp="1525981175594">
+      <file name="/PHP Console" timestamp="1525981196082">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/JavaScript Console" timestamp="1518461207304">
