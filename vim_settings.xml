@@ -538,12 +538,11 @@
       <file name="$USER_HOME$/bernieportal/app/Http/Requests/User/ShowUserRequest.php" timestamp="1496853931288">
         <mark key="[" line="21" column="49" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/carrier-forms/broker-form-view.vue" timestamp="1526313150040">
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/carrier-forms/broker-form-view.vue" timestamp="1526315916096">
         <mark key="'" line="360" column="44" />
-        <mark key="[" line="950" column="7" />
-        <mark key="]" line="952" column="7" />
-        <mark key="^" line="952" column="7" />
-        <mark key="." line="952" column="7" />
+        <mark key="[" line="843" column="74" />
+        <mark key="]" line="877" column="0" />
+        <mark key="." line="877" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Jobs/Plans/Shells/UpdatePlansCreatedFromShell.php" timestamp="1524687153761">
         <mark key="[" line="141" column="108" />
@@ -569,7 +568,7 @@
       <file name="$USER_HOME$/workspace/php/testProject/public/css/main.css" timestamp="1504813753200">
         <mark key="[" line="34" column="23" />
       </file>
-      <file name="/PHP Console" timestamp="1526312975710">
+      <file name="/PHP Console" timestamp="1526315904960">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Api/Transformers/Benefits/Plans/Shells/RatesPageLinkTransformer.php" timestamp="1526069985102">
@@ -732,14 +731,14 @@
       <jump line="360" column="44" filename="$USER_HOME$/bernieportal/resources/assets/components/carrier-forms/broker-form-view.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Sex of Spouse?</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>Sex of Spouse?</text>
+        <text>this.form.fields.data</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxVc2VyXD4=</text>
@@ -753,34 +752,34 @@
               },</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVkaXRpbmc6IGZhbHNlLAo=</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVkaXRpbmc6IGZhbHNlLAo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">IAogICAgICAgIGNvbnN0IGZvdW5kID0gdGhpcy5nZXRJbmRleE9mSXRlbUJ5SWQodGhpcy5mb3JtLmNvZkZpZWxkcy5kYXRhLCBpdGVtID0+IGl0ZW0uaWQgPT0gZmllbGRJZCk7CgogICAgICAgIGNvbnN0IHByZXZpb3VzWCA9IHRoaXMuZm9ybS5jb2ZGaWVsZHMuZGF0YVtmb3VuZF0ueDsKICAgICAgICBjb25zdCBwcmV2aW91c1kgPSB0aGlzLmZvcm0uY29mRmllbGRzLmRhdGFbZm91bmRdLnk7CgogICAgICAgIHRoaXMuZm9ybS5jb2ZGaWVsZHMuZGF0YVtmb3VuZF0ueCA9IHg7CiAgICAgICAgdGhpcy5mb3JtLmNvZkZpZWxkcy5kYXRhW2ZvdW5kXS55ID0geTs=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVkaXRpbmc6IGZhbHNlLAo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmZvcm0uY29mRmllbGRzLmRhdGFbZm91bmRdLnggPSB4OwogICAgICAgIHRoaXMuZm9ybS5jb2ZGaWVsZHMuZGF0YVtmb3VuZF0ueSA9IHk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVkaXRpbmc6IGZhbHNlLAo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBwcmV2aW91c1kgPSB0aGlzLmZvcm0uY29mRmllbGRzLmRhdGFbZm91bmRdLnk7Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVkaXRpbmc6YWxzZSwK</text>
+        <text encoding="base64">CiAgICAgICAgY29uc3QgcHJldmlvdXNYID0gdGhpcy5mb3JtLmNvZkZpZWxkcy5kYXRhW2ZvdW5kXS54Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVkaXRpbmc6IGZhbHNlLAo=</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICBjb25zdCBmb3VuZCA9IHRoaXMuZ2V0SW5kZXhPZkl0ZW1CeUlkKHRoaXMuZm9ybS5jb2ZGaWVsZHMuZGF0YSwgaXRlbSA9PiBpdGVtLmlkID09IGZpZWxkSWQpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVkaXRpbmc6IGZhbHNlLAo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnVwZGF0ZUZpZWxkUG9zaXRpb24odGhpcy5mb3JtLmZpZWxkcy5kYXRhLCBmaWVsZElkLCB4LCB5KTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhkYXRhKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdJVFMgQU4gT1BUSU9OJyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>833</text>
