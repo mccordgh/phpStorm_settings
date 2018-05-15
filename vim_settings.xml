@@ -345,6 +345,7 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/benefit-eoi/pending-buttons.vue" timestamp="1498596940985">
         <mark key="[" line="2" column="10" />
       </file>
+      <file name="$USER_HOME$/bernieportal/vendor/laravel/framework/src/Illuminate/Database/ConnectionInterface.php" timestamp="1526407294656" />
       <file name="$USER_HOME$/bernieportal/app/Carriers/Billing/LifeChildSummaryLineItem.php" timestamp="1508429199353">
         <mark key="[" line="39" column="6" />
       </file>
@@ -551,6 +552,8 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/benefit-provider/benefit-provider-profile-form.vue" timestamp="1524777626668">
         <mark key="[" line="0" column="22" />
       </file>
+      <file name="$USER_HOME$/bernieportal/vendor/laravel/framework/src/Illuminate/Database/Connection.php" timestamp="1526407378413" />
+      <file name="$USER_HOME$/bernieportal/app/Data/Repositories/Benefits/Plans/BrokerFormAccessObjectRepository.php" timestamp="1526407321578" />
       <file name="$USER_HOME$/bernieportal/resources/assets/components/account-settings/change-password.vue" timestamp="1508528918510">
         <mark key="[" line="60" column="21" />
       </file>
