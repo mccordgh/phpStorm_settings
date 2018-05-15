@@ -39,7 +39,7 @@
       <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/Edi/SchedulersController.php" timestamp="1494362868134">
         <mark key="[" line="32" column="44" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/User.php" timestamp="1524769595582">
+      <file name="$USER_HOME$/bernieportal/app/User.php" timestamp="1526416075692">
         <mark key="[" line="88" column="27" />
       </file>
       <file name="$USER_HOME$/workspace/php/testProject/resources/views/dashboard.blade.php" timestamp="1504811117559">
@@ -815,7 +815,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>1031</text>
+        <text>94</text>
       </register>
     </registers>
     <search>
@@ -851,8 +851,6 @@
         <entry encoding="base64">XDxVc2VyXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>70</entry>
-        <entry>355</entry>
         <entry>17</entry>
         <entry>564</entry>
         <entry>111</entry>
@@ -871,6 +869,8 @@
         <entry>601</entry>
         <entry>145</entry>
         <entry>1031</entry>
+        <entry>556</entry>
+        <entry>94</entry>
       </history-cmd>
       <history-expr />
       <history-input />
