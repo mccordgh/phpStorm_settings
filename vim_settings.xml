@@ -18,7 +18,7 @@
       <file name="$USER_HOME$/workspace/portfolio_os/src/main.js" timestamp="1513121557636">
         <mark key="[" line="4" column="30" />
       </file>
-      <file name="/a.dummy" timestamp="1526409740738">
+      <file name="/a.dummy" timestamp="1526419974020">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/tests/app/Api/Transformers/Benefits/Plans/Shells/ShellPdfTransformerTest.php" timestamp="1521060907145">
@@ -75,6 +75,7 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/form-field.vue" timestamp="1516300410620">
         <mark key="[" line="40" column="14" />
       </file>
+      <file name="$USER_HOME$/bernieportal/database/migrations/2018_03_06_144804_add_shell_hierarchy_id_column_and_foreign_key_to_pdf_shells_table.php" timestamp="1526420059909" />
       <file name="$USER_HOME$/workspace/javascript/phaser_simple_tutorial/Gruntfile.js" timestamp="1516749870592">
         <mark key="[" line="1" column="0" />
       </file>
@@ -391,6 +392,12 @@
       <file name="$USER_HOME$/bernieportal/legacy/ClienteleModule.php" timestamp="1497635912389">
         <mark key="[" line="2" column="17" />
       </file>
+      <file name="$USER_HOME$/bernieportal/database/migrations/2018_05_15_172802_create_broker_form_field_options_pivot_table.php" timestamp="1526419823642">
+        <mark key="[" line="18" column="47" />
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="23" column="97" />
+        <mark key="." line="22" column="0" />
+      </file>
       <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/Plans/Shells/ShellsImportsController.php" timestamp="1525450922811">
         <mark key="[" line="50" column="30" />
       </file>
@@ -545,13 +552,6 @@
       <file name="$USER_HOME$/bernieportal/tests/app/Http/Requests/Plans/Shells/ShellsRequestTest.php" timestamp="1521637985075">
         <mark key="[" line="106" column="40" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/custom-option-field-circle.vue" timestamp="1526329711671">
-        <mark key="'" line="133" column="8" />
-        <mark key="[" line="144" column="7" />
-        <mark key="]" line="106" column="4" />
-        <mark key="." line="106" column="4" />
-        <mark key="^" line="145" column="5" />
-      </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/quaternary-nav-for-vue.vue" timestamp="1498594361234">
         <mark key="[" line="15" column="23" />
       </file>
@@ -605,7 +605,13 @@
       <file name="$USER_HOME$/workspace/php/testProject/public/css/main.css" timestamp="1504813753200">
         <mark key="[" line="34" column="23" />
       </file>
-      <file name="/PHP Console" timestamp="1526409280607">
+      <file name="$USER_HOME$/bernieportal/database/migrations/2018_05_15_143748_create_broker_form_field_options_table.php" timestamp="1526420077932">
+        <mark key="[" line="31" column="5" />
+        <mark key="]" line="31" column="3" />
+        <mark key="^" line="31" column="3" />
+        <mark key="." line="31" column="3" />
+      </file>
+      <file name="/PHP Console" timestamp="1526419420734">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Api/Transformers/Benefits/Plans/Shells/RatesPageLinkTransformer.php" timestamp="1526069985102">
@@ -768,14 +774,14 @@
       <jump line="131" column="8" filename="$USER_HOME$/bernieportal/resources/assets/components/custom-option-field-circle.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>custom_option_</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5zdHJpbmcoJ3R5cGUnLCA2NCk7Cg==</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>custom_option_</text>
+        <text>form_field_id</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxVc2VyXD4=</text>
@@ -784,32 +790,32 @@
         <text encoding="base64">ICAgICAgc2F2ZVBsYWNpbmdDYWxsYmFjazogewogICAgICAgIHR5cGU6IEZ1bmN0aW9uLAogICAgICAgIHJlcXVpcmVkOiB0cnVlLAogICAgICB9LAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5zdHJpbmcoJ3R5cGUnLCA2NCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LWFnZW50bGliOnlqcGFnZW50PWRlbGF5PTEwMDAwLHByb2JlX2Rpc2FibGU9Kgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5zdHJpbmcoJ2xhYmVsJywgMjU2KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhwYXJlbnRJbmRleCk7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh7b3B0aW9ufSk7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh7Y3VycmVudENvZnM6IHRoaXMuY3VycmVudFBhZ2VDb2ZGaWVsZHN9KQo=</text>
-      </register>
-      <register name="6" type="4">
-        <text>this.currentCofPlacing = {};
-        this.placingMode = false;</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">LWFnZW50bGliOnlqcGFnZW50PWRlbGF5PTEwMDAwLHByb2JlX2Rpc2FibGU9Kgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhwYXJlbnRJbmRleCk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh7b3B0aW9ufSk7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh7Y3VycmVudENvZnM6IHRoaXMuY3VycmVudFBhZ2VDb2ZGaWVsZHN9KQo=</text>
+      </register>
       <register name="8" type="4">
-        <text encoding="base64">ICAgICAgICAgIGNyZWF0ZWQ6ICcnLAogICAgICAgICAgaWQ6IG51bGwsCiAgICAgICAgICBuYW1lOiAnJywKICAgICAgICAgIG93bmVyX2lkOiBudWxsLAogICAgICAgICAgcGRmVXJsOiAnJyw=</text>
+        <text>this.currentCofPlacing = {};
+        this.placingMode = false;</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
