@@ -106,6 +106,12 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/time/subgroups/settings.vue" timestamp="1515456395716">
         <mark key="[" line="361" column="27" />
       </file>
+      <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/BrokerForms/FieldsController.php" timestamp="1526493787513">
+        <mark key="[" line="40" column="12" />
+        <mark key="]" line="40" column="12" />
+        <mark key="^" line="24" column="42" />
+        <mark key="." line="40" column="12" />
+      </file>
       <file name="$USER_HOME$/bernieportal/app/Benefits/AccidentBenefit.php" timestamp="1507838130495">
         <mark key="[" line="0" column="1" />
       </file>
@@ -151,6 +157,12 @@
       <file name="$USER_HOME$/workspace/javascript/GGJ2018_last_electrician/js/world-manager.js" timestamp="1517098990138">
         <mark key="[" line="75" column="48" />
       </file>
+      <file name="$USER_HOME$/bernieportal/app/Http/Requests/BrokerForms/CreateFieldRequest.php" timestamp="1526493791970">
+        <mark key="[" line="81" column="4" />
+        <mark key="]" line="81" column="4" />
+        <mark key="^" line="28" column="11" />
+        <mark key="." line="81" column="4" />
+      </file>
       <file name="$USER_HOME$/bernieportal/legacy/UserManagementModule.php" timestamp="1508444607673">
         <mark key="[" line="505" column="30" />
       </file>
@@ -186,6 +198,12 @@
       </file>
       <file name="$USER_HOME$/workspace/miniverse_frontend/index.html" timestamp="1514843064405">
         <mark key="[" line="17" column="10" />
+      </file>
+      <file name="$USER_HOME$/bernieportal/app/Data/Repositories/Benefits/Plans/BrokerFieldRepository.php" timestamp="1526493338274">
+        <mark key="[" line="41" column="63" />
+        <mark key="]" line="44" column="0" />
+        <mark key="^" line="44" column="0" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/onboarding/personal-info.vue" timestamp="1518716274524">
         <mark key="[" line="175" column="22" />
@@ -348,6 +366,12 @@
       <file name="$USER_HOME$/workspace/advent_of_code/day_1_captcha/index.html" timestamp="1512157276150">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/bernieportal/app/Benefits/Plans/BrokerField.php" timestamp="1526493110679">
+        <mark key="[" line="127" column="21" />
+        <mark key="]" line="127" column="7" />
+        <mark key="^" line="127" column="7" />
+        <mark key="." line="127" column="7" />
+      </file>
       <file name="$USER_HOME$/bernieportal/resources/views/dashboards/employer/current-enrollment.blade.php" timestamp="1502478648006">
         <mark key="[" line="0" column="1" />
       </file>
@@ -420,6 +444,12 @@
       <file name="$USER_HOME$/bernieportal/app/Api/Transformers/UserTransformer.php" timestamp="1495663599299">
         <mark key="[" line="16" column="24" />
       </file>
+      <file name="$USER_HOME$/bernieportal/app/Data/Repositories/Benefits/Plans/BrokerFieldAccessObjectRepository.php" timestamp="1526493379931">
+        <mark key="[" line="116" column="8" />
+        <mark key="]" line="116" column="7" />
+        <mark key="^" line="116" column="7" />
+        <mark key="." line="116" column="7" />
+      </file>
       <file name="$USER_HOME$/workspace/Defend_The_Castle/.gitignore" timestamp="1506608558146">
         <mark key="[" line="0" column="0" />
       </file>
@@ -449,6 +479,12 @@
       </file>
       <file name="$USER_HOME$/bernieportal/app/Brokerage/Broker.php" timestamp="1523994253123">
         <mark key="[" line="57" column="31" />
+      </file>
+      <file name="/fragment.php" timestamp="1526493743694">
+        <mark key="'" line="0" column="10" />
+        <mark key="[" line="0" column="10" />
+        <mark key="]" line="0" column="10" />
+        <mark key="." line="0" column="10" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/Plans/Shells/ShellsHierarchyController.php" timestamp="1521657976020">
         <mark key="[" line="35" column="33" />
@@ -594,7 +630,7 @@
         <mark key="^" line="31" column="3" />
         <mark key="." line="31" column="3" />
       </file>
-      <file name="/PHP Console" timestamp="1526486811513">
+      <file name="/PHP Console" timestamp="1526493804240">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/JavaScript Console" timestamp="1518461207304">
@@ -650,7 +686,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="133" column="0" filename="$USER_HOME$/bernieportal/legacy/Air/Models/AirEnrollToCoverageMapper.php" />
       <jump line="116" column="14" filename="$USER_HOME$/workspace/css/css_3d_essentials/index.html" />
       <jump line="40" column="20" filename="$USER_HOME$/bernieportal/resources/assets/js/benefits/benefit-types.js" />
       <jump line="2" column="0" filename="$USER_HOME$/bernieportal/resources/assets/components/benefits/plans/shells/shell.vue" />
@@ -750,16 +785,17 @@
       <jump line="360" column="44" filename="$USER_HOME$/bernieportal/resources/assets/components/carrier-forms/broker-form-view.vue" />
       <jump line="89" column="29" filename="$USER_HOME$/bernieportal/resources/assets/components/custom-option-field-circle.vue" />
       <jump line="131" column="8" filename="$USER_HOME$/bernieportal/resources/assets/components/custom-option-field-circle.vue" />
+      <jump line="0" column="10" filename="/fragment.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5zdHJpbmcoJ3R5cGUnLCA2NCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>protected</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>form_field_id</text>
+        <text>protected</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxVc2VyXD4=</text>
