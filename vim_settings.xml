@@ -209,7 +209,7 @@
       <file name="$USER_HOME$/workspace/miniverse_frontend/index.html" timestamp="1514843064405">
         <mark key="[" line="17" column="10" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Data/Repositories/Benefits/Plans/BrokerFieldRepository.php" timestamp="1526504156543">
+      <file name="$USER_HOME$/bernieportal/app/Data/Repositories/Benefits/Plans/BrokerFieldRepository.php" timestamp="1526571102195">
         <mark key="[" line="45" column="86" />
         <mark key="]" line="45" column="50" />
         <mark key="^" line="45" column="50" />
@@ -245,10 +245,11 @@
       <file name="$USER_HOME$/bernieportal/legacy/CmsMiscModule.php" timestamp="1508444603150">
         <mark key="[" line="1169" column="12" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/BrokerForms/FormsController.php" timestamp="1526568978616">
-        <mark key="[" line="94" column="8" />
-        <mark key="]" line="106" column="0" />
-        <mark key="." line="106" column="0" />
+      <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/BrokerForms/FormsController.php" timestamp="1526571011703">
+        <mark key="[" line="112" column="12" />
+        <mark key="]" line="112" column="47" />
+        <mark key="." line="112" column="47" />
+        <mark key="^" line="112" column="47" />
       </file>
       <file name="$USER_HOME$/workspace/gamepad_api_demo/index.html" timestamp="1501271743681">
         <mark key="[" line="3" column="0" />
@@ -852,14 +853,14 @@
       <jump line="78" column="4" filename="$USER_HOME$/bernieportal/app/Benefits/Plans/BrokerFieldOption.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBhcnJheSAkb3B0aW9ucwo=</text>
+      <register name="&quot;" type="4">
+        <text>$newField</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>$options = []</text>
+        <text>$newField</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxVc2VyXD4=</text>
