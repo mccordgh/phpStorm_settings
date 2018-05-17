@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="tmp_3pubLG" type="PLAIN_TEXT" />
       <mapping pattern="key-manager.js" type="PLAIN_TEXT" />
+      <mapping pattern=".env.swp" type="PLAIN_TEXT" />
       <mapping ext="wrd" type="PLAIN_TEXT" />
       <mapping pattern=".global-gitignore" type="Git file" />
     </extensionMap>
