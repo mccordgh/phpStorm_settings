@@ -140,10 +140,10 @@
       <file name="$USER_HOME$/workspace/gamepad_api_demo/main.css" timestamp="1501271749114">
         <mark key="[" line="5" column="10" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Data/AccessObjects/Benefits/Plans/BrokerField.php" timestamp="1526572001963">
-        <mark key="[" line="67" column="27" />
-        <mark key="]" line="61" column="41" />
-        <mark key="." line="61" column="41" />
+      <file name="$USER_HOME$/bernieportal/app/Data/AccessObjects/Benefits/Plans/BrokerField.php" timestamp="1526581745433">
+        <mark key="[" line="59" column="40" />
+        <mark key="]" line="59" column="40" />
+        <mark key="." line="59" column="40" />
         <mark key="^" line="61" column="41" />
       </file>
       <file name="$USER_HOME$/bernieportal/tests/app/Benefits/Plans/PlanRepositoryTest.php" timestamp="1525456420963">
@@ -209,11 +209,11 @@
       <file name="$USER_HOME$/workspace/miniverse_frontend/index.html" timestamp="1514843064405">
         <mark key="[" line="17" column="10" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Data/Repositories/Benefits/Plans/BrokerFieldRepository.php" timestamp="1526571166564">
-        <mark key="[" line="45" column="86" />
-        <mark key="]" line="45" column="50" />
+      <file name="$USER_HOME$/bernieportal/app/Data/Repositories/Benefits/Plans/BrokerFieldRepository.php" timestamp="1526581209541">
+        <mark key="[" line="47" column="78" />
+        <mark key="]" line="47" column="78" />
         <mark key="^" line="45" column="50" />
-        <mark key="." line="45" column="50" />
+        <mark key="." line="47" column="78" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/onboarding/personal-info.vue" timestamp="1518716274524">
         <mark key="[" line="175" column="22" />
@@ -245,7 +245,7 @@
       <file name="$USER_HOME$/bernieportal/legacy/CmsMiscModule.php" timestamp="1508444603150">
         <mark key="[" line="1169" column="12" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/BrokerForms/FormsController.php" timestamp="1526571011703">
+      <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/BrokerForms/FormsController.php" timestamp="1526582292228">
         <mark key="[" line="112" column="12" />
         <mark key="]" line="112" column="47" />
         <mark key="." line="112" column="47" />
@@ -266,7 +266,7 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/benefit-booklets/configure-booklet.vue" timestamp="1512424950606">
         <mark key="[" line="183" column="98" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Data/AccessObjects/Benefits/Plans/BrokerForm.php" timestamp="1526571918283">
+      <file name="$USER_HOME$/bernieportal/app/Data/AccessObjects/Benefits/Plans/BrokerForm.php" timestamp="1526580958587">
         <mark key="[" line="55" column="23" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/candidate/job-applications-list.vue" timestamp="1493315731584">
@@ -391,11 +391,11 @@
       <file name="$USER_HOME$/workspace/advent_of_code/day_1_captcha/index.html" timestamp="1512157276150">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Benefits/Plans/BrokerField.php" timestamp="1526571890641">
-        <mark key="[" line="357" column="26" />
-        <mark key="]" line="358" column="6" />
-        <mark key="^" line="358" column="6" />
-        <mark key="." line="358" column="6" />
+      <file name="$USER_HOME$/bernieportal/app/Benefits/Plans/BrokerField.php" timestamp="1526581719177">
+        <mark key="[" line="359" column="56" />
+        <mark key="]" line="359" column="56" />
+        <mark key="^" line="359" column="55" />
+        <mark key="." line="359" column="56" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/views/dashboards/employer/current-enrollment.blade.php" timestamp="1502478648006">
         <mark key="[" line="0" column="1" />
@@ -480,11 +480,11 @@
       <file name="$USER_HOME$/bernieportal/app/Api/Transformers/UserTransformer.php" timestamp="1495663599299">
         <mark key="[" line="16" column="24" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Data/Repositories/Benefits/Plans/BrokerFieldAccessObjectRepository.php" timestamp="1526571622114">
-        <mark key="[" line="7" column="16" />
-        <mark key="]" line="7" column="16" />
-        <mark key="." line="7" column="16" />
-        <mark key="^" line="126" column="24" />
+      <file name="$USER_HOME$/bernieportal/app/Data/Repositories/Benefits/Plans/BrokerFieldAccessObjectRepository.php" timestamp="1526582340882">
+        <mark key="[" line="138" column="30" />
+        <mark key="]" line="138" column="24" />
+        <mark key="." line="138" column="24" />
+        <mark key="^" line="138" column="24" />
       </file>
       <file name="$USER_HOME$/workspace/Defend_The_Castle/.gitignore" timestamp="1506608558146">
         <mark key="[" line="0" column="0" />
@@ -641,10 +641,11 @@
         <mark key="^" line="18" column="38" />
         <mark key="." line="15" column="24" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/carrier-forms/broker-form-view.vue" timestamp="1526503962841">
-        <mark key="[" line="768" column="0" />
-        <mark key="]" line="768" column="0" />
-        <mark key="." line="768" column="0" />
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/carrier-forms/broker-form-view.vue" timestamp="1526582027509">
+        <mark key="[" line="834" column="33" />
+        <mark key="]" line="834" column="33" />
+        <mark key="." line="834" column="33" />
+        <mark key="^" line="834" column="33" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Jobs/Plans/Shells/UpdatePlansCreatedFromShell.php" timestamp="1524687153761">
         <mark key="[" line="141" column="108" />
@@ -682,7 +683,7 @@
         <mark key="^" line="31" column="3" />
         <mark key="." line="31" column="3" />
       </file>
-      <file name="/PHP Console" timestamp="1526504073908">
+      <file name="/PHP Console" timestamp="1526582345372">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Api/Transformers/Benefits/Plans/Shells/RatesPageLinkTransformer.php" timestamp="1526069985102">
@@ -702,10 +703,11 @@
       <file name="$USER_HOME$/mastiff/mastiff/laravel/app/controllers/api/v1/resources/ProviderController.php" timestamp="1514921576555">
         <mark key="[" line="17" column="26" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Data/AccessObjects/Benefits/Plans/BrokerFieldOption.php" timestamp="1526568376699">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/bernieportal/app/Data/AccessObjects/Benefits/Plans/BrokerFieldOption.php" timestamp="1526580993683">
+        <mark key="[" line="15" column="5" />
+        <mark key="]" line="17" column="31" />
+        <mark key="." line="17" column="31" />
+        <mark key="^" line="17" column="31" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/benefit-provider/client-bills.vue" timestamp="1510596330385">
         <mark key="[" line="101" column="29" />
@@ -865,35 +867,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgc2F2ZVBsYWNpbmdDYWxsYmFjazogewogICAgICAgIHR5cGU6IEZ1bmN0aW9uLAogICAgICAgIHJlcXVpcmVkOiB0cnVlLAogICAgICB9LAo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtICRvcHRpb24KICAgICAqIEBwYXJhbSBpbnQgJHBhZ2VOdW1iZXIKICAgICAqIEBwYXJhbSBmbG9hdCAkeAogICAgICogQHBhcmFtIGZsb2F0ICR5CiAgICAgKiBAcmV0dXJuIEJyb2tlckZpZWxkT3B0aW9uCiAgICAgKi8=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBhcnJheSAkb3B0aW9ucwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBhcnJheSAkb3B0aW9ucwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBudWxsICRjb250ZW50CiAgICAgKiBAcGFyYW0gc3RyaW5nICRkaXNwbGF5Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+cmVjb3JkLT5jb250ZW50ID0gJGNvbnRlbnQ7CiAgICAgICAgJHRoaXMtPnJlY29yZC0+ZGlzcGxheSA9ICRkaXNwbGF5Owo=</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBudWxsICRjb250ZW50CiAgICAgKiBAcGFyYW0gc3RyaW5nICRkaXNwbGF5Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNlIEJlcm5pZVBvcnRhbFxEYXRhXEFjY2Vzc09iamVjdHNcQmVuZWZpdHNcUGxhbnNcQnJva2VyRmllbGQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+cmVjb3JkLT5jb250ZW50ID0gJGNvbnRlbnQ7CiAgICAgICAgJHRoaXMtPnJlY29yZC0+ZGlzcGxheSA9ICRkaXNwbGF5Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlIEJlcm5pZVBvcnRhbFxEYXRhXEFjY2Vzc09iamVjdHNcQmVuZWZpdHNcUGxhbnNcQnJva2VyRmllbGQ7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>124</text>
