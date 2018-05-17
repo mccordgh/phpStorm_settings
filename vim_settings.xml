@@ -247,6 +247,7 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/time/summary-table.vue" timestamp="1496776949409">
         <mark key="[" line="39" column="46" />
       </file>
+      <file name="$USER_HOME$/bernieportal/legacy/BenefitConfigureModule.php" timestamp="1526584719297" />
       <file name="$USER_HOME$/bernieportal/.gitignore" timestamp="1520375272697">
         <mark key="[" line="63" column="22" />
       </file>
@@ -256,6 +257,7 @@
       <file name="$USER_HOME$/bernieportal/app/Data/AccessObjects/Benefits/Plans/BrokerForm.php" timestamp="1526580958587">
         <mark key="[" line="55" column="23" />
       </file>
+      <file name="$USER_HOME$/bernieportal/public/sites/all/modules/benefit_configure/benefit_configure.module" timestamp="1526584209825" />
       <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/candidate/job-applications-list.vue" timestamp="1493315731584">
         <mark key="[" line="46" column="67" />
       </file>
@@ -296,6 +298,12 @@
       </file>
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/tiles/path-yellow.js" timestamp="1503356619147">
         <mark key="[" line="3" column="17" />
+      </file>
+      <file name="$USER_HOME$/bernieportal/legacy/Benefits/BenefitLibrary.php" timestamp="1526585002804">
+        <mark key="[" line="170" column="21" />
+        <mark key="]" line="170" column="21" />
+        <mark key="^" line="160" column="20" />
+        <mark key="." line="170" column="21" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/time/employees/timesheet.vue" timestamp="1496866552323">
         <mark key="[" line="3" column="37" />
@@ -428,11 +436,11 @@
       <file name="$USER_HOME$/bernieportal/legacy/ClienteleModule.php" timestamp="1497635912389">
         <mark key="[" line="2" column="17" />
       </file>
-      <file name="$USER_HOME$/bernieportal/database/migrations/2018_05_15_172802_create_broker_form_field_options_pivot_table.php" timestamp="1526419823642">
-        <mark key="[" line="18" column="47" />
-        <mark key="]" line="22" column="0" />
-        <mark key="^" line="23" column="97" />
-        <mark key="." line="22" column="0" />
+      <file name="$USER_HOME$/bernieportal/database/migrations/2018_05_15_172802_create_broker_form_field_options_pivot_table.php" timestamp="1526584751969">
+        <mark key="[" line="17" column="46" />
+        <mark key="]" line="17" column="56" />
+        <mark key="^" line="17" column="56" />
+        <mark key="." line="17" column="56" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/Plans/Shells/ShellsImportsController.php" timestamp="1525450922811">
         <mark key="[" line="50" column="30" />
@@ -640,14 +648,20 @@
       <file name="$USER_HOME$/bernieportal/app/Time/Workweek.php" timestamp="1515187729098">
         <mark key="[" line="185" column="5" />
       </file>
+      <file name="$USER_HOME$/bernieportal/legacy/BrokerPortalModule.php" timestamp="1526584895641">
+        <mark key="[" line="5792" column="25" />
+        <mark key="]" line="5792" column="25" />
+        <mark key="^" line="5782" column="20" />
+        <mark key="." line="5792" column="25" />
+      </file>
       <file name="$USER_HOME$/bernieportal/tests/app/Http/Requests/Plans/Shells/CreateShellRequestTest.php" timestamp="1525289311248">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/php/testProject/public/css/main.css" timestamp="1504813753200">
         <mark key="[" line="34" column="23" />
       </file>
-      <file name="$USER_HOME$/bernieportal/database/migrations/2018_05_15_143748_create_broker_form_field_options_table.php" timestamp="1526420077932">
-        <mark key="[" line="31" column="5" />
+      <file name="$USER_HOME$/bernieportal/database/migrations/2018_05_15_143748_create_broker_form_field_options_table.php" timestamp="1526584744160">
+        <mark key="[" line="17" column="52" />
         <mark key="]" line="31" column="3" />
         <mark key="^" line="31" column="3" />
         <mark key="." line="31" column="3" />
@@ -822,13 +836,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>fieldId</text>
+        <text>alkjdflkajsdifaosjdfijasoe;isejfioej</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>fieldId</text>
+        <text>alkjdflkajsdifaosjdfijasoe;isejfioej</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxVc2VyXD4=</text>
@@ -867,7 +881,7 @@
         <text encoding="base64">dXNlIEJlcm5pZVBvcnRhbFxEYXRhXEFjY2Vzc09iamVjdHNcQmVuZWZpdHNcUGxhbnNcQnJva2VyRmllbGQ7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>124</text>
+        <text>171</text>
       </register>
     </registers>
     <search>
@@ -903,8 +917,6 @@
         <entry encoding="base64">XDxVc2VyXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>71</entry>
-        <entry>567</entry>
         <entry>833</entry>
         <entry>590</entry>
         <entry>656</entry>
@@ -923,6 +935,8 @@
         <entry>1191</entry>
         <entry>129</entry>
         <entry>124</entry>
+        <entry>31</entry>
+        <entry>171</entry>
       </history-cmd>
       <history-expr />
       <history-input />
