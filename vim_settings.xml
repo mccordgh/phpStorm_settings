@@ -110,11 +110,10 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/time/subgroups/settings.vue" timestamp="1515456395716">
         <mark key="[" line="361" column="27" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/BrokerForms/FieldsController.php" timestamp="1526658678154">
-        <mark key="[" line="75" column="47" />
-        <mark key="]" line="75" column="47" />
-        <mark key="." line="75" column="47" />
-        <mark key="^" line="75" column="47" />
+      <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/BrokerForms/FieldsController.php" timestamp="1526670480513">
+        <mark key="[" line="69" column="49" />
+        <mark key="]" line="74" column="0" />
+        <mark key="." line="74" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Benefits/AccidentBenefit.php" timestamp="1507838130495">
         <mark key="[" line="0" column="1" />
@@ -259,11 +258,11 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/time/summary-table.vue" timestamp="1496776949409">
         <mark key="[" line="39" column="46" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Http/Requests/BrokerForms/MoveOptionsRequest.php" timestamp="1526660345267">
-        <mark key="[" line="28" column="20" />
-        <mark key="]" line="56" column="11" />
-        <mark key="." line="56" column="11" />
-        <mark key="^" line="44" column="17" />
+      <file name="$USER_HOME$/bernieportal/app/Http/Requests/BrokerForms/MoveOptionsRequest.php" timestamp="1526670393043">
+        <mark key="[" line="46" column="4" />
+        <mark key="]" line="46" column="4" />
+        <mark key="." line="46" column="4" />
+        <mark key="^" line="38" column="9" />
       </file>
       <file name="$USER_HOME$/bernieportal/.gitignore" timestamp="1520375272697">
         <mark key="[" line="63" column="22" />
@@ -704,7 +703,7 @@
         <mark key="^" line="31" column="3" />
         <mark key="." line="31" column="3" />
       </file>
-      <file name="/PHP Console" timestamp="1526660311764">
+      <file name="/PHP Console" timestamp="1526670421629">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Http/Requests/BrokerForms/SingleFieldRequest.php" timestamp="1526656921605" />
@@ -870,13 +869,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>patch</text>
+        <text>protected</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>patch</text>
+        <text>protected</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxVc2VyXD4=</text>
@@ -884,22 +883,28 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgc2F2ZVBsYWNpbmdDYWxsYmFjazogewogICAgICAgIHR5cGU6IEZ1bmN0aW9uLAogICAgICAgIHJlcXVpcmVkOiB0cnVlLAogICAgICB9LAo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IC0+bWFwKGZ1bmN0aW9uICgkb3B0aW9uKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gQnJva2VyRmllbGRPcHRpb246OmNyZWF0ZUZvclVzZXIoJG9wdGlvblsnbGFiZWwnXSwgJG9wdGlvblsndHlwZSddKTsKICAgICAgICAgICAgfSk7</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXMtPnJlc3BvbnNlLT5vayhbJ2RhdGEnID0+ICd0ZXN0dGVzdHRlc3R0ZXN0dGVzdHRlc3R0ZXN0dGVzdHRlc3R0ZXN0dGVzdHRlc3QnXSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgpOwo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">IC0+bWFwKGZ1bmN0aW9uICgkb3B0aW9uKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gQnJva2VyRmllbGRPcHRpb246OmNyZWF0ZUZvclVzZXIoJG9wdGlvblsnbGFiZWwnXSwgJG9wdGlvblsndHlwZSddKTsKICAgICAgICAgICAgfSk7</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>/**
      * @param int $optionId
      * @param float $x
@@ -907,17 +912,11 @@
      * @return int
      */</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text encoding="base64">CiAgICAvKioKICAgICAqIEJyb2tlciBGaWVsZCBPcHRpb25zCiAgICAgKi8=</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text encoding="base64">LwogICAgICAgICRmaWVsZCA9ICRyZXF1ZXN0LT5maWVsZCgpOwogICAgICAgICRmaWVsZC0+c2F2ZSgpOwoKICAgICAgICAkb3B0aW9ucyA9ICRyZXF1ZXN0LT5maWVsZE9wdGlvbnMoKTsKCiAgICAgICAgaWYgKCRvcHRpb25zKSB7CiAgICAgICAgICAgICR0aGlzLT5maWVsZFJlcG9zaXRvcnktPnNhdmVPcHRpb25zRm9yRmllbGQoJG9wdGlvbnMsICRmaWVsZCk7CgogICAgICAgICAgICByZXR1cm4gJHRoaXMtPnRyYW5zZm9ybWVkUmVzcG9uc2UoKS0+aW5jbHVkZSoqCiAgICAgKiBAdmFyIEJyb2tlckZpZWxkUmVwb3NpdG9yeQogICAgICAgICAgICAqLwogICAgcHJvdGVjdGVkICRmaWVsZFJlcG9zaXRvcnk7CgogICAgcHVibGljIGZ1bmN0aW9uIF9fY29uc3RydWN0KFJlc3BvbnNlRmFjdG9yeSAkcmVzcG9uc2UsIEJyb2tlckZpZWxkUmVwb3NpdG9yeSAkZmllbGRSZXBvc2l0b3J5KQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBwYXJlbnQ6Ol9fY29uc3RydWN0KCRyZXNwb25zZSk7CgogICAgICAgICAgICAgICAgJHRoaXMtPmZpZWxkUmVwb3NpdG9yeSA9ICRmaWVsZFJlcG9zaXRvcnk7CiAgICAgICAgICAgIH0KCiAgICBwdWJsaWMgZnVuY3Rpb24gaW5kZXgoTXVsdGlGaWVsZFJlcXVlc3QgJHJlcXVlc3QpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICRmaWVsZHMgPSAkcmVxdWVzdC0+ZmllbGRzKCk7CgogICAgICAgICAgICAgICAgcmV0dXJuICR0aGlzLT50cmFuc2Zvcm1lZFJlc3BvbnNlKCktPm9rKCRmaWVsZHMpOwogICAgICAgICAgICB9CgogICAgcHVibGljIGZ1bmN0aW9uIGNyZWF0ZShDcmVhdGVGaWVsZFJlcXVlc3QgJHJlcXVlc3QpCiAgICAgICAgICAgIHsoJ29wdGlvbnMnKS0+Y3JlYXRlZCgkZmllbGQpOwogICAgICAgIH0KCiAgICAgICAgcmV0dXJuICR0aGlzLT50cmFuc2Zvcm1lZFJlc3BvbnNlKCktPmNyZWF0ZWQoJGZpZWxkKTsKICAgIH0KCiAgICBwdWJsaWMgZnVuY3Rpb24gdXBkYXRlKFVwZGF0ZUZpZWxkUmVxdWVzdCAkcmVxdWVzdCkKICAgIHsKICAgICAgICAkZmllbGQgPSAkcmVxdWVzdC0+ZmllbGQoKTsKCiAgICAgICAgJGZpZWxkLT51cGRhdGUoJHJlcXVlc3QtPmxhYmVsKCksICRyZXF1ZXN0LT5jb250ZW50KCksICRyZXF1ZXN0LT5kaXNwbGF5KCkpOwoKICAgICAgICByZXR1cm4gJHRoaXMtPnJlc3BvbnNlLT51cGRhdGVkKCk7CiAgICB9CgogICAgcHVibGljIGZ1bmN0aW9uIGRlbGV0ZShTaW5nbGVGaWVsZFJlcXVlc3QgJHJlcXVlc3QpCiAgICB7CiAgICAgICAgJHJlcXVlc3QtPmZpZWxkKCktPmRlbGV0ZSgpOwoKICAgICAgICByZXR1cm4gJHRoaXMtPnJlc3BvbnNlLT5kZWxldGVkKCk7CiAgICB9CgogICAgLyoqCiAgICAgKiBAcmV0dXJuIFJlc3BvbnNlRmFjdG9yeQogICAgICovCiAgICBwcm90ZWN0ZWQgZnVuY3Rpb24gdHJhbnNmb3JtZWRSZXNwb25zZSgpCiAgICB7CiAgICAgICAgcmV0dXJuICR0aGlzLT5yZXNwb25zZS0+dHJhbnNmb3JtV2l0aChuZXcgQnJva2VyRmllbGRUcmFuc2Zvcm1lcik7CiAgICB9</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>362</text>
