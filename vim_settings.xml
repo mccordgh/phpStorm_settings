@@ -15,10 +15,11 @@
       <file name="/a.dummy" timestamp="1526673166820">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/benefits/plans/shells/library.vue" timestamp="1527013277724">
-        <mark key="[" line="167" column="79" />
-        <mark key="]" line="170" column="0" />
-        <mark key="." line="170" column="0" />
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/benefits/plans/shells/library.vue" timestamp="1527014568291">
+        <mark key="[" line="377" column="32" />
+        <mark key="]" line="468" column="46" />
+        <mark key="." line="468" column="46" />
+        <mark key="^" line="468" column="46" />
       </file>
       <file name="$USER_HOME$/bernieportal/tests/app/Api/Transformers/Benefits/Plans/Shells/ShellPdfTransformerTest.php" timestamp="1521060907145">
         <mark key="[" line="0" column="5" />
@@ -568,7 +569,7 @@
       <file name="$USER_HOME$/workspace/php/testProject/public/css/main.css" timestamp="1504813753200">
         <mark key="[" line="34" column="23" />
       </file>
-      <file name="/PHP Console" timestamp="1527013184826">
+      <file name="/PHP Console" timestamp="1527014693749">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/JavaScript Console" timestamp="1518461207304">
@@ -727,14 +728,14 @@
       <jump line="64" column="0" filename="$USER_HOME$/bernieportal/app/Data/Repositories/Benefits/Plans/BrokerFieldOptionRepository.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
+      <register name="&quot;" type="4">
+        <text>g</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>plans</text>
+        <text>g</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxVc2VyXD4=</text>
@@ -743,34 +744,34 @@
         <text encoding="base64">KGludCkg</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgIC8qcGFkZGluZy10b3A6IDJyZW07Ki8KICAvKn0qLwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2IHYtaWY9IiFzaGVsbEltcG9ydHNBdmFpbGFibGUubGVuZ3RoIiBjbGFzcz0iZm9ybS1yb3cgc2hlbGxzX25vdF9hdmFpbGFibGUiPgo=</text>
+        <text encoding="base64">ICAgIC8qZm9udC1zaXplOiAxLjZyZW07Ki8KICAgIC8qZm9udC13ZWlnaHQ6IGJvbGQ7Ki8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRleHQtYWxpZ246IGNlbnRlcjsK</text>
+        <text encoding="base64">CiAgLypkaXYuc2hlbGxzX25vdF9hdmFpbGFibGUgeyovCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkdXNlci0+aXNBY3RpbmdBc0Jyb2tlcigpCg==</text>
+        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CmZ1bmN0aW9uIGJlbmVmaXRfcHJvdmlkZXJfc2hlbGxzX2xpYnJhcnkoKQp7CiAgICBkZCgnV1RGRkZGRkZGRicpOwp9</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICA8ZGl2IHYtaWY9IiFzaGVsbEltcG9ydHNBdmFpbGFibGUubGVuZ3RoIiBjbGFzcz0iZm9ybS1yb3cgc2hlbGxzX25vdF9hdmFpbGFibGUiPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3RpdGxlJyA9PiAnQmVuZWZpdCBQcm92aWRlciBTaGVsbHMgTGlicmFyeScsCiAgICAgICAgICAgICd0eXBlJyA9PiBNRU5VX0NBTExCQUNLLAo=</text>
+        <text encoding="base64">ICAgIHRleHQtYWxpZ246IGNlbnRlcjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBbJ3RpdGxlJyA9PiAnQm9va2xldHMnLCAndXJsJyA9PiAnYmVuZWZpdHMvYm9va2xldHMnXSwK</text>
+        <text encoding="base64">ICAgICAgICAkdXNlci0+aXNBY3RpbmdBc0Jyb2tlcigpCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBbJ3RpdGxlJyA9PiAnQm9va2xldHMnLCAndXJsJyA9PiAnYmVuZWZpdHMvYm9va2xldHMnXSwKICAgICAgICAgICAgICAgIF0pOwo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">CmZ1bmN0aW9uIGJlbmVmaXRfcHJvdmlkZXJfc2hlbGxzX2xpYnJhcnkoKQp7CiAgICBkZCgnV1RGRkZGRkZGRicpOwp9</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3RpdGxlJyA9PiAnQmVuZWZpdCBQcm92aWRlciBTaGVsbHMgTGlicmFyeScsCiAgICAgICAgICAgICd0eXBlJyA9PiBNRU5VX0NBTExCQUNLLAo=</text>
       </register>
       <register name=":" type="4">
         <text>31</text>
