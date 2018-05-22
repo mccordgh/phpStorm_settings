@@ -15,12 +15,6 @@
       <file name="/a.dummy" timestamp="1526673166820">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/benefits/plans/shells/library.vue" timestamp="1527014568291">
-        <mark key="[" line="377" column="32" />
-        <mark key="]" line="468" column="46" />
-        <mark key="." line="468" column="46" />
-        <mark key="^" line="468" column="46" />
-      </file>
       <file name="$USER_HOME$/bernieportal/tests/app/Api/Transformers/Benefits/Plans/Shells/ShellPdfTransformerTest.php" timestamp="1521060907145">
         <mark key="[" line="0" column="5" />
       </file>
@@ -346,6 +340,12 @@
       <file name="$USER_HOME$/workspace/advent_of_code/day_1_captcha/index.html" timestamp="1512157276150">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/bernieportal/app/Benefits/Plans/BrokerField.php" timestamp="1527017776867">
+        <mark key="[" line="358" column="0" />
+        <mark key="]" line="358" column="0" />
+        <mark key="." line="358" column="0" />
+        <mark key="^" line="126" column="22" />
+      </file>
       <file name="$USER_HOME$/bernieportal/resources/views/dashboards/employer/current-enrollment.blade.php" timestamp="1502478648006">
         <mark key="[" line="0" column="1" />
       </file>
@@ -522,7 +522,7 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/quaternary-nav-for-vue.vue" timestamp="1498594361234">
         <mark key="[" line="15" column="23" />
       </file>
-      <file name="$USER_HOME$/bernieportal/public/sites/all/modules/benefit_provider/benefit_provider.module" timestamp="1527009700165">
+      <file name="$USER_HOME$/bernieportal/public/sites/all/modules/benefit_provider/benefit_provider.module" timestamp="1527016694004">
         <mark key="[" line="121" column="0" />
         <mark key="]" line="121" column="0" />
         <mark key="." line="121" column="0" />
@@ -569,7 +569,7 @@
       <file name="$USER_HOME$/workspace/php/testProject/public/css/main.css" timestamp="1504813753200">
         <mark key="[" line="34" column="23" />
       </file>
-      <file name="/PHP Console" timestamp="1527014693749">
+      <file name="/PHP Console" timestamp="1527016871399">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/JavaScript Console" timestamp="1518461207304">
@@ -729,7 +729,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>g</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtIEJyb2tlckZpZWxkUmVjb3JkJCBmaWVsZFJlY29yZAogICAgICov</text>
       </register>
       <register name="d" type="4">
         <text />
@@ -743,35 +743,35 @@
       <register name="0" type="4">
         <text encoding="base64">KGludCkg</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIC8qcGFkZGluZy10b3A6IDJyZW07Ki8KICAvKn0qLwo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtIEJyb2tlckZpZWxkUmVjb3JkJCBmaWVsZFJlY29yZAogICAgICov</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8qZm9udC1zaXplOiAxLjZyZW07Ki8KICAgIC8qZm9udC13ZWlnaHQ6IGJvbGQ7Ki8K</text>
+        <text encoding="base64">ICAgIC8qcGFkZGluZy10b3A6IDJyZW07Ki8KICAvKn0qLwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgLypkaXYuc2hlbGxzX25vdF9hdmFpbGFibGUgeyovCg==</text>
+        <text encoding="base64">ICAgIC8qZm9udC1zaXplOiAxLjZyZW07Ki8KICAgIC8qZm9udC13ZWlnaHQ6IGJvbGQ7Ki8K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">CiAgLypkaXYuc2hlbGxzX25vdF9hdmFpbGFibGUgeyovCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2IHYtaWY9IiFzaGVsbEltcG9ydHNBdmFpbGFibGUubGVuZ3RoIiBjbGFzcz0iZm9ybS1yb3cgc2hlbGxzX25vdF9hdmFpbGFibGUiPgo=</text>
+        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRleHQtYWxpZ246IGNlbnRlcjsK</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2IHYtaWY9IiFzaGVsbEltcG9ydHNBdmFpbGFibGUubGVuZ3RoIiBjbGFzcz0iZm9ybS1yb3cgc2hlbGxzX25vdF9hdmFpbGFibGUiPgo=</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgIHRleHQtYWxpZ246IGNlbnRlcjsK</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAkdXNlci0+aXNBY3RpbmdBc0Jyb2tlcigpCg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">CmZ1bmN0aW9uIGJlbmVmaXRfcHJvdmlkZXJfc2hlbGxzX2xpYnJhcnkoKQp7CiAgICBkZCgnV1RGRkZGRkZGRicpOwp9</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3RpdGxlJyA9PiAnQmVuZWZpdCBQcm92aWRlciBTaGVsbHMgTGlicmFyeScsCiAgICAgICAgICAgICd0eXBlJyA9PiBNRU5VX0NBTExCQUNLLAo=</text>
       </register>
       <register name=":" type="4">
         <text>31</text>
