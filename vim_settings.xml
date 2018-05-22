@@ -307,7 +307,6 @@
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/worlds/levels/level.js" timestamp="1504391486114">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Api/Transformers/Benefits/Plans/BrokerFieldOptionTransformer.php" timestamp="1526938366371" />
       <file name="$USER_HOME$/bernieportal/resources/views/employees/election-data.blade.php" timestamp="1506440738197">
         <mark key="[" line="113" column="56" />
       </file>
@@ -584,11 +583,11 @@
       <file name="$USER_HOME$/bernieportal/resources/views/dashboards/sidebar/benefits.blade.php" timestamp="1499974671996">
         <mark key="[" line="5" column="31" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/attach-broker-forms-table.vue" timestamp="1527000112961">
-        <mark key="[" line="19" column="27" />
-        <mark key="]" line="19" column="27" />
-        <mark key="^" line="99" column="16" />
-        <mark key="." line="19" column="27" />
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/attach-broker-forms-table.vue" timestamp="1527000345390">
+        <mark key="[" line="97" column="26" />
+        <mark key="]" line="26" column="15" />
+        <mark key="^" line="26" column="15" />
+        <mark key="." line="26" column="15" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/billing/billing-adjustment-table.vue" timestamp="1513984765746">
         <mark key="[" line="12" column="11" />
@@ -602,7 +601,6 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/benefit-provider/benefit-provider-profile-form.vue" timestamp="1524777626668">
         <mark key="[" line="0" column="22" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Data/Repositories/Benefits/Plans/BrokerFormAccessObjectRepository.php" timestamp="1526935931570" />
       <file name="$USER_HOME$/bernieportal/resources/assets/components/account-settings/change-password.vue" timestamp="1508528918510">
         <mark key="[" line="60" column="21" />
       </file>
@@ -648,7 +646,7 @@
         <mark key="^" line="31" column="3" />
         <mark key="." line="31" column="3" />
       </file>
-      <file name="/PHP Console" timestamp="1526999987891">
+      <file name="/PHP Console" timestamp="1527000291719">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/JavaScript Console" timestamp="1518461207304">
@@ -807,13 +805,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>kalsjdlkajsdkflksjd</text>
+        <text>false</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>kalsjdlkajsdkflksjd</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxVc2VyXD4=</text>
