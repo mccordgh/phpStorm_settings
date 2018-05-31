@@ -101,7 +101,7 @@
         <mark key="[" line="361" column="27" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/BrokerForms/FieldsController.php" timestamp="1527788532422">
-        <mark key="[" line="44" column="31" />
+        <mark key="[" line="45" column="31" />
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
       </file>
@@ -130,11 +130,11 @@
       <file name="$USER_HOME$/workspace/gamepad_api_demo/main.css" timestamp="1501271749114">
         <mark key="[" line="5" column="10" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Data/AccessObjects/Benefits/Plans/BrokerField.php" timestamp="1527784725142">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="45" column="27" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/bernieportal/app/Data/AccessObjects/Benefits/Plans/BrokerField.php" timestamp="1527793747422">
+        <mark key="[" line="31" column="5" />
+        <mark key="]" line="31" column="4" />
+        <mark key="^" line="31" column="4" />
+        <mark key="." line="31" column="4" />
       </file>
       <file name="$USER_HOME$/bernieportal/tests/app/Benefits/Plans/PlanRepositoryTest.php" timestamp="1525456420963">
         <mark key="[" line="63" column="35" />
@@ -504,7 +504,7 @@
       <file name="$USER_HOME$/bernieportal/app/Brokerage/Broker.php" timestamp="1523994253123">
         <mark key="[" line="57" column="31" />
       </file>
-      <file name="/fragment.php" timestamp="1527788686759">
+      <file name="/fragment.php" timestamp="1527793578500">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/Plans/Shells/ShellsHierarchyController.php" timestamp="1521657976020">
@@ -634,7 +634,7 @@
         <mark key="[" line="34" column="23" />
       </file>
       <file name="$USER_HOME$/bernieportal/database/migrations/2018_05_15_143748_create_broker_form_field_options_table.php" timestamp="1527776974984" />
-      <file name="/PHP Console" timestamp="1527788770488">
+      <file name="/PHP Console" timestamp="1527793416077">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/JavaScript Console" timestamp="1518461207304">
