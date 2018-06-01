@@ -64,11 +64,6 @@
       <file name="$USER_HOME$/workspace/javascript/emoji_rogue_like/src/js/classes/game.js" timestamp="1518909473534">
         <mark key="[" line="87" column="24" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Data/AccessObjects/Benefits/Plans/BrokerFieldOptionPivot.php" timestamp="1527799588369">
-        <mark key="[" line="8" column="57" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-      </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/thread/candidate-message-modal.vue" timestamp="1493229628959">
         <mark key="[" line="55" column="58" />
       </file>
@@ -188,6 +183,7 @@
       <file name="$USER_HOME$/bernieportal/public/css/app.css" timestamp="1524842706242">
         <mark key="[" line="6961" column="53" />
       </file>
+      <file name="$USER_HOME$/bernieportal/app/Toggles/Toggle.php" timestamp="1527869094927" />
       <file name="$USER_HOME$/bernieportal/public/sites/all/modules/emp_pto/emp_pto.module" timestamp="1507320519182">
         <mark key="[" line="86" column="5" />
       </file>
@@ -246,11 +242,6 @@
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/time/summary-table.vue" timestamp="1496776949409">
         <mark key="[" line="39" column="46" />
-      </file>
-      <file name="$USER_HOME$/bernieportal/legacy/BenefitConfigureModule.php" timestamp="1527002540047">
-        <mark key="[" line="8295" column="0" />
-        <mark key="]" line="8295" column="0" />
-        <mark key="." line="8295" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Http/Requests/BrokerForms/MoveOptionsRequest.php" timestamp="1527799444230">
         <mark key="[" line="29" column="49" />
@@ -387,13 +378,6 @@
       </file>
       <file name="$USER_HOME$/workspace/advent_of_code/day_1_captcha/index.html" timestamp="1512157276150">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/bernieportal/app/Benefits/Plans/BrokerField.php" timestamp="1527865993380">
-        <mark key="'" line="343" column="12" />
-        <mark key="[" line="377" column="70" />
-        <mark key="]" line="377" column="65" />
-        <mark key="." line="377" column="65" />
-        <mark key="^" line="377" column="65" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/views/dashboards/employer/current-enrollment.blade.php" timestamp="1502478648006">
         <mark key="[" line="0" column="1" />
@@ -557,12 +541,6 @@
       <file name="$USER_HOME$/workspace/php/testProject/app/User.php" timestamp="1504812311688">
         <mark key="[" line="17" column="36" />
       </file>
-      <file name="$USER_HOME$/bernieportal/spec/Benefits/Plans/BrokerFormSpec.php" timestamp="1527866244001">
-        <mark key="[" line="22" column="65" />
-        <mark key="]" line="22" column="64" />
-        <mark key="." line="22" column="64" />
-        <mark key="^" line="22" column="64" />
-      </file>
       <file name="$USER_HOME$/workspace/php/testProject/app/Http/Kernel.php" timestamp="1504817441978">
         <mark key="[" line="32" column="13" />
       </file>
@@ -611,11 +589,6 @@
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/quaternary-nav-for-vue.vue" timestamp="1498594361234">
         <mark key="[" line="15" column="23" />
-      </file>
-      <file name="$USER_HOME$/bernieportal/public/sites/all/modules/benefit_provider/benefit_provider.module" timestamp="1527775409234">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/benefit-provider/benefit-provider-profile-form.vue" timestamp="1524777626668">
         <mark key="[" line="0" column="22" />
@@ -698,6 +671,12 @@
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/entities/creatures/player.js" timestamp="1506609965011">
         <mark key="[" line="9" column="19" />
       </file>
+      <file name="$USER_HOME$/bernieportal/spec/Api/Transformers/AttachedFieldTransformerSpec.php" timestamp="1527871456872">
+        <mark key="[" line="18" column="23" />
+        <mark key="]" line="18" column="23" />
+        <mark key="^" line="18" column="60" />
+        <mark key="." line="18" column="23" />
+      </file>
       <file name="$USER_HOME$/bernieportal/app/Views/Charts/DoughnutChart.php" timestamp="1523893274027">
         <mark key="[" line="239" column="33" />
       </file>
@@ -730,7 +709,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="123" column="30" filename="$USER_HOME$/bernieportal/resources/assets/components/benefits/plans/shells/attach-form-shells-table.vue" />
       <jump line="682" column="7" filename="$USER_HOME$/bernieportal/legacy/Air/Models/AirEmployee.php" />
       <jump line="151" column="78" filename="$USER_HOME$/bernieportal/legacy/Air/Models/AirEnrollMatrix.php" />
       <jump line="300" column="28" filename="$USER_HOME$/bernieportal/resources/assets/components/benefits/plans/shells/shell.vue" />
@@ -830,16 +808,17 @@
       <jump line="346" column="63" filename="$USER_HOME$/bernieportal/app/Benefits/Plans/BrokerField.php" />
       <jump line="350" column="54" filename="$USER_HOME$/bernieportal/app/Benefits/Plans/BrokerField.php" />
       <jump line="343" column="12" filename="$USER_HOME$/bernieportal/app/Benefits/Plans/BrokerField.php" />
+      <jump line="116" column="17" filename="$USER_HOME$/bernieportal/app/Benefits/Plans/BrokerField.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Container</text>
+        <text>\BerniePortal\Toggles\Manager::class</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>Container</text>
+        <text>\BerniePortal\Toggles\Manager::class</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxVc2VyXD4=</text>
@@ -848,35 +827,35 @@
         <text encoding="base64">aW50IA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkYXBwLT53aXRoRmFkY2FkZXMoKTsK</text>
+        <text encoding="base64">ICAgICAgICAkYXBwLT5hZGRDb250ZXh0dWFsQmluZGluZygpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcQ29udGFpbmVyXENvbnRhaW5lcjsK</text>
+        <text encoding="base64">ICAgICAgICAkYXBwLT53aXRoRmFkY2FkZXMoKTsK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcQ29udGFpbmVyXENvbnRhaW5lcjsK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">dXNlIFxJbGx1bWluYXRlXENvbnRhaW5lclxDCg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>ontainer as Container;
 use \Illuminate\Support\Facades\Facade as Facade;</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">dXNlIFByb3BoZWN5XEFyZ3VtZW50Owo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgKi8K</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgKiBTZXQgJGFwcCBhcyBGYWNhZGVBcHBsaWNhdGlvbiBoYW5kbGVyCg==</text>
+        <text encoding="base64">ICAgICAgICAgKi8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvKioK</text>
+        <text encoding="base64">ICAgICAgICAgKiBTZXQgJGFwcCBhcyBGYWNhZGVBcHBsaWNhdGlvbiBoYW5kbGVyCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgKi8K</text>
+        <text encoding="base64">ICAgICAgICAvKioK</text>
       </register>
       <register name=":" type="4">
         <text>51</text>
