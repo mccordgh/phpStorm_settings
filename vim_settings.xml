@@ -36,6 +36,9 @@
       <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/Edi/SchedulersController.php" timestamp="1494362868134">
         <mark key="[" line="32" column="44" />
       </file>
+      <file name="$USER_HOME$/bernieportal/app/User.php" timestamp="1527784137051">
+        <mark key="[" line="88" column="27" />
+      </file>
       <file name="$USER_HOME$/workspace/php/testProject/resources/views/dashboard.blade.php" timestamp="1504811117559">
         <mark key="[" line="63" column="26" />
       </file>
@@ -97,7 +100,12 @@
       <file name="$USER_HOME$/bernieportal/public/sites/all/modules/cck/content.module" timestamp="1524164490718">
         <mark key="[" line="374" column="5" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Benefits/Plans/BrokerForm.php" timestamp="1527781372744" />
+      <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/BrokerForms/FieldOptionsController.php" timestamp="1527865054113">
+        <mark key="[" line="46" column="1" />
+      </file>
+      <file name="$USER_HOME$/bernieportal/app/Benefits/Plans/BrokerForm.php" timestamp="1527889730790">
+        <mark key="[" line="260" column="0" />
+      </file>
       <file name="$USER_HOME$/bernieportal/app/Ats/Repositories/JobCandidateRepository.php" timestamp="1505347656980">
         <mark key="[" line="36" column="25" />
       </file>
@@ -377,6 +385,9 @@
       </file>
       <file name="$USER_HOME$/workspace/advent_of_code/day_1_captcha/index.html" timestamp="1512157276150">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/bernieportal/app/Benefits/Plans/BrokerField.php" timestamp="1527889881420">
+        <mark key="^" line="341" column="18" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/views/dashboards/employer/current-enrollment.blade.php" timestamp="1502478648006">
         <mark key="[" line="0" column="1" />
@@ -834,14 +845,14 @@
       <jump line="116" column="17" filename="$USER_HOME$/bernieportal/app/Benefits/Plans/BrokerField.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>one</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>required|in:custom,signature,onboarding_custom,onboarding_signature'</text>
+        <text>one</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxVc2VyXD4=</text>
