@@ -100,8 +100,10 @@
       <file name="$USER_HOME$/bernieportal/public/sites/all/modules/cck/content.module" timestamp="1524164490718">
         <mark key="[" line="374" column="5" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/BrokerForms/FieldOptionsController.php" timestamp="1527865054113">
-        <mark key="[" line="46" column="1" />
+      <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/BrokerForms/FieldOptionsController.php" timestamp="1528127067972">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Benefits/Plans/BrokerForm.php" timestamp="1528125529137">
         <mark key="[" line="260" column="0" />
@@ -233,7 +235,11 @@
       <file name="$USER_HOME$/bernieportal/legacy/CmsMiscModule.php" timestamp="1508444603150">
         <mark key="[" line="1169" column="12" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/BrokerForms/FormsController.php" timestamp="1528124270110" />
+      <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/BrokerForms/FormsController.php" timestamp="1528127186940">
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/gamepad_api_demo/index.html" timestamp="1501271743681">
         <mark key="[" line="3" column="0" />
       </file>
@@ -363,7 +369,7 @@
       <file name="$USER_HOME$/BerniePortalWiki/FooterBackup.html" timestamp="1502825749665">
         <mark key="[" line="20" column="47" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Toggles/Manager.php" timestamp="1527877925219" />
+      <file name="$USER_HOME$/bernieportal/app/Toggles/Manager.php" timestamp="1528127468600" />
       <file name="$USER_HOME$/bernieportal/vendor/league/oauth2-server/src/Grant/GrantTypeInterface.php" timestamp="1497987826184">
         <mark key="[" line="53" column="37" />
       </file>
@@ -714,7 +720,7 @@
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/entities/creatures/player.js" timestamp="1506609965011">
         <mark key="[" line="9" column="19" />
       </file>
-      <file name="$USER_HOME$/bernieportal/spec/Api/Transformers/AttachedFieldTransformerSpec.php" timestamp="1528125591035">
+      <file name="$USER_HOME$/bernieportal/spec/Api/Transformers/AttachedFieldTransformerSpec.php" timestamp="1528126663478">
         <mark key="[" line="40" column="21" />
         <mark key="]" line="40" column="21" />
         <mark key="." line="40" column="21" />
@@ -853,8 +859,8 @@
       <jump line="116" column="17" filename="$USER_HOME$/bernieportal/app/Benefits/Plans/BrokerField.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>$obj</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB9Cgo=</text>
       </register>
       <register name="d" type="4">
         <text />
@@ -869,38 +875,34 @@
         <text encoding="base64">aW50IA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICB9IGVsc2UgewogICAgICAgICAgICByZXR1cm4gJHRoaXMtPnRyYW5zZm9ybWVkUmVzcG9uc2UoKS0+b2soJGZvcm0pOwo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAkYnJva2VyRmllbGQtPnNldFJlY29yZE9wdGlvbkRhdGEoKS0+d2lsbFJldHVybihbXSk7CiAgICAgICAgJG9iaiA9ICRicm9rZXJGaWVsZC0+Z2V0V3JhcHBlZE9iamVjdCgpOw==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoVG9nZ2xlOjplbmFibGVkKCdjdXN0b20tb3B0aW9uLWZpZWxkcycpKSB7CiAgICAgICAgICAgIHJldHVybiAkdGhpcy0+dHJhbnNmb3JtZWRSZXNwb25zZSgpLT5pbmNsdWRlKCdmaWVsZHMub3B0aW9ucycpLT5vaygkZm9ybSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZ1bmN0aW9uIGl0X3Nob3VsZF90cmFuc2Zvcm1fdGhlX2F0dGFjaGVkX2ZpZWxkKCAkYnJva2VyRmllbGQpCiAgICB7Cg==</text>
+        <text encoding="base64">ICogQHBhY2thZ2UgQmVybmllUG9ydGFsXEh0dHBcQ29udHJvbGxlcnNcQXBpXEJyb2tlckZvcm1zCiAqLwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyoqCiAqIENsYXNzIEZpZWxkT3B0aW9uc0NvbnRyb2xsZXIK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAkYnJva2VyRmllbGQtPnNldFJlY29yZE9wdGlvbkRhdGEoKS0+d2lsbFJldHVybihbXSk7CiAgICAgICAgJG9iaiA9ICRicm9rZXJGaWVsZC0+Z2V0V3JhcHBlZE9iamVjdCgpOw==</text>
       </register>
-      <register name="9" type="4">
-        <text>} else {
-            if (Toggle::enabled('custom-option-fields')) {
-//
-            }
-        }</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGZ1bmN0aW9uIGl0X3Nob3VsZF90cmFuc2Zvcm1fdGhlX2F0dGFjaGVkX2ZpZWxkKCAkYnJva2VyRmllbGQpCiAgICB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>51</text>
