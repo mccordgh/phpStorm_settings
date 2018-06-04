@@ -140,8 +140,8 @@
       <file name="$USER_HOME$/workspace/gamepad_api_demo/main.css" timestamp="1501271749114">
         <mark key="[" line="5" column="10" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Data/AccessObjects/Benefits/Plans/BrokerField.php" timestamp="1527883476951">
-        <mark key="[" line="49" column="0" />
+      <file name="$USER_HOME$/bernieportal/app/Data/AccessObjects/Benefits/Plans/BrokerField.php" timestamp="1527890697507">
+        <mark key="[" line="36" column="20" />
         <mark key="]" line="49" column="0" />
         <mark key="." line="49" column="0" />
       </file>
@@ -386,8 +386,11 @@
       <file name="$USER_HOME$/workspace/advent_of_code/day_1_captcha/index.html" timestamp="1512157276150">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Benefits/Plans/BrokerField.php" timestamp="1527889881420">
-        <mark key="^" line="341" column="18" />
+      <file name="$USER_HOME$/bernieportal/app/Benefits/Plans/BrokerField.php" timestamp="1527890756267">
+        <mark key="[" line="346" column="16" />
+        <mark key="]" line="349" column="20" />
+        <mark key="^" line="349" column="20" />
+        <mark key="." line="349" column="20" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/views/dashboards/employer/current-enrollment.blade.php" timestamp="1502478648006">
         <mark key="[" line="0" column="1" />
@@ -846,13 +849,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>one</text>
+        <text encoding="base64">KCktPmdldCgpLT4=</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>one</text>
+        <text encoding="base64">KCktPmdldCgpLT4=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxVc2VyXD4=</text>
