@@ -611,11 +611,12 @@
       <file name="$USER_HOME$/bernieportal/app/Http/Requests/User/ShowUserRequest.php" timestamp="1496853931288">
         <mark key="[" line="21" column="49" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/carrier-forms/broker-form-view.vue" timestamp="1528472293273">
-        <mark key="[" line="878" column="92" />
-        <mark key="]" line="878" column="92" />
-        <mark key="." line="878" column="92" />
-        <mark key="^" line="645" column="20" />
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/carrier-forms/broker-form-view.vue" timestamp="1528480696830">
+        <mark key="'" line="357" column="10" />
+        <mark key="[" line="952" column="12" />
+        <mark key="]" line="952" column="10" />
+        <mark key="." line="952" column="10" />
+        <mark key="^" line="952" column="10" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Jobs/Plans/Shells/UpdatePlansCreatedFromShell.php" timestamp="1524687153761">
         <mark key="[" line="141" column="108" />
@@ -644,7 +645,7 @@
       <file name="$USER_HOME$/workspace/php/testProject/public/css/main.css" timestamp="1504813753200">
         <mark key="[" line="34" column="23" />
       </file>
-      <file name="/PHP Console" timestamp="1528472210506">
+      <file name="/PHP Console" timestamp="1528479770465">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/JavaScript Console" timestamp="1518461207304">
@@ -699,7 +700,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="306" column="43" filename="$USER_HOME$/bernieportal/app/Benefits/Plans/Shells/ShellRepository.php" />
       <jump line="319" column="13" filename="$USER_HOME$/bernieportal/resources/assets/components/benefits/plans/shells/library.vue" />
       <jump line="167" column="21" filename="$USER_HOME$/bernieportal/app/Benefits/Plans/Shells/ShellRepository.php" />
       <jump line="235" column="11" filename="$USER_HOME$/bernieportal/app/Benefits/Plans/Shells/ShellRepository.php" />
@@ -799,16 +799,17 @@
       <jump line="398" column="23" filename="$USER_HOME$/bernieportal/app/Benefits/Plans/BrokerField.php" />
       <jump line="784" column="25" filename="$USER_HOME$/bernieportal/resources/assets/components/carrier-forms/broker-form-view.vue" />
       <jump line="809" column="19" filename="$USER_HOME$/bernieportal/resources/assets/components/carrier-forms/broker-form-view.vue" />
+      <jump line="357" column="10" filename="$USER_HOME$/bernieportal/resources/assets/components/carrier-forms/broker-form-view.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>static</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>static</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>saveNewOptionsForAttachedField</text>
@@ -847,7 +848,7 @@
         <text encoding="base64">ICAgICAgLy8KICAgICAgLy8gICB0aGlzLmZvcm0uZmllbGRzLmRhdGFbZm91bmRdLnggPSB4Owo=</text>
       </register>
       <register name=":" type="4">
-        <text>806</text>
+        <text>370</text>
       </register>
     </registers>
     <search>
@@ -883,7 +884,6 @@
         <entry>saveNewOptionsForAttachedField</entry>
       </history-search>
       <history-cmd>
-        <entry>145</entry>
         <entry>1031</entry>
         <entry>556</entry>
         <entry>94</entry>
@@ -903,6 +903,7 @@
         <entry>137</entry>
         <entry>372</entry>
         <entry>806</entry>
+        <entry>370</entry>
       </history-cmd>
       <history-expr />
       <history-input />
