@@ -476,8 +476,10 @@
       <file name="$USER_HOME$/workspace/css/css_3d_essentials/.gitignore" timestamp="1518405496065">
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/bernieportal/spec/Api/Transformers/BrokerFieldTransformerSpec.php" timestamp="1528732064499">
-        <mark key="[" line="9" column="1" />
+      <file name="$USER_HOME$/bernieportal/spec/Api/Transformers/BrokerFieldTransformerSpec.php" timestamp="1528732128248">
+        <mark key="[" line="15" column="8" />
+        <mark key="]" line="15" column="8" />
+        <mark key="." line="15" column="8" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/components/candidate-header.vue" timestamp="1493220732358">
         <mark key="[" line="41" column="54" />
@@ -792,13 +794,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">JHRoaXMtPg==</text>
+        <text>Facade</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JHRoaXMtPg==</text>
+        <text>Facade</text>
       </register>
       <register name="/" type="4">
         <text>fillCustomFields</text>
