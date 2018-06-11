@@ -573,11 +573,11 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/benefit-provider/benefit-provider-profile-form.vue" timestamp="1524777626668">
         <mark key="[" line="0" column="22" />
       </file>
-      <file name="$USER_HOME$/bernieportal/spec/Http/Controllers/Api/BrokerForms/FormsControllerSpec.php" timestamp="1528469514427">
-        <mark key="[" line="211" column="28" />
-        <mark key="]" line="211" column="28" />
-        <mark key="." line="211" column="28" />
-        <mark key="^" line="204" column="7" />
+      <file name="$USER_HOME$/bernieportal/spec/Http/Controllers/Api/BrokerForms/FormsControllerSpec.php" timestamp="1528736282579">
+        <mark key="[" line="202" column="0" />
+        <mark key="]" line="212" column="28" />
+        <mark key="." line="212" column="28" />
+        <mark key="^" line="205" column="7" />
       </file>
       <file name="$USER_HOME$/bernieportal/public/sites/all/modules/clientele/js/clientele_user_login_block.js" timestamp="1528490575648">
         <mark key="[" line="18" column="37" />
@@ -614,9 +614,6 @@
       </file>
       <file name="$USER_HOME$/bernieportal/app/Time/Workweek.php" timestamp="1515187729098">
         <mark key="[" line="185" column="5" />
-      </file>
-      <file name="$USER_HOME$/bernieportal/legacy/BrokerPortalModule.php" timestamp="1528487332913">
-        <mark key="'" line="349" column="20" />
       </file>
       <file name="$USER_HOME$/bernieportal/tests/app/Http/Requests/Plans/Shells/CreateShellRequestTest.php" timestamp="1525289311248">
         <mark key="[" line="0" column="0" />
