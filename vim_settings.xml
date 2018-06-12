@@ -427,6 +427,9 @@
       <file name="$USER_HOME$/bernieportal/app/Api/Transformers/UserTransformer.php" timestamp="1495663599299">
         <mark key="[" line="16" column="24" />
       </file>
+      <file name="$USER_HOME$/bernieportal/app/Data/Repositories/Benefits/Plans/BrokerFieldAccessObjectRepository.php" timestamp="1528818123293">
+        <mark key="[" line="71" column="5" />
+      </file>
       <file name="$USER_HOME$/workspace/Defend_The_Castle/.gitignore" timestamp="1506608558146">
         <mark key="[" line="0" column="0" />
       </file>
@@ -608,7 +611,7 @@
       <file name="$USER_HOME$/workspace/php/testProject/public/css/main.css" timestamp="1504813753200">
         <mark key="[" line="34" column="23" />
       </file>
-      <file name="/PHP Console" timestamp="1528758116304">
+      <file name="/PHP Console" timestamp="1528818455340">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/JavaScript Console" timestamp="1518461207304">
@@ -617,11 +620,11 @@
       <file name="$USER_HOME$/workspace/php/testProject/app/Console/Kernel.php" timestamp="1504282888931">
         <mark key="[" line="16" column="10" />
       </file>
-      <file name="$USER_HOME$/bernieportal/public/sites/all/modules/clientele/clientele.js" timestamp="1528758004343">
-        <mark key="[" line="33" column="2" />
-        <mark key="]" line="33" column="52" />
-        <mark key="^" line="33" column="52" />
-        <mark key="." line="33" column="52" />
+      <file name="$USER_HOME$/bernieportal/public/sites/all/modules/clientele/clientele.js" timestamp="1528817467835">
+        <mark key="[" line="953" column="15" />
+        <mark key="]" line="954" column="0" />
+        <mark key="^" line="955" column="14" />
+        <mark key="." line="954" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/database/migrations/2018_05_10_104327_remove_shell_id_from_pdf_shells_table.php" timestamp="1525965311516">
         <mark key="[" line="29" column="5" />
@@ -776,7 +779,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3NhdmUnLCBpbmZvKTsKICAgICAgICAgICAgY29uc29sZS5sb2coJ3NhdmUnLCBpbmZvKTsK</text>
       </register>
       <register name="d" type="4">
         <text />
@@ -791,7 +794,7 @@
         <text>manipulate_election_form</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3NhdmUnLCBpbmZvKTsKICAgICAgICAgICAgY29uc29sZS5sb2coJ3NhdmUnLCBpbmZvKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -805,22 +808,22 @@
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygkKHRoaXMpLmF0dHIoJ3R5cGUnKSkKICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygkKHRoaXMpLmlzKCc6Y2hlY2tlZCcpKTs=</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygkKHRoaXMpLmF0dHIoJ3R5cGUnKSkKICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygkKHRoaXMpLmlzKCc6Y2hlY2tlZCcpKTs=</text>
+      </register>
+      <register name="7" type="4">
         <text>else {
                     console.log('nope');
                 }</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXI7Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdpbnRlZ3JhdGVXaXRoQ2FycmllckNoYW5nZScpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
       </register>
       <register name=":" type="4">
         <text>334</text>
