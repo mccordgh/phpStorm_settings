@@ -96,12 +96,6 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/time/subgroups/settings.vue" timestamp="1515456395716">
         <mark key="[" line="361" column="27" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/BrokerForms/FieldsController.php" timestamp="1528918185988">
-        <mark key="[" line="53" column="76" />
-        <mark key="]" line="53" column="73" />
-        <mark key="^" line="53" column="73" />
-        <mark key="." line="53" column="73" />
-      </file>
       <file name="$USER_HOME$/bernieportal/app/Benefits/AccidentBenefit.php" timestamp="1507838130495">
         <mark key="[" line="0" column="1" />
       </file>
@@ -351,7 +345,6 @@
       <file name="$USER_HOME$/bernieportal/app/Data/AccessObjects/Benefits/Plans/Shells/BenefitFilesPdfShells.php" timestamp="1523649027060">
         <mark key="[" line="4" column="27" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/benefits/plans/shells/shell.vue" timestamp="1528907794634" />
       <file name="$USER_HOME$/bernieportal/app/Api/Transformers/Bills/UnumPdfBillTransformer.php" timestamp="1515109277581">
         <mark key="[" line="53" column="73" />
       </file>
@@ -363,9 +356,6 @@
       </file>
       <file name="$USER_HOME$/workspace/advent_of_code/day_1_captcha/index.html" timestamp="1512157276150">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/bernieportal/app/Benefits/Plans/BrokerField.php" timestamp="1528919038629">
-        <mark key="[" line="395" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/views/dashboards/employer/current-enrollment.blade.php" timestamp="1502478648006">
         <mark key="[" line="0" column="1" />
@@ -462,12 +452,7 @@
       <file name="$USER_HOME$/bernieportal/spec/Http/Requests/BrokerForms/CreateFieldRequestSpec.php" timestamp="1528328514272">
         <mark key="[" line="23" column="51" />
       </file>
-      <file name="$USER_HOME$/bernieportal/legacy/BenefitSelectionModule.php" timestamp="1528917859244">
-        <mark key="[" line="101" column="99" />
-        <mark key="]" line="101" column="98" />
-        <mark key="." line="101" column="98" />
-        <mark key="^" line="101" column="98" />
-      </file>
+      <file name="$USER_HOME$/bernieportal/legacy/BenefitSelectionModule.php" timestamp="1528988705367" />
       <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/Bills/BillsController.php" timestamp="1519918457959">
         <mark key="[" line="146" column="5" />
       </file>
@@ -626,12 +611,6 @@
       <file name="$USER_HOME$/workspace/php/testProject/app/Console/Kernel.php" timestamp="1504282888931">
         <mark key="[" line="16" column="10" />
       </file>
-      <file name="$USER_HOME$/bernieportal/public/sites/all/modules/clientele/clientele.js" timestamp="1528910307203">
-        <mark key="[" line="917" column="31" />
-        <mark key="]" line="921" column="0" />
-        <mark key="^" line="921" column="0" />
-        <mark key="." line="921" column="0" />
-      </file>
       <file name="$USER_HOME$/bernieportal/database/migrations/2018_05_10_104327_remove_shell_id_from_pdf_shells_table.php" timestamp="1525965311516">
         <mark key="[" line="29" column="5" />
       </file>
@@ -656,7 +635,6 @@
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/entities/creatures/player.js" timestamp="1506609965011">
         <mark key="[" line="9" column="19" />
       </file>
-      <file name="$USER_HOME$/bernieportal/spec/Api/Transformers/AttachedFieldTransformerSpec.php" timestamp="1528841050374" />
       <file name="$USER_HOME$/bernieportal/app/Views/Charts/DoughnutChart.php" timestamp="1523893274027">
         <mark key="[" line="239" column="33" />
       </file>
@@ -687,12 +665,11 @@
       <file name="$USER_HOME$/workspace/javascript/GGJ2018_last_electrician/.gitignore" timestamp="1517068285329">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/bernieportal/legacy/EmployeeElectionModule.php" timestamp="1528917949288">
-        <mark key="'" line="6306" column="5" />
-        <mark key="[" line="6300" column="89" />
-        <mark key="]" line="6300" column="89" />
-        <mark key="^" line="6303" column="8" />
-        <mark key="." line="6300" column="89" />
+      <file name="$USER_HOME$/bernieportal/legacy/EmployeeElectionModule.php" timestamp="1528988759815">
+        <mark key="[" line="460" column="32" />
+        <mark key="]" line="460" column="31" />
+        <mark key="^" line="460" column="31" />
+        <mark key="." line="460" column="31" />
       </file>
     </filemarks>
     <jumps>
