@@ -476,12 +476,12 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/aca/subgroups/list-1094.vue" timestamp="1515098246310">
         <mark key="[" line="69" column="79" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/views/broker/plan/additional-info.blade.php" timestamp="1529007080341">
+      <file name="$USER_HOME$/bernieportal/resources/views/broker/plan/additional-info.blade.php" timestamp="1529008637167">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="33" column="73" />
-        <mark key="]" line="33" column="73" />
-        <mark key="." line="33" column="73" />
-        <mark key="^" line="8" column="39" />
+        <mark key="[" line="37" column="54" />
+        <mark key="]" line="37" column="54" />
+        <mark key="^" line="38" column="11" />
+        <mark key="." line="37" column="54" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Api/Transformers/BenefitProvider/EmployerTransformer.php" timestamp="1501534288275">
         <mark key="[" line="17" column="52" />
@@ -596,7 +596,7 @@
       <file name="$USER_HOME$/workspace/php/testProject/public/css/main.css" timestamp="1504813753200">
         <mark key="[" line="34" column="23" />
       </file>
-      <file name="/PHP Console" timestamp="1528995073302">
+      <file name="/PHP Console" timestamp="1529009676164">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/JavaScript Console" timestamp="1518461207304">
@@ -605,11 +605,11 @@
       <file name="$USER_HOME$/workspace/php/testProject/app/Console/Kernel.php" timestamp="1504282888931">
         <mark key="[" line="16" column="10" />
       </file>
-      <file name="$USER_HOME$/bernieportal/public/sites/all/modules/clientele/clientele.js" timestamp="1529007040280">
-        <mark key="[" line="1015" column="11" />
-        <mark key="]" line="1015" column="7" />
-        <mark key="." line="1015" column="7" />
-        <mark key="^" line="1015" column="7" />
+      <file name="$USER_HOME$/bernieportal/public/sites/all/modules/clientele/clientele.js" timestamp="1529009719209">
+        <mark key="[" line="919" column="63" />
+        <mark key="]" line="1008" column="8" />
+        <mark key="." line="1008" column="8" />
+        <mark key="^" line="1007" column="13" />
       </file>
       <file name="$USER_HOME$/bernieportal/database/migrations/2018_05_10_104327_remove_shell_id_from_pdf_shells_table.php" timestamp="1525965311516">
         <mark key="[" line="29" column="5" />
@@ -767,13 +767,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Y29uc29sZS5sb2coJ2hpZGUnLCA=</text>
+        <text>doesArrayIncludeItem</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y29uc29sZS5sb2coJ2hpZGUnLCA=</text>
+        <text>doesArrayIncludeItem</text>
       </register>
       <register name="/" type="4">
         <text>fillCustomFields</text>
