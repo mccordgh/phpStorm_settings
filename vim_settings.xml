@@ -478,7 +478,7 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/aca/subgroups/list-1094.vue" timestamp="1515098246310">
         <mark key="[" line="69" column="79" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/views/broker/plan/additional-info.blade.php" timestamp="1529008637167">
+      <file name="$USER_HOME$/bernieportal/resources/views/broker/plan/additional-info.blade.php" timestamp="1529073486270">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="37" column="54" />
         <mark key="]" line="37" column="54" />
@@ -607,11 +607,11 @@
       <file name="$USER_HOME$/workspace/php/testProject/app/Console/Kernel.php" timestamp="1504282888931">
         <mark key="[" line="16" column="10" />
       </file>
-      <file name="$USER_HOME$/bernieportal/public/sites/all/modules/clientele/clientele.js" timestamp="1529071831723">
-        <mark key="[" line="923" column="46" />
-        <mark key="]" line="923" column="46" />
-        <mark key="." line="923" column="46" />
-        <mark key="^" line="919" column="5" />
+      <file name="$USER_HOME$/bernieportal/public/sites/all/modules/clientele/clientele.js" timestamp="1529076483952">
+        <mark key="[" line="967" column="24" />
+        <mark key="]" line="963" column="0" />
+        <mark key="." line="963" column="0" />
+        <mark key="^" line="963" column="24" />
       </file>
       <file name="$USER_HOME$/bernieportal/database/migrations/2018_05_10_104327_remove_shell_id_from_pdf_shells_table.php" timestamp="1525965311516">
         <mark key="[" line="29" column="5" />
@@ -768,14 +768,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/bernieportal/resources/views/broker/plan/additional-info.blade.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IGtleSwgYmVuZWZpdFZpc2libGU=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coe3NhdmU6IGluZm99KTsK</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGtleSwgYmVuZWZpdFZpc2libGU=</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>fillCustomFields</text>
@@ -783,35 +783,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImZvcm0tY29udHJvbCBmb3JtLWNvbnRyb2wtLWZpZWxkLW9wdGlvbnMiPgo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHdpbmRvdy5rZXkgPSBrZXk7CiAgICAgICAgICAgICAgICB3aW5kb3cuaW5mbyA9IGluZm87CiAgICAgICAgICAgICAgICB3aW5kb3cuaW5wdXQgPSBpbnB1dDsKICAgICAgICAgICAgICAgIHdpbmRvdy5iZW5JZCA9IGJlbmVmaXRJZDs=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coe3NhdmU6IGluZm99KTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW5wdXQuYWRkQ2xhc3MoZXJyb3JDbGFzcyk7Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHdpbmRvdy5rZXkgPSBrZXk7CiAgICAgICAgICAgICAgICB3aW5kb3cuaW5mbyA9IGluZm87CiAgICAgICAgICAgICAgICB3aW5kb3cuaW5wdXQgPSBpbnB1dDsKICAgICAgICAgICAgICAgIHdpbmRvdy5iZW5JZCA9IGJlbmVmaXRJZDs=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB3aWR0aDogMjAlOwp9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBwYWRkaW5nLWxlZnQ6IDIuNXJlbTsKICBwYWRkaW5nLXJpZ2h0OiAyLjVyZW07Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRvdXRwdXQgLj0gJzwvbGk+JzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRvdXRwdXQgLj0gbCgkZmlsZS0+ZmlsZW5hbWUsICdkb3dubG9hZC1maWxlLycgLiBzZWxmOjpQTEFOX1BERlNfRElSIC4gJy8nIC4gJGJhc2VOYW1lKTsK</text>
+        <text encoding="base64">ICB3aWR0aDogMjAlOwp9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQoK</text>
+        <text encoding="base64">ICBwYWRkaW5nLWxlZnQ6IDIuNXJlbTsKICBwYWRkaW5nLXJpZ2h0OiAyLjVyZW07Cg==</text>
       </register>
       <register name=":" type="4">
         <text>448</text>
