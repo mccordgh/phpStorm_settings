@@ -368,7 +368,7 @@
         <mark key="]" line="0" column="27" />
         <mark key="." line="0" column="27" />
       </file>
-      <file name="$USER_HOME$/bernieportal/public/sites/all/modules/clientele/clientele_user.module" timestamp="1528993396322">
+      <file name="$USER_HOME$/bernieportal/public/sites/all/modules/clientele/clientele_user.module" timestamp="1529078255273">
         <mark key="[" line="46" column="40" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Benefits/Plans/BrokerFieldOption.php" timestamp="1528472388457">
@@ -541,7 +541,7 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/attach-broker-forms-table.vue" timestamp="1527000345390">
         <mark key="[" line="96" column="26" />
       </file>
-      <file name="$USER_HOME$/bernieportal/legacy/ClienteleUserModule.php" timestamp="1528993416442">
+      <file name="$USER_HOME$/bernieportal/legacy/ClienteleUserModule.php" timestamp="1529078463225">
         <mark key="[" line="10078" column="36" />
         <mark key="]" line="10078" column="36" />
         <mark key="." line="10078" column="36" />
@@ -598,7 +598,7 @@
       <file name="$USER_HOME$/workspace/php/testProject/public/css/main.css" timestamp="1504813753200">
         <mark key="[" line="34" column="23" />
       </file>
-      <file name="/PHP Console" timestamp="1529010324712">
+      <file name="/PHP Console" timestamp="1529078501759">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/JavaScript Console" timestamp="1518461207304">
@@ -814,7 +814,7 @@
         <text encoding="base64">ICBwYWRkaW5nLWxlZnQ6IDIuNXJlbTsKICBwYWRkaW5nLXJpZ2h0OiAyLjVyZW07Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>448</text>
+        <text>114</text>
       </register>
     </registers>
     <search>
@@ -850,7 +850,6 @@
         <entry>fillCustomFields</entry>
       </history-search>
       <history-cmd>
-        <entry>124</entry>
         <entry>171</entry>
         <entry>362</entry>
         <entry>22</entry>
@@ -870,6 +869,7 @@
         <entry>123</entry>
         <entry>321</entry>
         <entry>448</entry>
+        <entry>114</entry>
       </history-cmd>
       <history-expr />
       <history-input />
