@@ -556,7 +556,7 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/attach-broker-forms-table.vue" timestamp="1527000345390">
         <mark key="[" line="96" column="26" />
       </file>
-      <file name="$USER_HOME$/bernieportal/legacy/ClienteleUserModule.php" timestamp="1529088176578">
+      <file name="$USER_HOME$/bernieportal/legacy/ClienteleUserModule.php" timestamp="1529090512634">
         <mark key="[" line="10078" column="36" />
         <mark key="]" line="10078" column="36" />
         <mark key="." line="10078" column="36" />
@@ -655,6 +655,7 @@
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/tiles/path-blue.js" timestamp="1503356614590">
         <mark key="[" line="3" column="17" />
       </file>
+      <file name="$USER_HOME$/bernieportal/resources/views/partials/js/confirm-elections.blade.php" timestamp="1529090599030" />
       <file name="$USER_HOME$/bernieportal/resources/assets/sass/app.scss" timestamp="1529000112242">
         <mark key="[" line="5112" column="0" />
       </file>
