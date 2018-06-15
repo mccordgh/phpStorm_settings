@@ -348,6 +348,12 @@
       <file name="$USER_HOME$/workspace/advent_of_code/day_1_captcha/index.html" timestamp="1512157276150">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/bernieportal/app/Benefits/Plans/BrokerField.php" timestamp="1529089246809">
+        <mark key="[" line="204" column="0" />
+        <mark key="]" line="204" column="0" />
+        <mark key="^" line="204" column="0" />
+        <mark key="." line="204" column="0" />
+      </file>
       <file name="$USER_HOME$/bernieportal/resources/views/dashboards/employer/current-enrollment.blade.php" timestamp="1502478648006">
         <mark key="[" line="0" column="1" />
       </file>
@@ -368,6 +374,7 @@
         <mark key="]" line="0" column="27" />
         <mark key="." line="0" column="27" />
       </file>
+      <file name="$USER_HOME$/bernieportal/app/Handlers/Events/EmployeeConfirmedElections/GenerateCarrierForms.php" timestamp="1529088923062" />
       <file name="$USER_HOME$/bernieportal/public/sites/all/modules/clientele/clientele_user.module" timestamp="1529078255273">
         <mark key="[" line="46" column="40" />
       </file>
@@ -454,8 +461,16 @@
       <file name="$USER_HOME$/bernieportal/app/Brokerage/Broker.php" timestamp="1523994253123">
         <mark key="[" line="57" column="31" />
       </file>
-      <file name="/fragment.php" timestamp="1528992976174">
+      <file name="/fragment.php" timestamp="1529089267991">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/bernieportal/app/Benefits/Plans/BrokerForms/Answerer.php" timestamp="1529089221066">
+        <mark key="[" line="227" column="5" />
+        <mark key="]" line="230" column="7" />
+        <mark key="^" line="230" column="7" />
+        <mark key="." line="230" column="7" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/Plans/Shells/ShellsHierarchyController.php" timestamp="1521657976020">
         <mark key="[" line="35" column="33" />
@@ -768,14 +783,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/bernieportal/resources/views/broker/plan/additional-info.blade.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coe3NhdmU6IGluZm99KTsK</text>
+      <register name="&quot;" type="4">
+        <text>(</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text>fillCustomFields</text>
