@@ -61,13 +61,6 @@
       <file name="$USER_HOME$/workspace/javascript/emoji_rogue_like/src/js/classes/game.js" timestamp="1518909473534">
         <mark key="[" line="87" column="24" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Data/AccessObjects/Benefits/Plans/BrokerFieldOptionPivot.php" timestamp="1529095242429">
-        <mark key="'" line="27" column="0" />
-        <mark key="[" line="13" column="15" />
-        <mark key="]" line="13" column="17" />
-        <mark key="." line="13" column="17" />
-        <mark key="^" line="13" column="17" />
-      </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/thread/candidate-message-modal.vue" timestamp="1493229628959">
         <mark key="[" line="55" column="58" />
       </file>
@@ -126,8 +119,12 @@
       <file name="$USER_HOME$/bernieportal/public/sites/all/modules/employee_reg/employee_reg.module" timestamp="1513108312178">
         <mark key="[" line="83" column="24" />
       </file>
-      <file name="$USER_HOME$/bernieportal/legacy/Mastiff/Api/Api.php" timestamp="1514923432580">
-        <mark key="[" line="248" column="66" />
+      <file name="$USER_HOME$/bernieportal/legacy/Mastiff/Api/Api.php" timestamp="1529349463069">
+        <mark key="'" line="228" column="13" />
+        <mark key="[" line="227" column="42" />
+        <mark key="]" line="227" column="42" />
+        <mark key="." line="227" column="42" />
+        <mark key="^" line="227" column="14" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Views/Composers/Sidebar/Sidebar.php" timestamp="1495661096600">
         <mark key="[" line="46" column="10" />
@@ -351,13 +348,6 @@
       <file name="$USER_HOME$/workspace/javascript/phaser_simple_tutorial/.gitignore" timestamp="1516748476826">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Data/AccessObjects/Benefits/Plans/BrokerFieldOptionAnswer.php" timestamp="1529093344047">
-        <mark key="'" line="58" column="0" />
-        <mark key="[" line="52" column="17" />
-        <mark key="]" line="52" column="15" />
-        <mark key="." line="52" column="15" />
-        <mark key="^" line="52" column="15" />
-      </file>
       <file name="$USER_HOME$/BerniePortalWiki/FooterBackup.html" timestamp="1502825749665">
         <mark key="[" line="20" column="47" />
       </file>
@@ -413,6 +403,7 @@
       <file name="$USER_HOME$/bernieportal/app/Handlers/Events/EmployeeConfirmedElections/GenerateCarrierForms.php" timestamp="1529091380349">
         <mark key="[" line="87" column="63" />
       </file>
+      <file name="$USER_HOME$/bernieportal/legacy/OnboardingModule.php" timestamp="1529349371251" />
       <file name="$USER_HOME$/bernieportal/public/sites/all/modules/clientele/clientele_user.module" timestamp="1529078255273">
         <mark key="[" line="46" column="40" />
       </file>
@@ -464,6 +455,7 @@
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/tiles/wall-blue.js" timestamp="1503354559657">
         <mark key="[" line="3" column="17" />
       </file>
+      <file name="$USER_HOME$/bernieportal/legacy/ClientRegModule.php" timestamp="1529349246789" />
       <file name="$USER_HOME$/bernieportal/app/Carriers/Billing/LegacyBill.php" timestamp="1516399630689">
         <mark key="[" line="172" column="0" />
       </file>
@@ -549,13 +541,6 @@
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/aca/subgroups/list-1094.vue" timestamp="1515098246310">
         <mark key="[" line="69" column="79" />
-      </file>
-      <file name="$USER_HOME$/bernieportal/resources/views/broker/plan/additional-info.blade.php" timestamp="1529073486270">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="37" column="54" />
-        <mark key="]" line="37" column="54" />
-        <mark key="^" line="38" column="11" />
-        <mark key="." line="37" column="54" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/save-pdf-preview-banner.vue" timestamp="1529336945099">
         <mark key="[" line="119" column="76" />
@@ -747,7 +732,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2168" column="20" filename="$USER_HOME$/bernieportal/legacy/ClienteleUserModule.php" />
       <jump line="1909" column="60" filename="$USER_HOME$/bernieportal/legacy/ClienteleUserModule.php" />
       <jump line="56" column="16" filename="$USER_HOME$/bernieportal/resources/assets/components/benefits/plans/shells/create-plan-modal.vue" />
       <jump line="53" column="0" filename="$USER_HOME$/bernieportal/resources/assets/components/benefits/plans/shells/create-plan-modal.vue" />
@@ -847,16 +831,17 @@
       <jump line="4" column="0" filename="$USER_HOME$/bernieportal/app/Data/AccessObjects/Benefits/Plans/BrokerFieldOptionPivot.php" />
       <jump line="11" column="0" filename="$USER_HOME$/bernieportal/app/Data/AccessObjects/Benefits/Plans/BrokerFieldOptionPivot.php" />
       <jump line="54" column="53" filename="$USER_HOME$/bernieportal/app/Benefits/Plans/BrokerForms/FakeAnswerer.php" />
+      <jump line="228" column="13" filename="$USER_HOME$/bernieportal/legacy/Mastiff/Api/Api.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ZmllbGQtPm9wdGlvbnMoKQ==</text>
+        <text encoding="base64">IDogbmV3IFJlc3BvbnNlKGZhbHNlKQ==</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZmllbGQtPm9wdGlvbnMoKQ==</text>
+        <text encoding="base64">IDogbmV3IFJlc3BvbnNlKGZhbHNlKQ==</text>
       </register>
       <register name="/" type="4">
         <text>fillCustomFields</text>
