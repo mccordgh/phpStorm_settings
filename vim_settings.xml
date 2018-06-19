@@ -119,7 +119,7 @@
       <file name="$USER_HOME$/bernieportal/public/sites/all/modules/employee_reg/employee_reg.module" timestamp="1513108312178">
         <mark key="[" line="83" column="24" />
       </file>
-      <file name="$USER_HOME$/bernieportal/legacy/Mastiff/Api/Api.php" timestamp="1529350712066">
+      <file name="$USER_HOME$/bernieportal/legacy/Mastiff/Api/Api.php" timestamp="1529413686743">
         <mark key="'" line="228" column="13" />
         <mark key="[" line="227" column="42" />
         <mark key="]" line="227" column="42" />
@@ -610,6 +610,11 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/billing/billing-adjustment-table.vue" timestamp="1513984765746">
         <mark key="[" line="12" column="11" />
       </file>
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/custom-option-field-circle.vue" timestamp="1529413728120">
+        <mark key="[" line="72" column="69" />
+        <mark key="]" line="72" column="69" />
+        <mark key="." line="72" column="69" />
+      </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/quaternary-nav-for-vue.vue" timestamp="1498594361234">
         <mark key="[" line="15" column="23" />
       </file>
@@ -835,13 +840,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IDogbmV3IFJlc3BvbnNlKGZhbHNlKQ==</text>
+        <text>fieldName</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IDogbmV3IFJlc3BvbnNlKGZhbHNlKQ==</text>
+        <text>fieldName</text>
       </register>
       <register name="/" type="4">
         <text>fillCustomFields</text>
