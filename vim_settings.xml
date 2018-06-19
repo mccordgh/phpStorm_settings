@@ -79,13 +79,6 @@
       <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/PlansController.php" timestamp="1521834739103">
         <mark key="[" line="18" column="5" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Benefits/Plans/BrokerForms/FakeAnswerer.php" timestamp="1529346340282">
-        <mark key="'" line="55" column="53" />
-        <mark key="[" line="62" column="36" />
-        <mark key="]" line="62" column="36" />
-        <mark key="." line="62" column="36" />
-        <mark key="^" line="59" column="40" />
-      </file>
       <file name="$USER_HOME$/bernieportal/tests/app/Api/Transformers/Benefits/Plans/Shells/ShellTransformerTest.php" timestamp="1529433354287">
         <mark key="[" line="106" column="42" />
         <mark key="]" line="106" column="42" />
@@ -124,13 +117,6 @@
       <file name="$USER_HOME$/bernieportal/public/sites/all/modules/employee_reg/employee_reg.module" timestamp="1513108312178">
         <mark key="[" line="83" column="24" />
       </file>
-      <file name="$USER_HOME$/bernieportal/legacy/Mastiff/Api/Api.php" timestamp="1529413686743">
-        <mark key="'" line="228" column="13" />
-        <mark key="[" line="227" column="42" />
-        <mark key="]" line="227" column="42" />
-        <mark key="." line="227" column="42" />
-        <mark key="^" line="227" column="14" />
-      </file>
       <file name="$USER_HOME$/bernieportal/app/Views/Composers/Sidebar/Sidebar.php" timestamp="1495661096600">
         <mark key="[" line="46" column="10" />
       </file>
@@ -139,6 +125,12 @@
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/js/current-user-id.js" timestamp="1499278658594">
         <mark key="[" line="2" column="63" />
+      </file>
+      <file name="$USER_HOME$/bernieportal/tests/app/Api/Transformers/Carriers/Edi/FileSettingsTransformerTest.php" timestamp="1529437061427">
+        <mark key="[" line="77" column="44" />
+        <mark key="]" line="77" column="44" />
+        <mark key="^" line="68" column="23" />
+        <mark key="." line="77" column="44" />
       </file>
       <file name="$USER_HOME$/workspace/gamepad_api_demo/main.css" timestamp="1501271749114">
         <mark key="[" line="5" column="10" />
@@ -613,6 +605,11 @@
       <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/Plans/Shells/ShellsCarriersController.php" timestamp="1528223339998">
         <mark key="[" line="17" column="59" />
       </file>
+      <file name="$USER_HOME$/bernieportal/tests/app/Api/Transformers/Carriers/Edi/FileInfoTransformerTest.php" timestamp="1529436858979">
+        <mark key="[" line="95" column="31" />
+        <mark key="]" line="95" column="31" />
+        <mark key="." line="95" column="31" />
+      </file>
       <file name="$USER_HOME$/bernieportal/storage/framework/views/241e2393e69edc8bff247d70c53e0872b31b741a.php" timestamp="1506372251594">
         <mark key="[" line="4" column="57" />
       </file>
@@ -802,14 +799,14 @@
       <jump line="228" column="13" filename="$USER_HOME$/bernieportal/legacy/Mastiff/Api/Api.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Carbon::parse(</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>link</text>
+        <text>Carbon::parse(</text>
       </register>
       <register name="/" type="4">
         <text>fillCustomFields</text>
@@ -824,28 +821,31 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">Lwo=</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IC8qKgogICAgICogUmF0ZXNQYWdlTGlua1RyYW5zZm9ybWVyVGVzdCBjb25zdHJ1Y3Rvci4KICAgICAqIEBwYXJhbSBudWxsICRuYW1lCiAgICAgKiBAcGFyYW0gYXJyYXkgJGRhdGEKICAgICAqIEBwYXJhbSBzdHJpbmcgJGRhdGFOYW1lCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBfX2NvbnN0cnVjdCgkbmFtZSA9IG51bGwsIGFycmF5ICRkYXRhID0gYXJyYXkoKSwgJGRhdGFOYW1lID0gJycpIHsKICAgICAgICBwYXJlbnQ6Ol9fY29uc3RydWN0KCRuYW1lLCAkZGF0YSwgJGRhdGFOYW1lKTsKCiAgICAgICAgJHRoaXMtPmNyZWF0ZUFwcGxpY2F0aW9uKCk7CiAgICB9</text>
+        <text>/    public function __construct($name = null, array $data = array(), $dataName = '') {
+//        parent::__construct($name, $data, $dataName);
+//
+//    }</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBhcnJheSAkZXhwZWN0ZWRSZXN1bHQKICAgICAqLwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAqCiAgICAgKiBAcGFyYW0gUGxhbiAkcGxhbgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQGRhdGFQcm92aWRlciB0cmFuc2Zvcm1NZXRob2REYXRhUHJvdmlkZXIK</text>
+        <text encoding="base64">Ly8gICAgICAgICR0aGlzLT5jcmVhdGVBcHBsaWNhdGlvbigpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBdOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHBsYW4sCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gWwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>167</text>
