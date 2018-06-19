@@ -79,11 +79,13 @@
       <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/PlansController.php" timestamp="1521834739103">
         <mark key="[" line="18" column="5" />
       </file>
-      <file name="$USER_HOME$/bernieportal/tests/app/Api/Transformers/Benefits/Plans/Shells/ShellTransformerTest.php" timestamp="1529433354287">
-        <mark key="[" line="106" column="42" />
-        <mark key="]" line="106" column="42" />
-        <mark key="." line="106" column="42" />
+      <file name="$USER_HOME$/bernieportal/tests/app/Api/Transformers/Benefits/Plans/Shells/ShellTransformerTest.php" timestamp="1529437967834">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="36" column="17" />
+        <mark key="." line="36" column="17" />
+        <mark key="^" line="36" column="17" />
       </file>
+      <file name="$USER_HOME$/bernieportal/legacy/Benefits/BenefitTypes.php" timestamp="1529437808373" />
       <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/routers/job-routing.vue" timestamp="1513293594479">
         <mark key="[" line="1" column="7" />
       </file>
@@ -555,11 +557,11 @@
       <file name="$USER_HOME$/bernieportal/app/Onboarding/EmployeesImport.php" timestamp="1506355596605">
         <mark key="[" line="5" column="1" />
       </file>
-      <file name="$USER_HOME$/bernieportal/tests/app/Api/Transformers/BenefitTypesTransformerTest.php" timestamp="1529434076144">
-        <mark key="[" line="20" column="32" />
-        <mark key="]" line="20" column="32" />
-        <mark key="." line="20" column="32" />
-        <mark key="^" line="20" column="31" />
+      <file name="$USER_HOME$/bernieportal/tests/app/Api/Transformers/BenefitTypesTransformerTest.php" timestamp="1529437957854">
+        <mark key="[" line="55" column="8" />
+        <mark key="]" line="55" column="8" />
+        <mark key="." line="55" column="8" />
+        <mark key="^" line="21" column="31" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/aca/employees/spreadsheet-import.vue" timestamp="1519842480935">
         <mark key="[" line="3" column="30" />
@@ -800,13 +802,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Carbon::parse(</text>
+        <text>Toggle</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>Carbon::parse(</text>
+        <text>Toggle</text>
       </register>
       <register name="/" type="4">
         <text>fillCustomFields</text>
