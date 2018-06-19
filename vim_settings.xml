@@ -86,6 +86,11 @@
         <mark key="." line="62" column="36" />
         <mark key="^" line="59" column="40" />
       </file>
+      <file name="$USER_HOME$/bernieportal/tests/app/Api/Transformers/Benefits/Plans/Shells/ShellTransformerTest.php" timestamp="1529433354287">
+        <mark key="[" line="106" column="42" />
+        <mark key="]" line="106" column="42" />
+        <mark key="." line="106" column="42" />
+      </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/routers/job-routing.vue" timestamp="1513293594479">
         <mark key="[" line="1" column="7" />
       </file>
@@ -397,6 +402,7 @@
         <mark key="[" line="87" column="63" />
       </file>
       <file name="$USER_HOME$/bernieportal/legacy/OnboardingModule.php" timestamp="1529349371251" />
+      <file name="$USER_HOME$/bernieportal/app/Api/Transformers/Benefits/Plans/Shells/ShellTransformer.php" timestamp="1529433260664" />
       <file name="$USER_HOME$/bernieportal/public/sites/all/modules/clientele/clientele_user.module" timestamp="1529418023525">
         <mark key="[" line="46" column="40" />
       </file>
@@ -488,7 +494,7 @@
         <mark key="]" line="261" column="4" />
         <mark key="." line="261" column="4" />
       </file>
-      <file name="/fragment.php" timestamp="1529417340569">
+      <file name="/fragment.php" timestamp="1529433951720">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -557,6 +563,12 @@
       <file name="$USER_HOME$/bernieportal/app/Onboarding/EmployeesImport.php" timestamp="1506355596605">
         <mark key="[" line="5" column="1" />
       </file>
+      <file name="$USER_HOME$/bernieportal/tests/app/Api/Transformers/BenefitTypesTransformerTest.php" timestamp="1529434076144">
+        <mark key="[" line="20" column="32" />
+        <mark key="]" line="20" column="32" />
+        <mark key="." line="20" column="32" />
+        <mark key="^" line="20" column="31" />
+      </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/aca/employees/spreadsheet-import.vue" timestamp="1519842480935">
         <mark key="[" line="3" column="30" />
       </file>
@@ -575,6 +587,11 @@
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/billing/billing-adjustment-table.vue" timestamp="1513984765746">
         <mark key="[" line="12" column="11" />
+      </file>
+      <file name="$USER_HOME$/bernieportal/tests/app/Api/Transformers/Benefits/Plans/Shells/RatesPageLinkTransformerTest.php" timestamp="1529434643076">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/custom-option-field-circle.vue" timestamp="1529415423283">
         <mark key="[" line="72" column="69" />
@@ -785,14 +802,14 @@
       <jump line="228" column="13" filename="$USER_HOME$/bernieportal/legacy/Mastiff/Api/Api.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>array</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>array</text>
+        <text>link</text>
       </register>
       <register name="/" type="4">
         <text>fillCustomFields</text>
@@ -800,36 +817,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImZvcm0tY29udHJvbCBmb3JtLWNvbnRyb2wtLWZpZWxkLW9wdGlvbnMiPgo=</text>
       </register>
-      <register name="1" type="4">
-        <text>t
-{</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICogVGltZTogOTo1NiBBTQo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">IC8qKgogICAgICogUmF0ZXNQYWdlTGlua1RyYW5zZm9ybWVyVGVzdCBjb25zdHJ1Y3Rvci4KICAgICAqIEBwYXJhbSBudWxsICRuYW1lCiAgICAgKiBAcGFyYW0gYXJyYXkgJGRhdGEKICAgICAqIEBwYXJhbSBzdHJpbmcgJGRhdGFOYW1lCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBfX2NvbnN0cnVjdCgkbmFtZSA9IG51bGwsIGFycmF5ICRkYXRhID0gYXJyYXkoKSwgJGRhdGFOYW1lID0gJycpIHsKICAgICAgICBwYXJlbnQ6Ol9fY29uc3RydWN0KCRuYW1lLCAkZGF0YSwgJGRhdGFOYW1lKTsKCiAgICAgICAgJHRoaXMtPmNyZWF0ZUFwcGxpY2F0aW9uKCk7CiAgICB9</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICogRGF0ZTogNi8xOS8xOAo=</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBhcnJheSAkZXhwZWN0ZWRSZXN1bHQKICAgICAqLwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICogVXNlcjogbWF0dGhld21jY29yZAo=</text>
+        <text encoding="base64">ICAgICAqCiAgICAgKiBAcGFyYW0gUGxhbiAkcGxhbgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBQaHBTdG9ybS4K</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQGRhdGFQcm92aWRlciB0cmFuc2Zvcm1NZXRob2REYXRhUHJvdmlkZXIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">ICAgICAgICBdOwo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtICRmaWVsZAogICAgICogQHBhcmFtICRwZGYKICAgICAqIEBwYXJhbSAkcGFnZVdpZHRoCiAgICAgKi8=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJHBsYW4sCg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtICRmaWVsZAogICAgICogQHBhcmFtICRwZGYKICAgICAqIEBwYXJhbSAkeAogICAgICogQHBhcmFtICR5CiAgICAgKi8=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gWwo=</text>
       </register>
       <register name=":" type="4">
         <text>167</text>
