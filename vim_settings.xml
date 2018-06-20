@@ -79,6 +79,11 @@
       <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/PlansController.php" timestamp="1521834739103">
         <mark key="[" line="18" column="5" />
       </file>
+      <file name="$USER_HOME$/bernieportal/tests/app/Api/Transformers/Benefits/Plans/Shells/ShellTransformerTest.php" timestamp="1529445890520">
+        <mark key="[" line="42" column="35" />
+        <mark key="]" line="42" column="35" />
+        <mark key="." line="42" column="35" />
+      </file>
       <file name="$USER_HOME$/bernieportal/legacy/Benefits/BenefitTypes.php" timestamp="1529440036629" />
       <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/routers/job-routing.vue" timestamp="1513293594479">
         <mark key="[" line="1" column="7" />
@@ -557,6 +562,12 @@
       <file name="$USER_HOME$/bernieportal/app/Onboarding/EmployeesImport.php" timestamp="1506355596605">
         <mark key="[" line="5" column="1" />
       </file>
+      <file name="$USER_HOME$/bernieportal/tests/app/Api/Transformers/BenefitTypesTransformerTest.php" timestamp="1529445902298">
+        <mark key="[" line="29" column="35" />
+        <mark key="]" line="29" column="35" />
+        <mark key="^" line="52" column="39" />
+        <mark key="." line="29" column="35" />
+      </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/aca/employees/spreadsheet-import.vue" timestamp="1519842480935">
         <mark key="[" line="3" column="30" />
       </file>
@@ -796,14 +807,14 @@
       <jump line="228" column="13" filename="$USER_HOME$/bernieportal/legacy/Mastiff/Api/Api.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>ConnectionInterface</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>App</text>
+        <text>ConnectionInterface</text>
       </register>
       <register name="/" type="4">
         <text>fillCustomFields</text>
