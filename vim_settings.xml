@@ -84,6 +84,7 @@
       <file name="$USER_HOME$/bernieportal/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php" timestamp="1523995785632">
         <mark key="[" line="68" column="44" />
       </file>
+      <file name="$USER_HOME$/bernieportal/public/includes/common.inc" timestamp="1529616525662" />
       <file name="$USER_HOME$/bernieportal/public/sites/all/modules/cck/content.module" timestamp="1524164490718">
         <mark key="[" line="374" column="5" />
       </file>
@@ -111,6 +112,7 @@
       <file name="$USER_HOME$/bernieportal/public/sites/all/modules/employee_reg/employee_reg.module" timestamp="1513108312178">
         <mark key="[" line="83" column="24" />
       </file>
+      <file name="$USER_HOME$/bernieportal/public/includes/bootstrap.inc" timestamp="1529616554671" />
       <file name="$USER_HOME$/bernieportal/app/Views/Composers/Sidebar/Sidebar.php" timestamp="1495661096600">
         <mark key="[" line="46" column="10" />
       </file>
@@ -378,13 +380,13 @@
       <file name="$USER_HOME$/bernieportal/app/Ats/Candidate.php" timestamp="1502737804653">
         <mark key="[" line="32" column="86" />
       </file>
+      <file name="$USER_HOME$/bernieportal/bootstrap/bernieportal.php" timestamp="1529616149139" />
       <file name="$USER_HOME$/bernieportal/app/Handlers/Events/EmployeeConfirmedElections/GenerateCarrierForms.php" timestamp="1529091380349">
         <mark key="[" line="87" column="63" />
       </file>
       <file name="$USER_HOME$/bernieportal/public/sites/all/modules/clientele/clientele_user.module" timestamp="1529418023525">
         <mark key="[" line="46" column="40" />
       </file>
-      <file name="$USER_HOME$/bernieportal/legacy/BeneficiaryModule.php" timestamp="1529612645527" />
       <file name="$USER_HOME$/bernieportal/app/Benefits/Plans/BrokerFieldOption.php" timestamp="1529416702864">
         <mark key="[" line="8" column="1" />
       </file>
@@ -423,6 +425,15 @@
       </file>
       <file name="$USER_HOME$/bernieportal/app/Carriers/Billing/LegacyBill.php" timestamp="1516399630689">
         <mark key="[" line="172" column="0" />
+      </file>
+      <file name="$USER_HOME$/bernieportal/composer.json" timestamp="1529616408439">
+        <mark key="'" line="0" column="0" />
+        <mark key="i" line="78" column="38" />
+        <mark key="y" line="78" column="38" />
+        <mark key="[" line="78" column="38" />
+        <mark key="]" line="77" column="42" />
+        <mark key="^" line="77" column="42" />
+        <mark key="." line="77" column="42" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/views/dashboards/sidebar/employer-employee-items.blade.php" timestamp="1502480216885">
         <mark key="[" line="3" column="43" />
@@ -463,7 +474,6 @@
       <file name="$USER_HOME$/bernieportal/spec/Http/Requests/BrokerForms/CreateFieldRequestSpec.php" timestamp="1528328514272">
         <mark key="[" line="23" column="51" />
       </file>
-      <file name="$USER_HOME$/bernieportal/legacy/BenefitSelectionModule.php" timestamp="1529612410024" />
       <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/Bills/BillsController.php" timestamp="1519918457959">
         <mark key="[" line="146" column="5" />
       </file>
@@ -503,11 +513,10 @@
         <mark key="^" line="22" column="50" />
         <mark key="." line="22" column="50" />
       </file>
-      <file name="$USER_HOME$/bernieportal/tests/legacy/EmployeeElectionModuleTest.php" timestamp="1529614007894">
-        <mark key="[" line="183" column="5" />
-        <mark key="]" line="186" column="81" />
-        <mark key="^" line="186" column="81" />
-        <mark key="." line="186" column="81" />
+      <file name="$USER_HOME$/bernieportal/tests/legacy/EmployeeElectionModuleTest.php" timestamp="1529680790283">
+        <mark key="[" line="33" column="33" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/components/candidate-header.vue" timestamp="1493220732358">
         <mark key="[" line="41" column="54" />
@@ -644,6 +653,7 @@
       <file name="/JavaScript Console" timestamp="1518461207304">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/bernieportal/public/index.php" timestamp="1529615831861" />
       <file name="$USER_HOME$/workspace/php/testProject/app/Console/Kernel.php" timestamp="1504282888931">
         <mark key="[" line="16" column="10" />
       </file>
@@ -694,7 +704,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1909" column="60" filename="$USER_HOME$/bernieportal/legacy/ClienteleUserModule.php" />
       <jump line="56" column="16" filename="$USER_HOME$/bernieportal/resources/assets/components/benefits/plans/shells/create-plan-modal.vue" />
       <jump line="53" column="0" filename="$USER_HOME$/bernieportal/resources/assets/components/benefits/plans/shells/create-plan-modal.vue" />
       <jump line="166" column="49" filename="$USER_HOME$/bernieportal/legacy/Benefits/BenefitLibrary.php" />
@@ -794,69 +803,69 @@
       <jump line="11" column="0" filename="$USER_HOME$/bernieportal/app/Data/AccessObjects/Benefits/Plans/BrokerFieldOptionPivot.php" />
       <jump line="54" column="53" filename="$USER_HOME$/bernieportal/app/Benefits/Plans/BrokerForms/FakeAnswerer.php" />
       <jump line="228" column="13" filename="$USER_HOME$/bernieportal/legacy/Mastiff/Api/Api.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/bernieportal/composer.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>int</text>
+        <text>common</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>int</text>
+        <text>common</text>
       </register>
       <register name="/" type="4">
-        <text>fillCustomFields</text>
+        <text>TestCase</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImZvcm0tY29udHJvbCBmb3JtLWNvbnRyb2wtLWZpZWxkLW9wdGlvbnMiPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Ly8gICAgICAgIGRkKCRkcnVwYWwpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGJlbmVmaXRUeXBlc1tCZW5lZml0VHlwZXM6OkhPU1BJVEFMX0lOREVNTklUWV0gPSAnSG9zcGl0YWwgSW5kZW1uaXR5JzsK</text>
+        <text encoding="base64">cmVxdWlyZSAnLi4vLi4vcHVibGljL2luY2x1ZGVzL2NvbW1vbi5pbmMnOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNlIHRlc3RzXGxlZ2FjeVxCZW5lZml0c1xCZW5lZml0VHlwZXNTdHViOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICovCgo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICogVXNlcjogbWF0dGhld21jY29yZAogKiBUaW1lOiAzOjI0IFBNCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICogRGF0ZTogNi8xOS8xOAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGJlbmVmaXRUeXBlc1tCZW5lZml0VHlwZXM6OkhPU1BJVEFMX0lOREVNTklUWV0gPSAnSG9zcGl0YWwgSW5kZW1uaXR5JzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBQaHBTdG9ybS4K</text>
+        <text encoding="base64">dXNlIHRlc3RzXGxlZ2FjeVxCZW5lZml0c1xCZW5lZml0VHlwZXNTdHViOwo=</text>
       </register>
       <register name=":" type="4">
         <text>415</text>
       </register>
     </registers>
     <search>
-      <last-search>fillCustomFields</last-search>
+      <last-search>TestCase</last-search>
       <last-offset />
-      <last-pattern>fillCustomFields</last-pattern>
+      <last-pattern>TestCase</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>fillCustomFields</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>table</entry>
         <entry>prop</entry>
         <entry encoding="base64">XDwnXD4=</entry>
         <entry encoding="base64">PA==</entry>
@@ -876,6 +885,7 @@
         <entry>manipulate_election_form</entry>
         <entry>['broker-forms']</entry>
         <entry>fillCustomFields</entry>
+        <entry>TestCase</entry>
       </history-search>
       <history-cmd>
         <entry>448</entry>
