@@ -426,14 +426,12 @@
       <file name="$USER_HOME$/bernieportal/app/Carriers/Billing/LegacyBill.php" timestamp="1516399630689">
         <mark key="[" line="172" column="0" />
       </file>
-      <file name="$USER_HOME$/bernieportal/composer.json" timestamp="1529616408439">
+      <file name="$USER_HOME$/bernieportal/composer.json" timestamp="1529682334474">
         <mark key="'" line="0" column="0" />
-        <mark key="i" line="78" column="38" />
-        <mark key="y" line="78" column="38" />
-        <mark key="[" line="78" column="38" />
-        <mark key="]" line="77" column="42" />
-        <mark key="^" line="77" column="42" />
-        <mark key="." line="77" column="42" />
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="77" column="0" />
+        <mark key="^" line="77" column="12" />
+        <mark key="." line="77" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/views/dashboards/sidebar/employer-employee-items.blade.php" timestamp="1502480216885">
         <mark key="[" line="3" column="43" />
@@ -513,10 +511,10 @@
         <mark key="^" line="22" column="50" />
         <mark key="." line="22" column="50" />
       </file>
-      <file name="$USER_HOME$/bernieportal/tests/legacy/EmployeeElectionModuleTest.php" timestamp="1529680790283">
-        <mark key="[" line="33" column="33" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
+      <file name="$USER_HOME$/bernieportal/tests/legacy/EmployeeElectionModuleTest.php" timestamp="1529682673271">
+        <mark key="[" line="186" column="0" />
+        <mark key="]" line="186" column="0" />
+        <mark key="." line="186" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/components/candidate-header.vue" timestamp="1493220732358">
         <mark key="[" line="41" column="54" />
@@ -699,7 +697,7 @@
       <file name="$USER_HOME$/workspace/javascript/GGJ2018_last_electrician/.gitignore" timestamp="1517068285329">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/bernieportal/legacy/EmployeeElectionModule.php" timestamp="1529614257762">
+      <file name="$USER_HOME$/bernieportal/legacy/EmployeeElectionModule.php" timestamp="1529682654420">
         <mark key="[" line="414" column="38" />
       </file>
     </filemarks>
@@ -806,14 +804,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/bernieportal/composer.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>common</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8gICAgICAgICR0aGlzLT5xdWVyeS0+c2hvdWxkUmVjZWl2ZSgnc2VsZWN0JyktPndpdGhBcmdzKFsncGxhbnMuYnluaWRhbmR0aXRsZSddKTsK</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>common</text>
+        <text>../../</text>
       </register>
       <register name="/" type="4">
         <text>TestCase</text>
@@ -822,34 +820,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImZvcm0tY29udHJvbCBmb3JtLWNvbnRyb2wtLWZpZWxkLW9wdGlvbnMiPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGRkKCRkcnVwYWwpOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgICR0aGlzLT5xdWVyeS0+c2hvdWxkUmVjZWl2ZSgnc2VsZWN0JyktPndpdGhBcmdzKFsncGxhbnMuYnluaWRhbmR0aXRsZSddKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGRkKCRyZXN1bHQpOwo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cmVxdWlyZSAnLi4vLi4vcHVibGljL2luY2x1ZGVzL2NvbW1vbi5pbmMnOwo=</text>
+        <text encoding="base64">Ly9yZXF1aXJlKCcuLi8uLi9wdWJsaWMvaW5jbHVkZXMvYm9vdHN0cmFwLmluYycpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgInB1YmxpYy9pbmNsdWRlcy9kYXRhYmFzZS5teXNxbGkuaW5jIiwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgInB1YmxpYy9pbmNsdWRlcy9kYXRhYmFzZS5pbmMiLAo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGJlbmVmaXRUeXBlc1tCZW5lZml0VHlwZXM6OkhPU1BJVEFMX0lOREVNTklUWV0gPSAnSG9zcGl0YWwgSW5kZW1uaXR5JzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNlIHRlc3RzXGxlZ2FjeVxCZW5lZml0c1xCZW5lZml0VHlwZXNTdHViOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>415</text>
