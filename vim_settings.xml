@@ -428,10 +428,6 @@
       </file>
       <file name="$USER_HOME$/bernieportal/composer.json" timestamp="1529682334474">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="77" column="0" />
-        <mark key="]" line="77" column="0" />
-        <mark key="^" line="77" column="12" />
-        <mark key="." line="77" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/views/dashboards/sidebar/employer-employee-items.blade.php" timestamp="1502480216885">
         <mark key="[" line="3" column="43" />
@@ -697,8 +693,11 @@
       <file name="$USER_HOME$/workspace/javascript/GGJ2018_last_electrician/.gitignore" timestamp="1517068285329">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/bernieportal/legacy/EmployeeElectionModule.php" timestamp="1529682654420">
-        <mark key="[" line="414" column="38" />
+      <file name="$USER_HOME$/bernieportal/legacy/EmployeeElectionModule.php" timestamp="1529684041175">
+        <mark key="[" line="576" column="5" />
+        <mark key="]" line="576" column="4" />
+        <mark key="^" line="576" column="4" />
+        <mark key="." line="576" column="4" />
       </file>
     </filemarks>
     <jumps>
