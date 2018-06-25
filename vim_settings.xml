@@ -505,9 +505,9 @@
         <mark key="." line="22" column="50" />
       </file>
       <file name="$USER_HOME$/bernieportal/tests/legacy/EmployeeElectionModuleTest.php" timestamp="1529682673271">
-        <mark key="[" line="186" column="0" />
-        <mark key="]" line="186" column="0" />
-        <mark key="." line="186" column="0" />
+        <mark key="[" line="172" column="0" />
+        <mark key="]" line="172" column="0" />
+        <mark key="." line="172" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/components/candidate-header.vue" timestamp="1493220732358">
         <mark key="[" line="41" column="54" />
@@ -653,7 +653,6 @@
       <file name="$USER_HOME$/mastiff/mastiff/laravel/app/controllers/api/v1/resources/ProviderController.php" timestamp="1514921576555">
         <mark key="[" line="17" column="26" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Data/AccessObjects/Benefits/Plans/BrokerFieldOption.php" timestamp="1529686598309" />
       <file name="$USER_HOME$/bernieportal/public/sites/all/modules/ebooks/js/add_notice_frm.js" timestamp="1528490567412">
         <mark key="[" line="41" column="41" />
       </file>
@@ -689,12 +688,6 @@
       </file>
       <file name="$USER_HOME$/workspace/javascript/GGJ2018_last_electrician/.gitignore" timestamp="1517068285329">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/bernieportal/legacy/EmployeeElectionModule.php" timestamp="1529686406705">
-        <mark key="[" line="576" column="5" />
-        <mark key="]" line="576" column="4" />
-        <mark key="^" line="576" column="4" />
-        <mark key="." line="576" column="4" />
       </file>
     </filemarks>
     <jumps>
