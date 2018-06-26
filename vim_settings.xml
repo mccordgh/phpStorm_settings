@@ -468,6 +468,13 @@
       <file name="$USER_HOME$/bernieportal/spec/Http/Requests/BrokerForms/CreateFieldRequestSpec.php" timestamp="1528328514272">
         <mark key="[" line="23" column="51" />
       </file>
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/billing/benefit-billing-past.vue" timestamp="1529952173491">
+        <mark key="'" line="242" column="34" />
+        <mark key="[" line="137" column="20" />
+        <mark key="]" line="157" column="33" />
+        <mark key="^" line="157" column="33" />
+        <mark key="." line="157" column="33" />
+      </file>
       <file name="$USER_HOME$/bernieportal/app/Http/Requests/Plans/Shells/ShellsRequest.php" timestamp="1529960148021" />
       <file name="$USER_HOME$/bernieportal/resources/views/billing/base-unum-bill.blade.php" timestamp="1515108477474">
         <mark key="[" line="77" column="51" />
@@ -502,8 +509,9 @@
       <file name="$USER_HOME$/bernieportal/resources/views/dashboards/panel/hsa-balance.blade.php" timestamp="1516053548965">
         <mark key="[" line="1" column="8" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Data/UserRepository.php" timestamp="1530046728434">
-        <mark key="[" line="26" column="32" />
+      <file name="$USER_HOME$/bernieportal/app/Data/UserRepository.php" timestamp="1530048786728">
+        <mark key="'" line="30" column="0" />
+        <mark key="[" line="30" column="1" />
         <mark key="]" line="26" column="32" />
         <mark key="." line="26" column="32" />
         <mark key="^" line="28" column="14" />
@@ -707,8 +715,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="32" filename="$USER_HOME$/bernieportal/app/Http/Controllers/Api/Plans/Shells/ShellsPlansController.php" />
-      <jump line="56" column="20" filename="$USER_HOME$/bernieportal/tests/app/Api/Transformers/Benefits/Plans/Shells/RatesPageLinkTransformerTest.php" />
       <jump line="11" column="24" filename="$USER_HOME$/bernieportal/tests/app/Benefits/Plans/Shells/ShellPlanAdapterTest.php" />
       <jump line="477" column="66" filename="$USER_HOME$/bernieportal/app/Benefits/Plans/Shells/ShellRepository.php" />
       <jump line="1579" column="60" filename="$USER_HOME$/bernieportal/legacy/ClienteleUserModule.php" />
@@ -807,6 +813,8 @@
       <jump line="240" column="34" filename="$USER_HOME$/bernieportal/resources/assets/components/billing/benefit-billing-past.vue" />
       <jump line="38" column="69" filename="$USER_HOME$/bernieportal/app/Data/Repositories/Benefits/Plans/BrokerFieldAccessObjectRepository.php" />
       <jump line="38" column="24" filename="$USER_HOME$/bernieportal/spec/Data/Repositories/Benefits/Plans/BrokerFieldAccessObjectRepositorySpec.php" />
+      <jump line="28" column="52" filename="$USER_HOME$/bernieportal/app/Data/UserRepository.php" />
+      <jump line="30" column="0" filename="$USER_HOME$/bernieportal/app/Data/UserRepository.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
