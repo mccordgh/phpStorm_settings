@@ -187,8 +187,11 @@
       <file name="$USER_HOME$/workspace/miniverse_frontend/index.html" timestamp="1514843064405">
         <mark key="[" line="17" column="10" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/onboarding/personal-info.vue" timestamp="1518716274524">
-        <mark key="[" line="175" column="22" />
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/onboarding/personal-info.vue" timestamp="1530115406637">
+        <mark key="[" line="178" column="52" />
+        <mark key="]" line="178" column="52" />
+        <mark key="^" line="178" column="52" />
+        <mark key="." line="178" column="52" />
       </file>
       <file name="$USER_HOME$/bernieportal/public/sites/all/modules/logintoboggan/logintoboggan.module" timestamp="1515024132752">
         <mark key="[" line="1106" column="1" />
@@ -293,6 +296,9 @@
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/candidate/job-candidate.vue" timestamp="1518625163441">
         <mark key="[" line="375" column="43" />
+      </file>
+      <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/Account/ContactInfoController.php" timestamp="1530115711699">
+        <mark key="[" line="41" column="40" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Time/SubgroupSettings.php" timestamp="1506357820036">
         <mark key="[" line="7" column="1" />
@@ -553,6 +559,7 @@
       <file name="$USER_HOME$/bernieportal/app/Onboarding/EmployeesImport.php" timestamp="1506355596605">
         <mark key="[" line="5" column="1" />
       </file>
+      <file name="$USER_HOME$/bernieportal/app/Http/routes.php" timestamp="1530115707073" />
       <file name="$USER_HOME$/bernieportal/resources/assets/components/aca/employees/spreadsheet-import.vue" timestamp="1519842480935">
         <mark key="[" line="3" column="30" />
       </file>
@@ -584,6 +591,9 @@
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/quaternary-nav-for-vue.vue" timestamp="1498594361234">
         <mark key="[" line="15" column="23" />
+      </file>
+      <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/Account/PersonalInfoController.php" timestamp="1530115543248">
+        <mark key="[" line="41" column="40" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/benefit-provider/benefit-provider-profile-form.vue" timestamp="1524777626668">
         <mark key="[" line="0" column="22" />
@@ -648,7 +658,7 @@
       <file name="$USER_HOME$/workspace/php/testProject/public/css/main.css" timestamp="1504813753200">
         <mark key="[" line="34" column="23" />
       </file>
-      <file name="/PHP Console" timestamp="1530114173448">
+      <file name="/PHP Console" timestamp="1530115604912">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Http/Requests/BrokerForms/SingleFieldRequest.php" timestamp="1530025411812">
