@@ -631,11 +631,11 @@
       <file name="$USER_HOME$/bernieportal/app/Http/Requests/User/ShowUserRequest.php" timestamp="1496853931288">
         <mark key="[" line="21" column="49" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/carrier-forms/broker-form-view.vue" timestamp="1530134140581">
-        <mark key="[" line="1217" column="7" />
-        <mark key="]" line="561" column="11" />
-        <mark key="." line="561" column="11" />
-        <mark key="^" line="561" column="11" />
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/carrier-forms/broker-form-view.vue" timestamp="1530135650967">
+        <mark key="[" line="1290" column="62" />
+        <mark key="]" line="985" column="26" />
+        <mark key="." line="985" column="26" />
+        <mark key="^" line="985" column="26" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Jobs/Plans/Shells/UpdatePlansCreatedFromShell.php" timestamp="1524687153761">
         <mark key="[" line="141" column="108" />
@@ -669,7 +669,7 @@
       <file name="$USER_HOME$/workspace/php/testProject/public/css/main.css" timestamp="1504813753200">
         <mark key="[" line="34" column="23" />
       </file>
-      <file name="/PHP Console" timestamp="1530134128874">
+      <file name="/PHP Console" timestamp="1530136296911">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Http/Requests/BrokerForms/SingleFieldRequest.php" timestamp="1530025411812">
@@ -886,7 +886,7 @@
         <text encoding="base64">ICogVGltZTogMzowMyBQTQo=</text>
       </register>
       <register name=":" type="4">
-        <text>205</text>
+        <text>1288</text>
       </register>
     </registers>
     <search>
@@ -922,7 +922,6 @@
         <entry>TestCase</entry>
       </history-search>
       <history-cmd>
-        <entry>31</entry>
         <entry>217</entry>
         <entry>341</entry>
         <entry>167</entry>
@@ -942,6 +941,7 @@
         <entry>495</entry>
         <entry>42</entry>
         <entry>205</entry>
+        <entry>1288</entry>
       </history-cmd>
       <history-expr />
       <history-input />
