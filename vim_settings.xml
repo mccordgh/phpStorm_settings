@@ -631,11 +631,11 @@
       <file name="$USER_HOME$/bernieportal/app/Http/Requests/User/ShowUserRequest.php" timestamp="1496853931288">
         <mark key="[" line="21" column="49" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/carrier-forms/broker-form-view.vue" timestamp="1530131041943">
-        <mark key="[" line="770" column="22" />
-        <mark key="]" line="772" column="9" />
-        <mark key="^" line="772" column="9" />
-        <mark key="." line="772" column="9" />
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/carrier-forms/broker-form-view.vue" timestamp="1530134140581">
+        <mark key="[" line="1217" column="7" />
+        <mark key="]" line="561" column="11" />
+        <mark key="." line="561" column="11" />
+        <mark key="^" line="561" column="11" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Jobs/Plans/Shells/UpdatePlansCreatedFromShell.php" timestamp="1524687153761">
         <mark key="[" line="141" column="108" />
@@ -669,7 +669,7 @@
       <file name="$USER_HOME$/workspace/php/testProject/public/css/main.css" timestamp="1504813753200">
         <mark key="[" line="34" column="23" />
       </file>
-      <file name="/PHP Console" timestamp="1530131127825">
+      <file name="/PHP Console" timestamp="1530134128874">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Http/Requests/BrokerForms/SingleFieldRequest.php" timestamp="1530025411812">
@@ -840,13 +840,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">CSAgICAgICAgIA==</text>
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">CSAgICAgICAgIA==</text>
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name="/" type="4">
         <text>TestCase</text>
@@ -854,35 +854,36 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImZvcm0tY29udHJvbCBmb3JtLWNvbnRyb2wtLWZpZWxkLW9wdGlvbnMiPgo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIAogICAgICAgICAgICAkaXRlbXMgPSA=</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICogVGltZTogMzoyMiBQTQogKi8K</text>
+      <register name="2" type="4">
+        <text>if (field.type === 'custom_option_field') {
+            this.customOptionFields.push(field);</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICogVXNlcjogbWF0dGhld21jY29yZAogKiBEYXRlOiA2LzI2LzE4Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgUGhwU3Rvcm0uCg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgIAogICAgICAgICAgICAkaXRlbXMgPSA=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">ICogVGltZTogMzoyMiBQTQogKi8K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICogVGltZTogMzowMyBQTQo=</text>
+        <text encoding="base64">ICogVXNlcjogbWF0dGhld21jY29yZAogKiBEYXRlOiA2LzI2LzE4Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICogRGF0ZTogNi8yNi8xOAo=</text>
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgUGhwU3Rvcm0uCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICogVXNlcjogbWF0dGhld21jY29yZAo=</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBQaHBTdG9ybS4K</text>
+        <text encoding="base64">ICogVGltZTogMzowMyBQTQo=</text>
       </register>
       <register name=":" type="4">
         <text>205</text>
