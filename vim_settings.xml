@@ -631,11 +631,12 @@
       <file name="$USER_HOME$/bernieportal/app/Http/Requests/User/ShowUserRequest.php" timestamp="1496853931288">
         <mark key="[" line="21" column="49" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/carrier-forms/broker-form-view.vue" timestamp="1530135650967">
-        <mark key="[" line="1290" column="62" />
-        <mark key="]" line="985" column="26" />
-        <mark key="." line="985" column="26" />
-        <mark key="^" line="985" column="26" />
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/carrier-forms/broker-form-view.vue" timestamp="1530137478839">
+        <mark key="'" line="793" column="15" />
+        <mark key="[" line="794" column="67" />
+        <mark key="]" line="795" column="76" />
+        <mark key="." line="795" column="76" />
+        <mark key="^" line="795" column="76" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Jobs/Plans/Shells/UpdatePlansCreatedFromShell.php" timestamp="1524687153761">
         <mark key="[" line="141" column="108" />
@@ -737,7 +738,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="24" filename="$USER_HOME$/bernieportal/tests/app/Benefits/Plans/Shells/ShellPlanAdapterTest.php" />
       <jump line="477" column="66" filename="$USER_HOME$/bernieportal/app/Benefits/Plans/Shells/ShellRepository.php" />
       <jump line="1579" column="60" filename="$USER_HOME$/bernieportal/legacy/ClienteleUserModule.php" />
       <jump line="269" column="13" filename="$USER_HOME$/bernieportal/legacy/ClienteleUserModule.php" />
@@ -837,16 +837,17 @@
       <jump line="38" column="24" filename="$USER_HOME$/bernieportal/spec/Data/Repositories/Benefits/Plans/BrokerFieldAccessObjectRepositorySpec.php" />
       <jump line="28" column="52" filename="$USER_HOME$/bernieportal/app/Data/UserRepository.php" />
       <jump line="30" column="0" filename="$USER_HOME$/bernieportal/app/Data/UserRepository.php" />
+      <jump line="793" column="15" filename="$USER_HOME$/bernieportal/resources/assets/components/carrier-forms/broker-form-view.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+        <text>getFieldSetForType</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+        <text>getFieldSetForType</text>
       </register>
       <register name="/" type="4">
         <text>TestCase</text>
