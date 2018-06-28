@@ -127,6 +127,7 @@
       <file name="$USER_HOME$/workspace/gamepad_api_demo/main.css" timestamp="1501271749114">
         <mark key="[" line="5" column="10" />
       </file>
+      <file name="$USER_HOME$/bernieportal/app/Data/AccessObjects/Benefits/Plans/BrokerField.php" timestamp="1530199254083" />
       <file name="$USER_HOME$/bernieportal/tests/app/Benefits/Plans/PlanRepositoryTest.php" timestamp="1525456420963">
         <mark key="[" line="63" column="35" />
       </file>
@@ -395,12 +396,12 @@
       <file name="$USER_HOME$/bernieportal/app/Handlers/Events/EmployeeConfirmedElections/GenerateCarrierForms.php" timestamp="1529091380349">
         <mark key="[" line="87" column="63" />
       </file>
-      <file name="$USER_HOME$/bernieportal/legacy/OnboardingModule.php" timestamp="1530195991752">
-        <mark key="'" line="7715" column="42" />
-        <mark key="[" line="7703" column="63" />
-        <mark key="]" line="7703" column="63" />
-        <mark key="^" line="7707" column="23" />
-        <mark key="." line="7703" column="63" />
+      <file name="$USER_HOME$/bernieportal/legacy/OnboardingModule.php" timestamp="1530200659626">
+        <mark key="d" line="7727" column="66" />
+        <mark key="[" line="7733" column="17" />
+        <mark key="]" line="7733" column="17" />
+        <mark key="^" line="7732" column="0" />
+        <mark key="." line="7733" column="17" />
       </file>
       <file name="$USER_HOME$/bernieportal/public/sites/all/modules/clientele/clientele_user.module" timestamp="1529418023525">
         <mark key="[" line="46" column="40" />
@@ -499,8 +500,10 @@
         <mark key="^" line="65" column="64" />
         <mark key="." line="65" column="0" />
       </file>
-      <file name="/fragment.php" timestamp="1530195365734">
-        <mark key="[" line="0" column="0" />
+      <file name="/fragment.php" timestamp="1530200040651">
+        <mark key="[" line="0" column="9" />
+        <mark key="]" line="0" column="9" />
+        <mark key="." line="0" column="9" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/Plans/Shells/ShellsHierarchyController.php" timestamp="1521657976020">
         <mark key="[" line="35" column="33" />
@@ -520,6 +523,7 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/save-pdf-preview-banner.vue" timestamp="1529336945099">
         <mark key="[" line="119" column="76" />
       </file>
+      <file name="$USER_HOME$/bernieportal/resources/views/broker/plan/additional-info.blade.php" timestamp="1530198541387" />
       <file name="$USER_HOME$/bernieportal/app/Api/Transformers/BenefitProvider/EmployerTransformer.php" timestamp="1501534288275">
         <mark key="[" line="17" column="52" />
       </file>
@@ -664,7 +668,7 @@
       <file name="$USER_HOME$/workspace/php/testProject/public/css/main.css" timestamp="1504813753200">
         <mark key="[" line="34" column="23" />
       </file>
-      <file name="/PHP Console" timestamp="1530195273561">
+      <file name="/PHP Console" timestamp="1530200663261">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Http/Requests/BrokerForms/SingleFieldRequest.php" timestamp="1530025411812">
@@ -835,13 +839,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>$required</text>
+        <text>$options</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>$required</text>
+        <text>$options</text>
       </register>
       <register name="/" type="4">
         <text>TestCase</text>
@@ -849,36 +853,36 @@
       <register name="0" type="4">
         <text>, $form, $dcid, $formId)</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">WwogICAgICAgICAgICAgICAnT25lJyA9PiAnT25leScsICdUd28nID0+ICdUd29leScsICdUaHJlZScgPT4gJ1RocmVleScKICAgICAgICAgICAgXSw=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="4">
         <text>if (field.type === 'custom_option_field') {
             this.customOptionFields.push(field);</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text encoding="base64">CiAgICAgICAgICAgIAogICAgICAgICAgICAkaXRlbXMgPSA=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICogVGltZTogMzoyMiBQTQogKi8K</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICogVXNlcjogbWF0dGhld21jY29yZAogKiBEYXRlOiA2LzI2LzE4Cg==</text>
       </register>
       <register name=":" type="4">
         <text>722</text>
