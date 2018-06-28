@@ -378,13 +378,13 @@
       <file name="$USER_HOME$/bernieportal/app/Handlers/Events/EmployeeConfirmedElections/GenerateCarrierForms.php" timestamp="1529091380349">
         <mark key="[" line="87" column="63" />
       </file>
-      <file name="$USER_HOME$/bernieportal/legacy/OnboardingModule.php" timestamp="1530211084010">
+      <file name="$USER_HOME$/bernieportal/legacy/OnboardingModule.php" timestamp="1530213220151">
         <mark key="d" line="7727" column="66" />
         <mark key="'" line="4632" column="0" />
-        <mark key="[" line="4509" column="91" />
-        <mark key="]" line="4510" column="17" />
-        <mark key="^" line="4510" column="17" />
-        <mark key="." line="4510" column="17" />
+        <mark key="[" line="7708" column="4" />
+        <mark key="]" line="7708" column="4" />
+        <mark key="^" line="7828" column="73" />
+        <mark key="." line="7708" column="4" />
       </file>
       <file name="$USER_HOME$/bernieportal/public/sites/all/modules/clientele/clientele_user.module" timestamp="1529418023525">
         <mark key="[" line="46" column="40" />
@@ -634,7 +634,7 @@
       <file name="$USER_HOME$/workspace/php/testProject/public/css/main.css" timestamp="1504813753200">
         <mark key="[" line="34" column="23" />
       </file>
-      <file name="/PHP Console" timestamp="1530211382225">
+      <file name="/PHP Console" timestamp="1530213146723">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Http/Requests/BrokerForms/SingleFieldRequest.php" timestamp="1530025411812">
@@ -805,13 +805,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>public</text>
+        <text>protected</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>public</text>
+        <text>protected</text>
       </register>
       <register name="/" type="4">
         <text>TestCase</text>
@@ -820,7 +820,7 @@
         <text>, $form, $dcid, $formId)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -829,28 +829,28 @@
         <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IHByb3RlY3RlZCBmdW5jdGlvbiBpbnNlcnRBbnN3ZXJGb3JPbmJvYXJkaW5nQ3VzdG9tT3B0aW9uRmllbGQoKQogICAgewogICAgICAgIC8vCiAgICB9Cg==</text>
+        <text encoding="base64">IHByb3RlY3RlZCBmdW5jdGlvbiBhZGRDdXN0b21GaWVsZE9wdGlvbnNUb0Zvcm0oJG9wdGlvbnMsICRmb3JtLCAkZmllbGQsICRmb3JtSWQsICRkY2lkKQogICAgewogICAgICAgICAgICAKCiAgICAgICAgICAgIHJldHVybiAkZm9ybTsKICAgIH0=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">cHJvdGVjdGVkIGZ1bmN0aW9uIGFkZEN1c3RvbUZpZWxkT3B0aW9uc1RvRm9ybSgkb3B0aW9ucywgJGZvcm0sICRmaWVsZCwgJGZvcm1JZCwgJGRjaWQpCiAgICB7CiAgICAgICAgICAgICRmb3JtWydjdXN0b20tZmllbGRzLScgLiAkZGNpZF1bJ2N1c3RvbV9maWVsZF8nIC4gJGZpZWxkLT5pZCgpXSA9CiAgICAgICAgICAgICAgICAkdGhpcy0+Y3VzdG9tT3B0aW9uc0ZvckZpZWxkKCRmaWVsZCwgJGZvcm1JZCk7CgogICAgICAgICAgICByZXR1cm4gJGZvcm07CiAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgCg==</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">IHByb3RlY3RlZCBmdW5jdGlvbiBpbnNlcnRBbnN3ZXJGb3JPbmJvYXJkaW5nQ3VzdG9tT3B0aW9uRmllbGQoKQogICAgewogICAgICAgIC8vCiAgICB9Cg==</text>
+      </register>
+      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgUGhwU3Rvcm0uCiAqIFVzZXI6IG1hdHRoZXdtY2NvcmQKICogRGF0ZTogNi8yOC8xOAogKiBUaW1lOiAxMToyNiBBTQogKi8KCm5hbWVzcGFjZSBCZXJuaWVQb3J0YWxcRGF0YVxBY2Nlc3NPYmplY3RzXE9uYm9hcmRpbmc7CgpjbGFzcyBPbmJvYXJkaW5nRmllbGRPcHRpb25BbnN3ZXIKewoKfQoKPD9waHA=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">PD9waHAKLyoqCiAqIENyZWF0ZWQgYnkgUGhwU3Rvcm0uCiAqIFVzZXI6IG1hdHRoZXdtY2NvcmQKICogRGF0ZTogNi8yOC8xOAogKiBUaW1lOiAxMToyNiBBTQogKi8KCm5hbWVzcGFjZSBCZXJuaWVQb3J0YWxcRGF0YVxBY2Nlc3NPYmplY3RzXE9uYm9hcmRpbmc7CgpjbGFzcyBPbmJvYXJkaW5nRmllbGRPcHRpb25BbnN3ZXIKewoKfQoKPD9waHA=</text>
       </register>
       <register name=":" type="4">
-        <text>161</text>
+        <text>7691</text>
       </register>
     </registers>
     <search>
@@ -886,7 +886,6 @@
         <entry>TestCase</entry>
       </history-search>
       <history-cmd>
-        <entry>6074</entry>
         <entry>962</entry>
         <entry>1716</entry>
         <entry>578</entry>
@@ -906,6 +905,7 @@
         <entry>722</entry>
         <entry>7731</entry>
         <entry>161</entry>
+        <entry>7691</entry>
       </history-cmd>
       <history-expr />
       <history-input />
