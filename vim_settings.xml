@@ -114,7 +114,6 @@
       <file name="$USER_HOME$/workspace/gamepad_api_demo/main.css" timestamp="1501271749114">
         <mark key="[" line="5" column="10" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Data/AccessObjects/Benefits/Plans/BrokerField.php" timestamp="1530199254083" />
       <file name="$USER_HOME$/bernieportal/tests/app/Benefits/Plans/PlanRepositoryTest.php" timestamp="1525456420963">
         <mark key="[" line="63" column="35" />
       </file>
@@ -268,7 +267,6 @@
       <file name="$USER_HOME$/bernieportal/app/GeneralAgencies/GeneralAgency.php" timestamp="1517343299436">
         <mark key="[" line="20" column="5" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Benefits/Plans/BrokerForms/Writer.php" timestamp="1530210039259" />
       <file name="$USER_HOME$/bernieportal/resources/views/layout/nav/user.blade.php" timestamp="1494275620716">
         <mark key="[" line="62" column="74" />
       </file>
@@ -341,7 +339,7 @@
       <file name="$USER_HOME$/bernieportal/app/Data/AccessObjects/Benefits/Plans/Shells/BenefitFilesPdfShells.php" timestamp="1523649027060">
         <mark key="[" line="4" column="27" />
       </file>
-      <file name="$USER_HOME$/bernieportal/public/sites/all/modules/onboarding/onboarding.module" timestamp="1530208602841" />
+      <file name="$USER_HOME$/bernieportal/public/sites/all/modules/onboarding/onboarding.module" timestamp="1530213359060" />
       <file name="$USER_HOME$/bernieportal/app/Api/Transformers/Bills/UnumPdfBillTransformer.php" timestamp="1515109277581">
         <mark key="[" line="53" column="73" />
       </file>
@@ -378,13 +376,13 @@
       <file name="$USER_HOME$/bernieportal/app/Handlers/Events/EmployeeConfirmedElections/GenerateCarrierForms.php" timestamp="1529091380349">
         <mark key="[" line="87" column="63" />
       </file>
-      <file name="$USER_HOME$/bernieportal/legacy/OnboardingModule.php" timestamp="1530213220151">
-        <mark key="d" line="7727" column="66" />
-        <mark key="'" line="4632" column="0" />
-        <mark key="[" line="7708" column="4" />
-        <mark key="]" line="7708" column="4" />
-        <mark key="^" line="7828" column="73" />
-        <mark key="." line="7708" column="4" />
+      <file name="$USER_HOME$/bernieportal/legacy/OnboardingModule.php" timestamp="1530214074621">
+        <mark key="d" line="7733" column="66" />
+        <mark key="'" line="12462" column="25" />
+        <mark key="[" line="12443" column="14" />
+        <mark key="]" line="12443" column="14" />
+        <mark key="^" line="12462" column="25" />
+        <mark key="." line="12443" column="14" />
       </file>
       <file name="$USER_HOME$/bernieportal/public/sites/all/modules/clientele/clientele_user.module" timestamp="1529418023525">
         <mark key="[" line="46" column="40" />
@@ -459,7 +457,6 @@
       <file name="$USER_HOME$/bernieportal/app/Subgroups/PTO/PTOSubgroupAllowance.php" timestamp="1507829097655">
         <mark key="[" line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/bernieportal/database/migrations/2018_06_12_135751_create_broker_field_option_answers_table.php" timestamp="1530203461162" />
       <file name="$USER_HOME$/bernieportal/app/Subgroups/PTO/PTOSubgroupSetting.php" timestamp="1507829125307">
         <mark key="[" line="9" column="6" />
       </file>
@@ -489,7 +486,6 @@
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Benefits/Plans/BrokerForms/Answerer.php" timestamp="1530209592479" />
       <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/Plans/Shells/ShellsHierarchyController.php" timestamp="1521657976020">
         <mark key="[" line="35" column="33" />
       </file>
@@ -508,7 +504,6 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/save-pdf-preview-banner.vue" timestamp="1529336945099">
         <mark key="[" line="119" column="76" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/views/broker/plan/additional-info.blade.php" timestamp="1530198541387" />
       <file name="$USER_HOME$/bernieportal/app/Api/Transformers/BenefitProvider/EmployerTransformer.php" timestamp="1501534288275">
         <mark key="[" line="17" column="52" />
       </file>
@@ -627,14 +622,13 @@
       <file name="$USER_HOME$/bernieportal/app/Time/Workweek.php" timestamp="1515187729098">
         <mark key="[" line="185" column="5" />
       </file>
-      <file name="$USER_HOME$/bernieportal/legacy/BrokerPortalModule.php" timestamp="1530203979898" />
       <file name="$USER_HOME$/bernieportal/tests/app/Http/Requests/Plans/Shells/CreateShellRequestTest.php" timestamp="1525289311248">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/php/testProject/public/css/main.css" timestamp="1504813753200">
         <mark key="[" line="34" column="23" />
       </file>
-      <file name="/PHP Console" timestamp="1530213146723">
+      <file name="/PHP Console" timestamp="1530214478884">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Http/Requests/BrokerForms/SingleFieldRequest.php" timestamp="1530025411812">
@@ -702,7 +696,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="442" column="14" filename="$USER_HOME$/bernieportal/app/Benefits/Plans/Shells/ShellRepository.php" />
       <jump line="189" column="45" filename="$USER_HOME$/bernieportal/resources/assets/components/billing/benefit-billing-current.vue" />
       <jump line="33" column="0" filename="$USER_HOME$/bernieportal/app/Benefits/Plans/PlanRepository.php" />
       <jump line="42" column="0" filename="$USER_HOME$/bernieportal/app/Benefits/Plans/PlanRepository.php" />
@@ -802,16 +795,17 @@
       <jump line="7704" column="43" filename="$USER_HOME$/bernieportal/legacy/OnboardingModule.php" />
       <jump line="7736" column="42" filename="$USER_HOME$/bernieportal/legacy/OnboardingModule.php" />
       <jump line="4632" column="0" filename="$USER_HOME$/bernieportal/legacy/OnboardingModule.php" />
+      <jump line="12462" column="25" filename="$USER_HOME$/bernieportal/legacy/OnboardingModule.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>protected</text>
+        <text>BrokerField</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>protected</text>
+        <text>BrokerField</text>
       </register>
       <register name="/" type="4">
         <text>TestCase</text>
@@ -819,35 +813,35 @@
       <register name="0" type="4">
         <text>, $form, $dcid, $formId)</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAvKioKICAgICAqIEBwYXJhbSAkZm9ybUZpZWxkCiAgICAgKiBAcGFyYW0gJGZvcm1JZAogICAgICogQHJldHVybiBhcnJheQogICAgICov</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgCg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">IHByb3RlY3RlZCBmdW5jdGlvbiBhZGRDdXN0b21GaWVsZE9wdGlvbnNUb0Zvcm0oJG9wdGlvbnMsICRmb3JtLCAkZmllbGQsICRmb3JtSWQsICRkY2lkKQogICAgewogICAgICAgICAgICAKCiAgICAgICAgICAgIHJldHVybiAkZm9ybTsKICAgIH0=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">cHJvdGVjdGVkIGZ1bmN0aW9uIGFkZEN1c3RvbUZpZWxkT3B0aW9uc1RvRm9ybSgkb3B0aW9ucywgJGZvcm0sICRmaWVsZCwgJGZvcm1JZCwgJGRjaWQpCiAgICB7CiAgICAgICAgICAgICRmb3JtWydjdXN0b20tZmllbGRzLScgLiAkZGNpZF1bJ2N1c3RvbV9maWVsZF8nIC4gJGZpZWxkLT5pZCgpXSA9CiAgICAgICAgICAgICAgICAkdGhpcy0+Y3VzdG9tT3B0aW9uc0ZvckZpZWxkKCRmaWVsZCwgJGZvcm1JZCk7CgogICAgICAgICAgICByZXR1cm4gJGZvcm07CiAgICB9Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgCg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">IHByb3RlY3RlZCBmdW5jdGlvbiBpbnNlcnRBbnN3ZXJGb3JPbmJvYXJkaW5nQ3VzdG9tT3B0aW9uRmllbGQoKQogICAgewogICAgICAgIC8vCiAgICB9Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>7691</text>
