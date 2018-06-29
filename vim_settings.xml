@@ -30,8 +30,16 @@
       <file name="$USER_HOME$/bernieportal/app/Console/Kernel.php" timestamp="1516912953772">
         <mark key="[" line="67" column="43" />
       </file>
+      <file name="$USER_HOME$/bernieportal/app/Http/Requests/BrokerForms/MultiFieldRequest.php" timestamp="1530297154581">
+        <mark key="[" line="49" column="15" />
+        <mark key="]" line="49" column="15" />
+        <mark key="." line="49" column="15" />
+      </file>
       <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/Edi/SchedulersController.php" timestamp="1494362868134">
         <mark key="[" line="32" column="44" />
+      </file>
+      <file name="$USER_HOME$/bernieportal/app/User.php" timestamp="1530297193804">
+        <mark key="[" line="798" column="77" />
       </file>
       <file name="$USER_HOME$/workspace/php/testProject/resources/views/dashboard.blade.php" timestamp="1504811117559">
         <mark key="[" line="63" column="26" />
@@ -99,6 +107,7 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/time/subgroups/settings.vue" timestamp="1515456395716">
         <mark key="[" line="361" column="27" />
       </file>
+      <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/BrokerForms/FieldsController.php" timestamp="1530296726232" />
       <file name="$USER_HOME$/bernieportal/app/Benefits/AccidentBenefit.php" timestamp="1507838130495">
         <mark key="[" line="0" column="1" />
       </file>
@@ -363,8 +372,9 @@
       <file name="$USER_HOME$/workspace/advent_of_code/day_1_captcha/index.html" timestamp="1512157276150">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Benefits/Plans/BrokerField.php" timestamp="1530210820540">
-        <mark key="^" line="248" column="33" />
+      <file name="$USER_HOME$/bernieportal/app/Benefits/Plans/BrokerField.php" timestamp="1530296987196">
+        <mark key="[" line="12" column="1" />
+        <mark key="^" line="250" column="33" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/views/dashboards/employer/current-enrollment.blade.php" timestamp="1502478648006">
         <mark key="[" line="0" column="1" />
@@ -556,6 +566,7 @@
       <file name="$USER_HOME$/bernieportal/app/Onboarding/EmployeesImport.php" timestamp="1506355596605">
         <mark key="[" line="5" column="1" />
       </file>
+      <file name="$USER_HOME$/bernieportal/app/Http/routes.php" timestamp="1530296712890" />
       <file name="$USER_HOME$/bernieportal/resources/assets/components/aca/employees/spreadsheet-import.vue" timestamp="1519842480935">
         <mark key="[" line="3" column="30" />
       </file>
@@ -634,7 +645,7 @@
       <file name="$USER_HOME$/workspace/php/testProject/public/css/main.css" timestamp="1504813753200">
         <mark key="[" line="34" column="23" />
       </file>
-      <file name="/PHP Console" timestamp="1530285470822">
+      <file name="/PHP Console" timestamp="1530297231560">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Http/Requests/BrokerForms/SingleFieldRequest.php" timestamp="1530025411812">
@@ -808,13 +819,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>field</text>
+        <text>\BerniePortal\Benefits\Plans\BrokerField[]</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>field</text>
+        <text>\BerniePortal\Benefits\Plans\BrokerField[]</text>
       </register>
       <register name="/" type="4">
         <text>TestCase</text>
