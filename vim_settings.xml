@@ -388,6 +388,7 @@
       <file name="$USER_HOME$/bernieportal/app/Handlers/Events/EmployeeConfirmedElections/GenerateCarrierForms.php" timestamp="1529091380349">
         <mark key="[" line="87" column="63" />
       </file>
+      <file name="$USER_HOME$/bernieportal/legacy/OnboardingModule.php" timestamp="1530285347529" />
       <file name="$USER_HOME$/bernieportal/public/sites/all/modules/clientele/clientele_user.module" timestamp="1529418023525">
         <mark key="[" line="46" column="40" />
       </file>
@@ -480,10 +481,10 @@
         <mark key="[" line="77" column="51" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Brokerage/Broker.php" timestamp="1529963835414">
-        <mark key="[" line="73" column="0" />
-        <mark key="]" line="73" column="0" />
-        <mark key="^" line="73" column="64" />
-        <mark key="." line="73" column="0" />
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="^" line="65" column="64" />
+        <mark key="." line="65" column="0" />
       </file>
       <file name="/fragment.php" timestamp="1530218282025">
         <mark key="[" line="0" column="0" />
@@ -629,13 +630,10 @@
       <file name="$USER_HOME$/bernieportal/tests/app/Http/Requests/Plans/Shells/CreateShellRequestTest.php" timestamp="1525289311248">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Brokerage/ServiceTeamMember.php" timestamp="1530219106146">
-        <mark key="[" line="109" column="42" />
-      </file>
       <file name="$USER_HOME$/workspace/php/testProject/public/css/main.css" timestamp="1504813753200">
         <mark key="[" line="34" column="23" />
       </file>
-      <file name="/PHP Console" timestamp="1530219187766">
+      <file name="/PHP Console" timestamp="1530285283085">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Http/Requests/BrokerForms/SingleFieldRequest.php" timestamp="1530025411812">
@@ -680,6 +678,9 @@
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/tiles/path-blue.js" timestamp="1503356614590">
         <mark key="[" line="3" column="17" />
       </file>
+      <file name="$USER_HOME$/bernieportal/resources/assets/sass/app.scss" timestamp="1530283844155">
+        <mark key="'" line="5171" column="0" />
+      </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/components/hiring-team.vue" timestamp="1493220766505">
         <mark key="[" line="77" column="56" />
       </file>
@@ -703,8 +704,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="189" column="45" filename="$USER_HOME$/bernieportal/resources/assets/components/billing/benefit-billing-current.vue" />
-      <jump line="33" column="0" filename="$USER_HOME$/bernieportal/app/Benefits/Plans/PlanRepository.php" />
       <jump line="42" column="0" filename="$USER_HOME$/bernieportal/app/Benefits/Plans/PlanRepository.php" />
       <jump line="4961" column="0" filename="$USER_HOME$/bernieportal/resources/assets/sass/app.scss" />
       <jump line="4966" column="0" filename="$USER_HOME$/bernieportal/resources/assets/sass/app.scss" />
@@ -803,16 +802,18 @@
       <jump line="7736" column="42" filename="$USER_HOME$/bernieportal/legacy/OnboardingModule.php" />
       <jump line="4632" column="0" filename="$USER_HOME$/bernieportal/legacy/OnboardingModule.php" />
       <jump line="12462" column="25" filename="$USER_HOME$/bernieportal/legacy/OnboardingModule.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/bernieportal/resources/assets/sass/app.scss" />
+      <jump line="5171" column="0" filename="$USER_HOME$/bernieportal/resources/assets/sass/app.scss" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAkYSA9ICdiJzsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IHJlcXVpcmVkLWN1c3RvbQ==</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>$answer</text>
+        <text encoding="base64">IHJlcXVpcmVkLWN1c3RvbQ==</text>
       </register>
       <register name="/" type="4">
         <text>TestCase</text>
@@ -851,7 +852,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
-        <text>7691</text>
+        <text>7712</text>
       </register>
     </registers>
     <search>
@@ -887,7 +888,6 @@
         <entry>TestCase</entry>
       </history-search>
       <history-cmd>
-        <entry>962</entry>
         <entry>1716</entry>
         <entry>578</entry>
         <entry>415</entry>
@@ -907,6 +907,7 @@
         <entry>7731</entry>
         <entry>161</entry>
         <entry>7691</entry>
+        <entry>7712</entry>
       </history-cmd>
       <history-expr />
       <history-input />
