@@ -230,12 +230,11 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/time/summary-table.vue" timestamp="1496776949409">
         <mark key="[" line="39" column="46" />
       </file>
-      <file name="$USER_HOME$/bernieportal/legacy/BenefitConfigureModule.php" timestamp="1530813702324">
-        <mark key="'" line="8880" column="0" />
-        <mark key="[" line="8869" column="8" />
-        <mark key="]" line="8869" column="8" />
-        <mark key="^" line="8851" column="11" />
-        <mark key="." line="8869" column="8" />
+      <file name="$USER_HOME$/bernieportal/legacy/BenefitConfigureModule.php" timestamp="1530816911379">
+        <mark key="[" line="8848" column="80" />
+        <mark key="]" line="8848" column="55" />
+        <mark key="." line="8848" column="55" />
+        <mark key="^" line="8848" column="55" />
       </file>
       <file name="$USER_HOME$/bernieportal/.gitignore" timestamp="1520375272697">
         <mark key="[" line="63" column="22" />
@@ -496,10 +495,10 @@
         <mark key="^" line="65" column="64" />
         <mark key="." line="65" column="0" />
       </file>
-      <file name="/fragment.php" timestamp="1530813903752">
-        <mark key="[" line="0" column="37" />
-        <mark key="]" line="0" column="37" />
-        <mark key="." line="0" column="37" />
+      <file name="/fragment.php" timestamp="1530817112590">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="12" />
+        <mark key="." line="0" column="12" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/Plans/Shells/ShellsHierarchyController.php" timestamp="1521657976020">
         <mark key="[" line="35" column="33" />
@@ -544,7 +543,7 @@
       <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/Time/PeriodsController.php" timestamp="1505929956281">
         <mark key="[" line="56" column="67" />
       </file>
-      <file name="/fragment.js" timestamp="1521734249264">
+      <file name="/fragment.js" timestamp="1530815126683">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Api/Transformers/Benefits/Plans/Shells/ShellPlanTransformer.php" timestamp="1526067631055">
@@ -583,11 +582,11 @@
       <file name="$USER_HOME$/bernieportal/legacy/ClienteleUserModule.php" timestamp="1530807270220">
         <mark key="[" line="1956" column="77" />
       </file>
-      <file name="$USER_HOME$/bernieportal/legacy/Benefits/PlanMessages/PlanMessage.php" timestamp="1530814178010">
-        <mark key="[" line="337" column="29" />
-        <mark key="]" line="338" column="15" />
-        <mark key="^" line="338" column="15" />
-        <mark key="." line="338" column="15" />
+      <file name="$USER_HOME$/bernieportal/legacy/Benefits/PlanMessages/PlanMessage.php" timestamp="1530816988241">
+        <mark key="[" line="413" column="4" />
+        <mark key="]" line="413" column="4" />
+        <mark key="^" line="359" column="20" />
+        <mark key="." line="413" column="4" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/billing/billing-adjustment-table.vue" timestamp="1513984765746">
         <mark key="[" line="12" column="11" />
@@ -650,7 +649,7 @@
       <file name="$USER_HOME$/workspace/php/testProject/public/css/main.css" timestamp="1504813753200">
         <mark key="[" line="34" column="23" />
       </file>
-      <file name="/PHP Console" timestamp="1530813757008">
+      <file name="/PHP Console" timestamp="1530817008973">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Http/Requests/BrokerForms/SingleFieldRequest.php" timestamp="1530025411812">
@@ -825,13 +824,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>path</text>
+        <text>getDocuments</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>path</text>
+        <text>getDocuments</text>
       </register>
       <register name="/" type="4">
         <text>TestCase</text>
@@ -839,35 +838,41 @@
       <register name="0" type="4">
         <text>, $form, $dcid, $formId)</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Z2V0Y3dkKCkK</text>
+      <register name="1" type="4">
+        <text>/**
+     * @param string $userId
+     * @param string $nidToClone
+     * @return array
+     */
+    protected function documentsFromPlan($userId, $nidToClone)
+    {</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkYSA9ICdiJzsK</text>
+        <text encoding="base64">Z2V0Y3dkKCkK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAkYSA9ICdiJzsK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">ICAvKioKICAgICAqIEBwYXJhbSAkZm9ybUZpZWxkCiAgICAgKiBAcGFyYW0gJGZvcm1JZAogICAgICogQHJldHVybiBhcnJheQogICAgICov</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgCg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">IHByb3RlY3RlZCBmdW5jdGlvbiBhZGRDdXN0b21GaWVsZE9wdGlvbnNUb0Zvcm0oJG9wdGlvbnMsICRmb3JtLCAkZmllbGQsICRmb3JtSWQsICRkY2lkKQogICAgewogICAgICAgICAgICAKCiAgICAgICAgICAgIHJldHVybiAkZm9ybTsKICAgIH0=</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">cHJvdGVjdGVkIGZ1bmN0aW9uIGFkZEN1c3RvbUZpZWxkT3B0aW9uc1RvRm9ybSgkb3B0aW9ucywgJGZvcm0sICRmaWVsZCwgJGZvcm1JZCwgJGRjaWQpCiAgICB7CiAgICAgICAgICAgICRmb3JtWydjdXN0b20tZmllbGRzLScgLiAkZGNpZF1bJ2N1c3RvbV9maWVsZF8nIC4gJGZpZWxkLT5pZCgpXSA9CiAgICAgICAgICAgICAgICAkdGhpcy0+Y3VzdG9tT3B0aW9uc0ZvckZpZWxkKCRmaWVsZCwgJGZvcm1JZCk7CgogICAgICAgICAgICByZXR1cm4gJGZvcm07CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>7712</text>
