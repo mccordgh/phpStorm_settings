@@ -495,11 +495,6 @@
         <mark key="^" line="65" column="64" />
         <mark key="." line="65" column="0" />
       </file>
-      <file name="/fragment.php" timestamp="1530817112590">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="12" />
-        <mark key="." line="0" column="12" />
-      </file>
       <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/Plans/Shells/ShellsHierarchyController.php" timestamp="1521657976020">
         <mark key="[" line="35" column="33" />
       </file>
@@ -582,11 +577,11 @@
       <file name="$USER_HOME$/bernieportal/legacy/ClienteleUserModule.php" timestamp="1530807270220">
         <mark key="[" line="1956" column="77" />
       </file>
-      <file name="$USER_HOME$/bernieportal/legacy/Benefits/PlanMessages/PlanMessage.php" timestamp="1530816988241">
-        <mark key="[" line="413" column="4" />
-        <mark key="]" line="413" column="4" />
-        <mark key="^" line="359" column="20" />
-        <mark key="." line="413" column="4" />
+      <file name="$USER_HOME$/bernieportal/legacy/Benefits/PlanMessages/PlanMessage.php" timestamp="1530818650108">
+        <mark key="[" line="421" column="31" />
+        <mark key="]" line="421" column="34" />
+        <mark key="^" line="421" column="34" />
+        <mark key="." line="421" column="34" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/billing/billing-adjustment-table.vue" timestamp="1513984765746">
         <mark key="[" line="12" column="11" />
@@ -649,7 +644,7 @@
       <file name="$USER_HOME$/workspace/php/testProject/public/css/main.css" timestamp="1504813753200">
         <mark key="[" line="34" column="23" />
       </file>
-      <file name="/PHP Console" timestamp="1530817008973">
+      <file name="/PHP Console" timestamp="1530818231775">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Http/Requests/BrokerForms/SingleFieldRequest.php" timestamp="1530025411812">
@@ -824,13 +819,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>getDocuments</text>
+        <text encoding="base64">JHBkZi0+aWQoKQ==</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>getDocuments</text>
+        <text encoding="base64">JHBkZi0+aWQoKQ==</text>
       </register>
       <register name="/" type="4">
         <text>TestCase</text>
@@ -875,7 +870,7 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>7712</text>
+        <text>vsp</text>
       </register>
     </registers>
     <search>
@@ -911,7 +906,6 @@
         <entry>TestCase</entry>
       </history-search>
       <history-cmd>
-        <entry>1716</entry>
         <entry>578</entry>
         <entry>415</entry>
         <entry>11555</entry>
@@ -931,6 +925,7 @@
         <entry>161</entry>
         <entry>7691</entry>
         <entry>7712</entry>
+        <entry>vsp</entry>
       </history-cmd>
       <history-expr />
       <history-input />
