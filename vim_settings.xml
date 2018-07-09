@@ -360,11 +360,11 @@
       <file name="$USER_HOME$/bernieportal/app/Handlers/Events/EmployeeConfirmedElections/GenerateCarrierForms.php" timestamp="1529091380349">
         <mark key="[" line="87" column="63" />
       </file>
-      <file name="$USER_HOME$/bernieportal/legacy/OnboardingModule.php" timestamp="1531155000530">
-        <mark key="[" line="12627" column="141" />
-        <mark key="]" line="7934" column="143" />
-        <mark key="^" line="7934" column="143" />
-        <mark key="." line="7934" column="143" />
+      <file name="$USER_HOME$/bernieportal/legacy/OnboardingModule.php" timestamp="1531158106610">
+        <mark key="[" line="4708" column="12" />
+        <mark key="]" line="4709" column="11" />
+        <mark key="^" line="4709" column="11" />
+        <mark key="." line="4709" column="11" />
       </file>
       <file name="$USER_HOME$/bernieportal/public/sites/all/modules/clientele/clientele_user.module" timestamp="1529418023525">
         <mark key="[" line="46" column="40" />
@@ -594,7 +594,7 @@
       <file name="$USER_HOME$/workspace/php/testProject/public/css/main.css" timestamp="1504813753200">
         <mark key="[" line="34" column="23" />
       </file>
-      <file name="/PHP Console" timestamp="1531153945430">
+      <file name="/PHP Console" timestamp="1531159119825">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Http/Requests/BrokerForms/SingleFieldRequest.php" timestamp="1530025411812">
@@ -633,8 +633,11 @@
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/tiles/path-blue.js" timestamp="1503356614590">
         <mark key="[" line="3" column="17" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/sass/app.scss" timestamp="1531153045795">
+      <file name="$USER_HOME$/bernieportal/resources/assets/sass/app.scss" timestamp="1531159162506">
         <mark key="'" line="5171" column="0" />
+        <mark key="[" line="5189" column="0" />
+        <mark key="]" line="5189" column="0" />
+        <mark key="." line="5189" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/components/hiring-team.vue" timestamp="1493220766505">
         <mark key="[" line="77" column="56" />
@@ -756,7 +759,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>//.form-row--custom-fields label.custom-field--title {
+//  margin-left: 2.5rem;
+//}
+//
+//.form-row--custom-fields input.custom-text-field--input {
+//  margin: 1rem 0 0 2.4rem;
+//}</text>
       </register>
       <register name="d" type="4">
         <text />
@@ -771,6 +780,18 @@
         <text>, $form, $dcid, $formId)</text>
       </register>
       <register name="1" type="4">
+        <text>//.form-row--custom-fields label.custom-field--title {
+//  margin-left: 2.5rem;
+//}
+//
+//.form-row--custom-fields input.custom-text-field--input {
+//  margin: 1rem 0 0 2.4rem;
+//}</text>
+      </register>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="2" type="4">
         <text>/**
      * @param string $userId
      * @param string $nidToClone
@@ -779,35 +800,29 @@
     protected function documentsFromPlan($userId, $nidToClone)
     {</text>
       </register>
-      <register name="q" type="4">
-        <text />
-      </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Z2V0Y3dkKCkK</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAkYSA9ICdiJzsK</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ICAvKioKICAgICAqIEBwYXJhbSAkZm9ybUZpZWxkCiAgICAgKiBAcGFyYW0gJGZvcm1JZAogICAgICogQHJldHVybiBhcnJheQogICAgICov</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgCg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">IHByb3RlY3RlZCBmdW5jdGlvbiBhZGRDdXN0b21GaWVsZE9wdGlvbnNUb0Zvcm0oJG9wdGlvbnMsICRmb3JtLCAkZmllbGQsICRmb3JtSWQsICRkY2lkKQogICAgewogICAgICAgICAgICAKCiAgICAgICAgICAgIHJldHVybiAkZm9ybTsKICAgIH0=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
       <register name=":" type="4">
-        <text>161</text>
+        <text>4696</text>
       </register>
     </registers>
     <search>
@@ -843,8 +858,6 @@
         <entry>TestCase</entry>
       </history-search>
       <history-cmd>
-        <entry>578</entry>
-        <entry>415</entry>
         <entry>11555</entry>
         <entry>10637</entry>
         <entry>10575</entry>
@@ -863,6 +876,8 @@
         <entry>7712</entry>
         <entry>vsp</entry>
         <entry>161</entry>
+        <entry>141</entry>
+        <entry>4696</entry>
       </history-cmd>
       <history-expr />
       <history-input />
