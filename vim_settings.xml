@@ -594,7 +594,7 @@
       <file name="$USER_HOME$/workspace/php/testProject/public/css/main.css" timestamp="1504813753200">
         <mark key="[" line="34" column="23" />
       </file>
-      <file name="/PHP Console" timestamp="1531254402881">
+      <file name="/PHP Console" timestamp="1531259198088">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Http/Requests/BrokerForms/SingleFieldRequest.php" timestamp="1530025411812">
@@ -606,11 +606,11 @@
       <file name="$USER_HOME$/workspace/php/testProject/app/Console/Kernel.php" timestamp="1504282888931">
         <mark key="[" line="16" column="10" />
       </file>
-      <file name="$USER_HOME$/bernieportal/public/sites/all/modules/clientele/clientele.js" timestamp="1531256195991">
-        <mark key="[" line="868" column="0" />
-        <mark key="]" line="868" column="8" />
-        <mark key="^" line="871" column="25" />
-        <mark key="." line="868" column="8" />
+      <file name="$USER_HOME$/bernieportal/public/sites/all/modules/clientele/clientele.js" timestamp="1531259325723">
+        <mark key="[" line="867" column="38" />
+        <mark key="]" line="867" column="38" />
+        <mark key="^" line="907" column="14" />
+        <mark key="." line="867" column="38" />
       </file>
       <file name="$USER_HOME$/bernieportal/database/migrations/2018_05_10_104327_remove_shell_id_from_pdf_shells_table.php" timestamp="1525965311516">
         <mark key="[" line="29" column="5" />
@@ -772,13 +772,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICYmIChlbHMuaW5kZXhPZigkKHRoaXMpID09IGluZGV4KSkp</text>
+        <text>index</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICYmIChlbHMuaW5kZXhPZigkKHRoaXMpID09IGluZGV4KSkp</text>
+        <text>index</text>
       </register>
       <register name="/" type="4">
         <text>TestCase</text>
@@ -787,27 +787,30 @@
         <text>, $form, $dcid, $formId)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">Y29uc29sZS5sb2coe2luZm99KQoKICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZygnRklYIFZBTElEQVRJT04nKTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
+      <register name="3" type="4">
+        <text encoding="base64">Y29uc29sZS5sb2coe2luZm99KQoKICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZygnRklYIFZBTElEQVRJT04nKTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygnYm9vb29vb29vb29vb29vZ3knKTsK</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>//.form-row--custom-fields label.custom-field--title {
 //  margin-left: 2.5rem;
 //}
@@ -816,7 +819,7 @@
 //  margin: 1rem 0 0 2.4rem;
 //}</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>/**
      * @param string $userId
      * @param string $nidToClone
@@ -824,9 +827,6 @@
      */
     protected function documentsFromPlan($userId, $nidToClone)
     {</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Z2V0Y3dkKCkK</text>
       </register>
       <register name=":" type="4">
         <text>4696</text>
