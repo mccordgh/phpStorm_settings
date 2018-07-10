@@ -324,6 +324,7 @@
       <file name="$USER_HOME$/bernieportal/app/Data/AccessObjects/Benefits/Plans/Shells/BenefitFilesPdfShells.php" timestamp="1523649027060">
         <mark key="[" line="4" column="27" />
       </file>
+      <file name="$USER_HOME$/bernieportal/public/sites/all/modules/onboarding/onboarding.module" timestamp="1531261351619" />
       <file name="$USER_HOME$/bernieportal/app/Api/Transformers/Bills/UnumPdfBillTransformer.php" timestamp="1515109277581">
         <mark key="[" line="53" column="73" />
       </file>
@@ -363,11 +364,11 @@
       <file name="$USER_HOME$/bernieportal/app/Handlers/Events/EmployeeConfirmedElections/GenerateCarrierForms.php" timestamp="1529091380349">
         <mark key="[" line="87" column="63" />
       </file>
-      <file name="$USER_HOME$/bernieportal/legacy/OnboardingModule.php" timestamp="1531158106610">
-        <mark key="[" line="4708" column="12" />
-        <mark key="]" line="4709" column="11" />
-        <mark key="^" line="4709" column="11" />
-        <mark key="." line="4709" column="11" />
+      <file name="$USER_HOME$/bernieportal/legacy/OnboardingModule.php" timestamp="1531262814341">
+        <mark key="[" line="7912" column="28" />
+        <mark key="]" line="7912" column="28" />
+        <mark key="^" line="7912" column="27" />
+        <mark key="." line="7912" column="28" />
       </file>
       <file name="$USER_HOME$/bernieportal/public/sites/all/modules/clientele/clientele_user.module" timestamp="1529418023525">
         <mark key="[" line="46" column="40" />
@@ -566,6 +567,13 @@
       <file name="$USER_HOME$/bernieportal/app/Http/Requests/User/ShowUserRequest.php" timestamp="1496853931288">
         <mark key="[" line="21" column="49" />
       </file>
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/carrier-forms/broker-form-view.vue" timestamp="1531265534635">
+        <mark key="'" line="1415" column="0" />
+        <mark key="[" line="1202" column="0" />
+        <mark key="]" line="1202" column="0" />
+        <mark key="^" line="1201" column="13" />
+        <mark key="." line="1202" column="0" />
+      </file>
       <file name="$USER_HOME$/bernieportal/app/Jobs/Plans/Shells/UpdatePlansCreatedFromShell.php" timestamp="1524687153761">
         <mark key="[" line="141" column="108" />
       </file>
@@ -594,7 +602,7 @@
       <file name="$USER_HOME$/workspace/php/testProject/public/css/main.css" timestamp="1504813753200">
         <mark key="[" line="34" column="23" />
       </file>
-      <file name="/PHP Console" timestamp="1531259859248">
+      <file name="/PHP Console" timestamp="1531263104622">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Http/Requests/BrokerForms/SingleFieldRequest.php" timestamp="1530025411812">
@@ -640,11 +648,11 @@
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/tiles/path-blue.js" timestamp="1503356614590">
         <mark key="[" line="3" column="17" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/sass/app.scss" timestamp="1531159162506">
+      <file name="$USER_HOME$/bernieportal/resources/assets/sass/app.scss" timestamp="1531263503148">
         <mark key="'" line="5171" column="0" />
-        <mark key="[" line="5189" column="0" />
-        <mark key="]" line="5189" column="0" />
-        <mark key="." line="5189" column="0" />
+        <mark key="]" line="5199" column="0" />
+        <mark key="." line="5199" column="0" />
+        <mark key="^" line="5199" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/components/hiring-team.vue" timestamp="1493220766505">
         <mark key="[" line="77" column="56" />
@@ -771,79 +779,66 @@
       <jump line="8856" column="0" filename="$USER_HOME$/bernieportal/legacy/BenefitConfigureModule.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>index</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdGVzdHlkb287Cg==</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>index</text>
+        <text>var testydoo =</text>
       </register>
       <register name="/" type="4">
-        <text>TestCase</text>
+        <text encoding="base64">XDxlbHNlXD4=</text>
       </register>
       <register name="0" type="4">
         <text>, $form, $dcid, $formId)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdGVzdHlkb287Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh7dGVzdHlkb299KQogICAgICAgIAo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">Y29uc29sZS5sb2coe2luZm99KQoKICAgICAgICAgICAgCg==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh7ZmllbGR9KQo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZygnRklYIFZBTElEQVRJT04nKTsK</text>
+      <register name="4" type="4">
+        <text encoding="base64">ZWxzZSB7CiAgICAgICAgICAgIHRoaXMuc2lnbmF0dXJlQmxvY2tzLnB1c2goZmllbGQpOwogICAgICAgICAgfQogICAgICAgIH0sIHRoaXMuaGFuZGxlRXJyb3IpOwoKICAgICAgICByZXF1ZXN0LnBvc3QoZm9ybSk7CgogICAgICAgIHRoaXMuaGlkZU1vZGFsKCk7CiAgICAgIH0sCgogICAgICBwYXJzZU5ld0ZpZWxkKG5ld0ZpZWxkKSB7CiAgICAgICAgY29uc3QgZmllbGQgPSBuZXdGaWVsZDsKCiAgICAgICAgaWYgKGZpZWxkLm9wdGlvbnMgJiYgZmllbGQub3B0aW9ucy5kYXRhLmxlbmd0aCkgewogICAgICAgICAgZmllbGQub3B0aW9ucyA9IGZpZWxkLm9wdGlvbnMuZGF0YS5tYXAob3B0aW9uID0+IE9iamVjdC5hc3NpZ24ob3B0aW9uLCB7IGVkaXRpbmc6IGZhbHNlIH0pKTsKICAgICAgICB9CgogICAgICAgIHJldHVybiBmaWVsZDsKICAgICAgfSwKCiAgICAgIHBhcnNlRmllbGRzKGZpZWxkcykgewogICAgICAgIHJldHVybiBmaWVsZHMubWFwKGZpZWxkID0+IHRoaXMucGFyc2VGaWVsZChmaWVsZCkpOwogICAgICB9LAoKICAgICAgcGFyc2VGaWVsZChmaWVsZFRvUGFyc2UpIHsKICAgICAgICBjb25zdCBmaWVsZCA9IGZpZWxkVG9QYXJzZTsKICAgICAgICBjb25zb2xlLmxvZyh7ZmllbGR9KQogICAgICAgIGlmIChmaWVsZC5vcHRpb25zICYmIGZpZWxkLm9wdGlvbnMuZGF0YSAmJiBmaWVsZC5vcHRpb25zLmRhdGEubGVuZ3RoKSB7CiAgICAgICAgICBmaWVsZC5vcHRpb25zID0gdGhpcy5wYXJzZUZpZWxkT3B0aW9ucyhmaWVsZC5vcHRpb25zLmRhdGEpOwogICAgICAgIH0=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygnYm9vb29vb29vb29vb29vZ3knKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>//.form-row--custom-fields label.custom-field--title {
-//  margin-left: 2.5rem;
-//}
-//
-//.form-row--custom-fields input.custom-text-field--input {
-//  margin: 1rem 0 0 2.4rem;
-//}</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="4">
-        <text>/**
-     * @param string $userId
-     * @param string $nidToClone
-     * @return array
-     */
-    protected function documentsFromPlan($userId, $nidToClone)
-    {</text>
+        <text encoding="base64">Y29uc29sZS5sb2coe2luZm99KQoKICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
-        <text>4696</text>
+        <text>205</text>
       </register>
     </registers>
     <search>
-      <last-search>TestCase</last-search>
+      <last-search encoding="base64">XDxlbHNlXD4=</last-search>
       <last-offset />
-      <last-pattern>TestCase</last-pattern>
+      <last-pattern encoding="base64">XDxlbHNlXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>fillCustomFields</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>prop</entry>
         <entry encoding="base64">XDwnXD4=</entry>
         <entry encoding="base64">PA==</entry>
         <entry>import</entry>
@@ -863,6 +858,7 @@
         <entry>['broker-forms']</entry>
         <entry>fillCustomFields</entry>
         <entry>TestCase</entry>
+        <entry encoding="base64">XDxlbHNlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>11555</entry>
@@ -873,7 +869,6 @@
         <entry>43</entry>
         <entry>495</entry>
         <entry>42</entry>
-        <entry>205</entry>
         <entry>1288</entry>
         <entry>585</entry>
         <entry>7222</entry>
@@ -885,6 +880,7 @@
         <entry>161</entry>
         <entry>141</entry>
         <entry>4696</entry>
+        <entry>205</entry>
       </history-cmd>
       <history-expr />
       <history-input />
