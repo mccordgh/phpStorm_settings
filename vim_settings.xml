@@ -169,6 +169,7 @@
       <file name="$USER_HOME$/bernieportal/public/sites/all/modules/logintoboggan/logintoboggan.module" timestamp="1515024132752">
         <mark key="[" line="1106" column="1" />
       </file>
+      <file name="$USER_HOME$/bernieportal/public/sites/all/modules/employee_election/employee_election.module" timestamp="1531248852570" />
       <file name="$USER_HOME$/workspace/emoji_rogue_like/css/main.css" timestamp="1506373068544">
         <mark key="[" line="0" column="0" />
       </file>
@@ -334,8 +335,11 @@
       <file name="$USER_HOME$/workspace/advent_of_code/day_1_captcha/index.html" timestamp="1512157276150">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/bernieportal/public/sites/all/modules/employee_election/js/selection.js" timestamp="1531247645011">
-        <mark key="[" line="470" column="28" />
+      <file name="$USER_HOME$/bernieportal/public/sites/all/modules/employee_election/js/selection.js" timestamp="1531248229333">
+        <mark key="[" line="356" column="1" />
+        <mark key="]" line="355" column="24" />
+        <mark key="^" line="355" column="24" />
+        <mark key="." line="355" column="24" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/views/dashboards/employer/current-enrollment.blade.php" timestamp="1502478648006">
         <mark key="[" line="0" column="1" />
@@ -434,6 +438,9 @@
         <mark key="[" line="23" column="51" />
       </file>
       <file name="$USER_HOME$/bernieportal/public/sites/all/modules/broker_portal/broker_portal.module" timestamp="1531238558559" />
+      <file name="$USER_HOME$/bernieportal/legacy/BenefitSelectionModule.php" timestamp="1531248625352">
+        <mark key="[" line="2134" column="57" />
+      </file>
       <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/Bills/BillsController.php" timestamp="1529949994441">
         <mark key="[" line="146" column="5" />
       </file>
@@ -589,7 +596,7 @@
       <file name="$USER_HOME$/workspace/php/testProject/public/css/main.css" timestamp="1504813753200">
         <mark key="[" line="34" column="23" />
       </file>
-      <file name="/PHP Console" timestamp="1531247571350">
+      <file name="/PHP Console" timestamp="1531248915603">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Http/Requests/BrokerForms/SingleFieldRequest.php" timestamp="1530025411812">
@@ -655,8 +662,11 @@
       <file name="$USER_HOME$/workspace/javascript/GGJ2018_last_electrician/.gitignore" timestamp="1517068285329">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/bernieportal/legacy/EmployeeElectionModule.php" timestamp="1531245419936">
-        <mark key="[" line="457" column="31" />
+      <file name="$USER_HOME$/bernieportal/legacy/EmployeeElectionModule.php" timestamp="1531248969706">
+        <mark key="[" line="455" column="18" />
+        <mark key="]" line="455" column="60" />
+        <mark key="." line="455" column="60" />
+        <mark key="^" line="455" column="60" />
       </file>
     </filemarks>
     <jumps>
@@ -762,20 +772,14 @@
       <jump line="8856" column="0" filename="$USER_HOME$/bernieportal/legacy/BenefitConfigureModule.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>//.form-row--custom-fields label.custom-field--title {
-//  margin-left: 2.5rem;
-//}
-//
-//.form-row--custom-fields input.custom-text-field--input {
-//  margin: 1rem 0 0 2.4rem;
-//}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygnYm9vb29vb29vb29vb29vZ3knKTsK</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>this</text>
       </register>
       <register name="/" type="4">
         <text>TestCase</text>
@@ -783,7 +787,13 @@
       <register name="0" type="4">
         <text>, $form, $dcid, $formId)</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygnYm9vb29vb29vb29vb29vZ3knKTsK</text>
+      </register>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="2" type="4">
         <text>//.form-row--custom-fields label.custom-field--title {
 //  margin-left: 2.5rem;
 //}
@@ -792,10 +802,7 @@
 //  margin: 1rem 0 0 2.4rem;
 //}</text>
       </register>
-      <register name="q" type="4">
-        <text />
-      </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>/**
      * @param string $userId
      * @param string $nidToClone
@@ -804,26 +811,23 @@
     protected function documentsFromPlan($userId, $nidToClone)
     {</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Z2V0Y3dkKCkK</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAkYSA9ICdiJzsK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">ICAvKioKICAgICAqIEBwYXJhbSAkZm9ybUZpZWxkCiAgICAgKiBAcGFyYW0gJGZvcm1JZAogICAgICogQHJldHVybiBhcnJheQogICAgICov</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgCg==</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">IHByb3RlY3RlZCBmdW5jdGlvbiBhZGRDdXN0b21GaWVsZE9wdGlvbnNUb0Zvcm0oJG9wdGlvbnMsICRmb3JtLCAkZmllbGQsICRmb3JtSWQsICRkY2lkKQogICAgewogICAgICAgICAgICAKCiAgICAgICAgICAgIHJldHVybiAkZm9ybTsKICAgIH0=</text>
       </register>
       <register name=":" type="4">
         <text>4696</text>
