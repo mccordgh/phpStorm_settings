@@ -567,12 +567,12 @@
       <file name="$USER_HOME$/bernieportal/app/Http/Requests/User/ShowUserRequest.php" timestamp="1496853931288">
         <mark key="[" line="21" column="49" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/carrier-forms/broker-form-view.vue" timestamp="1531404566234">
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/carrier-forms/broker-form-view.vue" timestamp="1531405403638">
         <mark key="'" line="1409" column="0" />
-        <mark key="[" line="405" column="24" />
-        <mark key="]" line="407" column="17" />
+        <mark key="[" line="406" column="71" />
+        <mark key="]" line="406" column="71" />
         <mark key="^" line="407" column="17" />
-        <mark key="." line="407" column="17" />
+        <mark key="." line="406" column="71" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Jobs/Plans/Shells/UpdatePlansCreatedFromShell.php" timestamp="1524687153761">
         <mark key="[" line="141" column="108" />
@@ -775,13 +775,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>editing</text>
+        <text>doug</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>editing</text>
+        <text>doug</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbHNlXD4=</text>
