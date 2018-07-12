@@ -601,7 +601,7 @@
       <file name="$USER_HOME$/workspace/php/testProject/public/css/main.css" timestamp="1504813753200">
         <mark key="[" line="34" column="23" />
       </file>
-      <file name="/PHP Console" timestamp="1531414994500">
+      <file name="/PHP Console" timestamp="1531420907492">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Http/Requests/BrokerForms/SingleFieldRequest.php" timestamp="1530025411812">
@@ -613,10 +613,11 @@
       <file name="$USER_HOME$/workspace/php/testProject/app/Console/Kernel.php" timestamp="1504282888931">
         <mark key="[" line="16" column="10" />
       </file>
-      <file name="$USER_HOME$/bernieportal/public/sites/all/modules/clientele/clientele.js" timestamp="1531412339794">
-        <mark key="]" line="1061" column="0" />
-        <mark key="^" line="1061" column="0" />
-        <mark key="." line="1061" column="0" />
+      <file name="$USER_HOME$/bernieportal/public/sites/all/modules/clientele/clientele.js" timestamp="1531420551311">
+        <mark key="[" line="1033" column="7" />
+        <mark key="]" line="1024" column="38" />
+        <mark key="^" line="1024" column="38" />
+        <mark key="." line="1024" column="38" />
       </file>
       <file name="$USER_HOME$/bernieportal/database/migrations/2018_05_10_104327_remove_shell_id_from_pdf_shells_table.php" timestamp="1525965311516">
         <mark key="[" line="29" column="5" />
@@ -667,11 +668,11 @@
       <file name="$USER_HOME$/workspace/javascript/GGJ2018_last_electrician/.gitignore" timestamp="1517068285329">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/bernieportal/legacy/EmployeeElectionModule.php" timestamp="1531412206411">
-        <mark key="[" line="4598" column="70" />
-        <mark key="]" line="4598" column="70" />
-        <mark key="." line="4598" column="70" />
-        <mark key="^" line="4596" column="23" />
+      <file name="$USER_HOME$/bernieportal/legacy/EmployeeElectionModule.php" timestamp="1531420584026">
+        <mark key="[" line="4594" column="157" />
+        <mark key="]" line="4594" column="157" />
+        <mark key="." line="4594" column="157" />
+        <mark key="^" line="4594" column="156" />
       </file>
     </filemarks>
     <jumps>
@@ -778,13 +779,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+        <text encoding="base64">IG1hbmlwdWxhdGVfZWxlY3Rpb25fZm9ybSgnIC4gJHRpZCAuICcsICcgLiAkZW5pZCAuICcsICcgLiAoJHJvd19hbGxfcGxhbi0+cGxhbmlkID8/IDApIC4gJywgXCdcJywgXCdcJywgXCdcJywgZmFsc2UpOycs</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+        <text encoding="base64">IG1hbmlwdWxhdGVfZWxlY3Rpb25fZm9ybSgnIC4gJHRpZCAuICcsICcgLiAkZW5pZCAuICcsICcgLiAoJHJvd19hbGxfcGxhbi0+cGxhbmlkID8/IDApIC4gJywgXCdcJywgXCdcJywgXCdcJywgZmFsc2UpOycs</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbHNlXD4=</text>
