@@ -468,11 +468,11 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/save-pdf-preview-banner.vue" timestamp="1529336945099">
         <mark key="[" line="119" column="76" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/views/broker/plan/additional-info.blade.php" timestamp="1531327163688">
-        <mark key="[" line="31" column="46" />
-        <mark key="]" line="5" column="51" />
-        <mark key="." line="5" column="51" />
-        <mark key="^" line="5" column="39" />
+      <file name="$USER_HOME$/bernieportal/resources/views/broker/plan/additional-info.blade.php" timestamp="1531412263697">
+        <mark key="[" line="37" column="98" />
+        <mark key="]" line="37" column="96" />
+        <mark key="." line="37" column="96" />
+        <mark key="^" line="37" column="96" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Api/Transformers/BenefitProvider/EmployerTransformer.php" timestamp="1501534288275">
         <mark key="[" line="17" column="52" />
@@ -537,11 +537,6 @@
       <file name="$USER_HOME$/bernieportal/legacy/ClienteleUserModule.php" timestamp="1530807270220">
         <mark key="[" line="1956" column="77" />
       </file>
-      <file name="$USER_HOME$/bernieportal/legacy/Benefits/PlanMessages/PlanMessage.php" timestamp="1531410146901">
-        <mark key="[" line="367" column="8" />
-        <mark key="]" line="367" column="8" />
-        <mark key="." line="367" column="8" />
-      </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/billing/billing-adjustment-table.vue" timestamp="1513984765746">
         <mark key="[" line="12" column="11" />
       </file>
@@ -573,10 +568,9 @@
         <mark key="[" line="21" column="49" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/carrier-forms/broker-form-view.vue" timestamp="1531405403638">
-        <mark key="'" line="1408" column="0" />
+        <mark key="'" line="1418" column="0" />
         <mark key="[" line="403" column="71" />
         <mark key="]" line="403" column="71" />
-        <mark key="^" line="406" column="17" />
         <mark key="." line="403" column="71" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Jobs/Plans/Shells/UpdatePlansCreatedFromShell.php" timestamp="1524687153761">
@@ -607,7 +601,7 @@
       <file name="$USER_HOME$/workspace/php/testProject/public/css/main.css" timestamp="1504813753200">
         <mark key="[" line="34" column="23" />
       </file>
-      <file name="/PHP Console" timestamp="1531410283186">
+      <file name="/PHP Console" timestamp="1531412331813">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Http/Requests/BrokerForms/SingleFieldRequest.php" timestamp="1530025411812">
@@ -619,7 +613,11 @@
       <file name="$USER_HOME$/workspace/php/testProject/app/Console/Kernel.php" timestamp="1504282888931">
         <mark key="[" line="16" column="10" />
       </file>
-      <file name="$USER_HOME$/bernieportal/public/sites/all/modules/clientele/clientele.js" timestamp="1531342774312" />
+      <file name="$USER_HOME$/bernieportal/public/sites/all/modules/clientele/clientele.js" timestamp="1531412339794">
+        <mark key="]" line="1061" column="0" />
+        <mark key="^" line="1061" column="0" />
+        <mark key="." line="1061" column="0" />
+      </file>
       <file name="$USER_HOME$/bernieportal/database/migrations/2018_05_10_104327_remove_shell_id_from_pdf_shells_table.php" timestamp="1525965311516">
         <mark key="[" line="29" column="5" />
       </file>
@@ -669,7 +667,7 @@
       <file name="$USER_HOME$/workspace/javascript/GGJ2018_last_electrician/.gitignore" timestamp="1517068285329">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/bernieportal/legacy/EmployeeElectionModule.php" timestamp="1531250600501">
+      <file name="$USER_HOME$/bernieportal/legacy/EmployeeElectionModule.php" timestamp="1531412206411">
         <mark key="[" line="4598" column="70" />
         <mark key="]" line="4598" column="70" />
         <mark key="." line="4598" column="70" />
