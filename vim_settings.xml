@@ -468,10 +468,12 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/save-pdf-preview-banner.vue" timestamp="1529336945099">
         <mark key="[" line="119" column="76" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/views/broker/plan/additional-info.blade.php" timestamp="1531511456767">
-        <mark key="[" line="0" column="78" />
-        <mark key="]" line="0" column="78" />
-        <mark key="." line="0" column="78" />
+      <file name="$USER_HOME$/bernieportal/resources/views/broker/plan/additional-info.blade.php" timestamp="1531516973745">
+        <mark key="'" line="0" column="53" />
+        <mark key="[" line="0" column="54" />
+        <mark key="]" line="0" column="54" />
+        <mark key="." line="0" column="54" />
+        <mark key="^" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Api/Transformers/BenefitProvider/EmployerTransformer.php" timestamp="1501534288275">
         <mark key="[" line="17" column="52" />
@@ -602,7 +604,7 @@
       <file name="$USER_HOME$/workspace/php/testProject/public/css/main.css" timestamp="1504813753200">
         <mark key="[" line="34" column="23" />
       </file>
-      <file name="/PHP Console" timestamp="1531512032288">
+      <file name="/PHP Console" timestamp="1531517110135">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Http/Requests/BrokerForms/SingleFieldRequest.php" timestamp="1530025411812">
@@ -614,11 +616,11 @@
       <file name="$USER_HOME$/workspace/php/testProject/app/Console/Kernel.php" timestamp="1504282888931">
         <mark key="[" line="16" column="10" />
       </file>
-      <file name="$USER_HOME$/bernieportal/public/sites/all/modules/clientele/clientele.js" timestamp="1531512213792">
-        <mark key="[" line="1093" column="21" />
-        <mark key="]" line="1093" column="21" />
-        <mark key="^" line="833" column="0" />
-        <mark key="." line="1093" column="21" />
+      <file name="$USER_HOME$/bernieportal/public/sites/all/modules/clientele/clientele.js" timestamp="1531517198449">
+        <mark key="[" line="1091" column="62" />
+        <mark key="]" line="1082" column="7" />
+        <mark key="^" line="1082" column="7" />
+        <mark key="." line="1082" column="7" />
       </file>
       <file name="$USER_HOME$/bernieportal/database/migrations/2018_05_10_104327_remove_shell_id_from_pdf_shells_table.php" timestamp="1525965311516">
         <mark key="[" line="29" column="5" />
@@ -669,15 +671,15 @@
       <file name="$USER_HOME$/workspace/javascript/GGJ2018_last_electrician/.gitignore" timestamp="1517068285329">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/bernieportal/legacy/EmployeeElectionModule.php" timestamp="1531425369920">
-        <mark key="[" line="4597" column="268" />
-        <mark key="]" line="4597" column="268" />
-        <mark key="." line="4597" column="268" />
-        <mark key="^" line="478" column="30" />
+      <file name="$USER_HOME$/bernieportal/legacy/EmployeeElectionModule.php" timestamp="1531517197568">
+        <mark key="'" line="321" column="30" />
+        <mark key="[" line="506" column="21" />
+        <mark key="]" line="507" column="47" />
+        <mark key="." line="507" column="47" />
+        <mark key="^" line="507" column="47" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="638" column="21" filename="$USER_HOME$/bernieportal/resources/assets/components/benefits/plans/shells/shell.vue" />
       <jump line="2256" column="92" filename="$USER_HOME$/bernieportal/legacy/ClienteleUserModule.php" />
       <jump line="3" column="94" filename="$USER_HOME$/bernieportal/resources/views/plan-pdf-table-rows.blade.php" />
       <jump line="88" column="17" filename="$USER_HOME$/bernieportal/app/Benefits/File.php" />
@@ -753,7 +755,6 @@
       <jump line="6306" column="5" filename="$USER_HOME$/bernieportal/legacy/EmployeeElectionModule.php" />
       <jump line="349" column="20" filename="$USER_HOME$/bernieportal/legacy/BrokerPortalModule.php" />
       <jump line="8" column="32" filename="$USER_HOME$/bernieportal/resources/views/broker/plan/additional-info.blade.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/bernieportal/resources/views/broker/plan/additional-info.blade.php" />
       <jump line="21" column="16" filename="$USER_HOME$/bernieportal/app/Data/AccessObjects/Benefits/Plans/BrokerFieldOptionAnswer.php" />
       <jump line="34" column="0" filename="$USER_HOME$/bernieportal/app/Data/AccessObjects/Benefits/Plans/BrokerFieldOptionAnswer.php" />
       <jump line="4" column="0" filename="$USER_HOME$/bernieportal/app/Data/AccessObjects/Benefits/Plans/BrokerFieldOptionPivot.php" />
@@ -777,16 +778,18 @@
       <jump line="976" column="63" filename="$USER_HOME$/bernieportal/resources/assets/components/carrier-forms/broker-form-view.vue" />
       <jump line="1408" column="0" filename="$USER_HOME$/bernieportal/resources/assets/components/carrier-forms/broker-form-view.vue" />
       <jump line="8856" column="0" filename="$USER_HOME$/bernieportal/legacy/BenefitConfigureModule.php" />
+      <jump line="0" column="53" filename="$USER_HOME$/bernieportal/resources/views/broker/plan/additional-info.blade.php" />
+      <jump line="321" column="30" filename="$USER_HOME$/bernieportal/legacy/EmployeeElectionModule.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>visible</text>
+        <text>{{ $benefitType }}</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>visible</text>
+        <text>{{ $benefitType }}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbHNlXD4=</text>
