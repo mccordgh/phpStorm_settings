@@ -170,6 +170,9 @@
         <mark key="[" line="1106" column="1" />
       </file>
       <file name="$USER_HOME$/bernieportal/public/sites/all/modules/employee_election/employee_election.module" timestamp="1531423180103" />
+      <file name="$USER_HOME$/bernieportal/database/migrations/2018_07_16_130857_add_sort_order_column_to_broker_form_fields_options_table.php" timestamp="1531760977477">
+        <mark key="[" line="16" column="14" />
+      </file>
       <file name="$USER_HOME$/workspace/emoji_rogue_like/css/main.css" timestamp="1506373068544">
         <mark key="[" line="0" column="0" />
       </file>
@@ -490,6 +493,7 @@
       <file name="$USER_HOME$/workspace/php/testProject/app/Http/Kernel.php" timestamp="1504817441978">
         <mark key="[" line="32" column="13" />
       </file>
+      <file name="$USER_HOME$/bernieportal/database/migrations/2018_07_12_031040_fix_indentity_theft_name_in_database.php" timestamp="1531761185635" />
       <file name="$USER_HOME$/bernieportal/app/Api/Transformers/Brokerage/AgencyAgencyListTransformer.php" timestamp="1513186920962">
         <mark key="[" line="4" column="33" />
       </file>
@@ -555,6 +559,7 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/benefit-provider/benefit-provider-profile-form.vue" timestamp="1524777626668">
         <mark key="[" line="0" column="22" />
       </file>
+      <file name="$USER_HOME$/bernieportal/database/migrations/2018_07_10_060605_update_jobs_listing_table.php" timestamp="1531761152560" />
       <file name="$USER_HOME$/bernieportal/public/sites/all/modules/clientele/js/clientele_user_login_block.js" timestamp="1528490575648">
         <mark key="[" line="18" column="37" />
       </file>
@@ -570,7 +575,7 @@
       <file name="$USER_HOME$/bernieportal/app/Http/Requests/User/ShowUserRequest.php" timestamp="1496853931288">
         <mark key="[" line="21" column="49" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/carrier-forms/broker-form-view.vue" timestamp="1531405403638">
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/carrier-forms/broker-form-view.vue" timestamp="1531761234473">
         <mark key="'" line="1408" column="0" />
         <mark key="[" line="403" column="71" />
         <mark key="]" line="403" column="71" />
