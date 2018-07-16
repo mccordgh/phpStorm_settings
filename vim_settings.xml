@@ -194,6 +194,9 @@
       <file name="$USER_HOME$/bernieportal/legacy/CmsMiscModule.php" timestamp="1508444603150">
         <mark key="[" line="1169" column="12" />
       </file>
+      <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/BrokerForms/FormsController.php" timestamp="1531778108784">
+        <mark key="[" line="171" column="38" />
+      </file>
       <file name="$USER_HOME$/workspace/gamepad_api_demo/index.html" timestamp="1501271743681">
         <mark key="[" line="3" column="0" />
       </file>
@@ -462,8 +465,10 @@
       <file name="$USER_HOME$/bernieportal/resources/views/billing/base-unum-bill.blade.php" timestamp="1515108477474">
         <mark key="[" line="77" column="51" />
       </file>
-      <file name="/fragment.php" timestamp="1531764260538">
-        <mark key="[" line="0" column="0" />
+      <file name="/fragment.php" timestamp="1531778116856">
+        <mark key="[" line="0" column="10" />
+        <mark key="]" line="0" column="10" />
+        <mark key="." line="0" column="10" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/Plans/Shells/ShellsHierarchyController.php" timestamp="1521657976020">
         <mark key="[" line="35" column="33" />
@@ -552,10 +557,10 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/attach-broker-forms-table.vue" timestamp="1527000345390">
         <mark key="[" line="96" column="26" />
       </file>
-      <file name="$USER_HOME$/bernieportal/legacy/ClienteleUserModule.php" timestamp="1531770431997">
-        <mark key="[" line="10136" column="33" />
-        <mark key="]" line="10136" column="33" />
-        <mark key="." line="10136" column="33" />
+      <file name="$USER_HOME$/bernieportal/legacy/ClienteleUserModule.php" timestamp="1531776476955">
+        <mark key="[" line="10136" column="34" />
+        <mark key="]" line="10136" column="34" />
+        <mark key="." line="10136" column="34" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/billing/billing-adjustment-table.vue" timestamp="1513984765746">
         <mark key="[" line="12" column="11" />
@@ -588,8 +593,9 @@
       <file name="$USER_HOME$/bernieportal/app/Http/Requests/User/ShowUserRequest.php" timestamp="1496853931288">
         <mark key="[" line="21" column="49" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/carrier-forms/broker-form-view.vue" timestamp="1531763256035">
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/carrier-forms/broker-form-view.vue" timestamp="1531777767083">
         <mark key="'" line="1408" column="0" />
+        <mark key="[" line="897" column="92" />
         <mark key="^" line="1218" column="25" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Jobs/Plans/Shells/UpdatePlansCreatedFromShell.php" timestamp="1524687153761">
@@ -620,7 +626,7 @@
       <file name="$USER_HOME$/workspace/php/testProject/public/css/main.css" timestamp="1504813753200">
         <mark key="[" line="34" column="23" />
       </file>
-      <file name="/PHP Console" timestamp="1531772964413">
+      <file name="/PHP Console" timestamp="1531778163251">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Http/Requests/BrokerForms/SingleFieldRequest.php" timestamp="1530025411812">
@@ -632,7 +638,6 @@
       <file name="$USER_HOME$/workspace/php/testProject/app/Console/Kernel.php" timestamp="1504282888931">
         <mark key="[" line="16" column="10" />
       </file>
-      <file name="$USER_HOME$/bernieportal/public/sites/all/modules/clientele/clientele.js" timestamp="1531773099003" />
       <file name="$USER_HOME$/bernieportal/database/migrations/2018_05_10_104327_remove_shell_id_from_pdf_shells_table.php" timestamp="1525965311516">
         <mark key="[" line="29" column="5" />
       </file>
@@ -694,8 +699,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2256" column="92" filename="$USER_HOME$/bernieportal/legacy/ClienteleUserModule.php" />
-      <jump line="3" column="94" filename="$USER_HOME$/bernieportal/resources/views/plan-pdf-table-rows.blade.php" />
       <jump line="88" column="17" filename="$USER_HOME$/bernieportal/app/Benefits/File.php" />
       <jump line="0" column="0" filename="$USER_HOME$/bernieportal/app/Benefits/File.php" />
       <jump line="94" column="0" filename="$USER_HOME$/bernieportal/app/Benefits/File.php" />
@@ -794,16 +797,18 @@
       <jump line="8856" column="0" filename="$USER_HOME$/bernieportal/legacy/BenefitConfigureModule.php" />
       <jump line="0" column="53" filename="$USER_HOME$/bernieportal/resources/views/broker/plan/additional-info.blade.php" />
       <jump line="321" column="30" filename="$USER_HOME$/bernieportal/legacy/EmployeeElectionModule.php" />
+      <jump line="1064" column="66" filename="$USER_HOME$/bernieportal/public/sites/all/modules/clientele/clientele.js" />
+      <jump line="1075" column="15" filename="$USER_HOME$/bernieportal/public/sites/all/modules/clientele/clientele.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>t('Guided Enrollment: Step '.$step.' of 5')</text>
+        <text>isNotEmpty()</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>t('Guided Enrollment: Step '.$step.' of 5')</text>
+        <text>isNotEmpty()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbHNlXD4=</text>
@@ -843,7 +848,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0gZWxzZSB7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>125</text>
+        <text>175</text>
       </register>
     </registers>
     <search>
@@ -879,7 +884,6 @@
         <entry encoding="base64">XDxlbHNlXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>10575</entry>
         <entry>249</entry>
         <entry>144</entry>
         <entry>43</entry>
@@ -899,6 +903,7 @@
         <entry>205</entry>
         <entry>18</entry>
         <entry>125</entry>
+        <entry>175</entry>
       </history-cmd>
       <history-expr />
       <history-input />
