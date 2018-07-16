@@ -488,9 +488,9 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/save-pdf-preview-banner.vue" timestamp="1529336945099">
         <mark key="[" line="119" column="76" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/views/broker/plan/additional-info.blade.php" timestamp="1531516973745">
+      <file name="$USER_HOME$/bernieportal/resources/views/broker/plan/additional-info.blade.php" timestamp="1531780414387">
         <mark key="'" line="0" column="53" />
-        <mark key="[" line="0" column="54" />
+        <mark key="[" line="20" column="69" />
         <mark key="]" line="0" column="54" />
         <mark key="." line="0" column="54" />
         <mark key="^" line="0" column="0" />
@@ -581,6 +581,9 @@
       <file name="$USER_HOME$/bernieportal/public/sites/all/modules/clientele/js/clientele_user_login_block.js" timestamp="1528490575648">
         <mark key="[" line="18" column="37" />
       </file>
+      <file name="$USER_HOME$/bernieportal/spec/Http/Controllers/Api/BrokerForms/FormsControllerSpec.php" timestamp="1531778838000">
+        <mark key="[" line="204" column="49" />
+      </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/account-settings/change-password.vue" timestamp="1508528918510">
         <mark key="[" line="60" column="21" />
       </file>
@@ -626,7 +629,7 @@
       <file name="$USER_HOME$/workspace/php/testProject/public/css/main.css" timestamp="1504813753200">
         <mark key="[" line="34" column="23" />
       </file>
-      <file name="/PHP Console" timestamp="1531778163251">
+      <file name="/PHP Console" timestamp="1531780860475">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Http/Requests/BrokerForms/SingleFieldRequest.php" timestamp="1530025411812">
@@ -802,13 +805,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>isNotEmpty()</text>
+        <text>benefitId</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>isNotEmpty()</text>
+        <text>benefitId</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbHNlXD4=</text>
@@ -816,8 +819,28 @@
       <register name="0" type="4">
         <text>, $form, $dcid, $formId)</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>/ function filterIncompleteBenefits(benefitHtmlContainers) {
+//   return benefitHtmlContainers.filter(function () {
+//     var benefitId = $(this).attr('id').split('-')[3];
+//     var planSideBarTab = $('li[id=&quot;plan-' + benefitId + '&quot;]');
+//     console.log(benefitId, planSideBarTab);
+//
+//     console.log(planSideBarTab.hasClass('completed'));
+//     return planSideBarTab.hasClass('completed');
+//   });
+// }
+//
+// function filterCompleteBenefits(benefitHtmlContainers) {
+//   return benefitHtmlContainers.filter(function () {
+//     var benefitId = $(this).attr('id').split('-')[3];
+//     var planSideBarTab = $('li[id=&quot;plan-' + benefitId + '&quot;]');
+//     console.log(benefitId, planSideBarTab);
+//
+//     console.log(planSideBarTab.hasClass('completed'));
+//     return !planSideBarTab.hasClass('completed');
+//   });
+// }</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -825,27 +848,27 @@
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CiAg</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">IGlmICgkZmlsZUluUHVibGljUGF0aCkgewogICAgICAgICAgICByZXR1cm4gc3RvcmFnZV9wYXRoKCRwbGFuRmlsZS0+ZmlsZXBhdGgpOwogICAgICAgIH0KICAgICAgICAKICAgICAgICAKCiAgICAgICAgcmV0dXJuIHB1YmxpY19wYXRoKCRwbGFuRmlsZS0+ZmlsZXBhdGgpOw==</text>
-      </register>
-      <register name="5" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="4">
+        <text encoding="base64">CiAg</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">IGlmICgkZmlsZUluUHVibGljUGF0aCkgewogICAgICAgICAgICByZXR1cm4gc3RvcmFnZV9wYXRoKCRwbGFuRmlsZS0+ZmlsZXBhdGgpOwogICAgICAgIH0KICAgICAgICAKICAgICAgICAKCiAgICAgICAgcmV0dXJuIHB1YmxpY19wYXRoKCRwbGFuRmlsZS0+ZmlsZXBhdGgpOw==</text>
+      </register>
       <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>var filterUnchecked = this.filterUncheckedOptions;
             var isCustomOption = this.isCustomOptionField;</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBpbmZvW2tleV0gPSAkKHRoaXMpLnZhbCgpOwogICAgICAgICAgICB9Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0gZWxzZSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBpbmZvW2tleV0gPSAkKHRoaXMpLnZhbCgpOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>175</text>
