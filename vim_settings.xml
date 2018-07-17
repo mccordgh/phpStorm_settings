@@ -210,6 +210,13 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/benefit-booklets/configure-booklet.vue" timestamp="1512424950606">
         <mark key="[" line="183" column="98" />
       </file>
+      <file name="$USER_HOME$/bernieportal/app/Benefits/Plans/PlanRepository.php" timestamp="1531842191263">
+        <mark key="'" line="145" column="0" />
+        <mark key="[" line="143" column="15" />
+        <mark key="]" line="143" column="15" />
+        <mark key="." line="143" column="15" />
+        <mark key="^" line="143" column="13" />
+      </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/candidate/job-applications-list.vue" timestamp="1493315731584">
         <mark key="[" line="46" column="67" />
       </file>
@@ -559,11 +566,11 @@
         <mark key="]" line="10136" column="34" />
         <mark key="." line="10136" column="34" />
       </file>
-      <file name="$USER_HOME$/bernieportal/legacy/Benefits/PlanMessages/PlanMessage.php" timestamp="1531841408637">
-        <mark key="[" line="416" column="25" />
-        <mark key="]" line="416" column="24" />
-        <mark key="." line="416" column="24" />
-        <mark key="^" line="416" column="24" />
+      <file name="$USER_HOME$/bernieportal/legacy/Benefits/PlanMessages/PlanMessage.php" timestamp="1531842230053">
+        <mark key="[" line="414" column="86" />
+        <mark key="]" line="416" column="7" />
+        <mark key="^" line="416" column="7" />
+        <mark key="." line="416" column="7" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/billing/billing-adjustment-table.vue" timestamp="1513984765746">
         <mark key="[" line="12" column="11" />
@@ -630,7 +637,7 @@
       <file name="$USER_HOME$/workspace/php/testProject/public/css/main.css" timestamp="1504813753200">
         <mark key="[" line="34" column="23" />
       </file>
-      <file name="/PHP Console" timestamp="1531841043601">
+      <file name="/PHP Console" timestamp="1531841827173">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Http/Requests/BrokerForms/SingleFieldRequest.php" timestamp="1530025411812">
@@ -699,8 +706,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="88" column="17" filename="$USER_HOME$/bernieportal/app/Benefits/File.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/bernieportal/app/Benefits/File.php" />
       <jump line="94" column="0" filename="$USER_HOME$/bernieportal/app/Benefits/File.php" />
       <jump line="279" column="55" filename="$USER_HOME$/bernieportal/app/Benefits/Plans/Shells/ShellRepository.php" />
       <jump line="276" column="25" filename="$USER_HOME$/bernieportal/app/Benefits/Plans/Shells/ShellRepository.php" />
@@ -799,16 +804,18 @@
       <jump line="321" column="30" filename="$USER_HOME$/bernieportal/legacy/EmployeeElectionModule.php" />
       <jump line="1064" column="66" filename="$USER_HOME$/bernieportal/public/sites/all/modules/clientele/clientele.js" />
       <jump line="1075" column="15" filename="$USER_HOME$/bernieportal/public/sites/all/modules/clientele/clientele.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/bernieportal/app/Benefits/Plans/PlanRepository.php" />
+      <jump line="134" column="0" filename="$USER_HOME$/bernieportal/app/Benefits/Plans/PlanRepository.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>mixed</text>
+        <text encoding="base64">PSA=</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>mixed</text>
+        <text encoding="base64">PSA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbHNlXD4=</text>
