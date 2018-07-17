@@ -490,7 +490,6 @@
       </file>
       <file name="$USER_HOME$/bernieportal/resources/views/broker/plan/additional-info.blade.php" timestamp="1531780414387">
         <mark key="'" line="0" column="53" />
-        <mark key="[" line="20" column="69" />
         <mark key="]" line="0" column="54" />
         <mark key="." line="0" column="54" />
         <mark key="^" line="0" column="0" />
@@ -629,7 +628,7 @@
       <file name="$USER_HOME$/workspace/php/testProject/public/css/main.css" timestamp="1504813753200">
         <mark key="[" line="34" column="23" />
       </file>
-      <file name="/PHP Console" timestamp="1531798685624">
+      <file name="/PHP Console" timestamp="1531838904414">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Http/Requests/BrokerForms/SingleFieldRequest.php" timestamp="1530025411812">
@@ -641,6 +640,7 @@
       <file name="$USER_HOME$/workspace/php/testProject/app/Console/Kernel.php" timestamp="1504282888931">
         <mark key="[" line="16" column="10" />
       </file>
+      <file name="$USER_HOME$/bernieportal/public/sites/all/modules/clientele/clientele.js" timestamp="1531838687902" />
       <file name="$USER_HOME$/bernieportal/database/migrations/2018_05_10_104327_remove_shell_id_from_pdf_shells_table.php" timestamp="1525965311516">
         <mark key="[" line="29" column="5" />
       </file>
@@ -693,12 +693,12 @@
       <file name="$USER_HOME$/workspace/javascript/GGJ2018_last_electrician/.gitignore" timestamp="1517068285329">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/bernieportal/legacy/EmployeeElectionModule.php" timestamp="1531770607900">
+      <file name="$USER_HOME$/bernieportal/legacy/EmployeeElectionModule.php" timestamp="1531840284969">
         <mark key="'" line="321" column="30" />
-        <mark key="[" line="499" column="40" />
-        <mark key="]" line="508" column="47" />
-        <mark key="." line="508" column="47" />
-        <mark key="^" line="508" column="47" />
+        <mark key="[" line="4597" column="271" />
+        <mark key="]" line="4597" column="271" />
+        <mark key="." line="4597" column="271" />
+        <mark key="^" line="459" column="31" />
       </file>
     </filemarks>
     <jumps>
@@ -805,13 +805,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>benefitId</text>
+        <text>\Toggle::enabled('custom-option-fields'</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>benefitId</text>
+        <text>\Toggle::enabled('custom-option-fields'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbHNlXD4=</text>
