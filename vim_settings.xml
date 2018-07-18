@@ -210,9 +210,6 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/benefit-booklets/configure-booklet.vue" timestamp="1512424950606">
         <mark key="[" line="183" column="98" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Benefits/Plans/PlanRepository.php" timestamp="1531842191263">
-        <mark key="'" line="134" column="0" />
-      </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/candidate/job-applications-list.vue" timestamp="1493315731584">
         <mark key="[" line="46" column="67" />
       </file>
@@ -485,9 +482,12 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/save-pdf-preview-banner.vue" timestamp="1529336945099">
         <mark key="[" line="119" column="76" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/views/broker/plan/additional-info.blade.php" timestamp="1531860466374">
+      <file name="$USER_HOME$/bernieportal/resources/views/broker/plan/additional-info.blade.php" timestamp="1531867495469">
         <mark key="'" line="0" column="53" />
-        <mark key="^" line="28" column="24" />
+        <mark key="[" line="46" column="27" />
+        <mark key="]" line="48" column="15" />
+        <mark key="^" line="48" column="15" />
+        <mark key="." line="48" column="15" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Api/Transformers/BenefitProvider/EmployerTransformer.php" timestamp="1501534288275">
         <mark key="[" line="17" column="52" />
@@ -620,7 +620,7 @@
       <file name="$USER_HOME$/workspace/php/testProject/public/css/main.css" timestamp="1504813753200">
         <mark key="[" line="34" column="23" />
       </file>
-      <file name="/PHP Console" timestamp="1531860650994">
+      <file name="/PHP Console" timestamp="1531868207823">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Http/Requests/BrokerForms/SingleFieldRequest.php" timestamp="1530025411812">
@@ -632,11 +632,11 @@
       <file name="$USER_HOME$/workspace/php/testProject/app/Console/Kernel.php" timestamp="1504282888931">
         <mark key="[" line="16" column="10" />
       </file>
-      <file name="$USER_HOME$/bernieportal/public/sites/all/modules/clientele/clientele.js" timestamp="1531858526448">
-        <mark key="[" line="887" column="0" />
-        <mark key="]" line="888" column="11" />
-        <mark key="^" line="888" column="11" />
-        <mark key="." line="888" column="11" />
+      <file name="$USER_HOME$/bernieportal/public/sites/all/modules/clientele/clientele.js" timestamp="1531868386404">
+        <mark key="[" line="1105" column="35" />
+        <mark key="]" line="38" column="34" />
+        <mark key="^" line="38" column="34" />
+        <mark key="." line="38" column="34" />
       </file>
       <file name="$USER_HOME$/bernieportal/database/migrations/2018_05_10_104327_remove_shell_id_from_pdf_shells_table.php" timestamp="1525965311516">
         <mark key="[" line="29" column="5" />
@@ -683,17 +683,15 @@
       <file name="$USER_HOME$/workspace/javascript/GGJ2018_last_electrician/.gitignore" timestamp="1517068285329">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/bernieportal/legacy/EmployeeElectionModule.php" timestamp="1531858703872">
+      <file name="$USER_HOME$/bernieportal/legacy/EmployeeElectionModule.php" timestamp="1531868108423">
         <mark key="'" line="321" column="30" />
-        <mark key="[" line="6433" column="31" />
-        <mark key="]" line="6433" column="16" />
-        <mark key="^" line="6433" column="16" />
-        <mark key="." line="6433" column="16" />
+        <mark key="[" line="478" column="53" />
+        <mark key="]" line="479" column="79" />
+        <mark key="^" line="479" column="79" />
+        <mark key="." line="479" column="79" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="94" column="0" filename="$USER_HOME$/bernieportal/app/Benefits/File.php" />
-      <jump line="279" column="55" filename="$USER_HOME$/bernieportal/app/Benefits/Plans/Shells/ShellRepository.php" />
       <jump line="276" column="25" filename="$USER_HOME$/bernieportal/app/Benefits/Plans/Shells/ShellRepository.php" />
       <jump line="282" column="34" filename="$USER_HOME$/bernieportal/app/Benefits/Plans/Shells/ShellRepository.php" />
       <jump line="186" column="57" filename="$USER_HOME$/bernieportal/resources/assets/components/benefits/plans/shells/library.vue" />
@@ -792,30 +790,41 @@
       <jump line="1075" column="15" filename="$USER_HOME$/bernieportal/public/sites/all/modules/clientele/clientele.js" />
       <jump line="0" column="0" filename="$USER_HOME$/bernieportal/app/Benefits/Plans/PlanRepository.php" />
       <jump line="134" column="0" filename="$USER_HOME$/bernieportal/app/Benefits/Plans/PlanRepository.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/bernieportal/public/sites/all/modules/clientele/clientele.js" />
+      <jump line="1120" column="0" filename="$USER_HOME$/bernieportal/public/sites/all/modules/clientele/clientele.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IGNsYXNzPSJmb3JtLXJhZGlvIHJhZGlvLWNvbnRyb2wi</text>
+        <text>text-field</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGNsYXNzPSJmb3JtLXJhZGlvIHJhZGlvLWNvbnRyb2wi</text>
+        <text>text-field</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbHNlXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>, $form, $dcid, $formId)</text>
+        <text encoding="base64">ICB2YXIgb3RoZXJQbGFuRmllbGRzID0gcGxhbkN1c3RvbUZpZWxkcy5maWx0ZXIoZnVuY3Rpb24gKCkgewogICAgcmV0dXJuICQodGhpcykuYXR0cignbmFtZScpLmluZGV4T2YoJ18nICsgYmVuZWZpdFR5cGVJZCkgPiAwOwogIH0pOwog</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgIGNvbnNvbGUubG9nKHtnZXRDYXJ0T25seX0pOwo=</text>
+      <register name="1" type="4">
+        <text>console.log('we have an answer');
+        console.log({currentField, other: this})</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
+        <text>console.log({target: event.target})
+  console.log({currentTarget: event.currentTarget})
+  console.log(</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgIGNvbnNvbGUubG9nKHtnZXRDYXJ0T25seX0pOwo=</text>
+      </register>
+      <register name="4" type="4">
         <text>/ function filterIncompleteBenefits(benefitHtmlContainers) {
 //   return benefitHtmlContainers.filter(function () {
 //     var benefitId = $(this).attr('id').split('-')[3];
@@ -838,27 +847,20 @@
 //   });
 // }</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text encoding="base64">CiAg</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text encoding="base64">IGlmICgkZmlsZUluUHVibGljUGF0aCkgewogICAgICAgICAgICByZXR1cm4gc3RvcmFnZV9wYXRoKCRwbGFuRmlsZS0+ZmlsZXBhdGgpOwogICAgICAgIH0KICAgICAgICAKICAgICAgICAKCiAgICAgICAgcmV0dXJuIHB1YmxpY19wYXRoKCRwbGFuRmlsZS0+ZmlsZXBhdGgpOw==</text>
       </register>
-      <register name="7" type="2">
+      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="9" type="4">
-        <text>var filterUnchecked = this.filterUncheckedOptions;
-            var isCustomOption = this.isCustomOptionField;</text>
       </register>
       <register name=":" type="4">
         <text>415</text>
