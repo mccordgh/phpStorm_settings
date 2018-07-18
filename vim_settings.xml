@@ -584,12 +584,11 @@
       <file name="$USER_HOME$/bernieportal/app/Http/Requests/User/ShowUserRequest.php" timestamp="1496853931288">
         <mark key="[" line="21" column="49" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/carrier-forms/broker-form-view.vue" timestamp="1531929096466">
-        <mark key="'" line="1415" column="0" />
-        <mark key="[" line="587" column="20" />
-        <mark key="]" line="587" column="20" />
-        <mark key="^" line="1225" column="25" />
-        <mark key="." line="587" column="20" />
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/carrier-forms/broker-form-view.vue" timestamp="1531930947702">
+        <mark key="'" line="1416" column="0" />
+        <mark key="[" line="588" column="0" />
+        <mark key="]" line="588" column="0" />
+        <mark key="." line="588" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Jobs/Plans/Shells/UpdatePlansCreatedFromShell.php" timestamp="1524687153761">
         <mark key="[" line="141" column="108" />
@@ -786,14 +785,14 @@
       <jump line="1120" column="0" filename="$USER_HOME$/bernieportal/public/sites/all/modules/clientele/clientele.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>custom</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>custom</text>
+        <text encoding="base64">PC9kaXY+</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbHNlXD4=</text>
@@ -802,57 +801,37 @@
         <text encoding="base64">ICB2YXIgb3RoZXJQbGFuRmllbGRzID0gcGxhbkN1c3RvbUZpZWxkcy5maWx0ZXIoZnVuY3Rpb24gKCkgewogICAgcmV0dXJuICQodGhpcykuYXR0cignbmFtZScpLmluZGV4T2YoJ18nICsgYmVuZWZpdFR5cGVJZCkgPiAwOwogIH0pOwog</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHtmaWVsZExhYmVsfSkK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHtiZW5lZml0SWQsIGJlbmVmaXRWaXNpYmxlfSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHtpbnB1dH0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHtmaWVsZExhYmVsfSkK</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHtiZW5lZml0SWQsIGJlbmVmaXRWaXNpYmxlfSkK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHtpbnB1dH0pCg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coe3NhdmluZzogaW5mb30pCg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>console.log('we have an answer');
         console.log({currentField, other: this})</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>console.log({target: event.target})
   console.log({currentTarget: event.currentTarget})
   console.log(</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgIGNvbnNvbGUubG9nKHtnZXRDYXJ0T25seX0pOwo=</text>
-      </register>
-      <register name="8" type="4">
-        <text>/ function filterIncompleteBenefits(benefitHtmlContainers) {
-//   return benefitHtmlContainers.filter(function () {
-//     var benefitId = $(this).attr('id').split('-')[3];
-//     var planSideBarTab = $('li[id=&quot;plan-' + benefitId + '&quot;]');
-//     console.log(benefitId, planSideBarTab);
-//
-//     console.log(planSideBarTab.hasClass('completed'));
-//     return planSideBarTab.hasClass('completed');
-//   });
-// }
-//
-// function filterCompleteBenefits(benefitHtmlContainers) {
-//   return benefitHtmlContainers.filter(function () {
-//     var benefitId = $(this).attr('id').split('-')[3];
-//     var planSideBarTab = $('li[id=&quot;plan-' + benefitId + '&quot;]');
-//     console.log(benefitId, planSideBarTab);
-//
-//     console.log(planSideBarTab.hasClass('completed'));
-//     return !planSideBarTab.hasClass('completed');
-//   });
-// }</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgIGNvbnNvbGUubG9nKHtnZXRDYXJ0T25seX0pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>415</text>
