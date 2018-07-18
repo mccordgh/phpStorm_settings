@@ -482,12 +482,12 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/save-pdf-preview-banner.vue" timestamp="1529336945099">
         <mark key="[" line="119" column="76" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/views/broker/plan/additional-info.blade.php" timestamp="1531867495469">
+      <file name="$USER_HOME$/bernieportal/resources/views/broker/plan/additional-info.blade.php" timestamp="1531926715117">
         <mark key="'" line="0" column="53" />
         <mark key="[" line="46" column="27" />
-        <mark key="]" line="48" column="15" />
-        <mark key="^" line="48" column="15" />
-        <mark key="." line="48" column="15" />
+        <mark key="]" line="6" column="36" />
+        <mark key="^" line="6" column="36" />
+        <mark key="." line="6" column="36" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Api/Transformers/BenefitProvider/EmployerTransformer.php" timestamp="1501534288275">
         <mark key="[" line="17" column="52" />
@@ -620,7 +620,7 @@
       <file name="$USER_HOME$/workspace/php/testProject/public/css/main.css" timestamp="1504813753200">
         <mark key="[" line="34" column="23" />
       </file>
-      <file name="/PHP Console" timestamp="1531868207823">
+      <file name="/PHP Console" timestamp="1531926780797">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Http/Requests/BrokerForms/SingleFieldRequest.php" timestamp="1530025411812">
@@ -632,11 +632,11 @@
       <file name="$USER_HOME$/workspace/php/testProject/app/Console/Kernel.php" timestamp="1504282888931">
         <mark key="[" line="16" column="10" />
       </file>
-      <file name="$USER_HOME$/bernieportal/public/sites/all/modules/clientele/clientele.js" timestamp="1531868386404">
-        <mark key="[" line="1105" column="35" />
-        <mark key="]" line="38" column="34" />
-        <mark key="^" line="38" column="34" />
-        <mark key="." line="38" column="34" />
+      <file name="$USER_HOME$/bernieportal/public/sites/all/modules/clientele/clientele.js" timestamp="1531926434459">
+        <mark key="[" line="1099" column="8" />
+        <mark key="]" line="1099" column="8" />
+        <mark key="." line="1099" column="8" />
+        <mark key="^" line="1099" column="20" />
       </file>
       <file name="$USER_HOME$/bernieportal/database/migrations/2018_05_10_104327_remove_shell_id_from_pdf_shells_table.php" timestamp="1525965311516">
         <mark key="[" line="29" column="5" />
@@ -795,13 +795,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>text-field</text>
+        <text>this</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>text-field</text>
+        <text>this</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbHNlXD4=</text>
@@ -809,22 +809,34 @@
       <register name="0" type="4">
         <text encoding="base64">ICB2YXIgb3RoZXJQbGFuRmllbGRzID0gcGxhbkN1c3RvbUZpZWxkcy5maWx0ZXIoZnVuY3Rpb24gKCkgewogICAgcmV0dXJuICQodGhpcykuYXR0cignbmFtZScpLmluZGV4T2YoJ18nICsgYmVuZWZpdFR5cGVJZCkgPiAwOwogIH0pOwog</text>
       </register>
-      <register name="1" type="4">
-        <text>console.log('we have an answer');
-        console.log({currentField, other: this})</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHtmaWVsZExhYmVsfSkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHtiZW5lZml0SWQsIGJlbmVmaXRWaXNpYmxlfSkK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHtpbnB1dH0pCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coe3NhdmluZzogaW5mb30pCg==</text>
+      </register>
+      <register name="5" type="4">
+        <text>console.log('we have an answer');
+        console.log({currentField, other: this})</text>
+      </register>
+      <register name="6" type="4">
         <text>console.log({target: event.target})
   console.log({currentTarget: event.currentTarget})
   console.log(</text>
       </register>
-      <register name="3" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgIGNvbnNvbGUubG9nKHtnZXRDYXJ0T25seX0pOwo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="8" type="4">
         <text>/ function filterIncompleteBenefits(benefitHtmlContainers) {
 //   return benefitHtmlContainers.filter(function () {
 //     var benefitId = $(this).attr('id').split('-')[3];
@@ -846,18 +858,6 @@
 //     return !planSideBarTab.hasClass('completed');
 //   });
 // }</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAg</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">IGlmICgkZmlsZUluUHVibGljUGF0aCkgewogICAgICAgICAgICByZXR1cm4gc3RvcmFnZV9wYXRoKCRwbGFuRmlsZS0+ZmlsZXBhdGgpOwogICAgICAgIH0KICAgICAgICAKICAgICAgICAKCiAgICAgICAgcmV0dXJuIHB1YmxpY19wYXRoKCRwbGFuRmlsZS0+ZmlsZXBhdGgpOw==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
