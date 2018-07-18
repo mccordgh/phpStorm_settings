@@ -102,6 +102,11 @@
       <file name="$USER_HOME$/bernieportal/app/Views/Composers/Sidebar/Sidebar.php" timestamp="1495661096600">
         <mark key="[" line="46" column="10" />
       </file>
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/actions.vue" timestamp="1531950372177">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+      </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/candidate/individual-application.vue" timestamp="1493136831791">
         <mark key="[" line="70" column="120" />
       </file>
@@ -787,7 +792,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="d" type="4">
         <text />
@@ -802,37 +807,37 @@
         <text encoding="base64">ICB2YXIgb3RoZXJQbGFuRmllbGRzID0gcGxhbkN1c3RvbUZpZWxkcy5maWx0ZXIoZnVuY3Rpb24gKCkgewogICAgcmV0dXJuICQodGhpcykuYXR0cignbmFtZScpLmluZGV4T2YoJ18nICsgYmVuZWZpdFR5cGVJZCkgPiAwOwogIH0pOwog</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHtmaWVsZExhYmVsfSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHtiZW5lZml0SWQsIGJlbmVmaXRWaXNpYmxlfSkK</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHtmaWVsZExhYmVsfSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHtpbnB1dH0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHtiZW5lZml0SWQsIGJlbmVmaXRWaXNpYmxlfSkK</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHtpbnB1dH0pCg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coe3NhdmluZzogaW5mb30pCg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>console.log('we have an answer');
         console.log({currentField, other: this})</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>console.log({target: event.target})
   console.log({currentTarget: event.currentTarget})
   console.log(</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgIGNvbnNvbGUubG9nKHtnZXRDYXJ0T25seX0pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>415</text>
