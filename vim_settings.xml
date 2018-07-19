@@ -326,6 +326,10 @@
       <file name="$USER_HOME$/BerniePortalWiki/FooterBackup.html" timestamp="1502825749665">
         <mark key="[" line="20" column="47" />
       </file>
+      <file name="$USER_HOME$/bernieportal/circle.yml" timestamp="1532030036505">
+        <mark key="[" line="18" column="6" />
+        <mark key="]" line="18" column="114" />
+      </file>
       <file name="$USER_HOME$/bernieportal/vendor/league/oauth2-server/src/Grant/GrantTypeInterface.php" timestamp="1497987826184">
         <mark key="[" line="53" column="37" />
       </file>
@@ -633,11 +637,6 @@
       <file name="$USER_HOME$/workspace/php/testProject/app/Console/Kernel.php" timestamp="1504282888931">
         <mark key="[" line="16" column="10" />
       </file>
-      <file name="$USER_HOME$/bernieportal/public/sites/all/modules/clientele/clientele.js" timestamp="1532016811669">
-        <mark key="[" line="1093" column="56" />
-        <mark key="]" line="1093" column="56" />
-        <mark key="." line="1093" column="56" />
-      </file>
       <file name="$USER_HOME$/bernieportal/database/migrations/2018_05_10_104327_remove_shell_id_from_pdf_shells_table.php" timestamp="1525965311516">
         <mark key="[" line="29" column="5" />
       </file>
@@ -795,7 +794,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>currentGroupId</text>
+        <text>php -d memory_limit=-1 ./vendor/bin/phpcs -p --standard=&quot;./phpcs.xml&quot; --extensions=php,inc,module,install app</text>
       </register>
       <register name="d" type="4">
         <text />
@@ -807,7 +806,7 @@
         <text encoding="base64">XDxlbHNlXD4=</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICB2YXIgb3RoZXJQbGFuRmllbGRzID0gcGxhbkN1c3RvbUZpZWxkcy5maWx0ZXIoZnVuY3Rpb24gKCkgewogICAgcmV0dXJuICQodGhpcykuYXR0cignbmFtZScpLmluZGV4T2YoJ18nICsgYmVuZWZpdFR5cGVJZCkgPiAwOwogIH0pOwog</text>
+        <text>php -d memory_limit=-1 ./vendor/bin/phpcs -p --standard=&quot;./phpcs.xml&quot; --extensions=php,inc,module,install app</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
