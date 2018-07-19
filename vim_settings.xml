@@ -621,7 +621,7 @@
       <file name="$USER_HOME$/workspace/php/testProject/public/css/main.css" timestamp="1504813753200">
         <mark key="[" line="34" column="23" />
       </file>
-      <file name="/PHP Console" timestamp="1532015483586">
+      <file name="/PHP Console" timestamp="1532026415141">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Http/Requests/BrokerForms/SingleFieldRequest.php" timestamp="1530025411812">
@@ -683,9 +683,12 @@
       <file name="$USER_HOME$/workspace/javascript/GGJ2018_last_electrician/.gitignore" timestamp="1517068285329">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/bernieportal/legacy/EmployeeElectionModule.php" timestamp="1532014266457">
+      <file name="$USER_HOME$/bernieportal/legacy/EmployeeElectionModule.php" timestamp="1532026633611">
         <mark key="'" line="321" column="30" />
-        <mark key="[" line="482" column="69" />
+        <mark key="[" line="459" column="0" />
+        <mark key="]" line="454" column="36" />
+        <mark key="^" line="454" column="36" />
+        <mark key="." line="454" column="36" />
       </file>
     </filemarks>
     <jumps>
