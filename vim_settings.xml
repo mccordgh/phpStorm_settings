@@ -478,6 +478,9 @@
       <file name="$USER_HOME$/bernieportal/resources/views/billing/base-unum-bill.blade.php" timestamp="1515108477474">
         <mark key="[" line="77" column="51" />
       </file>
+      <file name="$USER_HOME$/bernieportal/Homestead.yaml" timestamp="1532644152645">
+        <mark key="[" line="19" column="45" />
+      </file>
       <file name="/fragment.php" timestamp="1532125393056">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
@@ -569,6 +572,9 @@
         <mark key="]" line="10138" column="33" />
         <mark key="." line="10138" column="33" />
         <mark key="^" line="10138" column="32" />
+      </file>
+      <file name="$USER_HOME$/bernieportal/homestead/Homestead.yaml" timestamp="1532644148655">
+        <mark key="[" line="19" column="45" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/billing/billing-adjustment-table.vue" timestamp="1513984765746">
         <mark key="[" line="12" column="11" />
