@@ -106,11 +106,6 @@
       <file name="$USER_HOME$/bernieportal/app/Views/Composers/Sidebar/Sidebar.php" timestamp="1495661096600">
         <mark key="[" line="46" column="10" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/actions.vue" timestamp="1531950372177">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
-      </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/candidate/individual-application.vue" timestamp="1493136831791">
         <mark key="[" line="70" column="120" />
       </file>
@@ -482,11 +477,6 @@
       <file name="$USER_HOME$/bernieportal/Homestead.yaml" timestamp="1532703857064">
         <mark key="[" line="19" column="45" />
       </file>
-      <file name="/fragment.php" timestamp="1532125393056">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="10" />
-        <mark key="." line="0" column="10" />
-      </file>
       <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/Plans/Shells/ShellsHierarchyController.php" timestamp="1521657976020">
         <mark key="[" line="35" column="33" />
       </file>
@@ -550,6 +540,11 @@
       <file name="$USER_HOME$/bernieportal/app/Onboarding/EmployeesImport.php" timestamp="1506355596605">
         <mark key="[" line="5" column="1" />
       </file>
+      <file name="$USER_HOME$/bernieportal/app/Http/routes.php" timestamp="1532707385648">
+        <mark key="[" line="1" column="17" />
+        <mark key="]" line="1" column="17" />
+        <mark key="." line="1" column="17" />
+      </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/aca/employees/spreadsheet-import.vue" timestamp="1519842480935">
         <mark key="[" line="3" column="30" />
       </file>
@@ -574,8 +569,11 @@
         <mark key="." line="10138" column="33" />
         <mark key="^" line="10138" column="32" />
       </file>
-      <file name="$USER_HOME$/bernieportal/homestead/Homestead.yaml" timestamp="1532703804930">
-        <mark key="[" line="20" column="45" />
+      <file name="$USER_HOME$/bernieportal/homestead/Homestead.yaml" timestamp="1532707133003">
+        <mark key="[" line="21" column="11" />
+        <mark key="]" line="21" column="3" />
+        <mark key="^" line="21" column="3" />
+        <mark key="." line="21" column="3" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/billing/billing-adjustment-table.vue" timestamp="1513984765746">
         <mark key="[" line="12" column="11" />
@@ -647,7 +645,7 @@
       <file name="$USER_HOME$/workspace/php/testProject/public/css/main.css" timestamp="1504813753200">
         <mark key="[" line="34" column="23" />
       </file>
-      <file name="/PHP Console" timestamp="1532644318671">
+      <file name="/PHP Console" timestamp="1532707191346">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Http/Requests/BrokerForms/SingleFieldRequest.php" timestamp="1530025411812">
@@ -817,13 +815,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>$output;</text>
+        <text>bernieforms.'.env('SESSION_DOMAIN')</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>$output;</text>
+        <text>bernieforms.'.env('SESSION_DOMAIN')</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbHNlXD4=</text>
@@ -831,35 +829,35 @@
       <register name="0" type="4">
         <text>php -d memory_limit=-1 ./vendor/bin/phpcs -p --standard=&quot;./phpcs.xml&quot; --extensions=php,inc,module,install app</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgIDxoMT5IRUxMT09PT09PPC9oMT4KICAgIDxoMT5IRUxMT09PT09PPC9oMT4KICAgIDxoMT5IRUxMT09PT09PPC9oMT4KICAgIDxoMT5IRUxMT09PT09PPC9oMT4KICAgIDxoMT5IRUxMT09PT09PPC9oMT4=</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnY3VzdG9tRm9ybUh0bWwnID0+ICRpbnRlZ3JhdGlvbkZvcm0sCg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgIC0gbWFwOiBiZXJuaWVwb3J0YWwuZGV2ZWwKICAgICAgdG86ICIvaG9tZS92YWdyYW50L2Jlcm5pZXBvcnRhbC9wdWJsaWMiCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIHJldHVybiAkb3V0cHV0Owo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgIDxoMT5IRUxMT09PT09PPC9oMT4KICAgIDxoMT5IRUxMT09PT09PPC9oMT4KICAgIDxoMT5IRUxMT09PT09PPC9oMT4KICAgIDxoMT5IRUxMT09PT09PPC9oMT4KICAgIDxoMT5IRUxMT09PT09PPC9oMT4=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnY3VzdG9tRm9ybUh0bWwnID0+ICRpbnRlZ3JhdGlvbkZvcm0sCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgICAgIHJldHVybiAkb3V0cHV0Owo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>625</text>
