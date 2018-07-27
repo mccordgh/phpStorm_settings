@@ -542,7 +542,11 @@
       <file name="$USER_HOME$/bernieportal/app/Onboarding/EmployeesImport.php" timestamp="1506355596605">
         <mark key="[" line="5" column="1" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Http/routes.php" timestamp="1532709155865" />
+      <file name="$USER_HOME$/bernieportal/app/Http/routes.php" timestamp="1532717032849">
+        <mark key="[" line="2" column="12" />
+        <mark key="]" line="2" column="12" />
+        <mark key="." line="2" column="12" />
+      </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/aca/employees/spreadsheet-import.vue" timestamp="1519842480935">
         <mark key="[" line="3" column="30" />
       </file>
@@ -567,11 +571,10 @@
         <mark key="." line="10138" column="33" />
         <mark key="^" line="10138" column="32" />
       </file>
-      <file name="$USER_HOME$/bernieportal/homestead/Homestead.yaml" timestamp="1532707133003">
-        <mark key="[" line="21" column="11" />
-        <mark key="]" line="21" column="3" />
-        <mark key="^" line="21" column="3" />
-        <mark key="." line="21" column="3" />
+      <file name="$USER_HOME$/bernieportal/homestead/Homestead.yaml" timestamp="1532717399582">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/billing/billing-adjustment-table.vue" timestamp="1513984765746">
         <mark key="[" line="12" column="11" />
@@ -642,7 +645,7 @@
       <file name="$USER_HOME$/workspace/php/testProject/public/css/main.css" timestamp="1504813753200">
         <mark key="[" line="34" column="23" />
       </file>
-      <file name="/PHP Console" timestamp="1532709132722">
+      <file name="/PHP Console" timestamp="1532717443545">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Http/Requests/BrokerForms/SingleFieldRequest.php" timestamp="1530025411812">
@@ -810,14 +813,14 @@
       <jump line="30" column="17" filename="$USER_HOME$/bernieportal/resources/views/layout/nav/quaternary.blade.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Wyd1c2VzJyA9PiAnUGxhbnNcU2hlbGxzXFNoZWxsc0NvbnRyb2xsZXJAaW5kZXgnXQ==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Wyd1c2VzJyA9PiAnUGxhbnNcU2hlbGxzXFNoZWxsc0NvbnRyb2xsZXJAaW5kZXgnXQ==</text>
+        <text>does-not-exist</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbHNlXD4=</text>
@@ -826,19 +829,19 @@
         <text>php -d memory_limit=-1 ./vendor/bin/phpcs -p --standard=&quot;./phpcs.xml&quot; --extensions=php,inc,module,install app</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBSb3V0ZTo6Z2V0KCcvJywgWyd1c2VzJyA9PiAnUGxhbnNcU2hlbGxzXFNoZWxsc0NvbnRyb2xsZXJAaW5kZXgnXSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC0gbWFwOiBiZXJuaWVmb3Jtcy5iZXJuaWVwb3J0YWwuZGV2ZWwKICAgICAgdG86ICIvaG9tZS92YWdyYW50L2Jlcm5pZXBvcnRhbC9wdWJsaWMiCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">Um91dGU6Omdyb3VwKFsnZG9tYWluJyA9PiAnYmVybmllZm9ybXMuYmVybmllcG9ydGFsLmRldmVsJ10sIGZ1bmN0aW9uICgpIHsKICAgIFJvdXRlOjpnZXQoJy8nLCBmdW5jdGlvbigpIHsKICAgICAgICByZXR1cm4gIkhlbGxvLCBTdWIgRG9tYWluISI7CiAgICB9KTsKfSk7</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ClJvdXRlOjpnZXQoJ2RvZXMtbm90LWV4aXN0JywgZnVuY3Rpb24oKSB7CiAgICByZXR1cm4gIkhlbGxvLCBJIGRvbid0IGV4aXN0LiI7Cn0pOw==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBSb3V0ZTo6Z2V0KCcvJywgWyd1c2VzJyA9PiAnUGxhbnNcU2hlbGxzXFNoZWxsc0NvbnRyb2xsZXJAaW5kZXgnXSk7Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -847,13 +850,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">ICAgIC0gbWFwOiBiZXJuaWVwb3J0YWwuZGV2ZWwKICAgICAgdG86ICIvaG9tZS92YWdyYW50L2Jlcm5pZXBvcnRhbC9wdWJsaWMiCg==</text>
+        <text encoding="base64">ClJvdXRlOjpnZXQoJ2RvZXMtbm90LWV4aXN0JywgZnVuY3Rpb24oKSB7CiAgICByZXR1cm4gIkhlbGxvLCBJIGRvbid0IGV4aXN0LiI7Cn0pOw==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgIDxoMT5IRUxMT09PT09PPC9oMT4KICAgIDxoMT5IRUxMT09PT09PPC9oMT4KICAgIDxoMT5IRUxMT09PT09PPC9oMT4KICAgIDxoMT5IRUxMT09PT09PPC9oMT4KICAgIDxoMT5IRUxMT09PT09PPC9oMT4=</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>625</text>
