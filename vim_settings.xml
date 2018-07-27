@@ -84,6 +84,7 @@
       <file name="$USER_HOME$/bernieportal/resources/views/layout/navigation/broker-benefit-quaternary.blade.php" timestamp="1532124555428">
         <mark key="[" line="2" column="25" />
       </file>
+      <file name="$USER_HOME$/bernieportal/homestead/Homestead.yaml.example" timestamp="1532703917984" />
       <file name="$USER_HOME$/bernieportal/app/Ats/Repositories/JobCandidateRepository.php" timestamp="1505347656980">
         <mark key="[" line="36" column="25" />
       </file>
@@ -478,7 +479,7 @@
       <file name="$USER_HOME$/bernieportal/resources/views/billing/base-unum-bill.blade.php" timestamp="1515108477474">
         <mark key="[" line="77" column="51" />
       </file>
-      <file name="$USER_HOME$/bernieportal/Homestead.yaml" timestamp="1532644152645">
+      <file name="$USER_HOME$/bernieportal/Homestead.yaml" timestamp="1532703857064">
         <mark key="[" line="19" column="45" />
       </file>
       <file name="/fragment.php" timestamp="1532125393056">
@@ -573,8 +574,8 @@
         <mark key="." line="10138" column="33" />
         <mark key="^" line="10138" column="32" />
       </file>
-      <file name="$USER_HOME$/bernieportal/homestead/Homestead.yaml" timestamp="1532644148655">
-        <mark key="[" line="19" column="45" />
+      <file name="$USER_HOME$/bernieportal/homestead/Homestead.yaml" timestamp="1532703804930">
+        <mark key="[" line="20" column="45" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/billing/billing-adjustment-table.vue" timestamp="1513984765746">
         <mark key="[" line="12" column="11" />
@@ -582,6 +583,7 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/custom-option-field-circle.vue" timestamp="1530290243956">
         <mark key="[" line="80" column="27" />
       </file>
+      <file name="$USER_HOME$/bernieportal/homestead/after.sh" timestamp="1532704170236" />
       <file name="$USER_HOME$/bernieportal/resources/assets/components/quaternary-nav-for-vue.vue" timestamp="1498594361234">
         <mark key="[" line="15" column="23" />
       </file>
