@@ -38,8 +38,10 @@
         <mark key="[" line="67" column="43" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/views/layout/main.blade.php" timestamp="1533073765411" />
-      <file name="$USER_HOME$/bernieportal/public/css/bernie-forms-app.css" timestamp="1533073826444">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/bernieportal/public/css/bernie-forms-app.css" timestamp="1533076767127">
+        <mark key="[" line="4" column="1" />
+        <mark key="]" line="4" column="1" />
+        <mark key="." line="4" column="1" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/Edi/SchedulersController.php" timestamp="1494362868134">
         <mark key="[" line="32" column="44" />
@@ -53,11 +55,10 @@
       <file name="$USER_HOME$/bernieportal/app/User.php" timestamp="1530297193804">
         <mark key="[" line="798" column="77" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/bernie-forms/navigation/nav-secondary.vue" timestamp="1533072218499">
-        <mark key="[" line="57" column="56" />
-        <mark key="]" line="57" column="56" />
-        <mark key="^" line="57" column="47" />
-        <mark key="." line="57" column="56" />
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/bernie-forms/navigation/nav-secondary.vue" timestamp="1533076420374">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/php/testProject/resources/views/dashboard.blade.php" timestamp="1504811117559">
         <mark key="[" line="63" column="26" />
@@ -197,11 +198,11 @@
       <file name="$USER_HOME$/workspace/miniverse_frontend/index.html" timestamp="1514843064405">
         <mark key="[" line="17" column="10" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/bernie-forms/users/agency/agency-account.vue" timestamp="1533071966034">
-        <mark key="[" line="1" column="19" />
-        <mark key="]" line="1" column="19" />
-        <mark key="." line="1" column="19" />
-        <mark key="^" line="2" column="13" />
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/bernie-forms/users/agency/agency-account.vue" timestamp="1533075524397">
+        <mark key="[" line="5" column="33" />
+        <mark key="]" line="4" column="43" />
+        <mark key="." line="4" column="43" />
+        <mark key="^" line="4" column="43" />
       </file>
       <file name="$USER_HOME$/bernieportal/public/sites/all/modules/logintoboggan/logintoboggan.module" timestamp="1515024132752">
         <mark key="[" line="1106" column="1" />
@@ -426,6 +427,11 @@
       <file name="$USER_HOME$/bernieportal/public/sites/all/modules/clientele/clientele_user.module" timestamp="1529418023525">
         <mark key="[" line="46" column="40" />
       </file>
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/bernie-forms/navigation/nav-secondary-item.vue" timestamp="1533076473756">
+        <mark key="[" line="14" column="4" />
+        <mark key="]" line="14" column="4" />
+        <mark key="." line="14" column="4" />
+      </file>
       <file name="$USER_HOME$/bernieportal/app/Benefits/Plans/BrokerFieldOption.php" timestamp="1529416702864">
         <mark key="[" line="8" column="1" />
       </file>
@@ -530,9 +536,6 @@
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/save-pdf-preview-banner.vue" timestamp="1529336945099">
         <mark key="[" line="119" column="76" />
-      </file>
-      <file name="$USER_HOME$/bernieportal/resources/views/broker/plan/additional-info.blade.php" timestamp="1531927692492">
-        <mark key="'" line="0" column="53" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Api/Transformers/BenefitProvider/EmployerTransformer.php" timestamp="1501534288275">
         <mark key="[" line="17" column="52" />
@@ -648,9 +651,6 @@
       <file name="$USER_HOME$/bernieportal/app/Http/Requests/User/ShowUserRequest.php" timestamp="1496853931288">
         <mark key="[" line="21" column="49" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/carrier-forms/broker-form-view.vue" timestamp="1532450549078">
-        <mark key="'" line="1408" column="0" />
-      </file>
       <file name="$USER_HOME$/bernieportal/app/Jobs/Plans/Shells/UpdatePlansCreatedFromShell.php" timestamp="1524687153761">
         <mark key="[" line="141" column="108" />
       </file>
@@ -684,7 +684,7 @@
       <file name="$USER_HOME$/workspace/php/testProject/public/css/main.css" timestamp="1504813753200">
         <mark key="[" line="34" column="23" />
       </file>
-      <file name="/PHP Console" timestamp="1533073645698">
+      <file name="/PHP Console" timestamp="1533077296735">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Http/Requests/BrokerForms/SingleFieldRequest.php" timestamp="1530025411812">
@@ -703,11 +703,6 @@
       </file>
       <file name="$USER_HOME$/bernieportal/database/migrations/2018_05_10_104327_remove_shell_id_from_pdf_shells_table.php" timestamp="1525965311516">
         <mark key="[" line="29" column="5" />
-      </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/js/bernie-forms.js" timestamp="1533072835054">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/mastiff/mastiff/laravel/app/controllers/api/v1/resources/ProviderController.php" timestamp="1514921576555">
         <mark key="[" line="17" column="26" />
@@ -856,13 +851,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Data</text>
+        <text>route__</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>Data</text>
+        <text>route__</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbHNlXD4=</text>
@@ -871,7 +866,7 @@
         <text>php -d memory_limit=-1 ./vendor/bin/phpcs -p --standard=&quot;./phpcs.xml&quot; --extensions=php,inc,module,install app</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -880,6 +875,21 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="4">
+        <text encoding="base64">CjxzdHlsZSBzY29wZWQ+Cgo8L3N0eWxlPg==</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgICBuYW1lOiAibmF2LXNlY29uZGFy</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="4">
         <text>// '/:lang/benefits/shells': {
 //   name: 'shells-library',
 //     component: Vue.component('BpShellsRouting', BpShellsRouting),
@@ -901,33 +911,8 @@
 
 // new Vue(Vue.util.extend({ router }, App)).$mount('#app');</text>
       </register>
-      <register name="4" type="2">
+      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="4">
-        <text>// router.map({
-//   '/project-forms': {
-//     '/': {
-//       component: BfAgencyAccount
-//     },
-//     subRoutes: {
-//       { path: '/', component: BfAgencyAccountInfo },
-//       { path: '/email-notifications', component: BfAgencyEmailNotifications },
-//     },
-//   },
-// });</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">PHRlbXBsYXRlPgoK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAKPC90ZW1wbGF0ZT4K</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICBuYW1lOiAiZGF0YSIKICB9</text>
       </register>
       <register name=":" type="4">
         <text>625</text>
