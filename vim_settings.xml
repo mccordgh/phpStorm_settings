@@ -171,6 +171,12 @@
       <file name="$USER_HOME$/workspace/miniverse_frontend/index.html" timestamp="1514843064405">
         <mark key="[" line="17" column="10" />
       </file>
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/bernie-forms/users/agency/agency-account.vue" timestamp="1533070676990">
+        <mark key="[" line="2" column="14" />
+        <mark key="]" line="2" column="13" />
+        <mark key="." line="2" column="13" />
+        <mark key="^" line="2" column="13" />
+      </file>
       <file name="$USER_HOME$/bernieportal/public/sites/all/modules/logintoboggan/logintoboggan.module" timestamp="1515024132752">
         <mark key="[" line="1106" column="1" />
       </file>
@@ -542,7 +548,7 @@
       <file name="$USER_HOME$/bernieportal/app/Onboarding/EmployeesImport.php" timestamp="1506355596605">
         <mark key="[" line="5" column="1" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Http/routes.php" timestamp="1532717032849">
+      <file name="$USER_HOME$/bernieportal/app/Http/routes.php" timestamp="1533070526661">
         <mark key="[" line="2" column="12" />
         <mark key="]" line="2" column="12" />
         <mark key="." line="2" column="12" />
@@ -645,7 +651,7 @@
       <file name="$USER_HOME$/workspace/php/testProject/public/css/main.css" timestamp="1504813753200">
         <mark key="[" line="34" column="23" />
       </file>
-      <file name="/PHP Console" timestamp="1532717443545">
+      <file name="/PHP Console" timestamp="1533070649953">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Http/Requests/BrokerForms/SingleFieldRequest.php" timestamp="1530025411812">
@@ -813,14 +819,14 @@
       <jump line="30" column="17" filename="$USER_HOME$/bernieportal/resources/views/layout/nav/quaternary.blade.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">PGgxPlRoaXMgaXMgYW4gYWdlbmN5IGFjY291bnQgY29tcG9uZW50LjwvaDE+</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>does-not-exist</text>
+        <text encoding="base64">PGgxPlRoaXMgaXMgYW4gYWdlbmN5IGFjY291bnQgY29tcG9uZW50LjwvaDE+</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbHNlXD4=</text>
