@@ -98,6 +98,11 @@
       <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/PlansController.php" timestamp="1521834739103">
         <mark key="[" line="18" column="5" />
       </file>
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/bernie-forms/navigation/nav-primary.vue" timestamp="1533144110816">
+        <mark key="[" line="40" column="8" />
+        <mark key="]" line="40" column="8" />
+        <mark key="." line="40" column="8" />
+      </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/routers/job-routing.vue" timestamp="1513293594479">
         <mark key="[" line="1" column="7" />
       </file>
@@ -427,13 +432,6 @@
         <mark key="^" line="7913" column="27" />
         <mark key="." line="7905" column="28" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/bernie-forms/users/agency/email-notifications.vue" timestamp="1533072902724">
-        <mark key="a" line="2" column="24" />
-        <mark key="[" line="2" column="8" />
-        <mark key="]" line="2" column="8" />
-        <mark key="^" line="2" column="23" />
-        <mark key="." line="2" column="8" />
-      </file>
       <file name="$USER_HOME$/bernieportal/public/sites/all/modules/clientele/clientele_user.module" timestamp="1529418023525">
         <mark key="[" line="46" column="40" />
       </file>
@@ -707,7 +705,7 @@
       <file name="$USER_HOME$/workspace/php/testProject/public/css/main.css" timestamp="1504813753200">
         <mark key="[" line="34" column="23" />
       </file>
-      <file name="/PHP Console" timestamp="1533143281569">
+      <file name="/PHP Console" timestamp="1533144344322">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Http/Requests/BrokerForms/SingleFieldRequest.php" timestamp="1530025411812">
@@ -727,11 +725,11 @@
       <file name="$USER_HOME$/bernieportal/database/migrations/2018_05_10_104327_remove_shell_id_from_pdf_shells_table.php" timestamp="1525965311516">
         <mark key="[" line="29" column="5" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/js/bernie-forms.js" timestamp="1533143419892">
-        <mark key="[" line="30" column="31" />
-        <mark key="]" line="24" column="30" />
-        <mark key="." line="24" column="30" />
-        <mark key="^" line="24" column="30" />
+      <file name="$USER_HOME$/bernieportal/resources/assets/js/bernie-forms.js" timestamp="1533144360953">
+        <mark key="[" line="27" column="35" />
+        <mark key="]" line="27" column="21" />
+        <mark key="." line="27" column="21" />
+        <mark key="^" line="27" column="21" />
       </file>
       <file name="$USER_HOME$/mastiff/mastiff/laravel/app/controllers/api/v1/resources/ProviderController.php" timestamp="1514921576555">
         <mark key="[" line="17" column="26" />
@@ -880,7 +878,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/account-info</text>
+        <text encoding="base64">PGxpIGNsYXNzPSJuYXZfX2l0ZW0iPjxhIGhyZWY9Ii9ob21lIj5Ib21lPC9hPjwvbGk+CiAgICAgICAgPGxpIGNsYXNzPSJuYXZfX2l0ZW0iPjxhIGhyZWY9Ii9lbXBsb3llci1saXN0Ij5FbXBsb3llciBMaXN0PC9hPjwvbGk+CiAgICAgICAgPGxpIGNsYXNzPSJuYXZfX2l0ZW0iPjxhIGhyZWY9Ii9mb3JtLWxpYnJhcnkiPkZvcm0gTGlicmFyeTwvYT48L2xpPg==</text>
       </register>
       <register name="d" type="4">
         <text />
@@ -894,37 +892,37 @@
       <register name="0" type="4">
         <text>php -d memory_limit=-1 ./vendor/bin/phpcs -p --standard=&quot;./phpcs.xml&quot; --extensions=php,inc,module,install app</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">PGxpIGNsYXNzPSJuYXZfX2l0ZW0iPjxhIGhyZWY9Ii9ob21lIj5Ib21lPC9hPjwvbGk+CiAgICAgICAgPGxpIGNsYXNzPSJuYXZfX2l0ZW0iPjxhIGhyZWY9Ii9lbXBsb3llci1saXN0Ij5FbXBsb3llciBMaXN0PC9hPjwvbGk+CiAgICAgICAgPGxpIGNsYXNzPSJuYXZfX2l0ZW0iPjxhIGhyZWY9Ii9mb3JtLWxpYnJhcnkiPkZvcm0gTGlicmFyeTwvYT48L2xpPg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">PC9zdHlsZT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">PC9zdHlsZT4K</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">PHN0eWxlIHNjb3BlZD4KCg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>{
     name: &quot;employer-view&quot;
   }</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">ICcvcHJvamVjdC1mb3Jtcy8nOiB7CiAgICAKICB9LA==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgQmZOYXZQcmltYXJ5LAo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgQmZOYXZQcmltYXJ5LAo=</text>
       </register>
       <register name=":" type="4">
         <text>15</text>
