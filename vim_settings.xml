@@ -24,7 +24,7 @@
       <file name="$USER_HOME$/bernieportal/app/Employment/Employer.php" timestamp="1525209490032">
         <mark key="[" line="346" column="1" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/bernie-forms/app.vue" timestamp="1533149123787">
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/bernie-forms/app.vue" timestamp="1533613589156">
         <mark key="[" line="5" column="18" />
         <mark key="]" line="6" column="10" />
         <mark key="^" line="6" column="10" />
@@ -290,7 +290,7 @@
       <file name="$USER_HOME$/workspace/emoji_rogue_like/js/main.js" timestamp="1506373361728">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/sass/bernie-forms-variables.scss" timestamp="1533584537486" />
+      <file name="$USER_HOME$/bernieportal/resources/assets/sass/bernie-forms-variables.scss" timestamp="1533613489690" />
       <file name="$USER_HOME$/bernieportal/app/Api/Transformers/Bills/CommonPdfBillTransformer.php" timestamp="1515109282808">
         <mark key="[" line="40" column="69" />
       </file>
@@ -561,12 +561,13 @@
       <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/Bills/BillsController.php" timestamp="1529949994441">
         <mark key="[" line="146" column="5" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/bernie-forms/users/agency/account/agency-account.vue" timestamp="1533582900009">
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/bernie-forms/users/agency/account/agency-account.vue" timestamp="1533613603147">
         <mark key="[" line="15" column="18" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/views/billing/base-unum-bill.blade.php" timestamp="1515108477474">
         <mark key="[" line="77" column="51" />
       </file>
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/bernie-forms/navigation/footer.vue" timestamp="1533613547368" />
       <file name="$USER_HOME$/bernieportal/Homestead.yaml" timestamp="1532703857064">
         <mark key="[" line="19" column="45" />
       </file>
@@ -758,7 +759,7 @@
       <file name="$USER_HOME$/workspace/php/testProject/public/css/main.css" timestamp="1504813753200">
         <mark key="[" line="34" column="23" />
       </file>
-      <file name="/PHP Console" timestamp="1533596531816">
+      <file name="/PHP Console" timestamp="1533596594110">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Http/Requests/BrokerForms/SingleFieldRequest.php" timestamp="1530025411812">
