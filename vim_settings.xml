@@ -372,11 +372,11 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/applications/application.vue" timestamp="1519842932092">
         <mark key="[" line="79" column="7" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/sass/bernie-forms-app.scss" timestamp="1533684456189">
-        <mark key="[" line="234" column="37" />
-        <mark key="]" line="234" column="36" />
-        <mark key="." line="234" column="36" />
-        <mark key="^" line="234" column="36" />
+      <file name="$USER_HOME$/bernieportal/resources/assets/sass/bernie-forms-app.scss" timestamp="1533685825379">
+        <mark key="[" line="225" column="2" />
+        <mark key="]" line="225" column="2" />
+        <mark key="." line="225" column="2" />
+        <mark key="^" line="225" column="1" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Ats/Candidate.php" timestamp="1502737804653">
         <mark key="[" line="32" column="86" />
@@ -545,11 +545,11 @@
         <mark key="[" line="5" column="1" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/bernie-forms/modal.vue" timestamp="1533684080809">
-        <mark key="'" line="53" column="17" />
-        <mark key="[" line="53" column="18" />
-        <mark key="]" line="53" column="13" />
-        <mark key="." line="53" column="13" />
-        <mark key="^" line="53" column="13" />
+        <mark key="'" line="54" column="17" />
+        <mark key="[" line="54" column="18" />
+        <mark key="]" line="54" column="13" />
+        <mark key="." line="54" column="13" />
+        <mark key="^" line="54" column="13" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/aca/employees/spreadsheet-import.vue" timestamp="1519842480935">
         <mark key="[" line="3" column="30" />
@@ -629,7 +629,7 @@
       <file name="$USER_HOME$/workspace/php/testProject/public/css/main.css" timestamp="1504813753200">
         <mark key="[" line="34" column="23" />
       </file>
-      <file name="/PHP Console" timestamp="1533684508627">
+      <file name="/PHP Console" timestamp="1533685715585">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Http/Requests/BrokerForms/SingleFieldRequest.php" timestamp="1530025411812">
@@ -791,13 +791,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Save</text>
+        <text>table</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>Save</text>
+        <text>table</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PA==</text>
