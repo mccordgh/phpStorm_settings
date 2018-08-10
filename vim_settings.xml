@@ -482,12 +482,6 @@
       <file name="$USER_HOME$/bernieportal/public/sites/all/themes/bernard/node-plan.tpl.php" timestamp="1521573818764">
         <mark key="[" line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/bernie-forms/users/agency/form-library/form-library.vue" timestamp="1533930736569">
-        <mark key="[" line="47" column="13" />
-        <mark key="]" line="47" column="13" />
-        <mark key="." line="47" column="13" />
-        <mark key="^" line="48" column="22" />
-      </file>
       <file name="$USER_HOME$/bernieportal/spec/Http/Requests/BrokerForms/CreateFieldRequestSpec.php" timestamp="1528328514272">
         <mark key="[" line="23" column="51" />
       </file>
