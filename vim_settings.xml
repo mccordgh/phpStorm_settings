@@ -18,6 +18,7 @@
       <file name="$USER_HOME$/bernieportal/tests/app/Api/Transformers/Benefits/Plans/Shells/ShellPdfTransformerTest.php" timestamp="1521060907145">
         <mark key="[" line="0" column="5" />
       </file>
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/bernie-forms/api/api-request.js" timestamp="1533931703464" />
       <file name="$USER_HOME$/bernieportal/resources/views/shells/create-plan-modal.blade.php" timestamp="1522089743733">
         <mark key="[" line="3" column="8" />
       </file>
@@ -143,6 +144,12 @@
       <file name="$USER_HOME$/workspace/javascript/GGJ2018_last_electrician/js/world-manager.js" timestamp="1517098990138">
         <mark key="[" line="75" column="48" />
       </file>
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/bernie-forms/user-input/upload-field.vue" timestamp="1533930037732">
+        <mark key="[" line="108" column="33" />
+        <mark key="]" line="108" column="33" />
+        <mark key="." line="108" column="33" />
+        <mark key="^" line="108" column="32" />
+      </file>
       <file name="$USER_HOME$/bernieportal/legacy/UserManagementModule.php" timestamp="1508444607673">
         <mark key="[" line="505" column="30" />
       </file>
@@ -186,9 +193,9 @@
         <mark key="[" line="16" column="14" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/bernie-forms/booklet.vue" timestamp="1533841631340">
-        <mark key="[" line="72" column="8" />
-        <mark key="]" line="79" column="0" />
-        <mark key="." line="79" column="0" />
+        <mark key="[" line="73" column="8" />
+        <mark key="]" line="80" column="0" />
+        <mark key="." line="80" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/emoji_rogue_like/css/main.css" timestamp="1506373068544">
         <mark key="[" line="0" column="0" />
@@ -286,6 +293,12 @@
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/ats/candidate/job-candidate.vue" timestamp="1518625163441">
         <mark key="[" line="375" column="43" />
+      </file>
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/bernie-forms/api/dummy-data.js" timestamp="1533931912752">
+        <mark key="[" line="3" column="16" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/Account/ContactInfoController.php" timestamp="1530115711699">
         <mark key="[" line="41" column="40" />
@@ -458,8 +471,11 @@
       <file name="$USER_HOME$/bernieportal/public/sites/all/themes/bernard/node-plan.tpl.php" timestamp="1521573818764">
         <mark key="[" line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/bernie-forms/users/agency/form-library/form-library.vue" timestamp="1533841579059">
-        <mark key="[" line="31" column="19" />
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/bernie-forms/users/agency/form-library/form-library.vue" timestamp="1533930736569">
+        <mark key="[" line="47" column="13" />
+        <mark key="]" line="47" column="13" />
+        <mark key="." line="47" column="13" />
+        <mark key="^" line="48" column="22" />
       </file>
       <file name="$USER_HOME$/bernieportal/spec/Http/Requests/BrokerForms/CreateFieldRequestSpec.php" timestamp="1528328514272">
         <mark key="[" line="23" column="51" />
@@ -525,6 +541,7 @@
       <file name="$USER_HOME$/workspace/php/testProject/app/User.php" timestamp="1504812311688">
         <mark key="[" line="17" column="36" />
       </file>
+      <file name="$USER_HOME$/bernieportal/resources/assets/js/api-request.js" timestamp="1533931818554" />
       <file name="$USER_HOME$/workspace/php/testProject/app/Http/Kernel.php" timestamp="1504817441978">
         <mark key="[" line="32" column="13" />
       </file>
@@ -640,7 +657,7 @@
       <file name="$USER_HOME$/workspace/php/testProject/public/css/main.css" timestamp="1504813753200">
         <mark key="[" line="34" column="23" />
       </file>
-      <file name="/PHP Console" timestamp="1533841705715">
+      <file name="/PHP Console" timestamp="1533930789326">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Http/Requests/BrokerForms/SingleFieldRequest.php" timestamp="1530025411812">
@@ -801,14 +818,16 @@
       <jump line="55" column="6" filename="$USER_HOME$/bernieportal/resources/assets/components/bernie-forms/users/agency/account/team.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8c2xvdCBuYW1lPSJmb290ZXIiPjwvc2xvdD4K</text>
+      <register name="&quot;" type="4">
+        <text>constructor() {
+    
+  }</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>table</text>
+        <text>class Dummy</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PA==</text>
@@ -816,35 +835,39 @@
       <register name="0" type="4">
         <text encoding="base64">PGJmLWJ1dHRvbiAgY2xhc3M9ImJ1dHRvbl9fY2FsbC10by1hY3Rpb24iPgogICAgICAgICAgPHNwYW4gc2xvdD0ibGFiZWwiPlNhdmU8L3NwYW4+CiAgICAgICAgPC9iZi1idXR0b24+</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8c2xvdCBuYW1lPSJmb290ZXIiPjwvc2xvdD4K</text>
+      <register name="1" type="4">
+        <text>constructor() {
+    
+  }</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgICAgICAgIDxoND57eyBib29rbGV0LmRhdGUgfX08L2g0PgogICAgICAgICAgPHA+CiAgICAgICAgICAgIHt7IGJvb2tsZXQucGFnZXMgfX0gcGFnZXMgPGJyPgogICAgICAgICAgICB7eyBib29rbGV0LmZpZWxkcyB9fSBmaWVsZHMKICAgICAgICAgIDwvcD4=</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2IHNsb3Q9ImZvb3RlciI+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2IHNsb3Q9ImJvZHkiPjwvZGl2Pgo=</text>
+      <register name="4" type="4">
+        <text>const file = event.target.files[this.FIRST_FILE]
+          || event.dataTransfer.files[this.FIRST_FILE]
+          || null;</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">LyoqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKgoqIFRhYmxlIFN0eWxlcwoqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKiovCg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">CiAgICAgICAgaWYgKCFmaWxlKSB7CiAgICAgICAgICB0aGlzLmZpbGVOYW1lID0gJyc7CgogICAgICAgICAgcmV0dXJuOwogICAgICAgIH0=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbG9yOiAkd2hpdGU7Cg==</text>
+        <text encoding="base64">ICAgICAgICA8c2xvdCBuYW1lPSJmb290ZXIiPjwvc2xvdD4K</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGJhY2tncm91bmQtY29sb3I6ICRibHVlOwo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgICAgICAgIDxoND57eyBib29rbGV0LmRhdGUgfX08L2g0PgogICAgICAgICAgPHA+CiAgICAgICAgICAgIHt7IGJvb2tsZXQucGFnZXMgfX0gcGFnZXMgPGJyPgogICAgICAgICAgICB7eyBib29rbGV0LmZpZWxkcyB9fSBmaWVsZHMKICAgICAgICAgIDwvcD4=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBhZGRpbmc6IDJyZW07Cg==</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2IHNsb3Q9ImZvb3RlciI+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2IHNsb3Q9ImJvZHkiPjwvZGl2Pgo=</text>
       </register>
       <register name=":" type="4">
         <text>15</text>
