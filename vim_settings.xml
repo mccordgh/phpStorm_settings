@@ -482,11 +482,11 @@
       <file name="$USER_HOME$/bernieportal/public/sites/all/themes/bernard/node-plan.tpl.php" timestamp="1521573818764">
         <mark key="[" line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/bernie-forms/users/agency/form-library/form-library.vue" timestamp="1534175840716">
-        <mark key="[" line="12" column="23" />
-        <mark key="]" line="12" column="23" />
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/bernie-forms/users/agency/form-library/form-library.vue" timestamp="1534177019414">
+        <mark key="[" line="103" column="19" />
+        <mark key="]" line="103" column="19" />
         <mark key="^" line="12" column="22" />
-        <mark key="." line="12" column="23" />
+        <mark key="." line="103" column="19" />
       </file>
       <file name="$USER_HOME$/bernieportal/spec/Http/Requests/BrokerForms/CreateFieldRequestSpec.php" timestamp="1528328514272">
         <mark key="[" line="23" column="51" />
@@ -497,8 +497,11 @@
       <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/Bills/BillsController.php" timestamp="1529949994441">
         <mark key="[" line="146" column="5" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/bernie-forms/users/agency/account/agency-account.vue" timestamp="1533935145278">
-        <mark key="[" line="15" column="18" />
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/bernie-forms/users/agency/account/agency-account.vue" timestamp="1534177696216">
+        <mark key="[" line="1" column="56" />
+        <mark key="]" line="1" column="58" />
+        <mark key="^" line="1" column="58" />
+        <mark key="." line="1" column="58" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/views/billing/base-unum-bill.blade.php" timestamp="1515108477474">
         <mark key="[" line="77" column="51" />
@@ -667,7 +670,7 @@
       <file name="$USER_HOME$/workspace/php/testProject/public/css/main.css" timestamp="1504813753200">
         <mark key="[" line="34" column="23" />
       </file>
-      <file name="/PHP Console" timestamp="1534174393287">
+      <file name="/PHP Console" timestamp="1534177006507">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Http/Requests/BrokerForms/SingleFieldRequest.php" timestamp="1530025411812">
@@ -828,14 +831,14 @@
       <jump line="55" column="6" filename="$USER_HOME$/bernieportal/resources/assets/components/bernie-forms/users/agency/account/team.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IDEuNXJlbQ==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IDEuNXJlbQ==</text>
+        <text>:title=&quot;userInfo.name&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PA==</text>
@@ -849,36 +852,38 @@
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgfSwK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgaXNCZXJuaWVQb3J0YWxVc2VyKCkgewo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="7" type="4">
+        <text>ata() {
+      return {
+        userInfo: {},
+      }
+    }</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="4">
         <text>constructor() {
     
   }</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="4">
-        <text>const file = event.target.files[this.FIRST_FILE]
-          || event.dataTransfer.files[this.FIRST_FILE]
-          || null;</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgICAgICAgaWYgKCFmaWxlKSB7CiAgICAgICAgICB0aGlzLmZpbGVOYW1lID0gJyc7CgogICAgICAgICAgcmV0dXJuOwogICAgICAgIH0=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8c2xvdCBuYW1lPSJmb290ZXIiPjwvc2xvdD4K</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICAgICAgIDxoND57eyBib29rbGV0LmRhdGUgfX08L2g0PgogICAgICAgICAgPHA+CiAgICAgICAgICAgIHt7IGJvb2tsZXQucGFnZXMgfX0gcGFnZXMgPGJyPgogICAgICAgICAgICB7eyBib29rbGV0LmZpZWxkcyB9fSBmaWVsZHMKICAgICAgICAgIDwvcD4=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2IHNsb3Q9ImZvb3RlciI+Cg==</text>
-      </register>
       <register name=":" type="4">
-        <text>15</text>
+        <text>2</text>
       </register>
     </registers>
     <search>
@@ -914,7 +919,6 @@
         <entry encoding="base64">PA==</entry>
       </history-search>
       <history-cmd>
-        <entry>495</entry>
         <entry>42</entry>
         <entry>1288</entry>
         <entry>585</entry>
@@ -934,6 +938,7 @@
         <entry>415</entry>
         <entry>625</entry>
         <entry>15</entry>
+        <entry>2</entry>
       </history-cmd>
       <history-expr />
       <history-input />
