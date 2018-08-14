@@ -30,12 +30,12 @@
       <file name="$USER_HOME$/bernieportal/app/Employment/Employer.php" timestamp="1525209490032">
         <mark key="[" line="346" column="1" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/bernie-forms/users/agency/account/email-notifications.vue" timestamp="1534263241417">
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/bernie-forms/users/agency/account/email-notifications.vue" timestamp="1534273822572">
         <mark key="'" line="99" column="0" />
-        <mark key="[" line="91" column="34" />
-        <mark key="]" line="83" column="5" />
-        <mark key="." line="83" column="5" />
-        <mark key="^" line="83" column="5" />
+        <mark key="[" line="72" column="37" />
+        <mark key="]" line="72" column="37" />
+        <mark key="." line="72" column="37" />
+        <mark key="^" line="90" column="14" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/bernie-forms/app.vue" timestamp="1534183171054">
         <mark key="[" line="39" column="14" />
@@ -706,7 +706,7 @@
       <file name="$USER_HOME$/workspace/php/testProject/public/css/main.css" timestamp="1504813753200">
         <mark key="[" line="34" column="23" />
       </file>
-      <file name="/PHP Console" timestamp="1534209005037">
+      <file name="/PHP Console" timestamp="1534273771813">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Http/Requests/BrokerForms/SingleFieldRequest.php" timestamp="1530025411812">
@@ -868,13 +868,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>requestR</text>
+        <text>employeeCompletes</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>requestR</text>
+        <text>employeeCompletes</text>
       </register>
       <register name="/" type="4">
         <text>methods</text>
