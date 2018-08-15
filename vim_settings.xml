@@ -122,12 +122,12 @@
       <file name="$USER_HOME$/bernieportal/public/sites/all/modules/cck/content.module" timestamp="1524164490718">
         <mark key="[" line="374" column="5" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/bernie-forms/navigation/account-name-plate.vue" timestamp="1534288851880">
-        <mark key="'" line="59" column="21" />
-        <mark key="[" line="38" column="18" />
-        <mark key="]" line="38" column="18" />
-        <mark key="." line="38" column="18" />
-        <mark key="^" line="88" column="9" />
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/bernie-forms/navigation/account-name-plate.vue" timestamp="1534343456464">
+        <mark key="'" line="60" column="21" />
+        <mark key="[" line="38" column="7" />
+        <mark key="]" line="38" column="7" />
+        <mark key="." line="38" column="7" />
+        <mark key="^" line="38" column="5" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/views/layout/navigation/broker-benefit-quaternary.blade.php" timestamp="1532124555428">
         <mark key="[" line="2" column="25" />
@@ -891,13 +891,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IDptYXhpbXVtLXdpZHRoPSIyMCI=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IDptYXhpbXVtLXdpZHRoPSIyMCI=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>methods</text>
