@@ -141,6 +141,7 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/time/subgroups/settings.vue" timestamp="1515456395716">
         <mark key="[" line="361" column="27" />
       </file>
+      <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/BrokerForms/FieldsController.php" timestamp="1535131497509" />
       <file name="$USER_HOME$/bernieportal/app/Benefits/AccidentBenefit.php" timestamp="1507838130495">
         <mark key="[" line="0" column="1" />
       </file>
@@ -646,6 +647,7 @@
       <file name="$USER_HOME$/bernieportal/app/Onboarding/EmployeesImport.php" timestamp="1506355596605">
         <mark key="[" line="5" column="1" />
       </file>
+      <file name="$USER_HOME$/bernieportal/app/Http/routes.php" timestamp="1535131293402" />
       <file name="$USER_HOME$/bernieportal/resources/assets/components/bernie-forms/modal.vue" timestamp="1534892072446">
         <mark key="[" line="67" column="22" />
         <mark key="]" line="60" column="14" />
@@ -708,11 +710,11 @@
       <file name="$USER_HOME$/bernieportal/app/Http/Requests/User/ShowUserRequest.php" timestamp="1496853931288">
         <mark key="[" line="21" column="49" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/carrier-forms/broker-form-view.vue" timestamp="1535129279053">
-        <mark key="[" line="1165" column="81" />
-        <mark key="]" line="1167" column="10" />
-        <mark key="." line="1167" column="10" />
-        <mark key="^" line="1167" column="10" />
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/carrier-forms/broker-form-view.vue" timestamp="1535131148290">
+        <mark key="[" line="1159" column="29" />
+        <mark key="]" line="1158" column="7" />
+        <mark key="^" line="1158" column="7" />
+        <mark key="." line="1158" column="7" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Jobs/Plans/Shells/UpdatePlansCreatedFromShell.php" timestamp="1524687153761">
         <mark key="[" line="141" column="108" />
@@ -747,7 +749,7 @@
       <file name="$USER_HOME$/workspace/php/testProject/public/css/main.css" timestamp="1504813753200">
         <mark key="[" line="34" column="23" />
       </file>
-      <file name="/PHP Console" timestamp="1535129253475">
+      <file name="/PHP Console" timestamp="1535131327344">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Http/Requests/BrokerForms/SingleFieldRequest.php" timestamp="1530025411812">
@@ -921,13 +923,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>console.log(field.type);</text>
+        <text encoding="base64">KCkgPT4gew==</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>console.log(field.type);</text>
+        <text encoding="base64">KCkgPT4gew==</text>
       </register>
       <register name="/" type="4">
         <text>methods</text>
@@ -936,34 +938,34 @@
         <text encoding="base64">PGJmLWJ1dHRvbgogICAgICAgIGNsYXNzPSJidXR0b25fX2NhbGwtdG8tYWN0aW9uIgogICAgICAgIEBjbGljaz0ic2hvd05ld0Zvcm1Nb2RhbCIKICAgICAgICBsYWJlbD0iSW1wb3J0IGZyb20gQmVybmllUG9ydGFsIgogICAgICAgIGljb24tY2xhc3Nlcz0iZmEgZmEtcGx1cy1jaXJjbGUiCiAgICAgID48L2JmLWJ1dHRvbj4=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLyogd2lkdGg6IDM4cmVtOyAqLwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLyogaGVpZ2h0OiA2cmVtOyAqLwogICAgICAvKiBtYXJnaW46IDAgMi42NHJlbSAxLjMycmVtIDA7ICovCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAvLyBjb25zdCBmaWVsZCA9IHRoaXMucGFyc2VOZXdGaWVsZChuZXdGaWVsZCk7CgogICAgICAgICAgLy8gaWYgKGZpZWxkLnR5cGUgPT09ICdjdXN0b20nKSB7CiAgICAgICAgICAvLyAgIHRoaXMuZ2V0RmllbGRTZXRGb3JGaWVsZChmaWVsZCkucHVzaChmaWVsZCk7CiAgICAgICAgICAvLyB9IGVsc2UgaWYgKGZpZWxkLnR5cGUgPT09ICdvbmJvYXJkaW5nX2N1c3RvbScpIHsKICAgICAgICAgIC8vICAgdGhpcy5nZXRGaWVsZFNldEZvckZpZWxkKGZpZWxkKS5wdXNoKGZpZWxkKTsKICAgICAgICAgIC8vIH0gZWxzZSBpZiAoZmllbGQudHlwZSA9PT0gJ29uYm9hcmRpbmdfc2lnbmF0dXJlJykgewogICAgICAgICAgLy8gICB0aGlzLm9uYm9hcmRpbmdTaWduYXR1cmVCbG9ja3MucHVzaChmaWVsZCk7CiAgICAgICAgICAvLyB9IGVsc2UgewogICAgICAgICAgLy8gICB0aGlzLnNpZ25hdHVyZUJsb2Nrcy5wdXNoKGZpZWxkKTsKICAgICAgICAgIC8vIH0=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLyogZGlzcGxheTogaW5saW5lLWJsb2NrOyAqLwo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdmZXRjaCBicm9rZXIgZm9ybScpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8qIHRleHQtYWxpZ246IGNlbnRlcjsgKi8K</text>
+        <text encoding="base64">ICAgICAgLyogd2lkdGg6IDM4cmVtOyAqLwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8qIHBhZGRpbmc6IDNyZW0gMHJlbTsgKi8K</text>
+        <text encoding="base64">ICAgICAgLyogaGVpZ2h0OiA2cmVtOyAqLwogICAgICAvKiBtYXJnaW46IDAgMi42NHJlbSAxLjMycmVtIDA7ICovCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8qIHJpZ2h0OiAwOyAqLwo=</text>
+        <text encoding="base64">ICAgICAgLyogZGlzcGxheTogaW5saW5lLWJsb2NrOyAqLwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBlbXBsb3llcnNMaXN0OiB0aGlzLmVtcER1bW15RGF0YSgpLAo=</text>
+        <text encoding="base64">ICAgIC8qIHRleHQtYWxpZ246IGNlbnRlcjsgKi8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gVnVlLnVzZShWdWVDaGFydHMpOwo=</text>
+        <text encoding="base64">ICAgIC8qIHBhZGRpbmc6IDNyZW0gMHJlbTsgKi8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0IFZ1ZUNoYXJ0cyBmcm9tICd2dWUtY2hhcnRzJzsK</text>
+        <text encoding="base64">ICAgIC8qIHJpZ2h0OiAwOyAqLwo=</text>
       </register>
       <register name=":" type="4">
         <text>6</text>
