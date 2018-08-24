@@ -452,7 +452,7 @@
       <file name="$USER_HOME$/bernieportal/app/Agencies/GeneralAgency.php" timestamp="1512746987081">
         <mark key="[" line="19" column="31" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/js/bernie-portal.js" timestamp="1533658022905">
+      <file name="$USER_HOME$/bernieportal/resources/assets/js/bernie-portal.js" timestamp="1535148667792">
         <mark key="[" line="49" column="68" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/bernie-forms/user-input/button.vue" timestamp="1534351671505">
@@ -649,6 +649,7 @@
       <file name="$USER_HOME$/bernieportal/public/js/bernie-portal.js" timestamp="1528140786410">
         <mark key="[" line="139071" column="47" />
       </file>
+      <file name="$USER_HOME$/bernieportal/yarn.lock" timestamp="1535148657510" />
       <file name="$USER_HOME$/bernieportal/app/Api/Transformers/UserBasicsTransformer.php" timestamp="1525464027099">
         <mark key="[" line="27" column="50" />
       </file>
@@ -679,7 +680,7 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/attach-broker-forms-table.vue" timestamp="1527000345390">
         <mark key="[" line="96" column="26" />
       </file>
-      <file name="$USER_HOME$/bernieportal/gulpfile.js" timestamp="1535147968095" />
+      <file name="$USER_HOME$/bernieportal/gulpfile.js" timestamp="1535148023731" />
       <file name="$USER_HOME$/bernieportal/resources/assets/components/billing/billing-adjustment-table.vue" timestamp="1513984765746">
         <mark key="[" line="12" column="11" />
       </file>
@@ -779,11 +780,11 @@
       <file name="$USER_HOME$/bernieportal/database/migrations/2018_05_10_104327_remove_shell_id_from_pdf_shells_table.php" timestamp="1525965311516">
         <mark key="[" line="29" column="5" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/js/bernie-forms.js" timestamp="1534799949522">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="1" column="20" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/bernieportal/resources/assets/js/bernie-forms.js" timestamp="1535148678773">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/mastiff/mastiff/laravel/app/controllers/api/v1/resources/ProviderController.php" timestamp="1514921576555">
         <mark key="[" line="17" column="26" />
