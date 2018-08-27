@@ -649,14 +649,12 @@
       <file name="$USER_HOME$/bernieportal/public/js/bernie-portal.js" timestamp="1528140786410">
         <mark key="[" line="139071" column="47" />
       </file>
-      <file name="$USER_HOME$/bernieportal/yarn.lock" timestamp="1535148657510" />
       <file name="$USER_HOME$/bernieportal/app/Api/Transformers/UserBasicsTransformer.php" timestamp="1525464027099">
         <mark key="[" line="27" column="50" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Onboarding/EmployeesImport.php" timestamp="1506355596605">
         <mark key="[" line="5" column="1" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Http/routes.php" timestamp="1535131293402" />
       <file name="$USER_HOME$/bernieportal/resources/assets/components/bernie-forms/modal.vue" timestamp="1534892072446">
         <mark key="[" line="67" column="22" />
         <mark key="]" line="60" column="14" />
@@ -680,7 +678,6 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/attach-broker-forms-table.vue" timestamp="1527000345390">
         <mark key="[" line="96" column="26" />
       </file>
-      <file name="$USER_HOME$/bernieportal/gulpfile.js" timestamp="1535148023731" />
       <file name="$USER_HOME$/bernieportal/resources/assets/components/billing/billing-adjustment-table.vue" timestamp="1513984765746">
         <mark key="[" line="12" column="11" />
       </file>
@@ -741,6 +738,9 @@
       <file name="$USER_HOME$/workspace/javascript/emoji_rogue_like/.gitignore" timestamp="1518908271935">
         <mark key="[" line="1" column="6" />
       </file>
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/bernie-forms/store/store.js" timestamp="1535386980095">
+        <mark key="[" line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/javascript/GGJ2018_last_electrician/README.md" timestamp="1517068328643">
         <mark key="[" line="0" column="0" />
       </file>
@@ -780,7 +780,7 @@
       <file name="$USER_HOME$/bernieportal/database/migrations/2018_05_10_104327_remove_shell_id_from_pdf_shells_table.php" timestamp="1525965311516">
         <mark key="[" line="29" column="5" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/js/bernie-forms.js" timestamp="1535148678773">
+      <file name="$USER_HOME$/bernieportal/resources/assets/js/bernie-forms.js" timestamp="1535386974402">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="^" line="4" column="0" />
