@@ -464,11 +464,12 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/sass/bernie-forms-app.scss" timestamp="1535397949504">
         <mark key="[" line="17" column="12" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/bernie-forms/users/agency/employer-list/employer-list.vue" timestamp="1535398705821">
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/bernie-forms/users/agency/employer-list/employer-list.vue" timestamp="1535401134537">
         <mark key="a" line="4" column="4" />
-        <mark key="[" line="87" column="32" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
+        <mark key="[" line="28" column="4" />
+        <mark key="]" line="28" column="12" />
+        <mark key="." line="28" column="12" />
+        <mark key="^" line="28" column="12" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Ats/Candidate.php" timestamp="1502737804653">
         <mark key="[" line="32" column="86" />
@@ -933,14 +934,14 @@
       <jump line="2" column="22" filename="$USER_HOME$/bernieportal/resources/assets/components/bernie-forms/users/agency/home/dashboard.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="&quot;" type="4">
+        <text>11B9CD</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICA=</text>
+        <text>11B9CD</text>
       </register>
       <register name="/" type="4">
         <text>methods</text>
@@ -949,34 +950,34 @@
         <text encoding="base64">PGJmLWJ1dHRvbgogICAgICAgIGNsYXNzPSJidXR0b25fX2NhbGwtdG8tYWN0aW9uIgogICAgICAgIEBjbGljaz0ic2hvd05ld0Zvcm1Nb2RhbCIKICAgICAgICBsYWJlbD0iSW1wb3J0IGZyb20gQmVybmllUG9ydGFsIgogICAgICAgIGljb24tY2xhc3Nlcz0iZmEgZmEtcGx1cy1jaXJjbGUiCiAgICAgID48L2JmLWJ1dHRvbj4=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgYm9yZGVyOiAwIHNvbGlkIHRyYW5zcGFyZW50OwogICAgICBib3JkZXItd2lkdGg6IDAgM3JlbSAxcmVtIDA7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Ly8gQmFiZWwucG9seWZpbGwoKTsKCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IEJhYmVsIGZyb20gJ2JhYmVsLXBvbHlmaWxsJzsKCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Ly8gQmFiZWwucG9seWZpbGwoKTsKCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgCg==</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">IC8qJiAuZW1wbG95ZXItY2FyZDpudGgtY2hpbGQoNG4pIHsqLwogICAgICAvKm1hcmdpbi1yaWdodDogMDsqLwogICAgLyp9Ki8=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIC8qPCEtLSAtbXMtZ3JpZC1jb2x1bW5zOiAxZnIgKDIwcHggMWZyKVszXTstLT4qLwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZnVuY3Rpb24gcmVzZXRSZWNvcmRPcHRpb25SZWxhdGlvbnNoaXBzKCkKICAgIHsKICAgICAgICAKICAgIH0KCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdzZXR0aW5nIG9wdGlvbnMnLCBvcHRpb25zKTsK</text>
+        <text encoding="base64">Ly8gQmFiZWwucG9seWZpbGwoKTsKCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">aW1wb3J0IEJhYmVsIGZyb20gJ2JhYmVsLXBvbHlmaWxsJzsKCg==</text>
       </register>
       <register name=":" type="4">
         <text>6</text>
