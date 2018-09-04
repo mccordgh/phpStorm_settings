@@ -260,6 +260,12 @@
       <file name="$USER_HOME$/workspace/portfolio_os/src/css/main.css" timestamp="1508693818582">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/bernie-forms/users/agency/form-mapping/form-mapping.vue" timestamp="1536100007886">
+        <mark key="[" line="915" column="11" />
+        <mark key="]" line="915" column="12" />
+        <mark key="^" line="1165" column="13" />
+        <mark key="." line="915" column="12" />
+      </file>
       <file name="$USER_HOME$/bernieportal/public/sites/all/modules/employee_reg/employee_reg.js" timestamp="1505318709547">
         <mark key="[" line="0" column="31" />
       </file>
@@ -455,7 +461,7 @@
       <file name="$USER_HOME$/bernieportal/app/Agencies/GeneralAgency.php" timestamp="1512746987081">
         <mark key="[" line="19" column="31" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/js/bernie-portal.js" timestamp="1535148667792">
+      <file name="$USER_HOME$/bernieportal/resources/assets/js/bernie-portal.js" timestamp="1536099773388">
         <mark key="[" line="49" column="68" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/bernie-forms/user-input/button.vue" timestamp="1534351671505">
@@ -804,10 +810,10 @@
       <file name="$USER_HOME$/bernieportal/database/migrations/2018_05_10_104327_remove_shell_id_from_pdf_shells_table.php" timestamp="1525965311516">
         <mark key="[" line="29" column="5" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/js/bernie-forms.js" timestamp="1535585312508">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/bernieportal/resources/assets/js/bernie-forms.js" timestamp="1536099783103">
+        <mark key="[" line="0" column="22" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/mastiff/mastiff/laravel/app/controllers/api/v1/resources/ProviderController.php" timestamp="1514921576555">
         <mark key="[" line="17" column="26" />
@@ -955,14 +961,14 @@
       <jump line="648" column="0" filename="$USER_HOME$/bernieportal/resources/assets/components/bernie-forms/users/agency/employer/active-requests.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0IEJmRW1wbG95ZXJDb21wbGV0ZWRSZXF1ZXN0cyBmcm9tICcuLi9jb21wb25lbnRzL2Jlcm5pZS1mb3Jtcy91c2Vycy9hZ2VuY3kvZW1wbG95ZXIvY29tcGxldGVkLXJlcXVlc3RzLnZ1ZSc7Ci8vIGltcG9ydCBCZkVtcGxveWVyQWN0aXZlUmVxdWVzdHMgZnJvbSAnLi4vY29tcG9uZW50cy9iZXJuaWUtZm9ybXMvdXNlcnMvYWdlbmN5L2VtcGxveWVyL2FjdGl2ZS1yZXF1ZXN0cy52dWUnOwo=</text>
+      <register name="&quot;" type="4">
+        <text>(</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>Complete</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXRob2RzXD4=</text>
@@ -971,70 +977,37 @@
         <text encoding="base64">PGJmLXJlcXVlc3RzLWdyb3VwIDpyZXF1ZXN0cz0icmVxdWVzdHMiPjwvYmYtcmVxdWVzdHMtZ3JvdXA+</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0IEJmRW1wbG95ZXJDb21wbGV0ZWRSZXF1ZXN0cyBmcm9tICcuLi9jb21wb25lbnRzL2Jlcm5pZS1mb3Jtcy91c2Vycy9hZ2VuY3kvZW1wbG95ZXIvY29tcGxldGVkLXJlcXVlc3RzLnZ1ZSc7Ci8vIGltcG9ydCBCZkVtcGxveWVyQWN0aXZlUmVxdWVzdHMgZnJvbSAnLi4vY29tcG9uZW50cy9iZXJuaWUtZm9ybXMvdXNlcnMvYWdlbmN5L2VtcGxveWVyL2FjdGl2ZS1yZXF1ZXN0cy52dWUnOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIDxhIGhyZWYgY2xhc3M9InNpZGViYXItYWNjb3JkaW9uX190b2dnbGUiIEBjbGljay5wcmV2ZW50PSJ0b2dnbGVGaWVsZHMiPlJlY3RhbmdsZXM8L2E+Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNhc2UgJ29uYm9hcmRpbmdfc2lnbmF0dXJlJzoKICAgICAgICAgICAgcmV0dXJuIHRoaXMub25ib2FyZGluZ1NpZ25hdHVyZUJsb2NrczsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBpbXBvcnQgRmFrZXIgZnJvbSAnZmFrZXInOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNhc2UgJ29uYm9hcmRpbmdfY3VzdG9tJzoKICAgICAgICAgICAgcmV0dXJuIHRoaXMuZmluZENvcnJlY3RPbmJvYXJkaW5nQ3VzdG9tR3JvdXAoZmllbGQpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgICAgIGNhc2UgJ3ZvbHVudGFyeV9jaGVjayc6CiAgICAgICAgICAgIHJldHVybiB0aGlzLnZvbHVudGFyeUVsZWN0aW9uQ2hlY2ttYXJrczsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICA8ZGl2IGNsYXNzPSJjb25kdGVudCI+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNhc2UgJ3Zpc2lvbl9jaGVjayc6CiAgICAgICAgICAgIHJldHVybiB0aGlzLnZpc2lvbkVsZWN0aW9uQ2hlY2ttYXJrczsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBpbXBvcnQgRmFrZXIgZnJvbSAnZmFrZXInOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNhc2UgJ21lZGljYWxfYnJpZGdlX2NoZWNrJzoKICAgICAgICAgICAgcmV0dXJuIHRoaXMubWVkaWNhbEJyaWRnZUVsZWN0aW9uQ2hlY2ttYXJrczsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNhc2UgJ2hlYWx0aF9yZWltYnVyc2VtZW50X2NoZWNrJzoKICAgICAgICAgICAgcmV0dXJuIHRoaXMuaGVhbHRoUmVpbWJ1cnNlbWVudEVsZWN0aW9uQ2hlY2ttYXJrczsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgIGNhc2UgJ2hlYWx0aF9jaGVjayc6CiAgICAgICAgICAgIHJldHVybiB0aGlzLmhlYWx0aEVsZWN0aW9uQ2hlY2ttYXJrczsK</text>
       </register>
-      <register name="9" type="4">
-        <text>requests: [
-          {
-            employerName: Faker.company.companyName(),
-            name: Faker.company.catchPhrase(),
-            total: 99,
-            completed: 99,
-            creationDate: '08/12/2018',
-            completionDate: '10/11/2018',
-          },
-          {
-            employerName: Faker.company.companyName(),
-            name: Faker.company.catchPhrase(),
-            total: 52,
-            completed: 52,
-            creationDate: '09/03/2018',
-            completionDate: '11/25/2018',
-          },
-          {
-            employerName: Faker.company.companyName(),
-            name: Faker.company.catchPhrase(),
-            total: 99,
-            completed: 4,
-            creationDate: '08/12/2018',
-            completionDate: '10/11/2018',
-          },
-          {
-            employerName: Faker.company.companyName(),
-            name: Faker.company.catchPhrase(),
-            total: 52,
-            completed: 23,
-            creationDate: '09/03/2018',
-            completionDate: '11/25/2018',
-          },
-        ],</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgIGNhc2UgJ2RlbnRhbF9jaGVjayc6CiAgICAgICAgICAgIHJldHVybiB0aGlzLmRlbnRhbEVsZWN0aW9uQ2hlY2ttYXJrczsK</text>
       </register>
       <register name=":" type="4">
-        <text>6</text>
+        <text>916</text>
       </register>
     </registers>
     <search>
@@ -1070,7 +1043,6 @@
         <entry encoding="base64">XDxtZXRob2RzXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>585</entry>
         <entry>7222</entry>
         <entry>722</entry>
         <entry>7731</entry>
@@ -1090,6 +1062,7 @@
         <entry>18</entry>
         <entry>68</entry>
         <entry>6</entry>
+        <entry>916</entry>
       </history-cmd>
       <history-expr />
       <history-input />
