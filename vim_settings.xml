@@ -467,7 +467,7 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/sass/bernie-forms-app.scss" timestamp="1535397949504">
         <mark key="[" line="17" column="12" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/bernie-forms/users/agency/employer-list/employer-list.vue" timestamp="1536094261835">
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/bernie-forms/users/agency/employer-list/employer-list.vue" timestamp="1536096464105">
         <mark key="a" line="4" column="4" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/bernie-forms/user-input/radios.vue" timestamp="1535412293414">
@@ -734,7 +734,7 @@
       <file name="$USER_HOME$/bernieportal/app/Http/Requests/User/ShowUserRequest.php" timestamp="1496853931288">
         <mark key="[" line="21" column="49" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/carrier-forms/broker-form-view.vue" timestamp="1536088240045">
+      <file name="$USER_HOME$/bernieportal/resources/assets/components/carrier-forms/broker-form-view.vue" timestamp="1536096722695">
         <mark key="[" line="1163" column="63" />
         <mark key="]" line="1163" column="63" />
         <mark key="." line="1163" column="63" />
