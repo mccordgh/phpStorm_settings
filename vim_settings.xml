@@ -559,7 +559,7 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/onboarding/contact-info.vue" timestamp="1513116191911">
         <mark key="[" line="13" column="67" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/views/user-management/current-user.blade.php" timestamp="1536178737220" />
+      <file name="$USER_HOME$/bernieportal/resources/views/user-management/current-user.blade.php" timestamp="1536181937715" />
       <file name="$USER_HOME$/bernieportal/app/Api/Transformers/UserTransformer.php" timestamp="1495663599299">
         <mark key="[" line="16" column="24" />
       </file>
