@@ -42,6 +42,7 @@
       <file name="$USER_HOME$/bernieportal/app/Console/Kernel.php" timestamp="1516912953772">
         <mark key="[" line="67" column="43" />
       </file>
+      <file name="$USER_HOME$/bernieportal/resources/views/layout/main.blade.php" timestamp="1536178612739" />
       <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/Edi/SchedulersController.php" timestamp="1494362868134">
         <mark key="[" line="32" column="44" />
       </file>
@@ -216,8 +217,8 @@
       <file name="$USER_HOME$/bernieportal/public/css/app.css" timestamp="1524842706242">
         <mark key="[" line="6961" column="53" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/views/layout/bernie-forms/main.blade.php" timestamp="1533148718881">
-        <mark key="[" line="2" column="30" />
+      <file name="$USER_HOME$/bernieportal/resources/views/layout/bernie-forms/main.blade.php" timestamp="1536178672315">
+        <mark key="[" line="6" column="10" />
       </file>
       <file name="$USER_HOME$/bernieportal/public/sites/all/modules/emp_pto/emp_pto.module" timestamp="1507320519182">
         <mark key="[" line="86" column="5" />
@@ -558,6 +559,7 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/onboarding/contact-info.vue" timestamp="1513116191911">
         <mark key="[" line="13" column="67" />
       </file>
+      <file name="$USER_HOME$/bernieportal/resources/views/user-management/current-user.blade.php" timestamp="1536178737220" />
       <file name="$USER_HOME$/bernieportal/app/Api/Transformers/UserTransformer.php" timestamp="1495663599299">
         <mark key="[" line="16" column="24" />
       </file>
