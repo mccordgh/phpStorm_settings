@@ -51,9 +51,6 @@
       <file name="$USER_HOME$/workspace/php/testProject/resources/views/dashboard.blade.php" timestamp="1504811117559">
         <mark key="[" line="63" column="26" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/assets/components/bernie-forms/user-input/radio.vue" timestamp="1535411760506">
-        <mark key="^" line="49" column="28" />
-      </file>
       <file name="$USER_HOME$/workspace/js13kgames_2017/js13k-webpack-starter/src/app/classes/worlds/world.js" timestamp="1506610094234">
         <mark key="[" line="15" column="50" />
       </file>
@@ -348,6 +345,7 @@
       <file name="$USER_HOME$/bernieportal/app/GeneralAgencies/GeneralAgency.php" timestamp="1517343299436">
         <mark key="[" line="20" column="5" />
       </file>
+      <file name="$USER_HOME$/bernieportal/app/Benefits/Plans/BrokerForms/Writer.php" timestamp="1536255438705" />
       <file name="$USER_HOME$/bernieportal/resources/views/layout/nav/user.blade.php" timestamp="1494275620716">
         <mark key="[" line="62" column="74" />
       </file>
