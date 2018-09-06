@@ -42,7 +42,6 @@
       <file name="$USER_HOME$/bernieportal/app/Console/Kernel.php" timestamp="1516912953772">
         <mark key="[" line="67" column="43" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/views/layout/main.blade.php" timestamp="1536178612739" />
       <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/Edi/SchedulersController.php" timestamp="1494362868134">
         <mark key="[" line="32" column="44" />
       </file>
@@ -273,6 +272,7 @@
       <file name="$USER_HOME$/bernieportal/legacy/CmsMiscModule.php" timestamp="1508444603150">
         <mark key="[" line="1169" column="12" />
       </file>
+      <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/BrokerForms/FormsController.php" timestamp="1536250605921" />
       <file name="$USER_HOME$/bernieportal/resources/assets/components/bernie-forms/store/modules/data.js" timestamp="1534188377703">
         <mark key="[" line="9" column="17" />
         <mark key="]" line="9" column="17" />
@@ -313,7 +313,6 @@
       <file name="$USER_HOME$/bernieportal/app/Api/Transformers/Bills/CommonPdfBillTransformer.php" timestamp="1515109282808">
         <mark key="[" line="40" column="69" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Benefits/Plans/Shells/Shell.php" timestamp="1536164992090" />
       <file name="$USER_HOME$/bernieportal/resources/assets/components/sidebar-toggle.vue" timestamp="1496247983712">
         <mark key="[" line="12" column="13" />
       </file>
@@ -559,7 +558,6 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/onboarding/contact-info.vue" timestamp="1513116191911">
         <mark key="[" line="13" column="67" />
       </file>
-      <file name="$USER_HOME$/bernieportal/resources/views/user-management/current-user.blade.php" timestamp="1536181937715" />
       <file name="$USER_HOME$/bernieportal/app/Api/Transformers/UserTransformer.php" timestamp="1495663599299">
         <mark key="[" line="16" column="24" />
       </file>
@@ -684,6 +682,7 @@
       <file name="$USER_HOME$/bernieportal/app/Onboarding/EmployeesImport.php" timestamp="1506355596605">
         <mark key="[" line="5" column="1" />
       </file>
+      <file name="$USER_HOME$/bernieportal/app/Http/routes.php" timestamp="1536250596526" />
       <file name="$USER_HOME$/bernieportal/resources/assets/components/bernie-forms/modal.vue" timestamp="1534892072446">
         <mark key="[" line="67" column="22" />
         <mark key="]" line="60" column="14" />
